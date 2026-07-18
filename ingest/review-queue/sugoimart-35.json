@@ -1,0 +1,1446 @@
+{
+ "source": "sugoimart",
+ "batch": 35,
+ "items": [
+  {
+   "id": "sugoimart-lotte-raspberry-liqueur-chocolate",
+   "name": "Lotte Raspberry Liqueur Chocolate",
+   "merchantDescription": "This chocolate by Lotte features a raspberry liqueur filling which is sour and sweet. NOTE: Contains 2.8% alcohol. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held re",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-doritos-avocado-cheese",
+   "name": "Doritos Avocado And Cheese (Large)",
+   "merchantDescription": "Get ready to taste a one-of-a-kind Doritos with a combination of creamy cheese and rich avocado. This Japan-exclusive flavor is perfect for those who love bold and exciting flavors. Don't miss out! Net weight is 155 grams.",
+   "vendor": "Doritos",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DORITOS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-coke-strawberry",
+   "name": "Coke: Strawberry",
+   "merchantDescription": "Coca Cola is here with another exciting special flavor - strawberry! So grab this limited edition Coke while it's still available. Volume: 500mL",
+   "vendor": "Coca-Cola",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "COKE",
+    "CONBINI",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-jagariko-ume-flavor-koume",
+   "name": "Jagariko: Ume Flavor Feat. Koume",
+   "merchantDescription": "Jagariko is one of the most popular potato chip snacks in Japan, except it's not shaped like a chip, but rather very similar to French fries! The sticks in this pack are flavored like Japanese Ume, or sour plum, and this edition is a collab with beloved ume-fl",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_ume",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-pikachu-3d-crystal-puzzle",
+   "name": "Pikachu 3D Crystal Puzzle",
+   "merchantDescription": "This 3D puzzle shines like a crystal! This includes 29-pieces that come together to make the world's favorite Pokemon - Pikachu!",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-itoen-nama-apple-tea",
+   "name": "Itoen Nama Apple Tea",
+   "merchantDescription": "Itoen is one of Japan's prime tea makers. Here is a tea that is made to taste like fresh apples, and is not overbaringly sweet like typical juice, serving that perfect balance. Contains 500ml.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "031021STOP?",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKI SHINJUKU",
+    "DRINKNP",
+    "DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-bake-strawberry-cheesecake-flavor",
+   "name": "Bake: Strawberry Cheesecake Flavor",
+   "merchantDescription": "Bake is a chocolate biscuit snack by Morinaga. Here we have a special edition made to taste like strawberry cheesecake. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be he",
+   "vendor": "Bake",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-melty-kiss-yuzu",
+   "name": "Melty Kiss: Yuzu",
+   "merchantDescription": "Melty Kiss by Meiji is one of the company's ever-changing chocolates. Here we have their seasonal yuzu, or citron, edition! Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot b",
+   "vendor": "Melty Kiss",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-seven-dashi-furikake",
+   "name": "Seven Dashi Furikake",
+   "merchantDescription": "This unique furikake combines 7 types of flavors for a unique overall taste - scallops, clams, kelp, shiitake mushrooms, tuna, shrimp, and oyster. Just pour over a bowl of rice or anything else you think could use a savory flavor boost.",
+   "vendor": "Furikake",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SEASONING"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-snow-white-strawberry-chan-omiyage",
+   "name": "Snow White Strawberry-Chan Omiyage",
+   "merchantDescription": "Omiyage are snacks and candies meant to be gifts that are shared with everyone! Here we have dried strawberry coated with white chocolates. Includes 120g of snacks.",
+   "vendor": "Omiyage",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_ip_disney",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sugoimart-melon-choco-daifuku-omiyage",
+   "name": "Melon Choco Daifuku Mochi Omiyage",
+   "merchantDescription": "Omiyage are snacks and candies meant to be gifts that are shared with everyone! Daifuku is a type of mochi that's often paired anko, fruit, or other sweet enhancers. This daifuku is loaded with melon and chocolate. Includes 30 pieces.",
+   "vendor": "Omiyage",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-machi-de-banana-cake-omiyage",
+   "name": "Machi De Koishita Cream-Filled Banana Cake Omiyage",
+   "merchantDescription": "Omiyage are snacks and candies meant to be gifts that are shared with everyone! This omiyage is a specialty of Tokyo and packs in cakes that are flavored like banana. It's even filled with banana cream. Includes 20 pieces.",
+   "vendor": "Omiyage",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cookie",
+    "F_cream"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-fanta-melon-soda-tin-bottle",
+   "name": "Fanta: Melon Soda",
+   "merchantDescription": "Fanta by Coca Cola is a staple amongst Japanese soft drinks, and that includes this special melon flavor. This unique edition is inside an aluminum bottle, adding more to the unique experiences. Volume: 500mL",
+   "vendor": "Fanta",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "DRINKS",
+    "F_fruit"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-sanrio-characters-funny-bread-bath-bomb",
+   "name": "Sanrio Characters Bath Bomb: Funny Bread",
+   "merchantDescription": "Sanrio characters Hello Kitty, Little Twin Stars, My Melody, Pompompurin, Badtz Maru, and Keroppi are here to play! Inside one pack is 1 of 2 possible scents (strawberry and orange). From there, it's 1 of a possible 4 bread-shaped Sanrio character toys per pos",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "042021STOP",
+    "10192020",
+    "BATH BOMBS",
+    "BATHBOMB",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CHARACTER GOODS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-sanrio-characters-alice-in-wonderland-bath-bomb",
+   "name": "Sanrio Characters Bath Bomb: Alice In Wonderland",
+   "merchantDescription": "Sanrio characters like Hello Kitty are here to play! In this bath bomb, you will get 1 of a possible 6 miniature Sanrio toys, all featuring your favorite characters playing dress up as Alice in Wonderland characters. How to use: Simply drop into semi-hot bath ",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "10192020",
+    "AMAZON",
+    "BATH",
+    "BATH BOMBS",
+    "BATHBOMB",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-sanrio-character-sweets-bath-bomb",
+   "name": "Sanrio Characters Bath Bomb: Sweets",
+   "merchantDescription": "Sanrio characters are here to play! Here we have a floral scented bath bomb, and inside you can get 1 of a possible 5 miniature cup cake shaped characters.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "031021STOP?",
+    "10192020",
+    "BATH",
+    "BATH BOMBS",
+    "BATHBOMB",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-kirby-bath-ball-vol-1",
+   "name": "Kirby Bath Ball Vol. 1",
+   "merchantDescription": "Kirby is one of Nintendo's beloved characters, and here we have an apple-scented bath bombs which includes a Kirby miniature toy. Get 1 of a possible 5 toys featuring Kirby in different poses.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BATHBOMB",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_kirby",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-kirby-bath-ball-vol-2",
+   "name": "Kirby Bath Ball Vol. 2",
+   "merchantDescription": "Kirby is one of Nintendo's beloved characters, and here we have an apple-scented bath bombs which includes a Kirby miniature toy. Get 1 of a possible 5 toys featuring Kirby and his friends.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "BATH",
+    "BATH BOMBS",
+    "BATHBOMB",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-my-melody-bath-ball",
+   "name": "Sanrio: My Melody Bath Bomb",
+   "merchantDescription": "These bath bombs not only make taking a bath fun, but they contain a collectible toy! Here we have a peach-scented bath bomb featuring one of our favorite Sanrio characters - My Melody. Get 1 of a possible 5 miniature toys.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BATH",
+    "BATH BOMBS",
+    "BATHBOMB",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-one-piece-uno-card-game",
+   "name": "One Piece Uno Card Game",
+   "merchantDescription": "Take the classic game Uno and put a spin on it! This edition of Uno features art from the popular anime/manga One Piece.",
+   "vendor": "One Piece",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "060222STOP",
+    "07132021AD",
+    "AMAZON",
+    "ANIME",
+    "CARD GAMES",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES"
+   ],
+   "price": 44.99
+  },
+  {
+   "id": "sugoimart-kikis-delivery-service-uno-card-game",
+   "name": "Kiki's Delivery Service Uno Card Game",
+   "merchantDescription": "Take the classic game Uno and put a spin on it! This edition of Uno features art from the timeless Ghibli anime film Kiki's Delivery Service.",
+   "vendor": "Studio Ghibli",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "052722STOP",
+    "07132021AD",
+    "AMAZON",
+    "CARD GAMES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-bts-uno-card-game",
+   "name": "Bts Uno Card Game",
+   "merchantDescription": "Take the classic game Uno and put a spin on it! This edition of Uno features photos of the popular K-Pop group BTS.",
+   "vendor": "BTS",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "07132021AD",
+    "AMAZON",
+    "CARD GAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_POPULAR",
+    "CAT_TOYSGAMES",
+    "COLLECTIBLES"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-pokemon-pikachu-ceramic-hot-pot",
+   "name": "Pokemon Pikachu Ceramic Hot Pot",
+   "merchantDescription": "A cooking device for all Pokemon fans! This ceramic hot pot, or nabe in Japanese, is made to cook your favorite ingredients with your favorite soup, making an amazing dining experience you can share with your friends. In Japan you would normally use this while",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "sugoimart-tokyo-disney-girls-day-premium-figure-set",
+   "name": "Tokyo Disney Girls Day Premium Figure Set",
+   "merchantDescription": "This premium figure set features the Disney Characters dressing up in traditional Japanese royal clothing. This exclusive set was released to commemorate Girls Day / Hina Matsuri.",
+   "vendor": "Disney",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_collector"
+   ],
+   "price": 149.99
+  },
+  {
+   "id": "sugoimart-tokyo-disney-pasta-snack-tomato",
+   "name": "Tokyo Disney Pasta Snack (Tomato Flavor)",
+   "merchantDescription": "This pasta-flavored snack features the most famous couples from Disney, and is flavored like tomato!",
+   "vendor": "Disney",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_department_sweets_snacks",
+    "data_ip_disney",
+    "data_persona_is_foodie"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-tokyo-disney-pasta-snack-salt",
+   "name": "Tokyo Disney Pasta Snacks (Salt Flavor)",
+   "merchantDescription": "This pasta-flavored snack features the most famous couples from Disney, and is lightly salted!",
+   "vendor": "Disney",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_department_sweets_snacks",
+    "data_ip_disney",
+    "data_persona_is_foodie"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-hersheys-matcha-choco-donuts",
+   "name": "Hershey's Matcha Choco Donuts",
+   "merchantDescription": "Released as a Japan exclusive chocolate matcha series from Hershey's, here we have a pack of donuts that blends the two flavors together for a scrumptious snack! Contains 7 donuts.",
+   "vendor": "Hershey's",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-hersheys-matcha-choco-daifuku-mochi",
+   "name": "Hershey's Matcha Choco Daifuku Mochi",
+   "merchantDescription": "Released as a Japan exclusive chocolate matcha series from Hershey's, here we have a pack of special matcha daifuku (a type of mochi) stuffed with a marshmallow and chocolate cream. So good! Contains 91g of mochi.",
+   "vendor": "Hershey's",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-hersheys-chocobits-cereal-matcha-white-chocolate",
+   "name": "Hershey's Chocobits Cereal (Matcha White Chocolate)",
+   "merchantDescription": "Released as a Japan exclusive chocolate matcha series from Hershey's, here we have a bag of cereal that's full of chocolate bits filled with matcha white chocolate cream. Contains about 280g.",
+   "vendor": "Hershey's",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "081121STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CEREAL",
+    "CHOCOLATES",
+    "data_department_food_drinks",
+    "data_persona_is_foodie"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-super-long-sakeru-gummy",
+   "name": "Super Long Sakeru Gummy: Yuubeni Strawberry",
+   "merchantDescription": "Long Sakeru Gummy, from the famous \"Long Long Man\" commercials, is back and has added 10 more cm to the total length of the candy (for a total of 50cm)! Here we have a special flavor fashioned after Yuubeni Strawberry - the strawberry originally from Kumamoto ",
+   "vendor": "Sakeru",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DONKI SHINJUKU"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-black-thunder-pretty-style-gateau-au-chocolat",
+   "name": "Black Thunder Pretty Style: Gateau Au Chocolat",
+   "merchantDescription": "Black Thunder is one of Japan's favorite chocolate candies. Here we have Pretty Style, which is a pack of cubed shaped chocos, and this edition is a special flavor of super soft chocolate mixed with berries! Please Note: If temperatures in your location are ab",
+   "vendor": "Black Thunder",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "BLACK THUNDER",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-powerade-full-power-shot-jelly-apple-flavor",
+   "name": "Powerade Full Power Shot Jelly (Apple Flavor)",
+   "merchantDescription": "Energy jelly is a common thing to consume for not only athletes, but also students, office workers, and basically anyone who needs a shot of energy. Here we have a new energy jelly from Powerade, and it's made to taste like apple.",
+   "vendor": "Powerade",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "ENERGY DRINKS",
+    "F_fruit",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-powerade-recovery-shot-jelly-yogurt-flavor",
+   "name": "Powerade Recovery Shot Jelly (Yogurt Flavor)",
+   "merchantDescription": "Energy jelly is a common thing to consume for not only athletes, but also students, office workers, and basically anyone who needs a shot of energy. Here we have a new energy jelly from Powerade, and it's made to taste like yogurt.",
+   "vendor": "Powerade",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "ENERGY DRINKS",
+    "F_milk",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kajuu-melty-blend-gummy-plum-lychee",
+   "name": "Kajuu Melty Blend Gummy (Plum And Lychee)",
+   "merchantDescription": "Kajuu gummies are small, but filled with loads of fruity flavor! This pack is a limited flavor, packing a layered gummy with plum flavor on the outside and juicy lychee on the inside.",
+   "vendor": "Kajuu",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_ume"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sakeru-gummy-muscat",
+   "name": "Sakeru Gummy Muscat",
+   "merchantDescription": "These gummy are unique in that they are almost cheesestring-like! Just pull strips off and nibble these sweet gummies to your hearts content! This one is muscat flavor! You might recognize this candy from the famous Long Long Man commercial! While not the exac",
+   "vendor": "Sakeru",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "040321STOP",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-uha-croquette-crackers-no-double-dipping-sauce-flavor",
+   "name": "Uha Croquette Crackers (No Double Dipping Sauce Flavor)",
+   "merchantDescription": "Croquette no Manma is the name of this this unique pack of mini crackers. It's made to not only look like mini croquettes, but also replicate the crunchiness that the deep fried snack usually would have. This variety is made to taste like its seasoned with a s",
+   "vendor": "Uha",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_curry"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-uha-croquette-crackers-demi-glace-sauce-flavor",
+   "name": "Uha Croquette Crackers (Demi Glace Sauce Flavor)",
+   "merchantDescription": "Croquette no Manma is the name of this this unique pack of mini crackers. It's made to not only look like mini croquettes, but also replicate the crunchiness that the deep fried snack usually would have. This variety is made to taste like its seasoned with dem",
+   "vendor": "Uha",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_meat"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-uha-croquette-crackers",
+   "name": "Uha Croquette Crackers",
+   "merchantDescription": "Croquette no Manma is the name of this this unique pack of mini crackers. It's made to not only look like mini croquettes, but also replicate the crunchiness that the deep fried snack usually would have.",
+   "vendor": "Uha",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_curry"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-sailor-moon-cosmic-heart-cafe-blind-box",
+   "name": "Sailor Moon Cosmic Heart Cafe Blind Box",
+   "merchantDescription": "Sailor Moon is one of Japan's most popular anime heroines. Here is a special blind box that comes with a putitto-like miniature figurine you can rest on the edge of your glass. Get 1 of 6 possibilities.",
+   "vendor": "Sailor Moon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "ANIME",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_character_sailor_moon",
+    "data_department_anime_manga",
+    "data_ip_sailor_moon"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-super-mario-rubber-mascot-mushroom",
+   "name": "Super Mario Rubber Mascot (Mushroom)",
+   "merchantDescription": "Super Mario Home Party is a merch collection of home goods featuring Super Mario. This is a rubber mascot featuring the super mushroom.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_mario",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-super-mario-rubber-mascot-fire-flower",
+   "name": "Super Mario Rubber Mascot (Fire Flower)",
+   "merchantDescription": "Super Mario Home Party is a merch collection of home goods featuring Super Mario. This is a rubber mascot featuring the Fire Flower.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES",
+    "data_character_mario"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-super-mario-rubber-mascot-boos",
+   "name": "Super Mario Rubber Mascot (Boo)",
+   "merchantDescription": "Super Mario Home Party is a merch collection of home goods featuring Super Mario. This is a rubber mascot featuring Boo.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_mario",
+    "data_department_video_games"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-super-mario-rubber-mascot-bullet-bill",
+   "name": "Super Mario Rubber Mascot (Bullet Bill)",
+   "merchantDescription": "Super Mario Home Party is a merch collection of home goods featuring Super Mario. This is a rubber mascot featuring Bullet Bill.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_mario"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-super-mario-rubber-mascot-cheep-cheep",
+   "name": "Super Mario Rubber Mascot (Cheep Cheep)",
+   "merchantDescription": "Super Mario Home Party is a merch collection of home goods featuring Super Mario. This is a rubber mascot featuring Cheep Cheep.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "CLEARANCE"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-super-mario-penguin-suit-mascot-pen",
+   "name": "Super Mario Penguin Suit Mascot Pen",
+   "merchantDescription": "This is a black ball pen featuring a shiny mascot of Penguin Suit from Super Mario.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_mario",
+    "data_department_video_games",
+    "data_ip_nintendo"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-super-mario-goombas-shoe-mascot-pen",
+   "name": "Super Mario Goomba's Shoe Mascot Pen",
+   "merchantDescription": "This is a black ball pen featuring a shiny mascot of Goomba's Shoe from Super Mario.",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_mario",
+    "data_department_video_games",
+    "data_ip_nintendo"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-super-mario-piranha-plant-popsicle-tray",
+   "name": "Super Mario Piranha Plant Popsicle Tray",
+   "merchantDescription": "Bring Nintendo and Super Mario into your home! Here we have a silicon tray featuring Piranha Plants and pipes which you can use to make fun popsicles or ice candy!",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CUPS",
+    "data_character_mario"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "sugoimart-monjiro-dried-squid",
+   "name": "Monjiro Dried Squid",
+   "merchantDescription": "Monjiro is a traditional snack brand that has a long history. This is their standard dried squid legs, which will definitely bring you the traditional taste of Japanese dried food snacks.",
+   "vendor": "Monjiro",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DRIED FOODS",
+    "F_seafood"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-ippudo-spicy-sprout-sauce",
+   "name": "Ippudo Spicy Moyashi Sauce",
+   "merchantDescription": "Ippudo is a famous Japanese ramen restaurant chain with locations worldwide. This is their unique spicy sauce which is excellent went put on top of bean sprouts, or moyashi.",
+   "vendor": "Ippudo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy",
+    "FOOD & DRINKS"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-ippudo-tonkotsu-sauce",
+   "name": "Ippudo Tonkotsu Dashi",
+   "merchantDescription": "Ippudo is a famous Japanese ramen restaurant chain with locations worldwide. This is tonkotsu (pork bone) dashi, and its a cooking ingredient used to add that bit of tonkotsu taste to your foods, like fried rice, veggie stir fry, and of course ramen.",
+   "vendor": "Ippudo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_meat",
+    "FOOD & DRINKS",
+    "NEWPANTRY23"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-salad-duo-goma-wasabi-dressing",
+   "name": "Salad Duo Goma Wasabi Dressing",
+   "merchantDescription": "Goma means sesame in Japanese. This is a dressing mixing the aroma of Japanese sesame and wasabi, which serves really great with salads and different dishes.",
+   "vendor": "Wasabi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_wasabi",
+    "SOLD OUT",
+    "SUBCAT_DRESSING"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-sweet-yakiniku-sauce",
+   "name": "Jounetsu Kakaku Yakiniku Sauce",
+   "merchantDescription": "This is a sweet sauce that goes perfect with grilled meat which comes in a big size.",
+   "vendor": "Sweet",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_butter",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pokka-sapporo-pumpkin-cream-soup",
+   "name": "Pokka Sapporo Soup: Pumpkin Cream",
+   "merchantDescription": "Pokka Sapporo is a famous Japanese company for its coffee, teas and other beverages. This is their pumpkin cream soup with a creamy texture. Includes 3 servings.",
+   "vendor": "Pokka",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "AUTUMNGOODS",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-pokka-sapporo-chicken-cream-soup",
+   "name": "Pokka Sapporo Soup: Chicken Cream Soup",
+   "merchantDescription": "Pokka Sapporo is a famous Japanese company for its coffee, teas and other beverages. This is their chicken cream soup with a creamy texture. Includes 3 servings.",
+   "vendor": "Pokka",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "050422STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream",
+    "F_meat"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokka-sapporo-mushroom-cheese-soup",
+   "name": "Pokka Sapporo Soup: Mushroom Cheese",
+   "merchantDescription": "Pokka Sapporo is a famous Japanese company for its coffee, teas and other beverages. This is their mushroom cream soup with a creamy texture. Includes 3 servings.",
+   "vendor": "Pokka",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "070722STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cheese",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-knorr-vegetable-champon-soup-4-packs",
+   "name": "Knorr Soup Pack: Vegetable Champon",
+   "merchantDescription": "Knorr soup is famous because it's so easy to make. Just pour hot water into a cup, and let it sit for a few minutes, and you're set. Comes with 4 servings. Champon is a noodle dish originated from Nagasaki, Japan. This soup features a vegetable champon flavor.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_salt",
+    "FOOD & DRINKS",
+    "NEWPANTRY23"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-knorr-seafood-chige-soup-4-packs",
+   "name": "Knorr Soup Pack: Seafood Jjigae",
+   "merchantDescription": "Knorr soup is famous because it's so easy to make. Just pour hot water into a cup, and let it sit for a few minutes, and you're set. Comes with 4 servings. Jjigae is a korean dish similar to Western stew. This is a seafood jjigae flavored soup, which will give",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_seafood"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-kewpie-butter-shoyu-mushroom-spaghetti-sauce",
+   "name": "Kewpie Spaghetti Sauce: Japanese Mushroom",
+   "merchantDescription": "Kewpie is a famous Japanese maker of mayo, salad dressings, and other seasonings! This is a butter shoyu flavored mushroom sauce for pasta of your choice. Comes with 2 servings.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_cream",
+    "FOOD & DRINKS",
+    "NEWPANTRY23"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-yoshinoya-togarashi-peppers",
+   "name": "Yoshinoya Togarashi Peppers",
+   "merchantDescription": "Yoshinoya is one of the most famous multinational Gyudon (Beef Rice) restaurant chains around the world. This is their unique togarashi, a kind of Japanese chili pepper. 30 g",
+   "vendor": "Yoshinoya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "04192021",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_character_yoshi",
+    "data_department_food_drinks",
+    "data_ip_nintendo",
+    "data_persona_is_foodie",
+    "data_persona_is_gamer"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-pokka-sapporo-lemon-sauce",
+   "name": "Pokka Sapporo Lemon Sauce",
+   "merchantDescription": "In Japan, dipping beef with lemon juice is very common and popular cause it enirches the flavor of the grilled beef itself. Try it out!",
+   "vendor": "Pokka",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_citrus",
+    "FOOD & DRINKS",
+    "MEGADONKI"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-nagatanien-tendon-furikake",
+   "name": "Nagatanien Tendon Furikake",
+   "merchantDescription": "Tendon means Tempura over rice in Japan. This furikake delivers the tendon, or tempura rice bowl, flavor to your home, and all you have to do is to sprinkle some of this furikake on your bowl of rice.",
+   "vendor": "Nagatanien",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "091621STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-nagatanien-gyudon-furikake",
+   "name": "Nagatanien Gyudon Furikake",
+   "merchantDescription": "Gyudon means stewed beef over rice in Japan. This furikake delivers the Gyudon flavor to your home, and all you have to do is to sprinkle some of this furikake on your bowl of rice.",
+   "vendor": "Nagatanien",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "011022STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-nagatanien-super-yakiniku-furikake",
+   "name": "Nagatanien Super Yakiniku Furikake",
+   "merchantDescription": "This furikake brings the taste of Japanese grilled beef to your home, and all you have to do is to sprinkle some of this furikake on your bowl of rice.",
+   "vendor": "Nagatanien",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_meat",
+    "F_umami",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nagatanien-super-curry-furikake",
+   "name": "Nagatanien Super Curry Furikake",
+   "merchantDescription": "This furikake brings the taste of Japanese curry to your home, and all you have to do is to sprinkle some of this furikake on your bowl of rice.",
+   "vendor": "Nagatanien",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nagatanien-super-minced-chicken-furikake",
+   "name": "Nagatanien Super Minced Chicken Furikake",
+   "merchantDescription": "This furikake brings the taste of Japanese minced chicken and soft egg to your home, and all you have to do is to sprinkle some of this furikake on your bowl of rice.",
+   "vendor": "Nagatanien",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "051023STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nobel-tapioca-boba-candy-brown-sugar-matcha",
+   "name": "Tapioca Boba Candy (Brown Sugar And Matcha Au Lait)",
+   "merchantDescription": "Nobel is here with a new tapioca/boba hard candy. The hard candy shell is flavored like kuromitsu (brown sugar) and matcha au lait, while the inside contains a tapioca gummy. Yummy!",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "BOBA",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-tapiru-black-sugar-matcha-au-lait-gummy",
+   "name": "Tapiru Black Sugar Matcha Au Lait Gummy",
+   "merchantDescription": "Nobel is here with a new tapioca/boba gummy candy. The hard candy shell is flavored like kuromitsu (brown sugar) and matcha au lait, while the inside contains a tapioca gummy. Yummy!",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "032221STOP",
+    "BOBA",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-milky-popping-peach-flavor",
+   "name": "Milky: Popping Peach Flavor",
+   "merchantDescription": "Milky and its mascot Peko-chan is one of the famous hard candies of Japan. Here we have a limited flavor featuring peach, and it's made from real peach juice and is even coated with bits of hard sugar candy! Please Note: If temperatures in your location are ab",
+   "vendor": "Milky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sumikko-gurashi-home-made-cooking-choco-diy",
+   "name": "Sumikko Gurashi Home Made Cooking Choco DIY",
+   "merchantDescription": "Sumikko Gurashi is here with their own chocolate DIY that you can easily make at home! It comes with biscuits which you can turn into popsickle sticks for a fun candy experience. For instructions please watch this video:",
+   "vendor": "San-X",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CHOCOLATES"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-cream-collon-sakura-matcha-for-adults",
+   "name": "Cream Collon: Sakura Matcha For Adults",
+   "merchantDescription": "Cream Collon is a popular snack that consists of biscuits with cream filling. Here we have a limited edition made from sakura and matcha.",
+   "vendor": "Cream Collon",
+   "productType": "Candy & Snacks",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "CLEARANCE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pocky-couple-de-fruits-framboise-pistachio",
+   "name": "Pocky Couple De Fruits (Framboise And Pistachio)",
+   "merchantDescription": "Pocky is back with another limited flavor! Here we have a special fruity edition made to taste like framboise and pistachio.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-pocky-couple-de-fruits-lemon-peach",
+   "name": "Pocky Couple De Fruits (Lemon And Peach)",
+   "merchantDescription": "Pocky is back with another limited flavor! Here we have a special fruity edition made to taste like lemon and peach.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-calbee-full-granola-matcha-azuki-cereal",
+   "name": "Calbee Full Granola Matcha Azuki Cereal",
+   "merchantDescription": "Calbee has their line of granola cereals called Furugura, or Full Granola. Here is a limited flavor that contains matcha and azuki (sweet red beans). Contains 700g of cereal.",
+   "vendor": "Calbee",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CALBEE",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CEREAL",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKI SHINJUKU"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-popin-cookin-sweets-party-diy",
+   "name": "Popin' Cookin' Sweets Party DIY",
+   "merchantDescription": "Popin' Cookin's latest DIY candy is a sweets party! You can make a fruit cake, shortcake, berry tart, melon jelly, and even a fruit tart! For instructions follow along with this video:",
+   "vendor": "Popin' Cookin'",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DIY"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-s-b-fresh-garlic-paste",
+   "name": "S&B Fresh Garlic Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This is their fresh garlic paste.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "FOOD & DRINKS",
+    "PANTRY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-s-b-hon-karashi-paste",
+   "name": "S&B Hon-Karashi Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This is their original karashi, or Japanese-style spicy mustard, paste.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-s-b-fresh-ginger-paste",
+   "name": "S&B Fresh Ginger Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This is their fresh ginger paste.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_ginger",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-s-b-minced-wasabi-paste",
+   "name": "S&B Minced Wasabi Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This is their wasabi paste, but with a more pulpy and firm texture.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_wasabi"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-house-burnt-garlic-paste",
+   "name": "House Burnt Garlic Paste",
+   "merchantDescription": "House is a famous food manufacturer in Japan, and this is their burnt garlic paste with a strong taste that goes well with food such as ramen and fried rice.",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BBQ",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-s-b-onion-ginger-garlic-mix-paste",
+   "name": "S&B Onion Ginger Garlic Mix Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This paste is a perfect mixture of green onion, ginger, and garlic.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "F_onion",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  }
+ ]
+}

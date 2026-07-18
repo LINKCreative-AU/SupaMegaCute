@@ -26,6 +26,13 @@ const slugify = (s) =>
 
 for (const file of (await readdir(RAW_DIR)).filter((f) => f.endsWith(".json"))) {
   const raw = JSON.parse(await readFile(join(RAW_DIR, file), "utf8"));
+  // Re-crawls must not reset pipeline state: carry over status/classification
+  // for drafts we already processed (promoted/approved/rejected/tagged).
+  let previous = new Map();
+  try {
+    const old = JSON.parse(await readFile(join(INBOX_DIR, file), "utf8"));
+    previous = new Map(old.drafts.map((d) => [d.id, d]));
+  } catch { /* first run for this source */ }
   const drafts = [];
   const seenIds = new Set();
 
@@ -39,6 +46,15 @@ for (const file of (await readdir(RAW_DIR)).filter((f) => f.endsWith(".json"))) 
     let id = `${raw.source}-${slugify(p.handle || p.title)}`;
     for (let n = 2; seenIds.has(id); n++) id = `${raw.source}-${slugify(p.handle || p.title)}-${n}`;
     seenIds.add(id);
+
+    const prior = previous.get(id);
+    if (prior && prior.status !== "pending") {
+      // keep the processed record, but refresh price + fetch metadata
+      prior.price = price;
+      prior.sourceMeta.fetchedAt = raw.fetchedAt;
+      drafts.push(prior);
+      continue;
+    }
 
     drafts.push({
       id,

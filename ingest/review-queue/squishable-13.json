@@ -1,0 +1,728 @@
+{
+ "source": "squishable",
+ "batch": 13,
+ "items": [
+  {
+   "id": "squishable-snacker-cookie-ice-cream-sandwich",
+   "name": "Snacker Cookie Ice Cream Sandwich",
+   "merchantDescription": "Humble cookies, your crunchy shield is deeply appreciated. What a sticky situation we'd be in without you! Our hands would be covered with ice cream! Our steel gauntlets would rust! Our silk opera gloves would fall into ruins! Other hand-specific articles of c",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-cherries",
+   "name": "Snacker Cherries",
+   "merchantDescription": "Is it a coincidence that the word \"cherry\" sounds remarkably similar to the word \"cherish?\" Let me find a dictionary and let's see! One is Latin, and the other is...a misinterpretation of North French? So, possibly! Cherish your cherries, folks, they're etymol",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-banana",
+   "name": "Snacker Banana",
+   "merchantDescription": "\"Ring ring! Ring ring! RING RING!\" Banana, I don't care how many times you ring, I'm not going to pick you up and pretend you're a phone. OR AM I? No. No I'm not. (Full disclosure: The banana isn't actually a phone. It is however a wonderfully soft squishy fri",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-avocado-toast",
+   "name": "Snacker Avocado Toast",
+   "merchantDescription": "Oh avocado toast, let me take a pic of your green glory! Look at those hypnotic, buttery undulations as they spread across the crunchy ocean of toast. It is delicious. And let's face it, photogenic as all heck. Which shouldn't count for as much as the deliciou",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-avocado",
+   "name": "Snacker Avocado",
+   "merchantDescription": "I was in the middle of making breakfast when my friend, who for some reason was in my kitchen at 7am, asked me \"What's that wooden ball in the center of avocado?\" Reeling from shock, I immediately threw them out of my house. I mean, how does someone not know w",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-candy-hearts-yeet",
+   "name": "Snacker Candy Hearts Yeet",
+   "merchantDescription": "Yeet - /yēt/-(Verb) - to throw. \"Yeet! Duck! Oh no, sorry!\" Similar: hurl, toss, lob, fling, launch Tenses: yeet yeetamos yeetas yeetais yeeta yeetan candy, heart, valentine, valentine's, v-day, love, pink",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-flat-tooth-fairy-pillow",
+   "name": "Flat Tooth Fairy Pillow",
+   "merchantDescription": "Pockets! Unexpected pockets! You can never have too many pockets. This little guy has a nice pocket to hold secret awesomeness, like lost teeth (if you're into teeth), or a small candy (if you don't like teeth at all), or tooth fairy money (if you're into mone",
+   "vendor": "Squishable",
+   "productType": "Pillow",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-picnic-baby-shrimp-sushi",
+   "name": "Picnic Baby Shrimp Sushi",
+   "merchantDescription": "Technically, babies aren't supposed to eat raw seafood. I've read this in at least 3 parenting magazines and 5 blog posts so it must be true! But no one said anything about cuddling them! Give a baby this shrimp sushi to cuddle, which every single magazine and",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-picnic-baby-pineapple",
+   "name": "Picnic Baby Pineapple",
+   "merchantDescription": "Geometrically-speaking, a spiky pineapple is really just an overexcited sphere! This Pineapple puts that hypothesis to the test, by turning a pineapple into a sphere. Also, I'm 6 months old and don't know what 'hypothesis' means. Or really, you know, any words",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-picnic-baby-banana",
+   "name": "Picnic Baby Banana",
+   "merchantDescription": "Bananas! Now try to say it slow: baaaanannnnnaaaa! Now try to say it fast: bnna! Now try to stop saying it! Bananananananananana...somebody help! Banananana... banana,baby,cute,bell,crinkly,yellow",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-picnic-baby-avocado",
+   "name": "Picnic Baby Avocado",
+   "merchantDescription": "What's green and buttery and really fun to rub in your hair while your mom wonders what's going on? Avocados! Or maybe that's just my kid. Hey, does anyone know how to get avocado out of a 7 month-old's hair? picnic,baby,avocado,cute,bell,stripes",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-mini-comfort-food-pepper",
+   "name": "Mini Comfort Food Pepper",
+   "merchantDescription": "'If you think pepper is spicy...you are wrong! Science backs me up that pepper barely rates as \"mild\" on the scoville scale. But if for some reason you still find pepper too awesomely peppery for your taste buds, here's a plush pepper instead! Your extra-sensi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-salt",
+   "name": "Mini Comfort Food Salt",
+   "merchantDescription": "Nothing salty about this little friend! Well, except the fact that it's made out of salt. Which is actually extremely salty, come to think of it. So, something extremely salty about this little friend: salt! salt, white, glass, salty, pepper",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-carrot-cake",
+   "name": "Mini Comfort Food Carrot Cake",
+   "merchantDescription": "Whoever thought of putting a vegetable in a cake...THANK YOU! While I highly doubt a zucchini cake or a squash cake would be even slightly as good as carrot cake. There's something about the slight touch of cinnamon with the light cream cheese frosting that sa",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-oat-milk",
+   "name": "Mini Comfort Food Oat Milk",
+   "merchantDescription": "I'm not like other people, I drink oat milk! Not only do I drink oat milk, but my plush are oat milk too! Now that's special and oh so DIFFERENT! oat milk, vegan, milk, yummy, green, yellow",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-cold-brew",
+   "name": "Mini Comfort Food Cold Brew",
+   "merchantDescription": "Need just a little pick-me-up, without committing your shakey little hands to a giant cup? Then this is the plush for you! Our Mini Cold Brew is jam packed with earthy notes of soft fur and full bodied overtones (that's the embroidery!) Go on, take a sip! I pr",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-grapes",
+   "name": "Mini Comfort Food Grapes",
+   "merchantDescription": "Do you remember that video from the early 2000's of a news anchor doing a story on a local vineyard, and she was stepping on grapes to make wine, and she completely FELL OVER and it was the funniest thing that had ever happened? No? Just me? You should watch i",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 38
+  },
+  {
+   "id": "squishable-mini-comfort-food-cheesecake",
+   "name": "Mini Comfort Food Cheesecake",
+   "merchantDescription": "When I was younger I thought cheesecake was cake made out of sharp cheese like cheddar, parmesan, etc. Embarrassingly, I was the ripe old age of 14 when I learned about the existence of cream cheese and its wildly versatile uses. Now, you can't pry cheesecake ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-pumpkin-pie",
+   "name": "Mini Comfort Food Pumpkin Pie",
+   "merchantDescription": "The way I used to dislike pumpkin pie as a kid. I simply didn't know any better at the time! Please don't hold it against me! I've since learned the error of my ways and have joined the pumpkin side...it smells so good over here! I will say, it's so much bette",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-ice-cream-cone",
+   "name": "Mini Comfort Food Ice Cream Cone",
+   "merchantDescription": "You might have a go-to flavor for this icy, dreamy dessert, but why pigeonhole yourself! Look at that glorious array of ice cream tubs! Ponder the possibilities! Why stop with one, when you could, in fact, go for two scoops!!! Treat yourself - this Mini Ice Cr",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-madame-cupcake",
+   "name": "Mini Comfort Food Madame Cupcake",
+   "merchantDescription": "How do you like to eat your cupcakes? The traditional way, or sandwiching the bottom half of the cake on the top to create a whoopie-pie style bite?! If you've never heard of that until now, you're welcome. Mini Miss Madame needs no such treatment, however, be",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 33
+  },
+  {
+   "id": "squishable-mini-comfort-food-shaved-ice",
+   "name": "Mini Comfort Food Shaved Ice",
+   "merchantDescription": "When I was in summer camp, at the end of every day the ice cream truck would come down the road! We would all run to the side of the baseball field and line up to get our sweet treats! I always went for shaved ice instead of a popsicle or anything else. Shaved",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-comfort-food-apple",
+   "name": "Mini Comfort Food Apple",
+   "merchantDescription": "An apple a day keeps the doctor away. At least it does if you throw it hard enough! Doctors aren't known for their dodging skills. It's really hard to listen with a stethoscope when someone is beaning you with fruit. Fight on little one! apple,fruit,mac,red",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-buttered-toast",
+   "name": "Mini Comfort Food Buttered Toast",
+   "merchantDescription": "Do you want a side of toast? How about a main of toast! Toast is totally acceptable at any point in the culinary order - appetizer, side, main, you name it! Toast for dessert? Heck yeah! Butter up a piece! Or a whole loaf! toast,bread,yellow,brown,crust,sandwi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-unicorn-latte",
+   "name": "Mini Comfort Food Unicorn Latte",
+   "merchantDescription": "Can I get a Mini Unicorn Latte? I want it cold with a dash of lukewarm! With oat milk, pistachio milk, and milk from a horse that has mated with a narwhal! And it's a splurge day, so please add lots of fluff, rainbows, joy, and some sprinkles. No, I meant rain",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-comfort-food-marshmallows",
+   "name": "Mini Comfort Food Marshmallows",
+   "merchantDescription": "Let's go camping, Mini Marshmallows! Don't worry, it's perfectly safe! We'll do some hiking, fishing, stargazing, and tanning ourselves by the heat of the warm cozy fire! Feeling hot? Here, sit on this graham cracker and slather yourself in chocolate for insul",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-comfort-food-peppermint-mocha",
+   "name": "Mini Comfort Food Peppermint Mocha",
+   "merchantDescription": "Move over PSL! It's Mini Peppermint Mocha's time to shine. And by \"time\" I mean the moment Thanksgiving is over. Warm our body and the soul with your minty, chocolate caffeination, you behemoth of the festive beverage category! christmas, xmas, holiday, winter",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 38
+  },
+  {
+   "id": "squishable-mini-comfort-food-eggnog",
+   "name": "Mini Comfort Food Eggnog",
+   "merchantDescription": "How do you like your eggnog? With cinnamon sticks? Extra nutmeg? A two-to-one ratio (whatever that means?) Mixed with soda? Over ice? Covered in lemurs? Inside a composite volcano? Poured over a real-estate offer for a fifth-story condo in Pittsburgh? Covered ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-candy-corn-ii",
+   "name": "Mini Comfort Food Candy Corn II",
+   "merchantDescription": "Let's check out our trick-or-treating loot! This pile is for candy and other special sugary treats! Over here we have stuff like fruit and peanuts - I guess we'll file that under \"nutritious\"? Ugh, here's a pile of stuff from those weird people who give out ra",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-comfort-food-lemonade",
+   "name": "Mini Comfort Food Lemonade",
+   "merchantDescription": "Meet your new overlord! Equally feared for its ruthless climb to the top of the beverage power pyramid and its cool looks, this Mini Lemonade will do anything to ensure the respect of all imbibable liquids. Hey, I'm talking to you, Milkshake! Yeah, you better ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-comfort-food-cookie-ice-cream-sandwich",
+   "name": "Mini Comfort Food Cookie Ice Cream Sandwich",
+   "merchantDescription": "When you need a pick-me-up to get through your last few tasks of the day, the Mini Comfort Food Cookie Ice Cream Sandwich is there. Sitting through your last afternoon class? Done. That final spreadsheet of the evening? Not a problem. Burying that body in the ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 33
+  },
+  {
+   "id": "squishable-mini-comfort-food-watermelon",
+   "name": "Mini Comfort Food Watermelon",
+   "merchantDescription": "Do you love watermelon? We love watermelon! What a coincidence! I personally like to see who can spit the seeds the farthest. Which is gross! So don't tell the Mini Comfort Food Watermelon about it because spitting out part of someone's head feels weird. Still",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-santa-avocado",
+   "name": "Mini Comfort Food Santa Avocado",
+   "merchantDescription": "Did you know that avocados love Christmas? They do! It's true. They told me. Okay I didn't believe it at first, but then I saw this Avocado that was wearing a Santa hat, and realized it must be true. Anyway, now I'm a believer. Also, I speak to avocados. santa",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-comfort-food-hot-sauce",
+   "name": "Mini Comfort Food Hot Sauce",
+   "merchantDescription": "Do you slurp on Ghost Pepper shakes? Do you chomp on Carolina Reapers like potato chips? Do you keep hot sauce in your bag for flavor crises? Do you actually *have* flavor crises??! Awesome! This Mini Comfort Food Hot Sauce is the ultimate mascot for a spice l",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-soup-dumpling",
+   "name": "Mini Comfort Food Soup Dumpling",
+   "merchantDescription": "Two things that mean love: dumplings and soup! They make you feel all warm and fuzzy inside when you're eating them. Put them together and you'll be at peak love! The Mini Comfort Food Soup Dumpling replicates this feeling too with fur! Please don't try to slu",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-strawberry",
+   "name": "Mini Comfort Food Strawberry",
+   "merchantDescription": "Tiny package! Huge sweetness! This red bundle of plumpness can only bring sweet joy into your life. Or at least to your couch. And it's definitely better than just smearing fresh strawberries on your furniture. Why would you do that? Stop it, they're going to ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-pumpkin-spice-latte",
+   "name": "Mini Comfort Food Pumpkin Spice Latte",
+   "merchantDescription": "Hear that? It's the call of that noble creature the \"Pumpkin Spice Latte person.\" This highly seasonal animal can only be observed during their great Fall migration, although their habitat is practically worldwide! Spot them by their distinct musk of cinnamon ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-comfort-food-bubble-tea",
+   "name": "Mini Comfort Food Bubble Tea",
+   "merchantDescription": "Bubble tea! The staple in my snack diet! The delightful hold-over between a huge dimsum brunch and noodles for dinner! As perfect for a mid-shopping slurp as it is in an office, classroom, aquarium, active volcano, or evil villain's lair in an active volcano p",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-popcorn",
+   "name": "Mini Comfort Food Popcorn",
+   "merchantDescription": "Popcorn can be golden colored, rainbow colored, galaxy colored, cotton candy colored, and every color in between. It can be butter flavored, caramel-flavored, pizza flavored, matcha flavored, chocolate flavored, caramel flavored, cheese flavored, regret flavor",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-bagel",
+   "name": "Mini Comfort Food Bagel",
+   "merchantDescription": "Bagels are powerful! They can fight crime with one hand tied behind their back! They can rescue kittens stuck in a tree! They can make you NOT HUNGRY when you eat them! It's the truth - the carbohydrate capabilities of this torus (that's a bagel shape to non-m",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-cherries",
+   "name": "Mini Comfort Food Cherries",
+   "merchantDescription": "These Mini Comfort Food Cherries always have a sweet friend to hang with! They can play fighting video games against themselves! They have a built-in Instagram photographer for perfect shots! They can sing two out of four parts in a chorus! How's it hanging li",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-mushroom",
+   "name": "Mini Squishable Mushroom",
+   "merchantDescription": "OOOH mushrooms! The other half of anything with truffle oil. Pizzas love them! Pasta dishes love them! I love them! They're adorable, weird, and sometimes cause super fun adventures in a video game setting! The Mini Squishable Mushroom is all of those things. ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-mac-n-cheese",
+   "name": "Mini Comfort Food Mac 'n Cheese",
+   "merchantDescription": "Mac and cheese. The noodles that look like a smile. A smile you can put in your mouth. That in turn creates more smiles! As you melt into this cheesy, gooey fractal world of smile-ception, you think, wow, I wish I paid more attention in geometry. Then you shru",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-comfort-food-avocado-toast",
+   "name": "Mini Comfort Food Avocado Toast",
+   "merchantDescription": "You're a hip person with a hip taste in breakfast foods! And you're way too get-up-and-go to have time for a full platter of the hip breakfast you deserve. Might I offer a Mini slice of Avocado Toast, on-the-go? Whether you have photo-worthy motivations in min",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-carrot",
+   "name": "Mini Comfort Food Carrot",
+   "merchantDescription": "Did you know if you eat too many carrots, your skin turns orange? The Mini Comfort Food Carrot cries foul! There is no such thing as too many carrots! So bask in that beachy beta carotene glow, this guy is only rich in fluff and cuteness. Scientifically proven",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-comfort-food-strawberry-milk",
+   "name": "Mini Comfort Food Strawberry Milk",
+   "merchantDescription": "Pink! It's a good color. The color of cherry blossoms, Valentines, and flamboyant flamingos! If you desire an extra sweet boost to your day, and pink cupcakes, donuts, and macarons aren't doing it, try some milk! Strawberry Milk, that is! Plain ol' milk may be",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-shrimp-sushi",
+   "name": "Mini Comfort Food Shrimp Sushi",
+   "merchantDescription": "Shrimp Sushi breaks all the rules! For one thing, it's not raw! For another, it's technically not even a fish! Yet those aren't the only subversive facts about this delectable tidbit. For example, did you know that he once secretly rearranged all the books in ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-banana",
+   "name": "Mini Comfort Food Banana",
+   "merchantDescription": "Did you ever wonder why bananas are curved, instead of straight like a carrot or round like an orange? Some say it's because it's easier for pretending to use as a phone. Others believe it's nature's comma, but that's just because people are weird sometimes an",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 27
+  },
+  {
+   "id": "squishable-mini-comfort-food-gingerbread-man",
+   "name": "Mini Comfort Food Gingerbread Man",
+   "merchantDescription": "Queen Elizabeth the first! Apparently she was also the first to give out Gingerbread Men in her royal court. Perhaps Elizabeth understood that to be a good monarch, sometimes you just have to bite off a few heads. And arms. And torsos. And actually these thing",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-avocado",
+   "name": "Mini Comfort Food Avocado",
+   "merchantDescription": "Is this Avocado a superfood? Well, on one hand it doesn't have the amino-monosaturated-riboflavoricious properties of an Avocado you might pick from a tree. You can't smear it all over your face to improve collagen production. But so what? What this little cou",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-pineapple",
+   "name": "Mini Comfort Food Pineapple",
+   "merchantDescription": "From the guest-houses of Ghent to the bed-and-breakfasts of Bangalore, the Pineapple is always welcome! Is it because they're generous tippers? Or their reputation for spinning fascinating yarns? Well, Pineapples do both of those things, but there is a bigger ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-milk-carton",
+   "name": "Mini Comfort Food Milk Carton",
+   "merchantDescription": "So there you are, sitting in the elementary school cafeteria, staring at a plastic tray filled with the food of childhood. You've got your weird chicken disk on a white roll. You've got your lumpy cherry gelatin in a cup. Know what you don't have? Milk! There'",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-comfort-food-hot-dog",
+   "name": "Mini Comfort Food Hot Dog",
+   "merchantDescription": "The Hot Dog you know and love from a hundred blissful summer cookouts and sun-dappled baseball games is a symbol of Americana! Indeed, it's right up there with bald eagles and coming home from the moon just to realize you forgot your brand new flag up there! W",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-pizza-slice",
+   "name": "Mini Comfort Food Pizza Slice",
+   "merchantDescription": "Dough. Tomatoes. Cheese. A face. Three of these things are delicious to eat. One of these things MIGHT be delicious to eat, but doing so is not for the squeamish! It's tough to munch down on someone who's singing Italian folk songs about the hills back in Napo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-comfort-food-taco",
+   "name": "Mini Comfort Food Taco",
+   "merchantDescription": "Tacos! The best transportation option to get seasoned meat from your plate to your face! They're a perfect model of one-handed noshing efficiency: unlike arepas, empanadas and pupusas, you know exactly what you're getting before the first bite! With this Taco,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-mini-comfort-food-hamburger",
+   "name": "Mini Comfort Food Hamburger",
+   "merchantDescription": "Some see an adorable, cuddly little burger with cheese. I see an adorable, cuddly little burger with the capacity to end culinary conflict! Is this Hamburger (cheeseburger?) the fuzzy plush representation of a 100% sirloin patty, or is it some sort of organic ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-ramen",
+   "name": "Mini Comfort Food Ramen",
+   "merchantDescription": "There is a ramen restaurant in Shubuya, Tokyo - well, it's not so much a restaurant as a counter with a half-dozen seats and the teensy-tiniest kitchen you've ever seen! There, an 82-year-old man named Hideki adheres to an unwritten family recipe to make a por",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-smore",
+   "name": "Mini Squishable S'more",
+   "merchantDescription": "Recently, a bunch of people in Pennsylvania decided to make the world's largest S'more, topping out at over 250 pounds. Sounds fun, right?It took hours and hours to make! Imagine the grumbling stomachs of the assembled S'more-loving masses as the team (yes, it",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-comfort-food-christmas-star-cookie",
+   "name": "Mini Comfort Food Christmas Star Cookie",
+   "merchantDescription": "Great cookies come in small packages! Sometimes, they also come in big packages! But this one comes in a package that's a little bigger than small, but not as big as big! You know what, you might as well just buy one and measure it yourself. christmas, cookie,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-micro-comfort-food-ramen",
+   "name": "Micro Comfort Food Ramen Keychain",
+   "merchantDescription": "Nothing is more comforting than a nice warm bowl of ramen, so why not have that comfort with you everywhere you go?! I could really use a bowl right now...maybe this will be enough to tide me over?! ramen, noodles, japanese, food",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 14
+  },
+  {
+   "id": "squishable-micro-turquoise-mushroom",
+   "name": "Micro Turquoise Mushroom",
+   "merchantDescription": "What's that? You DON'T have an army of Micro Squishables ready to do your bidding at any moment? Well, now is a perfect time to start consolidating your power! This mushroom is great for nefarious planning, general mayhem, and chillin on the couch!! Such a big",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-tie-dye-mushroom",
+   "name": "Micro Tie Dye Mushroom Keychain",
+   "merchantDescription": "You're not seeing things - this is an actual multicolor mushroom! I mean, you might be seeing things - that monkey riding a unicorn over there may or may not actually exist - but this mushroom definitely does! Let's exist together! Clip it to your bag, or your",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-gingerbread-woman",
+   "name": "Micro Comfort Food Gingerbread Woman Keychain",
+   "merchantDescription": "Look at this tiniest little dose of holiday cheer! Like a single holly leaf, or a single teaspoon of eggnog, Micro Comfort Food Gingerbread Woman truly embodies the smallest of seasonal smiles. Hungry for more? Have two! Or twelve!This micro features a new fan",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-comfort-food-watermelon",
+   "name": "Micro Comfort Food Watermelon Keychain",
+   "merchantDescription": "I wish summer was the only season. Then I could hang out with Micro Watermelon all of the time! Oh wait, climate change is a thing and it's not something to wish for. Cancel that wish! I've got my Micro Watermelon to hang out with winter, spring, summer, or fa",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-micro-comfort-food-strawberry",
+   "name": "Micro Comfort Food Strawberry Keychain",
+   "merchantDescription": "This is the smallest strawberry patch I've ever been to! With the tiniest little strawberries! Except wait, this comparison doesn't work because they're still a lot bigger than a standard strawberry. Let me try again! Wow, look at this small strawberry patch, ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-sushi-roll",
+   "name": "Micro Comfort Food Sushi Roll Keychain",
+   "merchantDescription": "Sushi rolls are works of art! Sometimes they're so pretty, you just don't want to eat them at all! And then they get gross and mushy and people are like, why are you carrying around that three-day old piece of sushi? Or maybe that's just me. Anyway, we've solv",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-micro-comfort-food-cherries",
+   "name": "Micro Comfort Food Cherries Keychain",
+   "merchantDescription": "I used to love cherries! I ate them constantly - everything I drank was cherry flavored. I once had, like, 5 pounds of them in one sitting. Then it turned out that apparently constant cravings for a specific food are a sign of allergies? Yeah. Now I'm super al",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-micro-comfort-food-avocado-toast",
+   "name": "Micro Comfort Food Avocado Toast",
+   "merchantDescription": "Unable to buy a home because of the luscious temptation that is avocado toast at brunch? Make one yourself with Micro Avocado Toasts! A lot of them! I'm talking about a full house-worth of tiny Avocado Toasts! It's so much more adorable than a normal house, an",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-micro-squishable-mushroom",
+   "name": "Micro Squishable Mushroom",
+   "merchantDescription": "There are so many mushrooms! Oyster! Shiitake! White button! Crimini! Portobello! A lot of them are edible. Some are poisonous. A few rare ones are super soft and huggable. THIS IS THAT MUSHROOM!! Lucky for you, you don't have to try and forage for one in the ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-squishable-pumpkin",
+   "name": "Micro Squishable Pumpkin",
+   "merchantDescription": "I've always suspected that the entire universe revolves around me. Pumpkin spice lattes, pumpkin picking selfies, pumpkin-colored filters (they say it's called 'sepia' but I know better)! It was only a matter of time before I turned into a Micro Squishable so ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-comfort-food-pizza-slice",
+   "name": "Micro Comfort Food Pizza Slice Keychain",
+   "merchantDescription": "I love pizza so much that I am now legally married to pizza! It's the best decision I've ever made in my life. Pizza was my first love! I've cuddled it in my tummy every single day since I was two years old. Our passion is spicy! And sometimes covered in mozza",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-corn",
+   "name": "Micro Comfort Food Corn Keychain",
+   "merchantDescription": "Corn is truly wonderful! It's tasty! It's decorative! It's perfect for appearances in horror films! It can be sugared, salted, peppered, buttered, boiled, grilled, popped, and in a pinch you can even eat the stuff! Can corn get any more versatile? It can. It h",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-banana",
+   "name": "Micro Comfort Food Banana Keychain",
+   "merchantDescription": "Have you hugged a banana today? Yes? Oh. But have you hugged a tiny banana? Well the Micro Banana is huggable, portable, and can brighten up your day anywhere you go with all of their potassium powers. They can hang off of your backpack, be the base of many de",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-carrot",
+   "name": "Micro Comfort Food Carrot Keychain",
+   "merchantDescription": "This Micro Carrot was hand-pulled from the Squishable ground, where it had been grown organically, with seeds that were scattered free-range, cage-free, non-GMO, and something something something \"artisanal\". This is one pedigreed carrot. Perfect for snacking ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-comfort-food-strawberry-milk",
+   "name": "Micro Comfort Food Strawberry Milk Keychain",
+   "merchantDescription": "WHOA! How many strawberries are in this carton?! A lot? How?? Were millions of tiny strawberries squished inside? Is it one huge carton-sized strawberry? And what does that have to do with strong bones? And deliciousness? If all of these questions hurts your b",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-hot-dog",
+   "name": "Micro Comfort Food Hot Dog",
+   "merchantDescription": "Manhattan Frankfurters, Queens Knackwursts, Brooklyn Weiners, Coneys, Red hots no matter what you call em, hot dogs are special to New Yorkers. Did you know Coney Island hosts the biggest hot dog-eating contest in the world? Truth! This year the winner ate 74 ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 12
+  },
+  {
+   "id": "squishable-micro-comfort-food-pineapple",
+   "name": "Micro Comfort Food Pineapple Keychain",
+   "merchantDescription": "Some things in this world are just as fun when they're upside-down! Like an upside-down Christmas Tree (it's a thing), or eating the bottom of a cupcake first! Pineapple is no different! Back in the good ol' days, many bakers only had a fire and a skillet at t",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-comfort-food-avocado",
+   "name": "Micro Comfort Food Avocado Keychain",
+   "merchantDescription": "The avocado craze is sweeping across toasts from coast-to-coast! From a fancy Brooklyn-Brunch to a good ol' fashioned burger, these green gastro-gems greatly elevate every culinary event! But what to do if you find yourself trapped in an eating experience with",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-comfort-food-gingerbread-man",
+   "name": "Micro Comfort Food Gingerbread Man",
+   "merchantDescription": "Stockings: hung from the chimney with care! Halls: decked! Lights outside: set to music and sucking up enough wattage to power a small space station! What's missing? Your backpack (or purse, messenger bag or even wheeled luggage!)For all the decking, we someti",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-comfort-food-shrimp-sushi",
+   "name": "Micro Comfort Food Shrimp Sushi Keychain",
+   "merchantDescription": "Micro Shrimp SushiWasabi ginger garnishMakes the taste-buds vibeSmall savvy SushiWith clip for frequent travelIs my sushi guideWhat more can I sayInside a Haiku formatOh wait I'm out of Sushi,Comfort Food,Shrimp,Pink,",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  }
+ ]
+}

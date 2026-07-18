@@ -3,7 +3,7 @@
   "note": "Ingestion source registry. Only sources whose product data is published for programmatic access (Shopify's public products.json feed) or accessed via official APIs. No HTML scraping of Amazon/Etsy/eBay — see docs/INGESTION.md for policy.",
   "userAgent": "SuperMegaCuteBot/0.1 (+https://supermegacute.com; product discovery indexing)",
   "rateLimitMs": 1500,
-  "maxPagesPerStore": 4,
+  "maxPagesPerStore": 12,
   "sources": [
     {
       "id": "sanrio",

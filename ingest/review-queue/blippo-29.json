@@ -1,0 +1,989 @@
+{
+ "source": "blippo",
+ "batch": 29,
+ "items": [
+  {
+   "id": "blippo-puccho-chewy-candy-kuromitsu-bubble-milk-tea",
+   "name": "Puccho Chewy Candy - Kuromitsu Bubble Milk Tea",
+   "merchantDescription": "These gummy-infused chewy candies by Puccho are flavored with kuromitsu bubble milk tea. Kuromitsu is Japanese brown sugar syrup. The candies have delicious gummy bits inside that will remind you of soft and chewy tapioca pearls! Enjoy each individually wrappe",
+   "vendor": "TBD",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-kameda-rilakkuma-rice-cracker-set",
+   "name": "Kameda Rilakkuma Rice Cracker Set",
+   "merchantDescription": "Enjoy these crunchy rice crackers with Rilakkuma! These crackers must be Rilakkuma's favorite ones as he takes them everywhere. To the parties, to the picnics, and to the beach! Each set includes four small packages that are different and adorable, making it a",
+   "vendor": "TBD",
+   "productType": "Senbei",
+   "merchantTags": [
+    "Senbei",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "blippo-glico-pretz-biscuit-sticks-butter",
+   "name": "Glico Pretz Biscuit Sticks - Butter",
+   "merchantDescription": "Pretz is a delicious, funny biscuit snack from Japan, made by the famous Glico! Not only do Pretz sticks come in any flavor you can imagine, but they also come in a broad array of styles and shapes. These salty sticks are butter flavored! The package has 2 sma",
+   "vendor": "TBD",
+   "productType": "Biscuit Sticks",
+   "merchantTags": [
+    "Biscuit Sticks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-umaibo-xmas-chocolate-snack-stick-set-5-pcs",
+   "name": "Yaokin Umaibo Xmas Chocolate Snack Stick Set - 5 pcs",
+   "merchantDescription": "Umaibo or \"delicious stick\" is a Japanese puffed corn snack. This corn treat is covered in tasty milk chocolate and is in bite-in-ready shape! The packaging is Xmas themes with the cute Umaemon character. So yummy! One set includes 5 Umaibo chocolate sticks Co",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "Dagashi",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-pretz-thin-biscuit-sticks-cheese",
+   "name": "Glico Pretz Thin Cheese Biscuit Sticks",
+   "merchantDescription": "Pretz is a delicious, funny biscuit snack from Japan, made by the famous Glico! Not only are Pretz sticks covered in a diverse assortment of flavor, but they also come in a broad array of styles and shapes. These special Pretz sticks are extremely thin, and co",
+   "vendor": "TBD",
+   "productType": "Biscuit Sticks",
+   "merchantTags": [
+    "Biscuit Sticks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-umaibo-salami-sausage-snack-stick-set-5-pcs",
+   "name": "Umaibo Salami Sausage Snack Stick Set - 5 pcs",
+   "merchantDescription": "This savory and crunchy puffed corn snack stick is called Umaibo, which is a super famous Japanese snack! Umaibo's salami snack will be your tasty trip to the meat counter. The packaging is decorated with the cute Umaemon character, who is skating around the t",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Dagashi",
+    "Savory Snacks"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-takenoko-no-sato-biscuits-chestnut",
+   "name": "Meiji Takenoko no Sato Bamboo Shoots Biscuits - Chestnut",
+   "merchantDescription": "Takenoko no Sato is a small, bamboo shoot shaped biscuit, coated with different flavored toppings! These bamboo shoots come now in delicious, limited edition autumn flavor! Takenoko no Sato is a companion product to Meiji's super popular and delicious mushroom",
+   "vendor": "TBD",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-pocky-biscuit-sticks-strawberry-flakes-cream",
+   "name": "Pocky Biscuit Sticks - Strawberry Flakes & Cream",
+   "merchantDescription": "Pocky is the most popular and famous Japanese sweet snack, and for a reason! They are available in countless different flavors. These crunchy and crispy biscuit sticks are coated with the delicious real strawberry flakes! The strawberry flakes combined with th",
+   "vendor": "TBD",
+   "productType": "Biscuit Sticks",
+   "merchantTags": [
+    "Biscuit Sticks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-glico-cream-collon-biscuit-roll-party-box-strawberry",
+   "name": "Glico Cream Collon Biscuit Roll Party Box - Strawberry",
+   "merchantDescription": "Glico's Collon biscuits are little wafer roll tubes with a delicious and soft creamy strawberry filling. The crunchy texture and deliciousness of the filling are something that you will not find from any traditional western snacks! The biscuits come in a super",
+   "vendor": "JP / Okashi Ranger",
+   "productType": "Japanese Biscuits",
+   "merchantTags": [
+    "Japanese Biscuits",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-puccho-chewy-candy-plum",
+   "name": "Puccho Chewy Candy - Plum",
+   "merchantDescription": "The secret behind the success of Puccho is that each of these soft and milky candies has chewy fruit gummy bits embedded in them. Thus, you can simultaneously enjoy the milky and chewy candy and the juicy gummy bits! This new fruity, but a bit traditional flav",
+   "vendor": "TBD",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-kit-kat-chocolate-package",
+   "name": "Kit Kat Chocolate Package",
+   "merchantDescription": "Japanese Kit Kat is famous for having new and exciting flavors in addition to their traditional chocolate bars! With these traditional Kit Kat chocolate bars, you can enjoy the daily all-around enjoyable milk chocolate dose! A sweet first bite is followed by a",
+   "vendor": "TBD",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 10.9
+  },
+  {
+   "id": "blippo-heart-kirakira-pretty-cure-gashapon-candy-machine",
+   "name": "Heart KiraKira Pretty Cure Gashapon Candy Machine",
+   "merchantDescription": "The famous Japanese candy manufacturer Heart creates one of the funniest candies and snacks there are! These KiraKira Pretty Cure candy machines are a new fun way to enjoy your treats: spin the knob, and let the machine draw a delicious candy ball after anothe",
+   "vendor": "JP / Tvoos",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "Anime Snacks",
+    "DIY Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 9.9
+  },
+  {
+   "id": "blippo-kit-kat-chocolatory-cranberry-almond-chocolate",
+   "name": "Kit Kat Chocolatory Cranberry & Almond Chocolate",
+   "merchantDescription": "Japanese Kit Kat is famous for having new and exciting flavors for their traditional chocolate bars. With these mini Chocolatory Kit Kat bars, you can enjoy dark milk chocolate, cranberry, and almond crunches all at the same time! These crunchy wafer mini-size",
+   "vendor": "TBD",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 9.5
+  },
+  {
+   "id": "blippo-retron-citron-koguma-no-lime-sit-down-miniature",
+   "name": "Retron Citron Koguma no Lime Sit-down Miniature",
+   "merchantDescription": "You can decorate your dollhouses or even place this tiny ornament on your bedside table! It is shaped like Koguma no Lime sitting down! This polyresin-made sculpture is from Decole's Retron Citron series. A miniature model of Koguma no Lime from the Retron Cit",
+   "vendor": "JP / Palmart",
+   "productType": "Collectibles",
+   "merchantTags": [
+    "Collectibles"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-kit-kat-chocolates-uji-matcha",
+   "name": "Kit Kat Uji Matcha Chocolate",
+   "merchantDescription": "Treat yourself with these Kit Kat Uji Matcha Chocolates! Usually sold only in Kyoto, these Kit Kats are made with matcha green tea from the Uji province of Japan. The flavor is a mix of a fine, luxurious Matcha green tea and a hint of sweet Kit Kat white choco",
+   "vendor": "TBD",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 10.9
+  },
+  {
+   "id": "blippo-meiji-galbo-chocolate",
+   "name": "Meiji Galbo Chocolate",
+   "merchantDescription": "Meiji's Galbo chocolates are popular in Japan for their unique texture. These chocolate snacks are coated with hard chocolaty goodness and have a chocolate-soaked cookie inside. What a tasty surprise! Perfect for picnics and parties! Contents: 59 g Chocolate c",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-pretz-biscuit-sticks-giant-pack-salad-9-pcs",
+   "name": "Pretz Biscuit Sticks Giant Pack - Salad / 9 pcs",
+   "merchantDescription": "Pretz is a delicious, funny biscuit snack from Japan, made by the famous Glico! Not only are Pretz sticks covered in a diverse assortment of flavor, but they also come in a broad array of styles and shapes. These salty sticks are flavored with a yummy flavor o",
+   "vendor": "TBD",
+   "productType": "Biscuit Sticks",
+   "merchantTags": [
+    "Biscuit Sticks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 10.9
+  },
+  {
+   "id": "blippo-tohato-caramel-corn-soft-ice-cream",
+   "name": "Tohato Caramel Corn - Soft Ice Cream",
+   "merchantDescription": "This pack is full of sweet crispiness! Tohato has made these famous caramel corn treats since 1971 and they are popular for a reason! They are famous for making the well-known corn snacks also with many different flavors. This summer special edition is quite d",
+   "vendor": "TBD",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-meiji-pucca-chocolate-biscuits",
+   "name": "Meiji Pucca Chocolate Biscuits",
+   "merchantDescription": "Taste these super delicious Pucca cookies! The crunchy biscuits are filled with milk chocolate, creating a specially delicious treat! From the outside, the biscuits have a lightly salted crunchy pretzel shell and from the inside, they have a smooth chocolate c",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Japanese Biscuits",
+   "merchantTags": [
+    "Japanese Biscuits"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-my-melody-fantasy-pop-up-greeting-card",
+   "name": "My Melody Fantasy Pop-Up Greeting Card",
+   "merchantDescription": "Use this super kawaii pop-up greeting card to send special messages to your loved ones. It features prints of My Melody in a fantasy land with fine golden details. This greeting card also comes with a cute envelope. A super cute pop-up greeting card illustrate",
+   "vendor": "Guangzhou",
+   "productType": "Greeting Cards",
+   "merchantTags": [
+    "Greeting Cards",
+    "On Sale"
+   ],
+   "price": 4.83
+  },
+  {
+   "id": "blippo-kracie-rainbow-tsubutsubu-land-diy-candy-kit",
+   "name": "Kracie Rainbow Tsubutsubu Land DIY Candy Kit",
+   "merchantDescription": "Kracie DIY candy kits are a fun and interesting way to make your candy and treats by crafting them! This is a do-it-yourself kit for creating your own soda-flavored gummy candy ball creations! By mixing and placing the colorful candy sauces to the molds and us",
+   "vendor": "TBD",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "DIY Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "blippo-sumikko-gurashi-together-striped-masking-tape",
+   "name": "Sumikko Gurashi Together Striped Masking Tape",
+   "merchantDescription": "Decorate the borders of your notebooks with this super kawaii masking tape! Its full of diagonal stripes and has a cute illustration of the Sumikko Gurashi gang huddled together! A roll of deco tape featuring the Sumikko Gurashi characters and diagonal stripe",
+   "vendor": "Guangzhou",
+   "productType": "Tapes",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Tapes"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-bourbon-petit-black-cocoa-vanilla-cream-biscuit",
+   "name": "Bourbon Petit Black Cocoa & Vanilla Cream Cookies",
+   "merchantDescription": "These lovely bite-sized chocolate cookies by Bourbon are full of creamy vanilla and rich cocoa flavor! Tasty and petite cookies are crispy and with the cocoa cover and the vanilla cream filling, they are delicious little break snacks! Rich cocoa cookies with v",
+   "vendor": "JP / Mizota",
+   "productType": "Japanese Cookies",
+   "merchantTags": [
+    "Japanese Cookies",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3
+  },
+  {
+   "id": "blippo-kit-kat-chocolates-strawberry",
+   "name": "Kit Kat Chocolates - Strawberry",
+   "merchantDescription": "Japanese Kit Kat is famous for having new and exciting flavors for their traditional chocolate bars. With these mini Kit Kat bars you can enjoy strawberry chocolate crunchy wafer flavors together! Strawberry Chocolate mini bars have a full, sweet strawberry-fl",
+   "vendor": "JP / Niki No Kashi",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "New Arrival"
+   ],
+   "price": 10.9
+  },
+  {
+   "id": "blippo-meisan-pachi-pachi-panic-popping-candy-cola",
+   "name": "Meisan Pachi Pachi Panic Popping Candy - Cola",
+   "merchantDescription": "This exciting Pachi Pachi Panic package by Meisan includes cola popping candies mixed with ramune fizzy tablets! It mixes sweet and sour sensations in your mouth! The sour ramune candies add perfect balance to the popping sweet cola candies that start to fizz ",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Dagashi",
+   "merchantTags": [
+    "Dagashi"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-moko-moko-moko-ofuro-diy-candy-set",
+   "name": "Moko Moko Moko Ofuro DIY Candy Set",
+   "merchantDescription": "Kawaii or silly? You decide! Moko Moko Moko Ofuro is a new addition to the Hearts favorite DIY toilet candy sets. With this DIY set, you get a mini bath tub which you can build and then drink sweet foam drinks from it! Decorate the brightly colored bathtubs wi",
+   "vendor": "TBD",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "DIY Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 10.9
+  },
+  {
+   "id": "blippo-bourbon-petit-double-chocolate-biscuit",
+   "name": "Bourbon Petit Double Chocolate Cookies",
+   "merchantDescription": "Tasty and petite cookies made by Bourbon are so famous in Japan! These lovely bite sized chocolate cookies are frosted with delicious milk chocolate! They are delicious break snacks or perfect as a little dessert after a meal. Share these double chocolate yumm",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-yaokin-sweet-sour-paper-candy-green-apple",
+   "name": "Yaokin Sweet & Sour Paper Candy - Green Apple",
+   "merchantDescription": "Exciting sweet candy that will cheer you up! Even though the candy is thin like paper it is full of rich green apple flavour. The sour sugar coating will bring a wide smile to your face and the fantastic flavor will definitely make your candy moment funnier! C",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Sour Candy",
+   "merchantTags": [
+    "Dagashi",
+    "New Arrival",
+    "Sour Candy"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-acdc-rag-dark-gloomy-t-shirt",
+   "name": "ACDC RAG Dark Gloomy Bear Shirt",
+   "merchantDescription": "Wear this cute shirt featuring Gloomy Bear to show off your love for Harajuku fashion! This dark long-sleeve shirt comes from a Japanese Harajuku clothing brand driven by a \"No Borders\" concept. A kawaii long-sleeve dark shirt featuring prints of Gloomy Bear M",
+   "vendor": "JP / ACDC Rag",
+   "productType": "Tops",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Tops"
+   ],
+   "price": 59.9
+  },
+  {
+   "id": "blippo-giant-strawberry-pocky-biscuit-sticks-pack-9-pcs",
+   "name": "Giant Strawberry Pocky Biscuit Sticks Pack - 8 pcs",
+   "merchantDescription": "Pocky is the most popular and famous Japanese sweet snack, and for a reason! Each Giant Pocky pack includes 8 normal-sized packages of Pocky and the biscuit sticks are covered with delicious strawberry flavored frosting. The ends of the sticks have been left u",
+   "vendor": "JP / Okashi no March",
+   "productType": "Biscuit Sticks",
+   "merchantTags": [
+    "Biscuit Sticks"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-tohato-caramel-corn-christmas-version",
+   "name": "Tohato Caramel Corn Christmas Version",
+   "merchantDescription": "This Christmas pack is full of sweet crispiness! Tohato has made these famous caramel corn treats since 1971, and they are popular for a reason! Compared to original Tohato caramel corn, this package has a sweet holiday feeling to it, and if you are super luck",
+   "vendor": "TBD",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-moominvalley-biscuits-chocolate",
+   "name": "Moominvalley Biscuits - Chocolate",
+   "merchantDescription": "Enjoy these crunchy and delicious biscuits with Moomins! Each biscuit has a Moomin character being cute and funny. Guess which character you'll pick next - maybe it will be the lucky character - \"The Ancestor Moomin!\" The package includes 2 sets of cocoa flavo",
+   "vendor": "TBD",
+   "productType": "Japanese Biscuits",
+   "merchantTags": [
+    "Japanese Biscuits",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "blippo-pastel-my-melody-plushie-medium",
+   "name": "Pastel My Melody Plushie - Medium",
+   "merchantDescription": "Cuddle with this super fluffy medium-sized My Melody plushie! This rainbow pastel-colored plushie features a zipper on its back where you can keep small trinkets! It also comes with a removable ball chain so you can attach it to your favorite bag! A super cute",
+   "vendor": "JP / Toko Toko",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 18.9
+  },
+  {
+   "id": "blippo-puccho-japanese-chewy-candy-cola",
+   "name": "Puccho Chewy Candy - Cola",
+   "merchantDescription": "Puccho cola flavored fruit and yoghurt candies include delicious gummy pieces and real fruit juice. The secret to success of Puccho is that each soft and milky candy piece is embedded with chewy fruit gummy bits. You can enjoy milky and chewy candy and less ch",
+   "vendor": "TBD",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-every-burger-mini-chocolate-biscuit",
+   "name": "Every Burger Mini Chocolate Cookies",
+   "merchantDescription": "These cute treats may look like hamburgers but they're actually made of sweet chocolate filling placed between crispy cookies. They look like just like real mini hamburgers out of fast food restaurant but taste deliciously yummy! The box has enough mini cookie",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Japanese Cookies",
+   "merchantTags": [
+    "Japanese Cookies"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-healin-good-pretty-cure-playing-cards",
+   "name": "Healin' Good Pretty Cure Playing Cards",
+   "merchantDescription": "Have a blast playing different games with friends using this kawaii playing card set! It has fifty-six cards with unique prints of the Healin Good Pretty Cure characters. A cute set of playing cards featuring Healin Good PreCure characters Total of 56 playin",
+   "vendor": "JP / Alpha",
+   "productType": "Games & Toys",
+   "merchantTags": [
+    "Games & Toys",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-pastel-kuromi-plushie-medium",
+   "name": "Pastel Kuromi Plushie - Medium",
+   "merchantDescription": "This super cute Kuromi plushie has been rainbowed with pastel colors! You can cuddle with this cutie as it is super fluffy! It also comes with a zipper on its back for your small trinkets and a removable ball chain! A super cute pastel-colored Kuromi plushie M",
+   "vendor": "JP / Toko Toko",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 18.9
+  },
+  {
+   "id": "blippo-coris-horadekita-popsicle-diy-candy-kit",
+   "name": "Coris Horadekita Popsicle DIY Candy Kit",
+   "merchantDescription": "Snack time can be playtime as well! Use your imagination while creating your own sweet ice creams from soft candy cubes. The reward for your effort and patience? Delicious soda and strawberry-flavored candy ice creams! Just insert the stick into the cubes and ",
+   "vendor": "TBD",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "DIY Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-pocky-biscuit-sticks-choco-banana",
+   "name": "Pocky Biscuit Sticks - Choco Banana",
+   "merchantDescription": "Pocky is the most popular and famous Japanese sweet snack, and for a reason! These biscuit sticks are covered with delicious choco banana flavored frosting. The end of the sticks have been left uncoated so you will not get your fingers sticky while eating them",
+   "vendor": "TBD",
+   "productType": "Biscuit Sticks",
+   "merchantTags": [
+    "Biscuit Sticks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-meltykiss-chocolate-fruity-strawberry",
+   "name": "Meltykiss Chocolate - Fruity Strawberry",
+   "merchantDescription": "Meiji's famous Meltykiss chocolate cubes are so soft and 'melty', that they are not even available during the hot summer months. They will literally melt in your mouth! This beautifully decorated box includes individually wrapped fruity strawberry chocolate cu",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Premium Chocolate",
+   "merchantTags": [
+    "Premium Chocolate"
+   ],
+   "price": 10.96
+  },
+  {
+   "id": "blippo-kracie-nerunerunerune-diy-candy-soda",
+   "name": "Kracie Nerunerunerune DIY Candy - Soda",
+   "merchantDescription": "This do-it-yourself kit is a fun and easy way to make your own Nerunerunerune soda candy with ramune topping! Just add water and mix the ingredients. There are no artificial color additives or preservatives so it is 100% safe for children, and even contains ca",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "DIY Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-my-melody-jewel-coin-purse",
+   "name": "My Melody & Jewel Coin Purse",
+   "merchantDescription": "Sort and organize your loose change with this pretty coin purse featuring My Melody and friends! This waterproof purse features a zip closure, has two compartments, and a crown charm. A pretty coin purse featuring My Melody and friends Features two compartment",
+   "vendor": "JP / Marushin",
+   "productType": "Wallets & Purses",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Wallets & Purses"
+   ],
+   "price": 21.9
+  },
+  {
+   "id": "blippo-coris-chocolate-kinako-mochi-diy-candy-kit",
+   "name": "Coris Chocolate Kinako Mochi DIY Candy Kit",
+   "merchantDescription": "This do-it-yourself kit is a fun and easy way to make your own mochi with kinako and chocolate toppings! Mochi is a traditional rice cake made from mochigome. Just add water to soften the mochi and after that, dip them into delicious toppings! This set is grea",
+   "vendor": "TBD",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "DIY Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-tree-stump-mini-chocolate-biscuit",
+   "name": "Tree Stump Mini Chocolate Cookies",
+   "merchantDescription": "These cute and also a bit strange tree stump shaped treats have smooth chocolate around a crispy cookies. They look like small tree stumps but taste deliciously sweet! Made in Japan by Bourbon",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Japanese Cookies",
+   "merchantTags": [
+    "Japanese Cookies"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-my-melody-no-trace-bangs-hair-clips",
+   "name": "My Melody No-Trace Bangs Hair Clips",
+   "merchantDescription": "This pair of kawaii hair clips features My Melody charms attached to them. Use these cute clips to keep your bangs away from your face. A pair of hair clips featuring My melody Recommended for keeping bangs away Original licensed product from Sanrio Japan",
+   "vendor": "JP / Miyamori",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Hair Goods",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-little-twin-stars-cloud-play-porcelain-bowl",
+   "name": "Little Twin Stars Cloud Play Porcelain Bowl",
+   "merchantDescription": "Serve your favorite warm soup or iced dessert using this super cute porcelain bowl! Its decorated with illustrations of the Little Twin Stars and different cloud shapes. This kawaii bowl is compatible with both microwave and dishwasher use. A bowl featuring t",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 16.9
+  },
+  {
+   "id": "blippo-cinnamoroll-big-head-portable-foldable-umbrella",
+   "name": "Cinnamoroll Big Head Portable Foldable Umbrella",
+   "merchantDescription": "Use this kawaii umbrella to stay during sudden downpours! It features a giant handle shaped like Cinnamorolls head and has illustrations of other Sanrio characters. Secure this umbrella by using its velcro closure and carrying case. A portable foldable umbrel",
+   "vendor": "JP / J's Planning",
+   "productType": "Umbrellas",
+   "merchantTags": [
+    "summer",
+    "synkro-clone-blippo-4553",
+    "Umbrellas"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-pompompurin-poof-ball-hair-tie",
+   "name": "Pompompurin Poof Ball Hair Tie",
+   "merchantDescription": "Keep your hair in place with this super kawaii hair tie! It has a cute poof ball decor with Pompompurin's head attached to it. A kawaii hair tie featuring a poof ball decor with Pompompurin's head attached to it Original licensed product from Sanrio Japan",
+   "vendor": "JP / Marushin",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Hair Goods",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-my-melody-mason-jar-sharpener",
+   "name": "My Melody Mason Jar Sharpener",
+   "merchantDescription": "Sharpen those dull pencils with this adorable mini mason jar-shaped sharpener. It features prints of My Melody with a strawberry and also has a cute screw-on lid. A cute mason jar-shaped sharpener featuring prints of My Melody with a strawberry Features a cute",
+   "vendor": "JP / Marushin",
+   "productType": "Sharpeners",
+   "merchantTags": [
+    "Sharpeners",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-sanrio-t-shirt-sticker-flakes-my-melody",
+   "name": "Sanrio T-Shirt Sticker Flakes - My Melody",
+   "merchantDescription": "Decorate your vanity mirror with these super cute die-cut stickers featuring My Melody and her friend Chip drinking milkshakes! These deco flakes come in ten different designs and come in a tee-shaped resealable pack. Each kawaii sticker is made of transparent",
+   "vendor": "JP / Marushin",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-fluffy-cat-ears-lace-headband-with-bells",
+   "name": "Fluffy Cat Ears Lace Headband With Bells",
+   "merchantDescription": "Add this super cute headband to complete your Sweet Lolita outfit! This kawaii headband has a pair of furry cat ears, lace, ribbons, and bells. A fluffy cat-ear headband decorated with lace and ribbons Ribbons length: 30 cm / 11.81 inches Comes with a pair of",
+   "vendor": "JP / JOYBANK",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "clearance",
+    "Hair Goods",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 14.9
+  },
+  {
+   "id": "blippo-tropical-rouge-pretty-cure-jewel-lipstick",
+   "name": "Tropical-Rouge! Pretty Cure Jewel Lipstick",
+   "merchantDescription": "Glam up with this super kawaii tube of lipstick covered in prints of Tropical-Rouge! Pretty Cure characters. It can color your lips either with a shade of rose or a shade of pink. This cute tube of lipstick has a bejeweled decor on its cover. A tube of lipstic",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Cosmetics",
+   "merchantTags": [
+    "Cosmetics",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-heart-fishing-rod-toy-gum-set",
+   "name": "Heart Fishing Rod Toy & Gum Set",
+   "merchantDescription": "Enjoy chewing the gum included in this set while you have fun fishing! The fishing rod vibrates and makes a clicking sound when you catch a fish. Surprise yourself with a random package design when you order! A set of tasty gum and fishing rod toy Get a random",
+   "vendor": "TBD",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-hello-kitty-big-head-portable-foldable-umbrella",
+   "name": "Hello Kitty Big Head Portable Foldable Umbrella",
+   "merchantDescription": "Stay dry during the rainy season with this super kawaii pastel foldable umbrella featuring prints of different Sanrio characters! It has a cute handle shaped like Hello Kitty's head. You can fold the umbrella, close it with its velcro closure, and keep it in i",
+   "vendor": "JP / J's Planning",
+   "productType": "Umbrellas",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Umbrellas"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-sumikko-gurashi-flowery-eco-bag",
+   "name": "Sumikko Gurashi Flowery Eco Bag",
+   "merchantDescription": "Go shopping for groceries with this super kawaii eco bag featuring prints of the Sumikko Gurashi gang together with flowers! Fold it into a square when you don't need it and pack it inside its carrying case shaped like the head of a member of the Sumikko Guras",
+   "vendor": "JP / J's Planning",
+   "productType": "Tote Bags",
+   "merchantTags": [
+    "clearance",
+    "synkro-clone-blippo-4553",
+    "Tote Bags"
+   ],
+   "price": 10.9
+  },
+  {
+   "id": "blippo-hello-kitty-ribbon-scissors",
+   "name": "Hello Kitty Ribbon Scissors",
+   "merchantDescription": "This super kawaii pair of scissors is illustrated with Hello Kitty! It has a cute plastic ribbon on one of its finger holes and a heart on its pivot point. Use it to cut up paper for arts and crafts! A cute pair of scissors illustrated with Hello Kitty Feature",
+   "vendor": "JP / Marushin",
+   "productType": "Scissors",
+   "merchantTags": [
+    "Scissors",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 14.9
+  },
+  {
+   "id": "blippo-kuromi-big-head-portable-foldable-umbrella",
+   "name": "Kuromi Big Head Portable Foldable Umbrella",
+   "merchantDescription": "This cute umbrella comes in handy come rain or shine! It features a giant handle shaped like Kuromis head and has illustrations of other Sanrio characters. Bring this portable umbrella on your daily commute, and secure it with its velcro closure and carrying ",
+   "vendor": "JP / J's Planning",
+   "productType": "Umbrellas",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Umbrellas"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-little-twin-stars-glittery-lace-hair-tie",
+   "name": "Little Twin Stars Glittery Lace Hair Tie",
+   "merchantDescription": "This super cute hair tie has a plastic jewel bead and a glittery lace ball. Its lace has a ribbon with prints of Kiki and Lala attached to it. Fashion your hair into a ponytail using this kawaii hair tie! A super kawaii hair tie decorated with a plastic jewel ",
+   "vendor": "JP / Marushin",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Hair Goods",
+    "On Sale"
+   ],
+   "price": 5.52
+  },
+  {
+   "id": "blippo-pompompurin-die-cut-hairbrush",
+   "name": "Pompompurin Die-Cut Hairbrush",
+   "merchantDescription": "This kawaii hairbrush is shaped like Pompompurin thats holding his best friend, Muffin!! Use this brush made of durable material to detangle and smoothen your hair. It can come into contact with hairdryer temperatures of up to 70º C. A die-cut hairbrush featu",
+   "vendor": "JP / Marushin",
+   "productType": "Beauty Accessories",
+   "merchantTags": [
+    "Beauty Accessories",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 16.9
+  },
+  {
+   "id": "blippo-soft-lace-lolita-headband",
+   "name": "Soft Lace Lolita Headband",
+   "merchantDescription": "Wear this kawaii headband to complete your Classic or Sweet Lolita outfit! Its full of lace and ruched bows. You can also tie the ribbon ends on your neck. A super cute headband decorated with lace and ribbons Comes with ribbon ends that you can tie on your n",
+   "vendor": "JP / JOYBANK",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Hair Goods",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 20.55
+  },
+  {
+   "id": "blippo-bt21-fast-food-memo-pad",
+   "name": "BT21 Fast Food Memo Pad",
+   "merchantDescription": "Write down important reminders using this super kawaii memo pad! It has a transparent cover page and two sheet designs featuring a BT21 character playing with fast food. BT21 is a collaboration between K-pop group BTS and LINE FRIENDS, a group of featured char",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Notepads",
+   "merchantTags": [
+    "Notepads",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.03
+  },
+  {
+   "id": "blippo-mixed-drops-ice-cream",
+   "name": "Morinaga Mixed Drops - Ice Cream",
+   "merchantDescription": "Drops are hard and sweet candies and come in several fruity tastes. These mixed drops are packed in a cute tin box that is decorated with a picture of a cute ice cream serving. Try these sweets that are some of the oldest and most popular candies in Japan. Con",
+   "vendor": "TBD",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 9.9
+  },
+  {
+   "id": "blippo-my-melody-big-head-portable-foldable-umbrella",
+   "name": "My Melody Big Head Portable Foldable Umbrella",
+   "merchantDescription": "This super cute foldable umbrella features prints of different Sanrio characters! It also has a handle shaped like My Melody's head. Fold the umbrella, secure it with its velcro closure, and keep it inside its carrying case when you don't need it. A kawaii fol",
+   "vendor": "JP / J's Planning",
+   "productType": "Umbrellas",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Umbrellas"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-sumikko-gurashi-fluffy-round-coin-purse",
+   "name": "Sumikko Gurashi Fluffy Round Coin Purse",
+   "merchantDescription": "Keep your coins and other small items inside this round-shaped character coin purse from the Sumikko Gurashi series! Its made of super soft material and has a zipper closure. You can attach it to your bag using its removable ball chain. A circular character c",
+   "vendor": "JP / K Company",
+   "productType": "Wallets & Purses",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Wallets & Purses"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-hello-kitty-sakura-glittery-chopsticks",
+   "name": "Hello Kitty & Sakura Glittery Chopsticks",
+   "merchantDescription": "Whip out this cute pair of shimmery chopsticks the next time you dine out! Its decorated with illustrations of Hello Kitty and cherry blossoms all over. This kawaii pair is made of durable material which makes it reusable. A pair of shimmery chopsticks featur",
+   "vendor": "JP / Marushin",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 12.9
+  },
+  {
+   "id": "blippo-kiki-s-delivery-service-jiji-pastel-bamboo-chopsticks",
+   "name": "Kiki's Delivery Service Jiji Pastel Bamboo Chopsticks",
+   "merchantDescription": "Use these super kawaii pair of chopsticks to eat a healthy meal! These chopsticks features Jiji from \"Kiki's Delivery Service\" with a cute pastel-colored background. A cute pair of chopsticks featuring Jiji from Kiki's Delivery Service with a pastel-colored ba",
+   "vendor": "JP / Florex",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "On Sale"
+   ],
+   "price": 5.53
+  },
+  {
+   "id": "blippo-sumikko-gurashi-shoulder-bag-tokage-31755",
+   "name": "Sumikko Gurashi Shoulder Bag - Tokage",
+   "merchantDescription": "Carry your things using this super cute shoulder bag shaped like Tokage from the Sumikko Gurashi! It features a zipper closure and an adjustable shoulder strap so you can wear it any way you want. A cute shoulder bag shaped like Tokage from the Sumikko Gurashi",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Shoulder Bags",
+   "merchantTags": [
+    "Shoulder Bags",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 26.9
+  },
+  {
+   "id": "blippo-my-melody-side-bangs-hair-clips",
+   "name": "My Melody Side Bangs Hair Clips",
+   "merchantDescription": "Use these super cute barettes to clip your bangs to the side of your face! These kawaii clips feature die-cut designs of My Melody. A cute set of clips featuring die-cut designs of My Melody Total of 2 clips in the set Recommended for clipping bangs to the sid",
+   "vendor": "JP / Miyamori",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Hair Goods",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.9
+  },
+  {
+   "id": "blippo-little-twin-stars-playtime-sticker-flakes",
+   "name": "Little Twin Stars Playtime Sticker Flakes",
+   "merchantDescription": "Glam up your crafting projects with this super kawaii pack of stickers featuring Kiki and Lala playing with stars! These transparent stickers with silver foil edges come in a resealable bag designed to look like a T-shirt. A cute pack of transparent stickers w",
+   "vendor": "JP / Marushin",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-pokemon-smiling-pikachu-chopsticks-set",
+   "name": "Pokemon Smiling Pikachu Chopsticks Set",
+   "merchantDescription": "Have fun using this reusable pair of chopsticks whenever you eat ramen! It features cute prints of Pikachus face plus Pokéballs on the case made of sturdy material! Slide the lid out so you can take the chopsticks out. This kawaii set has silver ion propertie",
+   "vendor": "JP / Skater",
+   "productType": "Dining",
+   "merchantTags": [
+    "clearance",
+    "Dining",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 9.9
+  },
+  {
+   "id": "blippo-spirited-away-no-face-knitting-stand-figure",
+   "name": "Spirited Away No-Face Knitting Stand Figure",
+   "merchantDescription": "Place this kawaii No-Figure stand figure on your desk! This cutie from Spirited Away is busy sitting down knitting. You can place small items in the balls of yarn like keys, pens, or tubes of lipstick. A super cute No-Face stand figure from Spirited Away sitti",
+   "vendor": "JP / Air Plants Dream",
+   "productType": "Dolls & Figures",
+   "merchantTags": [
+    "Dolls & Figures",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 24.9
+  },
+  {
+   "id": "blippo-my-neighbor-totoro-figure-collection-chu-totoro-chibi-totoro",
+   "name": "My Neighbor Totoro Figure Collection - Chu Totoro & Chibi Totoro",
+   "merchantDescription": "These super cute Chu Totoro and Chibi Totoro figures come from the My Neighbor Totoro Figure Collection! Enjoy feeling the short fluffy texture of these kawaii figures. You can add these collectibles to your Studio Ghibli display case! A kawaii set of Chu Toto",
+   "vendor": "JP / Tokiwa Shoji",
+   "productType": "Dolls & Figures",
+   "merchantTags": [
+    "Dolls & Figures",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 33.9
+  },
+  {
+   "id": "blippo-sumikko-gurashi-burger-long-towel",
+   "name": "Sumikko Gurashi Burger Long Towel",
+   "merchantDescription": "Dry off after a quick swim at the beach using this long towel! Its made of super-soft cotton and is covered with illustrations of the Sumikko Gurashi gang as parts of a yummy burger! A super cute long towel illustrated with the Sumikko Gurashi gang as parts o",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Bath",
+   "merchantTags": [
+    "Bath",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 15.9
+  },
+  {
+   "id": "blippo-cinnamoroll-cloudy-hearts-plate",
+   "name": "Cinnamoroll Cloudy Hearts Plate",
+   "merchantDescription": "This super kawaii plate features prints of Cinnamoroll floating with clouds and hearts. Use this plate to eat your favorite meals! It's safe for both microwave and dishwasher use. A cute plate illustrated with prints of Cinnamoroll floating with clouds and hea",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 12.9
+  },
+  {
+   "id": "blippo-bonbonribbon-clear-heart-hair-tie",
+   "name": "Bonbonribbon Clear Heart Hair Tie",
+   "merchantDescription": "This super cute hair tie has a tiny Bonbonribbon charm inside a bigger transparent heart charm! Use this to add a dose of kawaii to your hairstyle. A hair tie featuring a Bonbonribbon charm inside a bigger transparent heart charm Made of durable material Origi",
+   "vendor": "JP / Alpha",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Hair Goods",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-my-neighbor-totoro-bell-plushie-charm-autumn-totoro",
+   "name": "My Neighbor Totoro Bell Plushie Charm - Autumn Totoro",
+   "merchantDescription": "Hang this kawaii medium-sized My Neighbor Totoro plushie charm on your bedpost! It features a mini Totoro plushie with maple leaf and acorn charms. This cute decor also includes a sleigh bell that looks like a soot sprite and a metal hook. A medium-sized charm",
+   "vendor": "JP / Alpha",
+   "productType": "Plush Charms",
+   "merchantTags": [
+    "Plush Charms",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-6dokidoki-glittery-hair-tie",
+   "name": "6%DOKIDOKI Glittery Hair Tie",
+   "merchantDescription": "Keep your hair off your face by using a shimmery hair tie! It has kawaii illustrations of bows and polka dots. A sparkly hair tie with polka dots and ribbon illustrations Original item from 6%DOKIDOKI Japan",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "clearance",
+    "Hair Goods",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.45
+  },
+  {
+   "id": "blippo-morinaga-premium-chewy-candy-rich-lemon",
+   "name": "Morinaga Premium Chewy Candy - Rich Lemon",
+   "merchantDescription": "Enjoy the taste of juicy lemons as you bite into these treats! Each piece has a crunchy outer layer, a mochi-like center, and is packed with fresh lemon juice. Take these candies anywhere with its resealable pack! A pack of premium chewy candies with fresh lem",
+   "vendor": "TBD",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-yaokin-grape-roll-candy",
+   "name": "Yaokin Grape Roll Candy",
+   "merchantDescription": "Enjoy every bite of this chewy candy roll flavored with natural grape juice! It has a 50-centimeter length of sweet and refreshing soft candy for more juicy goodness! A pack of candy roll with a grape flavor Length: 50 cm Made in Japan by Yaokin",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "Dagashi"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-little-twin-stars-unicorn-race-utensil-set",
+   "name": "Little Twin Stars Unicorn Race Utensil Set",
+   "merchantDescription": "Take this super cute utensil set on your next lunch out! The clear lid and utensils are all decorated with the Little Twin Stars racing with unicorns! Simply slide the lid to take out your fork, spoon, and bamboo chopsticks. The kawaii set except for the woode",
+   "vendor": "JP / Marushin",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 22.9
+  }
+ ]
+}

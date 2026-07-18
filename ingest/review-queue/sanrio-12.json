@@ -1,0 +1,1446 @@
+{
+ "source": "sanrio",
+ "batch": 12,
+ "items": [
+  {
+   "id": "sanrio-kuromi-fuzzy-mini-zipper-pouch",
+   "name": "Kuromi Fuzzy Mini Zipper Pouch",
+   "merchantDescription": "This must-have pouch keeps your things tidy while showing off a cute face design that brings your favorite Sanrio character along for the ride. It also features a fun heart-shaped carabiner, perfect for clipping onto your backpack or bag wherever you wander. ♡",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "Cosmetic & Toiletry Bags",
+    "Cosmetic bag",
+    "MEM-ORIG-25",
+    "NA-010926"
+   ],
+   "price": 9.74
+  },
+  {
+   "id": "sanrio-cinnamoroll-fuzzy-mini-zipper-pouch",
+   "name": "Cinnamoroll Fuzzy Mini Zipper Pouch",
+   "merchantDescription": "This must-have pouch keeps your things tidy while showing off a cute face design that brings your favorite Sanrio character along for the ride. It also features a fun heart-shaped carabiner, perfect for clipping onto your backpack or bag wherever you wander. ♡",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "Cosmetic & Toiletry Bags",
+    "Cosmetic bag",
+    "MEM-ORIG-25",
+    "NA-010926"
+   ],
+   "price": 9.74
+  },
+  {
+   "id": "sanrio-my-melody-fuzzy-mini-zipper-pouch",
+   "name": "My Melody Fuzzy Mini Zipper Pouch",
+   "merchantDescription": "This must-have pouch keeps your things tidy while showing off a cute face design that brings your favorite Sanrio character along for the ride. It also features a fun heart-shaped carabiner, perfect for clipping onto your backpack or bag wherever you wander. ♡",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "Cosmetic & Toiletry Bags",
+    "Cosmetic bag",
+    "NA-010926",
+    "PO:Pnov25"
+   ],
+   "price": 12.99
+  },
+  {
+   "id": "sanrio-hello-kitty-fuzzy-mini-zipper-pouch",
+   "name": "Hello Kitty Fuzzy Mini Zipper Pouch",
+   "merchantDescription": "This must-have pouch keeps your things tidy while showing off a cute face design that brings your favorite Sanrio character along for the ride. It also features a fun heart-shaped carabiner, perfect for clipping onto your backpack or bag wherever you wander. ♡",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "Cosmetic & Toiletry Bags",
+    "Cosmetic bag",
+    "MEM-ORIG-25",
+    "NA-010926"
+   ],
+   "price": 9.74
+  },
+  {
+   "id": "sanrio-cinnamoroll-plush-mascot-clip-hakama-series",
+   "name": "Cinnamoroll Plush Mascot Clip (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Nakajima Corporation",
+    "Character:Cinnamoroll",
+    "Keychains",
+    "Mascots",
+    "NA-010926",
+    "Plush"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sanrio-my-melody-plush-mascot-clip-hakama-series",
+   "name": "My Melody Plush Mascot Clip (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Nakajima Corporation",
+    "Character:My Melody",
+    "Keychains",
+    "Mascots",
+    "MEM-NON-ON-40",
+    "NA-010926"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-bean-doll-plush-hakama-series",
+   "name": "Cinnamoroll Bean Doll Plush (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Cinnamoroll",
+    "MEM-NO-20",
+    "NA-010926",
+    "Plush",
+    "PO:Npsep25",
+    "prodavail",
+    "Spring"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-hello-kitty-bean-doll-plush-hakama-series",
+   "name": "Hello Kitty Bean Doll Plush (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "MEM-NO-20",
+    "NA-010926",
+    "Plush",
+    "PO:Npsep25",
+    "prodavail",
+    "Spring"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-kuromi-plush-mascot-clip-hakama-series",
+   "name": "Kuromi Plush Mascot Clip (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Nakajima Corporation",
+    "Character:Kuromi",
+    "Keychains",
+    "Mascots",
+    "MEM-NON-ON-30",
+    "NA-010926"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sanrio-hello-kitty-plush-mascot-clip-hakama-series",
+   "name": "Hello Kitty Plush Mascot Clip (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Keychains",
+    "Mascots",
+    "NA-010926",
+    "Plush"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sanrio-kuromi-bean-doll-plush-hakama-series",
+   "name": "Kuromi Bean Doll Plush (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Kuromi",
+    "MEM-NO-20",
+    "NA-010926",
+    "Plush",
+    "PO:Npsep25",
+    "prodavail",
+    "Spring"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-my-melody-bean-doll-plush-hakama-series",
+   "name": "My Melody Bean Doll Plush (Hakama Series)",
+   "merchantDescription": "A hakama kimono is a traditional Japanese garment, specifically a wide-legged trouser-like skirt worn over a kimono. It's a key part of formal attire, particularly for special ceremonies and occasions. Decorated in floral and traditional Japanese prints, your ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:My Melody",
+    "NA-010926",
+    "Plush",
+    "PO:Npsep25",
+    "prodavail",
+    "Spring",
+    "SpringThings"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-pochacco-plush-storage-tray",
+   "name": "Pochacco Plush Storage Tray",
+   "merchantDescription": "This must-have accessory tray helps keep your space neat and organized. How delightful is it to find your favorite Sanrio character lounging in this little storage box? Give your belongings a designated spot from getting misplaced or cluttered. Ideal for holdi",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Pochacco",
+    "Decorative Trays",
+    "Home Decor",
+    "Home Goods",
+    "NA-010926",
+    "PO:Poct25"
+   ],
+   "price": 24
+  },
+  {
+   "id": "sanrio-kuromi-plush-storage-tray",
+   "name": "Kuromi Plush Storage Tray",
+   "merchantDescription": "This must-have accessory tray helps keep your space neat and organized. How delightful is it to find your favorite Sanrio character lounging in this little storage box? Give your belongings a designated spot from getting misplaced or cluttered. Ideal for holdi",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "Decorative Trays",
+    "Home Decor",
+    "Home Goods",
+    "NA-010926",
+    "PO:Poct25"
+   ],
+   "price": 24
+  },
+  {
+   "id": "sanrio-hello-kitty-plush-storage-tray",
+   "name": "Hello Kitty Plush Storage Tray",
+   "merchantDescription": "This must-have accessory tray helps keep your space neat and organized. How delightful is it to find your favorite Sanrio character lounging in this little storage box? Give your belongings a designated spot from getting misplaced or cluttered. Ideal for holdi",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "Decorative Trays",
+    "Home Decor",
+    "Home Goods",
+    "NA-010926",
+    "PO:Poct25"
+   ],
+   "price": 24
+  },
+  {
+   "id": "sanrio-hello-kitty-3d-soap-dispenser",
+   "name": "Hello Kitty 3D Soap Dispenser",
+   "merchantDescription": "Make bath time more cheerful with the delightful 3D Soap Dispenser! This cute character design is sure to make you smile each time you use it. Ideal for adding a fun and whimsical vibe to your bathroom or washroom. ♡ Made for gel soap only ♡ PET resin, polypro",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bathroom",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "Home Decor",
+    "Home Goods",
+    "MEM-ORIG-10"
+   ],
+   "price": 11.69
+  },
+  {
+   "id": "sanrio-cinnamoroll-plush-storage-tray",
+   "name": "Cinnamoroll Plush Storage Tray",
+   "merchantDescription": "This must-have accessory tray helps keep your space neat and organized. How delightful is it to find your favorite Sanrio character lounging in this little storage box? Give your belongings a designated spot from getting misplaced or cluttered. Ideal for holdi",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "Decorative Trays",
+    "Home Decor",
+    "Home Goods",
+    "NA-010926",
+    "PO:Poct25"
+   ],
+   "price": 24
+  },
+  {
+   "id": "sanrio-my-melody-14-red-standing-plush-spring-kimono-series",
+   "name": "My Melody 14\" Red Standing Plush (Spring Kimono Series)",
+   "merchantDescription": "With vibrant hues of purple and touches of cherry blossoms, your favorite Sanrio Characters are dressed for Sakura season and all the beauty the spring season brings! With embroidered and applique details, this standing plush is a great display piece to add a ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:My Melody",
+    "NA-010926",
+    "Plush",
+    "PO:Npaug25",
+    "prodavail",
+    "SocialFF",
+    "Spring"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-cinnamoroll-9-blue-sitting-plush-spring-kimono-series",
+   "name": "Cinnamoroll 9\" Blue Sitting Plush (Spring Kimono Series)",
+   "merchantDescription": "With vibrant hues of purple and touches of cherry blossoms, your favorite Sanrio Characters are dressed for Sakura season and all the beauty the spring season brings! With embroidered and applique details, this plush is a great display piece to add a bright to",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Cinnamoroll",
+    "MEM-NO-20",
+    "NA-010926",
+    "Plush",
+    "PO:Npaug25",
+    "prodavail",
+    "SocialFF"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-kuromi-14-pink-standing-plush-spring-kimono-series",
+   "name": "Kuromi 14\" Pink Standing Plush (Spring Kimono Series)",
+   "merchantDescription": "With vibrant hues of purple and touches of cherry blossoms, your favorite Sanrio Characters are dressed for Sakura season and all the beauty the spring season brings! With embroidered and applique details, this standing plush is a great display piece to add a ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Kuromi",
+    "NA-010926",
+    "Plush",
+    "PO:Npaug25",
+    "prodavail",
+    "SocialFF",
+    "Spring"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-hello-kitty-12-blue-standing-plush-spring-kimono-series",
+   "name": "Hello Kitty 12\" Blue Standing Plush (Spring Kimono Series)",
+   "merchantDescription": "With vibrant hues of purple and touches of cherry blossoms, your favorite Sanrio Characters are dressed for Sakura season and all the beauty the spring season brings! With embroidered and applique details, this standing plush is a great display piece to add a ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "NA-010926",
+    "Plush",
+    "PO:Npaug25",
+    "prodavail",
+    "Spring",
+    "SpringThings"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-hello-kitty-12-pink-standing-plush-spring-kimono-series",
+   "name": "Hello Kitty 12\" Pink Standing Plush (Spring Kimono Series)",
+   "merchantDescription": "With vibrant hues of purple and touches of cherry blossoms, your favorite Sanrio Characters are dressed for Sakura season and all the beauty the spring season brings! With embroidered and applique details, this standing plush is a great display piece to add a ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "NA-010926",
+    "Plush",
+    "PO:Npaug25",
+    "prodavail",
+    "SocialFF",
+    "Spring"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-holiday-cozy-corner-ceramic-mug",
+   "name": "Hello Kitty and Friends Holiday Cozy Corner Ceramic Mug",
+   "merchantDescription": "Snuggle up with Hello Kitty and Friends in this charming ceramic mug! Perfect for your morning coffee, hot cocoa, or favorite warm beverage, this tall mug features limited-edition Cozy Corner artwork that brings a touch of whimsy to your daily routine. The gen",
+   "vendor": "Culture Studio",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025HOLIDAY",
+    "Brand:Culture Studio",
+    "Character:Hello Kitty & Friends",
+    "Cozy Corner",
+    "Exclusive",
+    "Holiday",
+    "Home Goods",
+    "Kitchen"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-my-melody-kuromi-x-wet-n-wild-swirl-cream-blush-kuromi",
+   "name": "My Melody & Kuromi x Wet n Wild Swirl Cream Blush (Kuromi)",
+   "merchantDescription": "Wet n Wild x My Melody Kuromi: Inspired by My Melody and Kuromi, this collection blends dreamy pastels with a rebellious edge for looks that are equal parts adorable and daring. Embrace both your sweet and mischievous sides with products that let you be as cha",
+   "vendor": "MARKWINS",
+   "productType": "Beauty",
+   "merchantTags": [
+    "Beauty",
+    "Beauty Tools",
+    "Blushes & Bronzers",
+    "Brand:Markwins",
+    "Character:Kuromi",
+    "Home Goods",
+    "MM&KU",
+    "MM50"
+   ],
+   "price": 9.8
+  },
+  {
+   "id": "sanrio-hello-kitty-x-tokidoki-vinyl-wallet-fast-food",
+   "name": "Hello Kitty x Tokidoki Vinyl Wallet (Fast Food)",
+   "merchantDescription": "The Tokidoki x Hello Kitty and Friends Fast Food Collection is serving looks and smiles! Pull up a seat at the Kawaii Diner, where every bite is cute and every sip sparkles! The tokidoki x Hello Kitty and Friends Fast Food Collection is open 24 hours a day and",
+   "vendor": "TOKIDOKI",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:TOKIDOKI",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi",
+    "Character:My Melody",
+    "Character:Pochacco"
+   ],
+   "price": 16
+  },
+  {
+   "id": "sanrio-hello-kitty-47-christmas-tree-ekkolight-infinity-light",
+   "name": "Hello Kitty 47\" Christmas Tree Ekkolight Infinity Light",
+   "merchantDescription": "Infused with the supercute charm of Hello Kitty®? , this festive Tree Ekkolight brings a magical touch to any space or event. This brilliant LED lights add a cheerful and festive atmosphere to your décor. Perfect for customers looking to brighten their homes w",
+   "vendor": "Melrose",
+   "productType": "Home",
+   "merchantTags": [
+    "2025HOLIDAY",
+    "Brand:Melrose",
+    "Character:Hello Kitty",
+    "DROPSHIP",
+    "Holiday",
+    "Home",
+    "Home Decor",
+    "Lighting"
+   ],
+   "price": 251.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-40-wagon-ekkolight-infinity-light",
+   "name": "Hello Kitty and Friends 40\" Wagon Ekkolight Infinity Light",
+   "merchantDescription": "Infused with the supercute charm of Hello Kitty®? , this Hello Kitty and Friends Wagon Ekkolight brings a magical touch to any space or event. This bright LED lights create a cheerful and vibrant atmosphere. Perfect for customers looking to add a sprinkle of h",
+   "vendor": "Melrose",
+   "productType": "Home",
+   "merchantTags": [
+    "Brand:Melrose",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:My Melody",
+    "DROPSHIP",
+    "Home",
+    "Home Decor",
+    "Lighting"
+   ],
+   "price": 154.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-studio-oh-10-pc-lny-envelope-pack-",
+   "name": "Hello Kitty and Friends x Studio Oh! 10-pc LNY Envelope Pack (Year of the Horse)",
+   "merchantDescription": "Happy Lunar New Year everyone! Hello Kitty and Friends come ushering in good luck and absolute cuteness, celebrating the Year of the Horse! This set of 10 envelopes, features rich character artwork plus gold accents that are sure to wish loved ones hope and ha",
+   "vendor": "Orange Circle",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:Orange Circle",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "Character:Pompompurin"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-plush-tote-bag-strawberry-fields",
+   "name": "Cinnamoroll Plush Tote Bag (Strawberry Fields)",
+   "merchantDescription": "Take Cinnamoroll along on all your adventures with this irresistibly cute plush tote bag! Soft and huggable on the outside, it's surprisingly practical inside with dual carrying handles, a roomy zippered compartment, and a hidden interior pocket for your must-",
+   "vendor": "BIOWORLD",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Bioworld",
+    "Character:Cinnamoroll",
+    "MEM-NO-50",
+    "NA-121925",
+    "PO:L333",
+    "prodavail",
+    "SocialFF"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sanrio-pochacco-x-tokidoki-large-sticker-fast-food",
+   "name": "Pochacco x Tokidoki Large Sticker (Fast Food)",
+   "merchantDescription": "Welcome to the cutest diner in town! The Tokidoki x Hello Kitty and Friends Blind Box Series is packed with retro roller-rink vibes, fast-food fun, and tons of tiny details you will love! From Pompompurin Hot Doggy Unicorno, Cinnamoroll, Keroppi, Hello Kitty, ",
+   "vendor": "TOKIDOKI",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:TOKIDOKI",
+    "Character:Pochacco",
+    "Decorative Stickers",
+    "NA-121925",
+    "PO:L075",
+    "prodavail",
+    "Stationery",
+    "Stickers"
+   ],
+   "price": 8
+  },
+  {
+   "id": "sanrio-kuromi-x-tokidoki-large-sticker-fast-food",
+   "name": "Kuromi x Tokidoki Large Sticker (Fast Food)",
+   "merchantDescription": "Welcome to the cutest diner in town! The Tokidoki x Hello Kitty and Friends Blind Box Series is packed with retro roller-rink vibes, fast-food fun, and tons of tiny details you will love! From Pompompurin Hot Doggy Unicorno, Cinnamoroll, Keroppi, Hello Kitty, ",
+   "vendor": "TOKIDOKI",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:TOKIDOKI",
+    "Character:Kuromi",
+    "Decorative Stickers",
+    "NA-121925",
+    "PO:L075",
+    "prodavail",
+    "Stationery",
+    "Stickers"
+   ],
+   "price": 8
+  },
+  {
+   "id": "sanrio-my-melody-x-tokidoki-large-sticker-fast-food",
+   "name": "My Melody x Tokidoki Large Sticker (Fast Food)",
+   "merchantDescription": "Welcome to the cutest diner in town! The Tokidoki x Hello Kitty and Friends Blind Box Series is packed with retro roller-rink vibes, fast-food fun, and tons of tiny details you will love! From Pompompurin Hot Doggy Unicorno, Cinnamoroll, Keroppi, Hello Kitty, ",
+   "vendor": "TOKIDOKI",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:TOKIDOKI",
+    "Character:My Melody",
+    "Decorative Stickers",
+    "NA-121925",
+    "PO:L075",
+    "prodavail",
+    "Stationery",
+    "Stickers"
+   ],
+   "price": 8
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-tokidoki-mini-zip-bag-charm-fast-f",
+   "name": "Hello Kitty and Friends x Tokidoki Mini Zip Bag Charm (Fast Food)",
+   "merchantDescription": "The Tokidoki x Hello Kitty and Friends Fast Food Collection is serving looks and smiles! Pull up a seat at the Kawaii Diner, where every bite is cute and every sip sparkles! The tokidoki x Hello Kitty and Friends Fast Food Collection is open 24 hours a day and",
+   "vendor": "TOKIDOKI",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Tokidoki",
+    "Character:Badtz-maru",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi"
+   ],
+   "price": 24
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-tokidoki-4-pc-button-set-fast-food",
+   "name": "Hello Kitty and Friends x Tokidoki 4-pc Button Set (Fast Food)",
+   "merchantDescription": "The Tokidoki x Hello Kitty and Friends Fast Food Collection is serving looks and smiles! Pull up a seat at the Kawaii Diner, where every bite is cute and every sip sparkles! The tokidoki x Hello Kitty and Friends Fast Food Collection is open 24 hours a day and",
+   "vendor": "TOKIDOKI",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Tokidoki",
+    "Button Studs",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi"
+   ],
+   "price": 6
+  },
+  {
+   "id": "sanrio-hello-kitty-x-tokidoki-drive-in-acrylic-keychain-fast-food",
+   "name": "Hello Kitty x Tokidoki Drive-In Acrylic Keychain (Fast Food)",
+   "merchantDescription": "The Tokidoki x Hello Kitty and Friends Fast Food Collection is serving looks and smiles! Pull up a seat at the Kawaii Diner, where every bite is cute and every sip sparkles! The tokidoki x Hello Kitty and Friends Fast Food Collection is open 24 hours a day and",
+   "vendor": "TOKIDOKI",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:TOKIDOKI",
+    "Character:Hello Kitty",
+    "Keychains",
+    "MEM-NO-50",
+    "NA-121925",
+    "PO:L075"
+   ],
+   "price": 9
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-tokidoki-so-fresh-so-cute-tee-fast",
+   "name": "Hello Kitty and Friends x Tokidoki So Fresh, So Cute Tee (Fast Food)",
+   "merchantDescription": "The Tokidoki x Hello Kitty and Friends Fast Food Collection is serving looks and smiles! Pull up a seat at the Kawaii Diner, where every bite is cute and every sip sparkles! The tokidoki x Hello Kitty and Friends Fast Food Collection is open 24 hours a day and",
+   "vendor": "TOKIDOKI",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "Brand:TOKIDOKI",
+    "Character:Cinnamoroll",
+    "MEM-NO-20",
+    "NA-121925",
+    "PO:L075",
+    "prodavail",
+    "T-Shirts"
+   ],
+   "price": 28
+  },
+  {
+   "id": "sanrio-hello-kitty-x-tokidoki-large-sticker-fast-food",
+   "name": "Hello Kitty x Tokidoki Large Sticker (Fast Food)",
+   "merchantDescription": "Welcome to the cutest diner in town! The Tokidoki x Hello Kitty and Friends Blind Box Series is packed with retro roller-rink vibes, fast-food fun, and tons of tiny details you will love! From Pompompurin Hot Doggy Unicorno, Cinnamoroll, Keroppi, Hello Kitty, ",
+   "vendor": "TOKIDOKI",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:TOKIDOKI",
+    "Character:Hello Kitty",
+    "Decorative Stickers",
+    "NA-121925",
+    "PO:L075",
+    "prodavail",
+    "Stationery",
+    "Stickers"
+   ],
+   "price": 8
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-sonix-sports-neoprene-tech-sleeve",
+   "name": "Hello Kitty and Friends x Sonix Sports Neoprene Tech Sleeve",
+   "merchantDescription": "Add a playful touch to your tech with this colorful and vibrant Hello Kitty and Friends Sports Tech Sleeve, designed to protect your laptop or tablet from your daily commute. Crafted from durable, padded neoprene-like material, it offers excellent protection a",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Brand:Sonix",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Kuromi"
+   ],
+   "price": 26.99
+  },
+  {
+   "id": "sanrio-kuromi-x-sonix-plush-tech-sleeve",
+   "name": "Kuromi x Sonix Plush Tech Sleeve",
+   "merchantDescription": "Wrap and protect your tech in adorable, fuzzy style with the Hello Kitty and Friends Plush Tech Sleeve, featuring beloved Sanrio characters Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This kawaii and cozy sleeve offers a plush exterior that brings each ch",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Kuromi",
+    "Laptop Bags",
+    "MEM-NO-50",
+    "NA-121225"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-badtz-maru-mini-backpack-charm-all-together-hapidanbui-desig",
+   "name": "Badtz-maru Mini Backpack Charm (All Together Hapidanbui Design Series)",
+   "merchantDescription": "\"Together, anything is possible! Let's join hands and unleash our Hapi-power!\" Meet Hapidanbui, a fun-loving Sanrio gang made up of six charming friends: Badtz-Maru, Tuxedosam, Pochacco, Hangyodon, Keroppi, and Pekkle. These adorable characters embody friendsh",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Brand:Japan Original",
+    "Character:Badtz-maru",
+    "Character:Hapidanbui",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-pekkle-mini-backpack-charm-all-together-hapidanbui-design-se",
+   "name": "Pekkle Mini Backpack Charm (All Together Hapidanbui Design Series)",
+   "merchantDescription": "\"Together, anything is possible! Let's join hands and unleash our Hapi-power!\" Meet Hapidanbui, a fun-loving Sanrio gang made up of six charming friends: Badtz-Maru, Tuxedosam, Pochacco, Hangyodon, Keroppi, and Pekkle. These adorable characters embody friendsh",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Brand:Japan Original",
+    "Character:Hapidanbui",
+    "Character:Pekkle",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "sanrio-keroppi-mini-backpack-charm-all-together-hapidanbui-design-s",
+   "name": "Keroppi Mini Backpack Charm (All Together Hapidanbui Design Series)",
+   "merchantDescription": "\"Together, anything is possible! Let's join hands and unleash our Hapi-power!\" Meet Hapidanbui, a fun-loving Sanrio gang made up of six charming friends: Badtz-Maru, Tuxedosam, Pochacco, Hangyodon, Keroppi, and Pekkle. These adorable characters embody friendsh",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Brand:Japan Original",
+    "Character:Hapidanbui",
+    "Character:Keroppi",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "sanrio-hangyodon-mini-backpack-charm-all-together-hapidanbui-design",
+   "name": "Hangyodon Mini Backpack Charm (All Together Hapidanbui Design Series)",
+   "merchantDescription": "\"Together, anything is possible! Let's join hands and unleash our Hapi-power!\" Meet Hapidanbui, a fun-loving Sanrio gang made up of six charming friends: Badtz-Maru, Tuxedosam, Pochacco, Hangyodon, Keroppi, and Pekkle. These adorable characters embody friendsh",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Brand:Japan Original",
+    "Character:Hangyodon",
+    "Character:Hapidanbui",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "sanrio-tuxedosam-mini-backpack-charm-all-together-hapidanbui-design",
+   "name": "Tuxedosam Mini Backpack Charm (All Together Hapidanbui Design Series)",
+   "merchantDescription": "\"Together, anything is possible! Let's join hands and unleash our Hapi-power!\" Meet Hapidanbui, a fun-loving Sanrio gang made up of six charming friends: Badtz-Maru, Tuxedosam, Pochacco, Hangyodon, Keroppi, and Pekkle. These adorable characters embody friendsh",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Brand:Japan Original",
+    "Character:Hapidanbui",
+    "Character:Tuxedosam",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "sanrio-pochacco-mini-backpack-charm-all-together-hapidanbui-design-",
+   "name": "Pochacco Mini Backpack Charm (All Together Hapidanbui Design Series)",
+   "merchantDescription": "\"Together, anything is possible! Let's join hands and unleash our Hapi-power!\" Meet Hapidanbui, a fun-loving Sanrio gang made up of six charming friends: Badtz-Maru, Tuxedosam, Pochacco, Hangyodon, Keroppi, and Pekkle. These adorable characters embody friendsh",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Brand:Japan Original",
+    "Character:Hapidanbui",
+    "Character:Pochacco",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-stainless-steel-water-bottle-kawaii-",
+   "name": "Hello Kitty and Friends Stainless Steel Water Bottle (Kawaii Cozy Club)",
+   "merchantDescription": "Sip in style with the Hello Kitty and Friends Kawaii Cozy Club water bottle! Featuring adorable character designs that bring joy to every hydration moment, this durable tumbler keeps your beverages at the perfect temperature while you're on the go. Whether you",
+   "vendor": "Culture Studio",
+   "productType": "Travel",
+   "merchantTags": [
+    "2025HOLIDAY",
+    "Brand:Culture Studio",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "Cozy Corner",
+    "Exclusive"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sanrio-hello-kitty-x-pipsticks-milk-cart-scratch-n-sniff-2ct",
+   "name": "Hello Kitty x Pipsticks Milk Cart Scratch 'n Sniff (2ct)",
+   "merchantDescription": "Rep your favorite Sanrio Character with these unique scratch 'n sniff designs! Collect and trade with other sticker lovers or use them to decorate your laptop, notebook, planner, or gifts! ♡ Hello Kitty Milk Cart Scratch 'n Sniff ♡ Includes two strawberry scen",
+   "vendor": "Pipsticks Inc",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:Pipsticks Inc",
+    "Character:Hello Kitty",
+    "Decorative Stickers",
+    "PO:L432",
+    "POPUP25",
+    "popupmerch",
+    "prodavail",
+    "Stationery"
+   ],
+   "price": 6.95
+  },
+  {
+   "id": "sanrio-pompompurin-x-pipsticks-cafe-cruiser-scratch-n-sniff-2ct",
+   "name": "Pompompurin x Pipsticks Café Cruiser Scratch 'n Sniff (2ct)",
+   "merchantDescription": "Rep your favorite Sanrio Character with these unique scratch 'n sniff designs! Collect and trade with other sticker lovers or use them to decorate your laptop, notebook, planner, or gifts! ♡ Pompompurin Cafe Cruiser Scratch 'n Sniff ♡ Includes two coffee scent",
+   "vendor": "Pipsticks Inc",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:Pipsticks Inc",
+    "Character:Pompompurin",
+    "Decorative Stickers",
+    "NA-121525",
+    "PO:L432",
+    "popup",
+    "POPUP25",
+    "popupmerch"
+   ],
+   "price": 6.95
+  },
+  {
+   "id": "sanrio-hello-kitty-holiday-santa-ceramic-mug",
+   "name": "Hello Kitty Holiday Santa Ceramic Mug",
+   "merchantDescription": "Brighten your holiday mornings with this whimsical Hello Kitty mug dressed up in full Santa mode! Each 16-ounce ceramic vessel is lovingly hand-painted with custom artwork that captures everyone's beloved character in festive spirit. Whether you're warming up ",
+   "vendor": "BIOWORLD",
+   "productType": "Seasonal",
+   "merchantTags": [
+    "2025HOLIDAY",
+    "Brand:Bioworld",
+    "Character:Hello Kitty",
+    "Christmas",
+    "Holiday",
+    "Home Decor",
+    "Home Goods",
+    "Kitchen"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sanrio-hello-kitty-rainbow-varsity-jacket",
+   "name": "Hello Kitty Rainbow Varsity Jacket",
+   "merchantDescription": "Bring a splash of color and cuteness to your wardrobe with this delightful varsity jacket featuring Hello Kitty against a dreamy rainbow backdrop. The beloved character's charming graphics make this piece a must-have for any fan. Constructed from a soft cotton",
+   "vendor": "BIOWORLD",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BACK IN STOCK",
+    "backinstock032426",
+    "Badge:BrandNew",
+    "Brand:Bioworld",
+    "Character:Hello Kitty",
+    "MEM-NO-20",
+    "NA-121225"
+   ],
+   "price": 60
+  },
+  {
+   "id": "sanrio-kuromi-plush-mascot-keychain-suntan-series",
+   "name": "Kuromi Plush Mascot Keychain (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "Keychains",
+    "Mascots",
+    "NA-121225"
+   ],
+   "price": 28
+  },
+  {
+   "id": "sanrio-cinnamoroll-plush-mascot-keychain-suntan-series",
+   "name": "Cinnamoroll Plush Mascot Keychain (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "Keychains",
+    "Mascots",
+    "NA-121225"
+   ],
+   "price": 28
+  },
+  {
+   "id": "sanrio-my-melody-plush-mascot-keychain-suntan-series",
+   "name": "My Melody Plush Mascot Keychain (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "Keychains",
+    "Mascots",
+    "NA-121225"
+   ],
+   "price": 28
+  },
+  {
+   "id": "sanrio-kuromi-mini-zipper-pouch-suntan-series",
+   "name": "Kuromi Mini Zipper Pouch (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "Cosmetic bag",
+    "Makeup Bags",
+    "NA-121225",
+    "PO:Poct25"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-mini-zipper-pouch-suntan-series",
+   "name": "Cinnamoroll Mini Zipper Pouch (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "Cosmetic bag",
+    "Makeup Bags",
+    "NA-121225",
+    "PO:Poct25"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sanrio-my-melody-mini-zipper-pouch-suntan-series",
+   "name": "My Melody Mini Zipper Pouch (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "Cosmetic bag",
+    "Makeup Bags",
+    "NA-121225",
+    "PO:Poct25"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sanrio-hello-kitty-black-8-plush-suntan-series",
+   "name": "Hello Kitty Black 8\" Plush (Suntan Series)",
+   "merchantDescription": "“Golden rays, good vibes, and happy days!” Soak up the sun and get into the summer mood with your favorite Sanrio Characters (sporting a fresh tan!). This colorful series features a bold hibiscus pattern that adorns bags, plush, keychains, and more! Snag your ",
+   "vendor": "Japan Original",
+   "productType": "Plush",
+   "merchantTags": [
+    "BACK IN STOCK",
+    "backinstock",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "NA-121225",
+    "OY-2026",
+    "Plush"
+   ],
+   "price": 36
+  },
+  {
+   "id": "sanrio-kuromi-coffee-mug-warmer-set-1",
+   "name": "Kuromi Coffee Mug & Warmer Set",
+   "merchantDescription": "This officially licensed Hello Kitty Mug Warmer is great at the office or home to keep your drinks warm in your Kuromi Mug. Decorated with an iconic Hello Kitty character design, this is an amazing gift for all Hello Kitty fans. INTELLIGENT AUTO ON OFF : Thank",
+   "vendor": "Uncanny Brands Wholesale",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "1125DS",
+    "Beverage Warmers",
+    "BFCM25-40",
+    "Brand:Uncanny Brands Llc",
+    "Brand:Uncanny Brands Wholesale",
+    "Character:Kuromi",
+    "DROPSHIP",
+    "Home Goods"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sanrio-kuromi-otamatone-musical-toy",
+   "name": "Kuromi Otamatone Musical Toy",
+   "merchantDescription": "SPECIAL EDITION ♡ One of Japan’s Best-Selling Musical toys! This supercute new Hello Kitty® and Friends Otamatone features an officially licensed, exclusive Kuromi™ design! FUN EASY TO PLAY ♡ Touch or slide your fingers along the stem to vary the pitch and squ",
+   "vendor": "Hamee.com - Hamee US",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "Brand:Hamee.com - Hamee US",
+    "Character:Kuromi",
+    "DROPSHIP",
+    "Hamee.com - Hamee US",
+    "Kids",
+    "Musical Toys",
+    "NA-101724",
+    "prodavail"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sanrio-hello-kitty-x-tokidoki-ornament-winter-puffer",
+   "name": "Hello Kitty x Tokidoki Ornament (Winter Puffer)",
+   "merchantDescription": "Holidays are so much fun with Hello Kitty and our friends at Tokidoki! Explore a fun take on a cozy winter puffer outfit, in ornament form. These mini-sized mascots also make cute gift toppers too! ♡ Winter puffer-theme design, hanging loop ♡ Embroidered and a",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "2025HOLIDAY",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Christmas",
+    "Holiday",
+    "Holiday Ornaments",
+    "Home Decor",
+    "Home Goods"
+   ],
+   "price": 29
+  },
+  {
+   "id": "sanrio-hello-kitty-x-tokidoki-bean-doll-plush-winter-puffer",
+   "name": "Hello Kitty x Tokidoki Bean Doll Plush (Winter Puffer)",
+   "merchantDescription": "Holidays are so much fun with Hello Kitty and our friends at Tokidoki! Explore a fun take on a cozy winter puffer outfit, in ornament form. These mini-sized mascots also make cute gift toppers too! ♡ Bean doll stuffing ♡ Winter puffer-theme design ♡ Embroidere",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "2025HOLIDAY",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Christmas",
+    "Holiday",
+    "MEM-NO-50",
+    "NA-120525",
+    "Plush"
+   ],
+   "price": 35
+  },
+  {
+   "id": "sanrio-my-melody-kuromi-x-wet-n-wild-hand-mirror-kuromi",
+   "name": "My Melody & Kuromi x Wet n Wild Hand Mirror (Kuromi)",
+   "merchantDescription": "Wet n Wild x My Melody Kuromi: Inspired by My Melody and Kuromi, this collection blends dreamy pastels with a rebellious edge for looks that are equal parts adorable and daring. Embrace both your sweet and mischievous sides with products that let you be as cha",
+   "vendor": "MARKWINS",
+   "productType": "Beauty",
+   "merchantTags": [
+    "Beauty",
+    "Beauty Tools",
+    "Brand:Markwins",
+    "Character:Kuromi",
+    "Face Mirrors",
+    "Home Goods",
+    "MEM-NO-20",
+    "MM&KU"
+   ],
+   "price": 14.1
+  },
+  {
+   "id": "sanrio-my-melody-kuromi-x-wet-n-wild-eye-face-palette-kuromi",
+   "name": "My Melody & Kuromi x Wet n Wild Eye & Face Palette (Kuromi)",
+   "merchantDescription": "Wet n Wild x My Melody Kuromi: Inspired by My Melody and Kuromi, this collection blends dreamy pastels with a rebellious edge for looks that are equal parts adorable and daring. Embrace both your sweet and mischievous sides with products that let you be as cha",
+   "vendor": "MARKWINS",
+   "productType": "Beauty",
+   "merchantTags": [
+    "Beauty",
+    "Beauty Tools",
+    "Brand:Markwins",
+    "Character:Kuromi",
+    "Eye Shadows",
+    "Home Goods",
+    "MM&KU",
+    "MM50"
+   ],
+   "price": 14.1
+  },
+  {
+   "id": "sanrio-my-melody-kuromi-x-wet-n-wild-eye-face-palette-my-melody",
+   "name": "My Melody & Kuromi x Wet n Wild Eye & Face Palette (My Melody)",
+   "merchantDescription": "Wet n Wild x My Melody Kuromi: Inspired by My Melody and Kuromi, this collection blends dreamy pastels with a rebellious edge for looks that are equal parts adorable and daring. Embrace both your sweet and mischievous sides with products that let you be as cha",
+   "vendor": "MARKWINS",
+   "productType": "Beauty",
+   "merchantTags": [
+    "Beauty",
+    "Beauty Tools",
+    "Brand:Markwins",
+    "Character:My Melody",
+    "Eye Makeup",
+    "Home Goods",
+    "MM&KU",
+    "MM50"
+   ],
+   "price": 14.1
+  },
+  {
+   "id": "sanrio-my-melody-kuromi-x-wet-n-wild-glitter-gel-kuromi",
+   "name": "My Melody & Kuromi x Wet n Wild Glitter Gel (Kuromi)",
+   "merchantDescription": "Wet n Wild x My Melody Kuromi: Inspired by My Melody and Kuromi, this collection blends dreamy pastels with a rebellious edge for looks that are equal parts adorable and daring. Embrace both your sweet and mischievous sides with products that let you be as cha",
+   "vendor": "MARKWINS",
+   "productType": "Beauty",
+   "merchantTags": [
+    "Beauty",
+    "Beauty Tools",
+    "Brand:Markwins",
+    "Character:Kuromi",
+    "Home Goods",
+    "Makeup",
+    "MM&KU",
+    "MM50"
+   ],
+   "price": 9.8
+  },
+  {
+   "id": "sanrio-hello-kitty-x-sonix-magnetic-plush-wallet",
+   "name": "Hello Kitty x Sonix Magnetic Plush Wallet",
+   "merchantDescription": "Discover the charm of the Hello Kitty and Friends Magnetic Plush Wallet, featuring your favorite Sanrio characters—Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This delightful MagSafe phone wallet accessory elevates the look of your iPhone with an exterior",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Hello Kitty",
+    "MEM-NO-40",
+    "na-090122",
+    "NA-120525"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-hello-kitty-x-sonix-plush-tech-sleeve",
+   "name": "Hello Kitty x Sonix Plush Tech Sleeve",
+   "merchantDescription": "Wrap and protect your tech in adorable, fuzzy style with the Hello Kitty and Friends Plush Tech Sleeve, featuring beloved Sanrio characters Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This kawaii and cozy sleeve offers a plush exterior that brings each ch",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Hello Kitty",
+    "Laptop Bags",
+    "MEM-NO-50",
+    "NA-120525"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-x-sonix-magnetic-plush-wallet",
+   "name": "Cinnamoroll x Sonix Magnetic Plush Wallet",
+   "merchantDescription": "Discover the charm of the Hello Kitty and Friends Magnetic Plush Wallet, featuring your favorite Sanrio characters—Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This delightful MagSafe phone wallet accessory elevates the look of your iPhone with an exterior",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "NA-120525",
+    "PO:L402",
+    "prodavail"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-my-melody-x-sonix-magnetic-plush-wallet",
+   "name": "My Melody x Sonix Magnetic Plush Wallet",
+   "merchantDescription": "Discover the charm of the Hello Kitty and Friends Magnetic Plush Wallet, featuring your favorite Sanrio characters—Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This delightful MagSafe phone wallet accessory elevates the look of your iPhone with an exterior",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:My Melody",
+    "NA-120525",
+    "PO:L402",
+    "prodavail"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-kuromi-x-sonix-magnetic-plush-wallet",
+   "name": "Kuromi x Sonix Magnetic Plush Wallet",
+   "merchantDescription": "Discover the charm of the Hello Kitty and Friends Magnetic Plush Wallet, featuring your favorite Sanrio characters—Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This delightful MagSafe phone wallet accessory elevates the look of your iPhone with an exterior",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Kuromi",
+    "MEM-NO-50",
+    "NA-120525",
+    "PO:L402"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-x-sonix-plush-tech-sleeve",
+   "name": "Cinnamoroll x Sonix Plush Tech Sleeve",
+   "merchantDescription": "Wrap and protect your tech in adorable, fuzzy style with the Hello Kitty and Friends Plush Tech Sleeve, featuring beloved Sanrio characters Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This kawaii and cozy sleeve offers a plush exterior that brings each ch",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Laptop Bags",
+    "NA-120525",
+    "PO:L402"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-my-melody-x-sonix-plush-tech-sleeve",
+   "name": "My Melody x Sonix Plush Tech Sleeve",
+   "merchantDescription": "Wrap and protect your tech in adorable, fuzzy style with the Hello Kitty and Friends Plush Tech Sleeve, featuring beloved Sanrio characters Hello Kitty, Cinnamoroll, Kuromi, and My Melody. This kawaii and cozy sleeve offers a plush exterior that brings each ch",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:My Melody",
+    "Laptop Bags",
+    "MEM-NO-30",
+    "NA-120525"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-my-melody-20th-kuromi-50th-anniversary-x-sonix-iphone-case",
+   "name": "My Melody 20th & Kuromi 50th Anniversary x Sonix iPhone Case",
+   "merchantDescription": "Celebrate My Melody's 50th and Kuromi's 20th Anniversary with this exclusive, limited-edition Sonix x Sanrio MagSafe compatible iPhone case. This bold, pink and black-themed anniversary art is as adventurous and dynamic as the duo themselves! Celebrate their m",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "KU20",
+    "MEM-NO-20"
+   ],
+   "price": 47.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-sonix-strawberry-shortcake-iphone-",
+   "name": "Hello Kitty and Friends x Sonix Strawberry Shortcake iPhone Case",
+   "merchantDescription": "This sweet and lovable group celebrates friendship, fun, and all things charming—just like the adorable designs they wear! This limited edition collection brings Hello Kitty and Friends together with Strawberry Shortcake, featuring phone cases, charms, and ber",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi"
+   ],
+   "price": 47.99
+  },
+  {
+   "id": "sanrio-hello-kitty-x-sonix-printed-phone-pouch-butterfly",
+   "name": "Hello Kitty x Sonix Printed Phone Pouch (Butterfly)",
+   "merchantDescription": "The Hello Kitty Butterfly Printed Phone Pouch features a chic black ribbon bow motif that showcases Hello Kitty on a classic black and white houndstooth printed background. Your favorite feline has never looked more sophisticated or adorable. Black zipper pull",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Hello Kitty",
+    "Crossbody Bags",
+    "MEM-NO-20",
+    "Mobile Phone Cases"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sanrio-my-melody-20th-kuromi-50th-anniversary-x-sonix-neoprene-tech",
+   "name": "My Melody 20th & Kuromi 50th Anniversary x Sonix Neoprene Tech Sleeve",
+   "merchantDescription": "Add a playful touch to your tech with this stylish Kuromi and My Melody 20th Anniversary Tech Sleeve, designed to protect your laptop or tablet from your daily commute. This protective sleeve celebrates the friendship anniversary of Kuromi and My Melody with e",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "Computer Covers & Skins",
+    "KU20"
+   ],
+   "price": 26.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-sonix-strawberry-shortcake-neopren",
+   "name": "Hello Kitty and Friends x Sonix Strawberry Shortcake Neoprene Tech Sleeve",
+   "merchantDescription": "Celebrate friendship and fun with this stylish Hello Kitty and Friends x Strawberry Shortcake Tech Sleeve, designed to protect your laptop or tablet in sweet nostalgia. This enchanting collaboration merges the kawaii charm of Hello Kitty and her Sanrio compani",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi"
+   ],
+   "price": 26.99
+  },
+  {
+   "id": "sanrio-my-melody-20th-kuromi-50th-anniversary-x-sonix-airtag-keycha",
+   "name": "My Melody 20th & Kuromi 50th Anniversary x Sonix AirTag Keychain",
+   "merchantDescription": "Celebrate years of friendship between Kuromi and My Melody with this adorable Smart Tracker Keychain! Featuring the iconic duo on a pink gingham heart frame, this limited-edition accessory combines kawaii charm with practical tech. Crafted from durable vegan P",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "GPS Accessories",
+    "GPS Cases"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sanrio-my-melody-20th-kuromi-50th-anniversary-x-sonix-maglink-charg",
+   "name": "My Melody 20th & Kuromi 50th Anniversary x Sonix MagLink™ Charger",
+   "merchantDescription": "Eliminate the hassle of bent cables and short cords with this Kuromi and My Melody MagLink™ Wireless Charger. Simply place the charger disk in the center of your compatible iPhone device so you can move freely and get charging. The self-aligning magnet can be ",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "KU20",
+    "MEM-NO-20"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-sonix-strawberry-shortcake-airpods",
+   "name": "Hello Kitty and Friends x Sonix Strawberry Shortcake AirPods Pro Case",
+   "merchantDescription": "This sweet and lovable group celebrates friendship, fun, and all things charming—just like the adorable designs they wear! This limited edition collection brings Hello Kitty and Friends together with Strawberry Shortcake, featuring phone cases, charms, and ber",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi"
+   ],
+   "price": 29.99
+  }
+ ]
+}

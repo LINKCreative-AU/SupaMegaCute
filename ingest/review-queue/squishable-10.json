@@ -1,0 +1,734 @@
+{
+ "source": "squishable",
+ "batch": 10,
+ "items": [
+  {
+   "id": "squishable-mini-squishable-stag-beetle",
+   "name": "Mini Squishable Stag Beetle",
+   "merchantDescription": "Stag Beetle, Stag Beetle, STAG BEETLE! Oh, well NOW we have a problem don't we? You said the name three times, so the beetle is your responsibility. That's just how it works. It's completely outta my hands! beetle, bug, insect, exoskeleton",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-lunar-dragon",
+   "name": "Mini Squishable Lunar Dragon",
+   "merchantDescription": "Ah yes, the Mini Lunar Dragon. A Lunar Dragon that is Mini. I was not expecting her to look like 2015 tumblr-era galaxy leggings but everyone has their aesthetic, and we should embrace that! So here she is folx, your perfectly, recently retro, Mini Lunar Drago",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-hellhound",
+   "name": "Mini Squishable Hellhound",
+   "merchantDescription": "Even the goodest of good boys and girls can be bad sometimes!! When that happens, you get a Hellhound! Even though their fur is made of the finest hellfire embers, they're still ripe for cuddling! Instead of kibble and treats, this pupper feasts on the screams",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-chocolate-cow",
+   "name": "Mini Squishable Chocolate Cow",
+   "merchantDescription": "When I was a kid I thought chocolate cows were where we got chocolate milk. After I finished a big glass my mom would say, \"Say 'thank you' to the chocolate cows!\". Come to think of it, I never did! Actually, I never thanked ANY cows! THANK YOU COWS!!! chocola",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-kirin",
+   "name": "Mini Squishable Kirin",
+   "merchantDescription": "I asked my co-workers how they would describe the Mini Kirin, here are their answers; \"just a cool little dude,\" \"a dragonfly fishlike unicorny friend,\" a \"rare and mythical beast,\" and finally, \"a Neverending Story.\" Take from this what you will!! Personally,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-demon-owl",
+   "name": "Mini Squishable Demon Owl",
+   "merchantDescription": "How many summonings does it take to get to the center of the summoning circle?! A-one, a-two, A-AhHhhhhh IS THAT A DEMON OWL?!?!? demon, owl, evil, goth, emo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-lovebug",
+   "name": "Mini Squishable Lovebug",
+   "merchantDescription": "This little bug is so full of love, it's definitely contagious!! But it's love, so that's not a bad thing? Maybe? I feel like we're in an ethical gray area here. So let's ignore the potential issues inherent in infecting someone with a positive emotion, and ju",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-valentines-plague-doctor-nurse-set",
+   "name": "Mini Squishable Valentine's Plague Doctor & Nurse Set",
+   "merchantDescription": "There's no question that the Plague Doctor and Nurse have a relationship that has stood the test of time, but now, they really want to be that annoying couple whose only personality trait is that they're a couple! These romantically designed medical practition",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 70
+  },
+  {
+   "id": "squishable-mini-squishable-icy-polar-bear",
+   "name": "Mini Squishable Icy Polar Bear",
+   "merchantDescription": "Do ya'll remember when polar bears drank soda? That was back in the 80's. It was a weird time to be a polar bear. Anyway, at least we always knew back then that the soda would be icy cold! These days they're probably on a distilled water and sushi diet. Which,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-baby-narwhal",
+   "name": "Mini Squishable Baby Narwhal",
+   "merchantDescription": "Hush Baby Narwal, don't say a word,Mama doesn't think your horn's absurd.And if anyone else dares to says so,Mama's gonna stick them on an ice floe.And if that floe doesn't float away,Mama's gonna make them into a shish kebab.And if that couplet doesn't rhyme,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-squishable-deaths-head-hawkmoth",
+   "name": "Mini Squishable Death's-head Hawkmoth",
+   "merchantDescription": "Our distinguishing physical characteristics are so random and quirky! You have red hair, that lady there has green eyes, I have a freckle on my wrist shaped just like a freckle. And this Deaths-Head moth has a mark on its back that looks just like a morbid, gr",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-mini-squishable-snow-goat-for-charity",
+   "name": "Mini Squishable Snow Goat for Charity",
+   "merchantDescription": "This snowstorm is cold and wet. I sure do wish I had a goat with me! But wait! What do I hear through the freezing flakes? I hear a bell ringing! Is it the bell of ADVENTURE! Nope, it's a goat. Which is also great! Bring on the storm, I've got a goat! (Also, t",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Limited"
+   ],
+   "price": 30
+  },
+  {
+   "id": "squishable-mini-squishable-festive-dragon",
+   "name": "Mini Squishable Festive Dragon",
+   "merchantDescription": "Who does Santa call when the reindeer are on their government-sanctioned break? Well, the backup reindeer, because that's the hallmark of a robust supply chain! But when those reindeer are overwhelmed, he calls in the Mini Festive Dragon! Can it pull a sleigh?",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-cinnabunny",
+   "name": "Mini Squishable Cinnabunny",
+   "merchantDescription": "Recipe for a Cinnabunny: 1/2 cup warm water, .25 oz of yeast, 1/2 cup milk, 2 beaten eggs, 4 cups flour, maybe like 12 cottontails, 12 sets of itty bitty bunny ears, a ton of whiskers, and the moral understanding that what's about to come out of your kitchen i",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-toucan",
+   "name": "Mini Squishable Toucan",
+   "merchantDescription": "I'm sorry to say, our Mini Toucan does not come with a sugary cereal that's a part of a balanced breakfast... I hope you can forgive us! What they do come with is a colorful beak, that's cool, right? Plus they won't bite at you or try to fly away, truly the pe",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 33
+  },
+  {
+   "id": "squishable-mini-squishable-kitty",
+   "name": "Mini Squishable Kitty",
+   "merchantDescription": "If you hear this kitty purring...get far away fast! Because this feline friend is not real, and definitely should not be purring. No, not even though it's as cute as the cutest kitten you've ever seen. Not even if it's sweet little face says, please cuddle me ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-rooster",
+   "name": "Mini Squishable Rooster",
+   "merchantDescription": "Long story short, when I was but a wee baby, my parents took my brother and I to the zoo. We came upon the peacock exhibit (stay with me), then the peacock did its thing with the feathers and tail and all that. It scared the daylights out of me, and to this da",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-petal-dragon",
+   "name": "Mini Squishable Petal Dragon",
+   "merchantDescription": "Long ago in a fantasy world quite unlike our own, the beautiful Petal Dragon worked hard to spread positivity in nature, rejoicing in the flora and fauna in her kingdom. One day, tragedy struck, and the Petal Dragon was forced to flee, as the dreaded Shadow Dr",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-undead-unicorn",
+   "name": "Mini Squishable Undead Unicorn",
+   "merchantDescription": "Undead? Yes! Unuseful? No! This adorable nightmare can take you anywhere you want to go, from the depths of Tartarus to the movie theater down the street! Does he feed on the souls of the living or on carrots and hay? Only one way to find out! Taste test! Try ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-dragon-fruit",
+   "name": "Mini Squishable Dragon Fruit",
+   "merchantDescription": "It's a little weird writing this when I just had a dragon fruit smoothie. It was delicious so it was not made in vain! Anywho! This delicious little dragon is ready to make all your fruit fantasies come true! Fly my children, fly! dragon, fruit, dragonfruit, e",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 38
+  },
+  {
+   "id": "squishable-mini-squishable-caterpillar",
+   "name": "Mini Squishable Caterpillar",
+   "merchantDescription": "This is Tube! While not their official name, that's what their creator, Rachel, has decided to call them! We just have to sell it as a caterpillar because \"Squishable Tube with Face\" doesn't quite have the same ring to it, we hope you understand! green,caterpi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-festive-plague-doctor",
+   "name": "Mini Squishable Festive Plague Doctor",
+   "merchantDescription": "They see you when you're sleeping, when you're awake, and when you told your mom you were going to take the chicken out to defrost and never did! That's okay though, because the Festive Plague Doctor is willing to overlook all of that! All that matters to them",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-festive-plague-nurse",
+   "name": "Mini Squishable Festive Plague Nurse",
+   "merchantDescription": "If you didn't save any cookies for this festive nurse, I really have nothing to say to you! And they BETTER be sugar cookies with icing and sprinkles, aka their favorites! They will settle for nothing less!! They didn't get all dressed up just to be disappoint",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-krampus",
+   "name": "Mini Squishable Krampus",
+   "merchantDescription": "Beware all ye' who chose naughty over nice! Krampus sees all, even that thing you did that time in math class! This mythical German half-goat-half-demon is a stickler for holiday cheer, and he's not settling for milk and cookies! Happy holidays! Or else! kramp",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-sparkles-the-narwhal-in-donut",
+   "name": "Mini Squishable Sparkles the Narwhal in Donut",
+   "merchantDescription": "Whale unicorns deserve some fun in the sun! What else do they deserve? A delicious pink donut! This little lad deserves all the sunny desserts! His name is Sparkles, popping up out of his Blind Box and into the light! Now imagine I said all that in Whale. Whhh",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-cotton-candy-baby-unicorn",
+   "name": "Mini Squishable Cotton Candy Baby Unicorn",
+   "merchantDescription": "What's more magical than a plain ol' unicorn? Well, probably like a lot of things, but we're here to talk about a COTTON CANDY UNICORN. While they may not exactly be edible, these fairy floss fantasy friends are ready to fill your days with frivolous wonder! O",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-turquoise-mushroom",
+   "name": "Mini Squishable Turquoise Mushroom",
+   "merchantDescription": "I'm Blue (Da Ba Dee da ba da!)! Not sure what I'm referencing? Ask your parents! Or another old person who thought they were cool in the late 90's! Like me, apparently. Anyway, this mushroom is also blue. Not in a euro-techno-catchy-rhythm kind of way, just, y",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-hen",
+   "name": "Mini Squishable Hen",
+   "merchantDescription": "This Hen is for hugging, not laying eggs. If this Hen lays an egg, please call an exorcist, because it means your stuffed animal is possessed by the oviparous spirit of a real Hen, which is definitely a thing that happens. Maybe make yourself an omelet while y",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-baby-mothman",
+   "name": "Mini Squishable Baby Mothman",
+   "merchantDescription": "The man. The moth. The LEGEND! Salutations to Mothman, he of the West Virginia statue, instigator of festivals, museums, and that weird dream I had last night! Finally coming out from the shadows to announce, Hi! I'm here and I'mkinda shadowy and shapeless an",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-phlox-the-plague-cat",
+   "name": "Mini Squishable Phlox the Plague Cat",
+   "merchantDescription": "Scalpel, stethoscope, powdered newt, kitty. This is the basic medical equipment of the Mysterious Doctor Plague. Phlox the cat is an integral part of a thorough robust health regimen. Whether it's lap-laying, belly rubs, or summoning demons from the dark reces",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-tanuki",
+   "name": "Mini Squishable Tanuki",
+   "merchantDescription": "Don't be embarrassed about hanging out with a Tanuki, be embarrassed by whatever prank they inevitably play on you! Getting your room completely filled with balloons or discovering that the toilet has been covered in plastic wrap is MUCH more more cringey than",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-jersey-devil",
+   "name": "Mini Squishable Jersey Devil",
+   "merchantDescription": "Is 13 an unlucky number? Not according to this guy! I mean, technically the Jersey Devil is the cursed thirteenth child of early New Jersian settlers, which sounds BAD. But cursedness suits this cuddly cryptid! He's cool with it. I mean, he screams a lot. But ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-earth",
+   "name": "Mini Squishable Earth",
+   "merchantDescription": "Sometimes I grab this Squishable with both hands and squeeze the entire world into the tiniest little ball I can. Is it stress relief? Is it a power trip? Is it my supervillain move? SQUISH THE EARTH! Muhahaha. I need to lie down. earth, celestials, space, pla",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-squishable-baby-goat",
+   "name": "Mini Squishable Baby Goat",
+   "merchantDescription": "Hey, kids! Get it, because baby goats are called kids?!...Alright, I guess the subtle art of goat humor is lost on you. I was going to make a brilliant \"got your goat\" pun here, but I'm going to save it. Anyone got something funny using the term \"Billy\"? No? J",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-squishable-tie-dye-fluffy-bunny",
+   "name": "Mini Squishable Tie Dye Fluffy Bunny",
+   "merchantDescription": "The process of tie dyeing a Bunny involves some serious feats of anatomy. You have to scrunch the bunny, crumple it, twist it, fold it, and finally tie it in a knot. Then you submerge the bunny in a vat of dye for a couple of hours. Definitely not for the fain",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-ouroboros",
+   "name": "Mini Squishable Ouroboros",
+   "merchantDescription": "Oh venerable symbol of rebirth, immortality, eternity, protection, self-reliance and unity, the Ouroboros' mystery echoes through the eons. The wonder and intrigue around this mythological snake-dragon creature is surely the epitome of enigma! Finally we sit d",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-acorn",
+   "name": "Mini Squishable Acorn",
+   "merchantDescription": "I'VE HAD IT, NO MORE SQUIRRELS. Acorn, I didn't even say anything about squ- SHUSH, DON'T SAY IT. Acorn you're overreacting, what's wrong with squ- UHHH SHUSHHSUHSHS. Acorn! What's your problem? THEY'RE CALLED TREE CHICKENS NOW. No, Acorn. YES. IT'S HAPPENING.",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-squishable-coral-octopus",
+   "name": "Mini Squishable Coral Octopus",
+   "merchantDescription": "Have you ever tried hugging something with eight arms? If not, we highly recommend it. Mini Coral Octopus is totally down for the job. They are hugging experts, we suggest letting them tangle you up in soft fluffy peace. ocean,octo,squid,splatoon,coral,orange,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-baby-red-panda",
+   "name": "Mini Squishable Baby Red Panda",
+   "merchantDescription": "Hey little red bear-cat, settle a bet for us. How many stripes does your fluffy cuddly tail have? My bet is 4. Racoon says it's 6. The eldritch being from the dawn of time that lives under my bed thinks it's but he's always saying that kind of thing. panda.chi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-snowy-owl",
+   "name": "Mini Squishable Snowy Owl",
+   "merchantDescription": "The Snowy Owl has an entire a secondary layer of feathers made up of ultra soft 'fringes', which help make them silent when they fly! And it also just happens to make them fantastically soft! Also, here's a Mini Snow Owl. It's also soft. COINCIDENCE?? owl,bird",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-squishable-king-raven",
+   "name": "Mini Squishable King Raven",
+   "merchantDescription": "All hail Mini King Raven! Our majesty rules the dark skies with might and grace! Truly we are honored to witness the flex of their feathers, the flash of their eye, the fashion sense of their accessories! We live only to honor the existence of this royal bird.",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-honduran-white-bat",
+   "name": "Mini Squishable Honduran White Bat",
+   "merchantDescription": "I'm making fig pudding! That's a pudding...made of figs! Random? Not for a Honduran White Bat! In fact, if you have a Honduran White Bat around, they will definitely eat all your figs before they make it in your pudding. Which means you'll have fig-less puddin",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-flocked-christmas-tree",
+   "name": "Mini Squishable Flocked Christmas Tree",
+   "merchantDescription": "What exactly is a Mini Flocked Christmas Tree? I don't entirely know, but judging from context clues, it's a tree that's decorated all super fancy and stylish. Also judging from context clues, you probably know more about Christmas trees than I do. The context",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-firefly",
+   "name": "Mini Squishable Firefly",
+   "merchantDescription": "Mini Squishable Firefly, you're absolutely glowing! What's your secret? Have you been munching on some lightning? Or crunching on starlight? Or snacking on bright dreams of the future? Or is it just a fantastic skin-care routine with a lot of retinol? Probably",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-hydra",
+   "name": "Mini Squishable Hydra",
+   "merchantDescription": "How do you keep your thoughts organized, Mini Squishable Hydra? With that many heads it must be difficult to keep them straight! You'd need some serious time-blocking, multitasking skills, and efficiently-communicated boundaries! What's that? You DO have fanta",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 38
+  },
+  {
+   "id": "squishable-mini-squishable-wish-dragon",
+   "name": "Mini Squishable Wish Dragon",
+   "merchantDescription": "See a shooting star! Get the better half of that wishbone! Find a four leaf clover! Blow away a stray eyelash! There are lots of ways to get a wish granted. Oh, here's another one: bring home a Mini Wish Dragon! They'll grant all your wishes! (Editor's note - ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-lich",
+   "name": "Mini Squishable Lich",
+   "merchantDescription": "Hey Mini Lich! You crazy undead necromancer you, how the heck are ya doing? I haven't seen you in centuries! You look great! No really, for an ancient undead sorcerer, your skin is nailing it! What are you using to make your complexion so glowy? Drinking a lot",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-moon",
+   "name": "Mini Squishable Moon",
+   "merchantDescription": "What's that just over on the horizon? Oh, you can't see it because it's, by definition, over the horizon? And the optical curve of the earth is hiding it from your line of sight? Well shows what you know, because that metaphor for something-that's-almost-here-",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-squishable-pumpkin",
+   "name": "Mini Squishable Pumpkin",
+   "merchantDescription": "Welcome to the Squishable Pumpkin Patch! Pick your own Mini Squishable Pumpkin for all of your autumn pumpkin needs. What kind of pumpkin needs, you ask? Well, maybe you NEED a pumpkin with a cute face and a fluffy body! One that you don't have to fight off sq",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-squishable-mint-octopus",
+   "name": "Mini Squishable Mint Octopus",
+   "merchantDescription": "Mini Squishable Mint Octopus, what are you doing here on my shoulder? Did you escape your tank? Am I about to get an angry call from the aquarium? Yep, there goes my phone. You can't keep doing this! You have responsibilities! You have an artificial aquatic en",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-venus-flytrap",
+   "name": "Mini Squishable Venus Flytrap",
+   "merchantDescription": "Hey! Watch where you're chomping, Mini Venus Flytrap, you almost bit me! Oh, that was on purpose? Because to you I look like a giant bug? I mean I am covered in a protective exoskeleton. And I do have wings. And a thorax and abdomen. And I do reproduce by layi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 38
+  },
+  {
+   "id": "squishable-mini-squishable-orca",
+   "name": "Mini Squishable Orca",
+   "merchantDescription": "Hey Mini Orca, how was your summer? Spent it in Maine hanging out with the tourists and eating a lot of fish? Hey, I hear they have terrible mosquitos up there! Oh, you say that's not a thing for you? Because you live underwater? Obviously? And also I should l",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-squishable-dolphin",
+   "name": "Mini Squishable Dolphin",
+   "merchantDescription": "Dolphins are great to keep around a kitchen. It's true! Stick them behind the counter at your local diner and watch that hungry lunch rush break against them like a giant greasy wave. See those masterful flippers flipping 20 orders of silver dollar pancakes at",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-squishable-t-rex-ii",
+   "name": "Mini Squishable T-Rex II",
+   "merchantDescription": "ROAR! Why good morning to you too, T-Rex! It's a beautiful day to run around the cinema-scape and cause chaos, isn't it? What movie is complete without your majestic - yet probably scientifically incorrect - lizard body? Your flashing eyes promising horror? Yo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-triceratops",
+   "name": "Mini Squishable Triceratops",
+   "merchantDescription": "Whoa Mini Triceratops! Love your facial accessories! I may have a snazzy nose piercing, but your hardware takes it to another level. What's that? Yours are fully functional against vicious carnivorous predators? Hmm, mine could probably open a tin can if I cam",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-apatosaurus",
+   "name": "Mini Squishable Apatosaurus",
+   "merchantDescription": "Cereal box on top of the fridge at breakfast? Mac and cheese too high in the closet at lunch? Ice cream on a tall freezer shelf at dinner (yes I'm having ice cream for dinner)? It's Mini Apatosaurus to the rescue! With that sky-high neck, those sugary and/or c",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-stegosaurus-iii",
+   "name": "Mini Squishable Stegosaurus III",
+   "merchantDescription": "I'm kind of feeling like a salad right now, but alas, I'm missing a plate on which to put it! Hey, Mini Stegosaurus, can I borrow one of yours? You've got plenty, right down your back. What's that? You need those plates for self-defense and thermoregulation? D",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-celestial-unicorn",
+   "name": "Mini Squishable Celestial Unicorn",
+   "merchantDescription": "Gilding the lily! That means taking something that's really great and making it unnecessarily greater. Like taking a cinnamon bun with icing and adding chocolate. Like taking a perfect ballet performance and adding puppets. Like taking a bacon cheeseburger and",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-squishable-forest-demon",
+   "name": "Mini Squishable Forest Demon",
+   "merchantDescription": "Are you hungry, little Forest Demon? How about this nice banana muffin? Oh jeez, no, stop trying to eat your own foot! We can fight our culinary cravings without chomping on extremities. No no, that goes for MY foot as well. How's some bolognese? I make a very",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-shadow-dragon",
+   "name": "Mini Squishable Shadow Dragon",
+   "merchantDescription": "I feel like someone is watching me! Is it the shadow of paranoia hiding in my subconscious? No, it's a Shadow Dragon...hiding in my shadow! Come on out, little one! Don't be shy! Or you know, you can stay right where you are if you want, no pressure! You do yo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-alligator-ii",
+   "name": "Mini Squishable Alligator II",
+   "merchantDescription": "Wearing armor keeps you pretty high up in the food chain. Case in point, the Squishable Alligator! They can eat anything! Muffins? Yes! Zebras? Yep! Feelings of self-doubt? Not a problem! This alligator can eat them all! alligator,green,florida,reptile",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-oyster",
+   "name": "Mini Squishable Oyster",
+   "merchantDescription": "Oh Mini Squishable Oyster, I'm so glad to see you opening up a little bit! When we first met you were locked down tighter than a clam, but now you're willing to show the world the true treasure that is inside! You just keep on...opening...up while I get the co",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-pink-fluffy-bunny",
+   "name": "Mini Squishable Pink Fluffy Bunny",
+   "merchantDescription": "Did this cotton candy just make a sound? Oh dear, it's you Mini Squishable Pink Fluffy Bunny! Your cosplay skills are getting better and better. Who would believe that your sweetness is purely metaphorical? Not me! Can I just have a nibble? An ear? Oh come on,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-piggy",
+   "name": "Mini Squishable Piggy",
+   "merchantDescription": "This Mini Squishable Piggy has plans! Athletic, healthy plans! Plans that involve push ups and sit ups and pull ups! Plans that involve lifting weights and swimming laps and sprinting back and forth across the barnyard! Plans that involve tunneling under the f",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 27
+  },
+  {
+   "id": "squishable-mini-squishable-cow",
+   "name": "Mini Squishable Cow",
+   "merchantDescription": "The ground is my food! When I'm feeling hungry, I just take a bite of tile from my kitchen floor, or munch on the edge of my hand-tufted wool rug! If I'm walking down the street? I chew on some sidewalk. Except not really, because I'm not a cow! When cows are ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-highland-cow",
+   "name": "Mini Squishable Highland Cow",
+   "merchantDescription": "Oh the majestic and rustic presence of a Squishable Highland Cow! Oh the luxurious and warm coat! They're truly the pride of Scotland. What's not to love about this bovine beauty? Nothing, they say, nothing at all. cow,brown,milk,milkshake",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-strawberry-cow",
+   "name": "Mini Squishable Strawberry Cow",
+   "merchantDescription": "Where does strawberry milk come from? From well-educated Strawberry Cows! That's also where we get strawberry milkshakes, but it's best we probably don't talk about those. Anyway, this particular cow is project manager for the creation of all strawberry dairy!",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-queen-bee",
+   "name": "Mini Squishable Queen Bee",
+   "merchantDescription": "Who runs the world? Bees! They're responsible for all of the tasty food in the entire world (and also all of the not-tasty food too!). With a huge responsibility on their tiny shoulders, they need strong leadership. Luckily the Mini Squishable Queen Bee is her",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-christmas-tree",
+   "name": "Mini Squishable Christmas Tree",
+   "merchantDescription": "Tis I! The Mini Squishable Christmas Tree! I'm what people decorate, fawn over, stick stuff under, and rock around for a month straight. And while my more...alive compatriots might be more fragrant and flammable. I happen to be immortal! Beat that, real trees!",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 30
+  },
+  {
+   "id": "squishable-mini-squishable-phoenix",
+   "name": "Mini Squishable Phoenix",
+   "merchantDescription": "You're just in time to celebrate the Mini Squishable Phoenix's birthday! They were just reborn from the ashes of the previous phoenix a few seconds ago, and they're super excited to meet you. How lucky! Oh wait, there it goes again in a huge plume of flame. Do",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-cute-snowman",
+   "name": "Mini Squishable Cute Snowman",
+   "merchantDescription": "♫ Squishable Cute Snowman is a Mini fuzzy Squish! With a blue top hat, and a carrot nose, and two eyes made out of fish? No wait, fuzz. Mini Squishable Snowman is a fairy tale, they say. But wait it's not—It's for sale right here! You can buy it on this paaaaa",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-squishable-wolf",
+   "name": "Mini Squishable Wolf",
+   "merchantDescription": "HOWL! The lone wolf calls at the moon! Wait, being a lone wolf actually sucks. Let's make a pack! Do you wanna be a part of it? Start practicing your howls, building up your running stamina, and getting used to a fully carnivorous diet. We will be lone wolves ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-red-dragon",
+   "name": "Mini Squishable Red Dragon",
+   "merchantDescription": "Leaders are red! I know this after reading a LOT of comic books, and the leader of most superhero groups is usually red. Well, except that one guy, you know who I mean. But in general, have no fear! The Mini Squishable Red Dragon is here to lead! By which I me",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-hati-ii",
+   "name": "Mini Squishable Hati II",
+   "merchantDescription": "This cuddly Squish, inspired by Norse mythology, looks a lot like another Squishable I used to know with a very similar name and look. They were only around for a little while. How long will this one last? You're gonna be here until Ragnarok? Sweet! Let's go c",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-skoll",
+   "name": "Mini Squishable Skoll",
+   "merchantDescription": "Name: Skoll. Origin: Norse. What: A giant Warg. Likes: Chasing the sun until I am fated to finally catch it during Ragnarok. Looking for: friend that loves playing volleyball in the sun, sunbathing, and running at sunrise. Contact me via THE SKY, I'm the one c",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-loaf-cat",
+   "name": "Mini Squishable Loaf Cat",
+   "merchantDescription": "Cats and loaves of bread have a lot in common. They look loaf-like! They can be a lovely tan color! They're squishy and soft! Squish your own loaf with no risk of scratches! cat,loaf,bread,mini,brown,yellow,tan,kitty",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-plague-nurse",
+   "name": "Mini Squishable Plague Nurse",
+   "merchantDescription": "We all need a partner. Sherlock has his Watson, Robin Hood has his Little John. The Plague Doctor has the Plague Nurse. If you were about to do medieval battle against infectious miasmas armed with only a lantern, a rudimentary concept of personal hygiene, and",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-poodle-moth",
+   "name": "Mini Squishable Poodle Moth",
+   "merchantDescription": "Oh my gosh! So much fuzz! How can a poodle moth even walk around with all that fuzz weighing them down? Oh, they don't? What, do they just roll around everywhere? I mean, with all that floof you'd never have to worry about sweeping the floor again. Ahah, wings",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-monarch-butterfly",
+   "name": "Mini Squishable Monarch Butterfly",
+   "merchantDescription": "I used to be absolutely terrified of butterflies. There was one time I was walking around in a lantern festival and one flew right into my eyeball. It was weird. True story! Luckily I met the Mini Squishable Monarch Butterfly and it was like pro-butterfly ther",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-baby-axolotl",
+   "name": "Mini Squishable Baby Axolotl",
+   "merchantDescription": "Look at this ridiculous little shining star in the darkness of the amphibian world! This face is a happy beacon of cuteness, and those sparkles are what stars are made of. That's what the designer told me at least. And they're the person who keeps me employed,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  }
+ ]
+}

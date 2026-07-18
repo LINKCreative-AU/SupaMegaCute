@@ -1,0 +1,1330 @@
+{
+ "source": "uwumarket",
+ "batch": 32,
+ "items": [
+  {
+   "id": "uwumarket-primaltheyeen-3-year-crewneck",
+   "name": "PrimalTheYeen '3 Year' Crewneck",
+   "merchantDescription": "PrimalTheYeen x UwU Collab PrimalTheYeen '3 Year' Crewneck Designed By: Sarasenia",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-primaltheyeen-3-year-hoodie",
+   "name": "PrimalTheYeen '3 Year' Hoodie",
+   "merchantDescription": "PrimalTheYeen x UwU Collab PrimalTheYeen '3 Year' Hoodie Designed By: Sarasenia",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-starbievt-chibi-sticker",
+   "name": "StarbieVT \"Chibi\" Sticker",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Chibi\" Sticker Designed By: MimzyVT",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-starbievt-logo-sticker",
+   "name": "StarbieVT \"Logo\" Sticker",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Logo\" Sticker Designed By: MimzyVT",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-starbievt-rainbow-dragon-sticker",
+   "name": "StarbieVT \"Rainbow Dragon\" Sticker",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Rainbow Dragon\" Sticker Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-starbievt-sunset-rainbow-xl-mousepad",
+   "name": "StarbieVT \"Sunset Rainbow\" XL Mousepad",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Sunset Rainbow\" XL Mousepad Designed By: CarrionX",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-starbievt-rainbow-dragon-xl-mousepad",
+   "name": "StarbieVT \"Rainbow Dragon\" XL Mousepad",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Rainbow Dragon\" XL Mousepad Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-starbievt-ballon-rainbow-poster",
+   "name": "StarbieVT \"Ballon Rainbow\" Poster",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Ballon Rainbow\" Poster Designed By: CarrionX",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-starbievt-sunset-rainbow-poster",
+   "name": "StarbieVT \"Sunset Rainbow\" Poster",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Sunset Rainbow\" Poster Designed By: CarrionX",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-starbievt-rainbow-dragon-poster",
+   "name": "StarbieVT \"Rainbow Dragon\" Poster",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Rainbow Dragon\" Poster Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-starbievt-rainbow-dragon-sweatpants",
+   "name": "StarbieVT \"Rainbow Dragon\" Sweatpants",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Rainbow Dragon\" Sweatpants Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-starbievt-rainbow-dragon-hoodie",
+   "name": "StarbieVT \"Rainbow Dragon\" Hoodie",
+   "merchantDescription": "StarbieVT x UwU Collab StarbieVT \"Rainbow Dragon\" Hoodie Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-acrylic-standee-2",
+   "name": "Blair Labri \"Mage\" acrylic standee",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Mage\" acrylic standee 2 Designed By: Blair Labri",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-acrylic-standee-1",
+   "name": "Blair Labri \"Chibi Mage\" acrylic standee",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Chibi Mage\" acrylic standee 1 Designed By: kuro_ye",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-poster",
+   "name": "Blair Labri \"Mage\" Poster",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Mage\" Poster Designed By: Puritsu Ken",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-wall-scroll",
+   "name": "Blair Labri \"Mage\" Wall Scroll",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Mage\" Wall Scroll Designed By: Puritsu Ken",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-jet-tag",
+   "name": "Blair Labri \"Mage\" Jet Tag",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Mage\" Jet Tag Designed By: Puritsu Ken",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-shirt",
+   "name": "Blair Labri \"Mage\" Shirt",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Mage\" Shirt Designed By: Puritsu Ken",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-blair-labri-mage-hoodie",
+   "name": "Blair Labri \"Mage\" Hoodie",
+   "merchantDescription": "Blair Labri x UwU Collab Blair Labri \"Mage\" Hoodie Designed By: Puritsu Ken",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-vaal-the-skulls-visage-dark-red-t-shirt",
+   "name": "Vaal The Skull's Visage Dark Red T-Shirt",
+   "merchantDescription": "Vaal x UwU Collab Vaal The Skull's Visage Dark Red T-Shirt Designed By: leona_can",
+   "vendor": "UwU Market",
+   "productType": "TSR01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "vtuber"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-mug",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Mug",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Mug Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "MGS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mug",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mug"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-phone-case",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Phone Case",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Phone Case Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "PHC01",
+   "merchantTags": [
+    "anime iphone case",
+    "anime merch",
+    "anime phone case",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber iphone case",
+    "vtuber merch"
+   ],
+   "price": 25
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-poster",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Poster",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Poster Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-wall-scroll",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Wall Scroll",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Wall Scroll Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-jet-tag",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Jet Tag",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Jet Tag Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-sweatpants",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Sweatpants",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Sweatpants Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-t-shirt",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple T-Shirt",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple T-Shirt Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-t-shirt",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" T-Shirt",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" T-Shirt Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-crewneck",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple Crewneck",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple Crewneck Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-crewneck",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Crewneck",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Crewneck Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-hoodie",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple Hoodie",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple Hoodie Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-hoodie",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Hoodie",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Hoodie Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-pink-t-shirt",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple Pink T-Shirt",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple Pink T-Shirt Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-pink-t-shirt",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Pink T-Shirt",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Pink T-Shirt Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-white-t-shirt",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple White T-Shirt",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple White T-Shirt Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSW01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-white-t-shirt",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" White T-Shirt",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" White T-Shirt Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSW01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-pink-crewneck",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple Pink Crewneck",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple Pink Crewneck Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNP01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-pink-crewneck",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Pink Crewneck",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Pink Crewneck Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNP01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-white-crewneck",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple White Crewneck",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple White Crewneck Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNW01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-white-crewneck",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" White Crewneck",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" White Crewneck Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNW01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-pink-hoodie",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple Pink Hoodie",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple Pink Hoodie Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDP01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-pink-hoodie",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Pink Hoodie",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Pink Hoodie Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDP01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-simple-white-hoodie",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" Simple White Hoodie",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" Simple White Hoodie Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDW01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-peachypiwie-butterflies-dreams-white-hoodie",
+   "name": "PeachyPiwie \"Butterflies & Dreams\" White Hoodie",
+   "merchantDescription": "PeachyPiwie x UwU Collab PeachyPiwie \"Butterflies Dreams\" White Hoodie Designed By: kusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDW01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-black-sweatpants-1",
+   "name": "Gremlin Mae \"Never Punished\" Black Sweatpants",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Black Sweatpants Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-black-sweatpants",
+   "name": "Gremlin Mae \"Never Punished\" Black Sweatpants",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Black Sweatpants Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-green-t-shirt",
+   "name": "Gremlin Mae \"Never Punished\" Green T-Shirt",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Green T-Shirt Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "TSG01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-dark-gray-t-shirt",
+   "name": "Gremlin Mae \"Never Punished\" Dark Gray T-Shirt",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Dark Gray T-Shirt Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "TSD01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-white-t-shirt",
+   "name": "Gremlin Mae \"Never Punished\" White T-Shirt",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" White T-Shirt Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "TSW01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-black-t-shirt",
+   "name": "Gremlin Mae \"Never Punished\" Black T-Shirt",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Black T-Shirt Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-gray-crewneck",
+   "name": "Gremlin Mae \"Never Punished\" Gray Crewneck",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Gray Crewneck Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "CNG01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-white-crewneck",
+   "name": "Gremlin Mae \"Never Punished\" White Crewneck",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" White Crewneck Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "CNW01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-black-crewneck",
+   "name": "Gremlin Mae \"Never Punished\" Black Crewneck",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Black Crewneck Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-green-hoodie",
+   "name": "Gremlin Mae \"Never Punished\" Green Hoodie",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Green Hoodie Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "HDG01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-gray-hoodie",
+   "name": "Gremlin Mae \"Never Punished\" Gray Hoodie",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Gray Hoodie Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "HDD01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-white-hoodie",
+   "name": "Gremlin Mae \"Never Punished\" White Hoodie",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" White Hoodie Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "HDW01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-black-hoodie",
+   "name": "Gremlin Mae \"Never Punished\" Black Hoodie",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Black Hoodie Designed By: Archandy",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-sticker",
+   "name": "Gremlin Mae \"Never Punished\" Sticker",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Sticker Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-gremlin-mae-never-punished-acrylic-standee",
+   "name": "Gremlin Mae \"Never Punished\" Acrylic Standee",
+   "merchantDescription": "Gremlin Mae x UwU Collab Gremlin Mae \"Never Punished\" Acrylic Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-kameko-kuromori-dakimakura-campaign",
+   "name": "Kameko Kuromori Dakimakura Campaign",
+   "merchantDescription": "Kameko Kuromori x UwU Collab Kameko Kuromori Dakimakura Campaign Designed By: Biyo_art",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber body pillow"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-skyekatty-phone-charger",
+   "name": "SkyeKatty Phone Charger",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Phone Charger Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "WPC01",
+   "merchantTags": [
+    "anime merch",
+    "anime phone charger",
+    "anime wireless phone charger",
+    "vtuber",
+    "vtuber merch",
+    "vtuber phone charger",
+    "vtuber wireless phone charger"
+   ],
+   "price": 29
+  },
+  {
+   "id": "uwumarket-skyekatty-xxl-mousepad",
+   "name": "SkyeKatty XXL Mousepad",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty XXL Mousepad Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-skyekatty-phone-case",
+   "name": "SkyeKatty Phone Case",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Phone Case Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "PHC01",
+   "merchantTags": [
+    "anime iphone case",
+    "anime merch",
+    "anime phone case",
+    "vtuber",
+    "vtuber iphone case",
+    "vtuber merch",
+    "vtuber phone case"
+   ],
+   "price": 25
+  },
+  {
+   "id": "uwumarket-skyekatty-xl-mousepad",
+   "name": "SkyeKatty XL Mousepad",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty XL Mousepad Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-skyekatty-jet-tag",
+   "name": "SkyeKatty Jet Tag",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Jet Tag Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-skyekatty-sweatpants",
+   "name": "SkyeKatty Sweatpants",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Sweatpants Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-skyekatty-shirt",
+   "name": "SkyeKatty Shirt",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Shirt Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-skyekatty-crewneck",
+   "name": "SkyeKatty Crewneck",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Crewneck Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-skyekatty-hoodie",
+   "name": "SkyeKatty Hoodie",
+   "merchantDescription": "SkyeKatty x UwU Collab SkyeKatty Hoodie Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-elmira-bedrotting-poster",
+   "name": "Elmira 'Bedrotting' Poster",
+   "merchantDescription": "Elmira x UwU Collab Elmira 'Bedrotting' Poster Designed By: Casynovart",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-elmira-bedrotting-xl-deskmat",
+   "name": "Elmira 'Bedrotting' XL Deskmat",
+   "merchantDescription": "Elmira x UwU Collab Elmira 'Bedrotting' XL Deskmat Designed By: Casynovart",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-skxrlxt-sticker",
+   "name": "SKXRLXT Sticker",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Sticker Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-skxrlxt-keychain",
+   "name": "SKXRLXT Keychain",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Keychain Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-skxrlxt-jet-tag",
+   "name": "SKXRLXT Jet Tag",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Jet Tag Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-skxrlxt-sweatpants",
+   "name": "SKXRLXT Sweatpants",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Sweatpants Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-skxrlxt-shirt",
+   "name": "SKXRLXT Shirt",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Shirt Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-skxrlxt-crewneck",
+   "name": "SKXRLXT Crewneck",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Crewneck Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-skxrlxt-hoodie",
+   "name": "SKXRLXT Hoodie",
+   "merchantDescription": "SKXRLXT x UwU Collab SKXRLXT Hoodie Designed By: raresauce",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-ayumileevt-chibi-in-cherry-blossoms-phone-holder",
+   "name": "AyumiLeeVT \"Chibi in Cherry Blossoms\" Phone Holder",
+   "merchantDescription": "AyumiLeeVT x UwU Collab AyumiLeeVT \"Chibi in Cherry Blossoms\" Phone Holder Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "APH01",
+   "merchantTags": [
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 12.95
+  },
+  {
+   "id": "uwumarket-ayumileevt-chibi-in-cherry-blossoms-sticker",
+   "name": "AyumiLeeVT \"Chibi in Cherry Blossoms\" Sticker",
+   "merchantDescription": "AyumiLeeVT x UwU Collab AyumiLeeVT \"Chibi in Cherry Blossoms\" Sticker Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  }
+ ]
+}

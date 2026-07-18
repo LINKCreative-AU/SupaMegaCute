@@ -3,227 +3,677 @@
  "batch": 2,
  "items": [
   {
-   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-lunch-bag-floral",
-   "name": "Hello Kitty and Friends x Vera Bradley Lunch Bag (Floral)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Introducing our Lunch Bag, the perfect companion for keeping your meals fresh and styli",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026",
-    "Character:Cinnamoroll"
-   ],
-   "price": 55
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-bancroft-backpack-flo",
-   "name": "Hello Kitty and Friends x Vera Bradley Bancroft Backpack (Floral)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Elevate your daily commute or travel experience with our versatile Bancroft Backpack. D",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Backpacks",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026"
-   ],
-   "price": 165
-  },
-  {
-   "id": "sanrio-hello-kitty-x-vera-bradley-small-banbury-backpack-pink",
-   "name": "Hello Kitty x Vera Bradley Small Banbury Backpack (Pink)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Meet our Small Banbury Backpack, the perfect blend of style and convenience for your on-the-go life",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Backpacks",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026"
-   ],
-   "price": 125
-  },
-  {
-   "id": "sanrio-hello-kitty-x-vera-bradley-large-original-duffel-pink",
-   "name": "Hello Kitty x Vera Bradley Large Original Duffel (Pink)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Embrace the spirit of adventure with our Large Original Duffel. Designed for the modern explorer, t",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 170
-  },
-  {
-   "id": "sanrio-hello-kitty-x-vera-bradley-kimmel-sling-crossbody-pink",
-   "name": "Hello Kitty x Vera Bradley Kimmel Sling Crossbody (Pink)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Streamlined and effortless. Its gentle crescent shape and smart zip pocket make carrying your essen",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 85
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-small-hathaway-tote-h",
-   "name": "Hello Kitty and Friends x Vera Bradley Small Hathaway Tote (Hydrangeas)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Step out in style and stay organized on the go with the Small Hathaway Tote. Whether yo",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026",
-    "Character:Cinnamoroll"
-   ],
-   "price": 120
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-bag-charm-hydrangeas",
-   "name": "Hello Kitty and Friends x Vera Bradley Bag Charm (Hydrangeas)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Add a touch of flair to your bag or backpack with our stylish Bag Charm. Designed to el",
-   "vendor": "Vera Bradley",
+   "id": "sanrio-need-image-cinnamoroll-x-sonix-mini-tech-backpack-charm-keyc",
+   "name": "Cinnamoroll x Sonix Mini Tech Backpack Charm Keychain",
+   "merchantDescription": "Discover the cuteness of the Hello Kitty and Friends Mini Tech Backpack Charms, featuring your favorite Sanrio Characters—Hello Kitty, Kuromi, and Cinnamoroll. These delightful mini backpack bag charm accessories elevate the look of your daily carry with an ex",
+   "vendor": "BySonix Inc.",
    "productType": "Accessory",
    "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
     "Accessories",
     "Accessory",
     "app:new",
     "Badge:BrandNew",
-    "Brand:Vera Bradley",
-    "BTS-2026"
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Earbud & In-Ear Headphone Carrying Cases"
    ],
-   "price": 25
+   "price": 19.99
   },
   {
-   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-hanging-organizer-hyd",
-   "name": "Hello Kitty and Friends x Vera Bradley Hanging Organizer (Hydrangeas)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Stay organized and travel in style with our Hanging Travel Organizer. Designed to keep ",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley",
-    "BTS-2026",
-    "Character:Cinnamoroll"
-   ],
-   "price": 100
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-dual-pouch-wide-wrist",
-   "name": "Hello Kitty and Friends x Vera Bradley Dual Pouch Wide Wristlet (Hydrangeas)",
-   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Two pouches, twice the ease. This dual-pouch wristlet keeps your essentials beautifully",
-   "vendor": "Vera Bradley",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026VERABRADLEY",
-    "26051101",
-    "Accessories",
-    "Accessory",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Vera Bradley"
-   ],
-   "price": 60
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-f1-academy-12-plush-pink",
-   "name": "Hello Kitty and Friends x F1 ACADEMY 12\" Plush (Pink)",
-   "merchantDescription": "In honor of the Formula 1 Las Vegas Grand Prix 2025, F1 ACADEMY and Hello Kitty have teamed up to bring fans of both universes an exclusive merchandise collection, featuring your favorite friends while they speed through our hearts in the name of racing! Grab ",
-   "vendor": "Insomniac Holdings LLC",
-   "productType": "Plush",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Brand:Insomniac Holdings Llc",
-    "Character:Hello Kitty",
-    "NA-121925",
-    "New",
-    "Plush",
-    "PO:L474"
-   ],
-   "price": 60
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-f1-academy-12-plush-violet",
-   "name": "Hello Kitty and Friends x F1 ACADEMY 12\" Plush (Violet)",
-   "merchantDescription": "In honor of the Formula 1 Las Vegas Grand Prix 2025, F1 ACADEMY and Hello Kitty have teamed up to bring fans of both universes an exclusive merchandise collection, featuring your favorite friends while they speed through our hearts in the name of racing! Grab ",
-   "vendor": "Insomniac Holdings LLC",
-   "productType": "Plush",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Brand:Insomniac Holdings Llc",
-    "Character:Hello Kitty",
-    "NA-121925",
-    "New",
-    "Plush",
-    "PO:L474"
-   ],
-   "price": 60
-  },
-  {
-   "id": "sanrio-anti-social-social-club-x-hello-kitty-ethereal-dad-cap-black",
-   "name": "Anti Social Social Club x Hello Kitty Ethereal Dad Cap (Black)",
-   "merchantDescription": "Anti Social Social Club is teaming up once again with Hello Kitty for their newest collaboration yet. This exclusive drop features limited edition hoodies, tees, and accessories that fuse the iconic charm of Hello Kitty with ASSC’s signature streetwear edge. T",
-   "vendor": "Anti Social Social Club",
+   "id": "sanrio-cinnamoroll-and-friends-x-sonix-peeker-charms-blind-box",
+   "name": "Cinnamoroll and Friends x Sonix Peeker Charms Blind Box",
+   "merchantDescription": "Cinnamoroll and Friends Peekers are a brand new way to bring your favorite Sanrio Characters into your daily life! These adorable decorative mini figures come with adhesive tape to stick onto your phone, laptop, desk, bookshelf, and more! This blind assortment",
+   "vendor": "BySonix Inc.",
    "productType": "Accessory",
    "merchantTags": [
-    "2026ASSC",
     "Accessories",
     "Accessory",
     "app:new",
     "Badge:BrandNew",
-    "Baseball Caps",
-    "Brand:Anti Social Social Club",
-    "Character:Hello Kitty"
+    "best",
+    "Best Seller",
+    "Blind Box",
+    "Blind Boxes"
    ],
-   "price": 45
+   "price": 14.99
   },
   {
-   "id": "sanrio-my-melody-plush-mascot-bag-charm-strawberry-whip-series",
-   "name": "My Melody Plush Mascot Bag Charm (Strawberry Whip Series)",
-   "merchantDescription": "A delicately sweet strawberry series that’s a pure delight, featuring your favorite Sanrio Characters! Topped with “whipped” accents, these bag charms, mascots, and pouches feel decadent, whimsical, and a treat for all to see! ♡ Hand-painted cheeks ♡ Gold chai",
+   "id": "sanrio-cinnamoroll-and-friends-x-sonix-clouds-nintendo-switch-case",
+   "name": "Cinnamoroll and Friends x Sonix Clouds Nintendo Switch Case",
+   "merchantDescription": "Protect your beloved handheld console in the sweetest way possible with this Cinnamoroll Lovelymocha Game Console Carrying Case! This design features Cinnamoroll and friends, set against a dreamy light blue sky filled with fluffy white clouds. Cinnamoroll floa",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Character:Lovelymocha",
+    "LOVELYMOCHA"
+   ],
+   "price": 22.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-and-friends-x-sonix-clouds-neoprene-tech-sleeve",
+   "name": "Cinnamoroll and Friends x Sonix Clouds Neoprene Tech Sleeve",
+   "merchantDescription": "Add a playful touch to your tech with this kawaii Cinnamoroll Tech Sleeve, designed to protect your laptop or tablet from your daily commute. Adorned with adorable artwork featuring fluffy Cinnamoroll, his playful puppy friends, floating clouds, juicy strawber",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cinnamoroll",
+    "Character:Lovelymocha",
+    "Laptop Bags"
+   ],
+   "price": 26.99
+  },
+  {
+   "id": "sanrio-kuromi-ensky-paper-shadow-art-mini-sa-m05",
+   "name": "Kuromi Ensky Paper Shadow Art Mini (SA-M05)",
+   "merchantDescription": "Introducing soft, sweet, and colorful paper crafts featuring Sanrio characters! Six new \"PAPER SHADOW ART mini\" designs are available, each filled with the charm of Sanrio Characters, beloved by both adults and children. Matching the characters' warm atmospher",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Kuromi",
+    "Craft Kits",
+    "NA-060526",
+    "New"
+   ],
+   "price": 26
+  },
+  {
+   "id": "sanrio-hello-kitty-ensky-paper-shadow-art-mini-sa-m01",
+   "name": "Hello Kitty Ensky Paper Shadow Art Mini (SA-M01)",
+   "merchantDescription": "Introducing soft, sweet, and colorful paper crafts featuring Sanrio characters! Six new \"PAPER SHADOW ART mini\" designs are available, each filled with the charm of Sanrio Characters, beloved by both adults and children. Matching the characters' warm atmospher",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Hello Kitty",
+    "Craft Kits",
+    "NA-060526",
+    "New"
+   ],
+   "price": 26
+  },
+  {
+   "id": "sanrio-hello-kitty-my-best-flavor-ensky-paper-theater-pt-300x",
+   "name": "Hello Kitty My Best Flavor Ensky Paper Theater (PT-300X)",
+   "merchantDescription": "Ensky Paper Theater brings your favorite Sanrio characters into fun, three-dimensional scenes. Each intricately laser-cut layer fits perfectly to build a detailed and charming display. Designed to make the \"Paper Theater\" papercraft series easy and enjoyable, ",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Hello Kitty",
+    "Craft Kits",
+    "NA-060526",
+    "New"
+   ],
+   "price": 22
+  },
+  {
+   "id": "sanrio-my-melody-kuromi-ensky-paper-theater-pt-l95",
+   "name": "My Melody & Kuromi Ensky Paper Theater (PT-L95)",
+   "merchantDescription": "Ensky Paper Theater brings your favorite Sanrio characters into fun, three-dimensional scenes. Each intricately laser-cut layer fits perfectly to build a detailed and charming display. Designed to make the \"Paper Theater\" papercraft series easy and enjoyable, ",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Hello Kitty & Friends",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "Craft Kits"
+   ],
+   "price": 34
+  },
+  {
+   "id": "sanrio-pompompurin-nemunemu-purin-ensky-paper-theater-pt-304x",
+   "name": "Pompompurin Nemunemu Purin Ensky Paper Theater (PT-304X)",
+   "merchantDescription": "Ensky Paper Theater brings your favorite Sanrio characters into fun, three-dimensional scenes. Each intricately laser-cut layer fits perfectly to build a detailed and charming display. Designed to make the \"Paper Theater\" papercraft series easy and enjoyable, ",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Pompompurin",
+    "Craft Kits",
+    "NA-060526",
+    "New"
+   ],
+   "price": 22
+  },
+  {
+   "id": "sanrio-my-melody-ensky-paper-shadow-art-mini-sa-m02",
+   "name": "My Melody Ensky Paper Shadow Art Mini (SA-M02)",
+   "merchantDescription": "Introducing soft, sweet, and colorful paper crafts featuring Sanrio characters! Six new \"PAPER SHADOW ART mini\" designs are available, each filled with the charm of Sanrio Characters, beloved by both adults and children. Matching the characters' warm atmospher",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:My Melody",
+    "Craft Kits",
+    "NA-060526",
+    "New"
+   ],
+   "price": 26
+  },
+  {
+   "id": "sanrio-cinnamoroll-together-ensky-paper-theater-pt-305x",
+   "name": "Cinnamoroll Together Ensky Paper Theater (PT-305X)",
+   "merchantDescription": "Ensky Paper Theater brings your favorite Sanrio characters into fun, three-dimensional scenes. Each intricately laser-cut layer fits perfectly to build a detailed and charming display. Designed to make the \"Paper Theater\" papercraft series easy and enjoyable, ",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Cinnamoroll",
+    "Character:Lovelymocha",
+    "Craft Kits",
+    "LOVELYMOCHA"
+   ],
+   "price": 22
+  },
+  {
+   "id": "sanrio-pochacco-so-much-fun-ensky-paper-theater-pt-302x",
+   "name": "Pochacco So Much Fun! Ensky Paper Theater (PT-302X)",
+   "merchantDescription": "Ensky Paper Theater brings your favorite Sanrio characters into fun, three-dimensional scenes. Each intricately laser-cut layer fits perfectly to build a detailed and charming display. Designed to make the \"Paper Theater\" papercraft series easy and enjoyable, ",
+   "vendor": "BANDAI AMERICA",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Bandai America",
+    "Building Sets",
+    "Character:Pochacco",
+    "Craft Kits",
+    "NA-060526",
+    "New"
+   ],
+   "price": 22
+  },
+  {
+   "id": "sanrio-u-sa-ha-na-mini-mascot-keychain-sanrio-character-award-serie",
+   "name": "U*SA*HA*NA Mini Mascot Keychain (Sanrio Character Award Series)",
+   "merchantDescription": "I’ll adore you with all my heart! Clip this adorable plush mascot to a bag or tote and even use it as decor. The colorful clip attachment is shaped like a heart, sure to bring a smile every time you catch a glance! ♡ Heart-shaped, push clasp carabiner ♡ Sanrio",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Usahana",
+    "EVAL121625",
+    "Keychains"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-tuxedosam-mascot-photo-holder-charm",
+   "name": "Tuxedosam Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Character:Tuxedosam",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-pompompurin-mascot-photo-holder-charm",
+   "name": "Pompompurin Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Character:Pompompurin",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-keroppi-mascot-photo-holder-charm",
+   "name": "Keroppi Mascot Photo  Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Character:Keroppi",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-studio-oh-college-letters-gel-pens",
+   "name": "Hello Kitty and Friends x Studio Oh! College Letters Gel Pens",
+   "merchantDescription": "Unleash your imagination with our Hello Kitty and Friends–themed gel pens! This set features five cute, coordinating pens, each with a 0.7 mm tip for creating medium-thick lines. Pens come pre-filled with smooth-flowing ink in five vibrant colors. Whether you'",
+   "vendor": "Studio Oh!",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Brand:Studio Oh!",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "DROPSHIP"
+   ],
+   "price": 10
+  },
+  {
+   "id": "sanrio-kuromi-x-studio-oh-soft-touch-gel-pen-set",
+   "name": "Kuromi x Studio Oh! Soft-Touch Gel Pen Set",
+   "merchantDescription": "Add a bold twist to your stationery with this Kuromi-themed gel pen set! Featuring five smooth-writing gel pens in vibrant green, pink, blue, purple, and orange ink, each pen is designed with coordinating Kuromi artwork and a soft-touch finish for a comfortabl",
+   "vendor": "Studio Oh!",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Brand:Studio Oh!",
+    "Character:Kuromi",
+    "DROPSHIP",
+    "Gel Pens",
+    "KU20",
+    "NA-093025",
+    "prodavail"
+   ],
+   "price": 16
+  },
+  {
+   "id": "sanrio-pompompurin-bestie-face-badge-reel",
+   "name": "Pompompurin Bestie Face Badge Reel",
+   "merchantDescription": "Whip through the metro with your trusty Pompompurin badge reel! This supercute design easily attaches to your favorite set of keys and makes swiping your key card a breeze! ♡ PVC material ♡ Lobster clasp closure ♡ Approx. 5”",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "Besties",
+    "BFCM24-10",
+    "BFCM24-20",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-pompompurin-classic-letter-set",
+   "name": "Pompompurin Classic Letter Set",
+   "merchantDescription": "Express yourself with a Sanrio classic! These cute letter sets have all the goods to compose the cutest letter ready for airmail. Each comes with blank sheet pages, matching envelopes, and sticker seals to create lasting penpal memories. ♡ Stickers: 12 pieces ",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "BACK IN STOCK",
+    "BFCM24-30",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Pompompurin",
+    "EVAL121625",
+    "Letter Sets",
+    "NA-092724"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-pompompurin-friendship-lanyard",
+   "name": "Pompompurin Friendship Lanyard",
+   "merchantDescription": "Keep your ID badge nearby with this cute all-over print lanyard featuring Pompompurin! Look closely and you'll see his sweet message \"Time for some fun!\" throughout! ♡ Strap width: 1\" ♡ Adjustable length ♡ Lobster clasp ♡ Approx. 45\"",
+   "vendor": "JAPAN ORIGINAL",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "BACK IN STOCK",
+    "Badge Holders",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-pompompurin-mini-mascot-keychain-sanrio-character-award-seri",
+   "name": "Pompompurin Mini Mascot Keychain (Sanrio Character Award Series)",
+   "merchantDescription": "I’ll adore you with all my heart! Clip this adorable plush mascot to a bag or tote and even use it as decor. The colorful clip attachment is shaped like a heart, sure to bring a smile every time you catch a glance! ♡ Heart-shaped, push clasp carabiner ♡ Sanrio",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Pompompurin",
+    "EVAL121625",
+    "Keychains"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-pochacco-mascot-photo-holder-charm",
+   "name": "Pochacco Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-10",
+    "Brand:Japan Original",
+    "Character:Pochacco",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-berry-mini-mascot-keychain-sanrio-character-award-series",
+   "name": "Lloromannic Berry Mini Mascot Keychain (Sanrio Character Award Series)",
+   "merchantDescription": "I’ll adore you with all my heart! Clip this adorable plush mascot to a bag or tote and even use it as decor. The colorful clip attachment is shaped like a heart, sure to bring a smile every time you catch a glance! ♡ Heart-shaped, push clasp carabiner ♡ Sanrio",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "2025HALLOWEEN",
+    "Accessories",
+    "Accessory",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Lloromannic",
+    "EVAL121625",
+    "Halloween"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-chococat-mini-mascot-keychain-sanrio-character-award-series",
+   "name": "Chococat Mini Mascot Keychain (Sanrio Character Award Series)",
+   "merchantDescription": "I’ll adore you with all my heart! Clip this adorable plush mascot to a bag or tote and even use it as decor. The colorful clip attachment is shaped like a heart, sure to bring a smile every time you catch a glance! ♡ Heart-shaped, push clasp carabiner ♡ Sanrio",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "BACK IN STOCK",
+    "BFCM25-5bucks",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Chococat"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-cherry-mini-mascot-keychain-sanrio-character-award-series",
+   "name": "Lloromannic Cherry Mini Mascot Keychain (Sanrio Character Award Series)",
+   "merchantDescription": "I’ll adore you with all my heart! Clip this adorable plush mascot to a bag or tote and even use it as decor. The colorful clip attachment is shaped like a heart, sure to bring a smile every time you catch a glance! ♡ Heart-shaped, push clasp carabiner ♡ Sanrio",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "2025HALLOWEEN",
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "BACK IN STOCK",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Lloromannic"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-charmmy-kitty-mini-mascot-keychain-sanrio-character-award-se",
+   "name": "Charmmy Kitty Mini Mascot Keychain (Sanrio Character Award Series)",
+   "merchantDescription": "I’ll adore you with all my heart! Clip this adorable plush mascot to a bag or tote and even use it as decor. The colorful clip attachment is shaped like a heart, sure to bring a smile every time you catch a glance! ♡ Heart-shaped, push clasp carabiner ♡ Sanrio",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "BACK IN STOCK",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Charmmy Kitty",
+    "EVAL121625"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-badtz-maru-mascot-photo-holder-charm",
+   "name": "Badtz-maru Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Character:Badtz-maru",
+    "Charms",
+    "Keychains",
+    "LDY25"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-littletwinstars-mascot-photo-holder-charm",
+   "name": "LittleTwinStars Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Character:LittleTwinStars",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-hangyodon-mascot-photo-holder-charm",
+   "name": "Hangyodon Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Character:Hangyodon",
+    "Charms",
+    "Keychains",
+    "LDY25"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-kuromi-mascot-photo-holder-charm",
+   "name": "Kuromi Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:Kuromi",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-mascot-photo-holder-charm",
+   "name": "Cinnamoroll Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:Cinnamoroll",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-my-melody-mascot-photo-holder-charm",
+   "name": "My Melody Mascot Photo Holder Charm",
+   "merchantDescription": "Show off your unique style with these cute photo holders that can conveniently clip onto your keychain or bag. Flaunt your love for your favorite Sanrio Character while displaying trading cards or a special snapshot from a pal! ♡ PVC material ♡ Character detai",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Character:My Melody",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sanrio-hello-kitty-mascot-clip-strawberry-fields-series",
+   "name": "Hello Kitty Mascot Clip (Strawberry Fields Series)",
+   "merchantDescription": "Sticky-sweet and always welcome at a party, Hello Kitty and a strawberry have a lot in common! This adorable mascot clip shows off her red bows and matching dress in this super bright colorway! Attach this clip to a set of keys, tote or backpack and watch the ",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "backinstock",
+    "Badge:BrandNew",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Mascot Clips"
+   ],
+   "price": 18.99
+  },
+  {
+   "id": "sanrio-charmmy-kitty-24-pc-sticker-pack-my-furbaby-series",
+   "name": "Charmmy Kitty 24-pc Sticker Pack (My Furbaby Series)",
+   "merchantDescription": "Discover the posh and precious side of Charmmy Kitty and Honeycute with the latest My Furbaby series! Adorn your keychains, bags, and more with these whimsical designs that capture this pair’s sophisticated charm. Whether you're personalizing your space or add",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Charmmy Kitty",
+    "Character:Honeycute",
+    "Decorative Stickers",
+    "NA-060326"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-charmmy-kitty-plush-crossbody-bag-my-furbaby-series",
+   "name": "Charmmy Kitty Plush Crossbody Bag (My Furbaby Series)",
+   "merchantDescription": "Discover the posh and precious side of Charmmy Kitty and Honeycute with the latest My Furbaby series! Adorn your keychains, bags, and more with these whimsical designs that capture this pair’s sophisticated charm. Whether you're personalizing your space or add",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Charmmy Kitty",
+    "Cross Body Bags",
+    "Crossbody Bags"
+   ],
+   "price": 28
+  },
+  {
+   "id": "sanrio-charmmy-kitty-8-plush-my-furbaby-series",
+   "name": "Charmmy Kitty 8\" Plush (My Furbaby Series)",
+   "merchantDescription": "Discover the posh and precious side of Charmmy Kitty and Honeycute with the latest My Furbaby series! Adorn your keychains, bags, and more with these whimsical designs that capture this pair’s sophisticated charm. Whether you're personalizing your space or add",
    "vendor": "Japan Original",
    "productType": "Plush",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Charmmy Kitty",
+    "NA-060326",
+    "New",
+    "Plush"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-charmmy-kitty-brooch-my-furbaby-series",
+   "name": "Charmmy Kitty Brooch (My Furbaby Series)",
+   "merchantDescription": "Discover the posh and precious side of Charmmy Kitty and Honeycute with the latest My Furbaby series! Adorn your keychains, bags, and more with these whimsical designs that capture this pair’s sophisticated charm. Whether you're personalizing your space or add",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
    "merchantTags": [
     "Accessories",
     "Accessory",
@@ -231,676 +681,766 @@
     "Badge:BrandNew",
     "Brand:Japan Original",
     "Brand:Sanrio",
-    "Character:My Melody",
+    "Brooches & Lapel Pins",
+    "Character:Charmmy Kitty"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-honeycute-plush-mascot-keychain-my-furbaby-series",
+   "name": "Honeycute Plush Mascot Keychain (My Furbaby Series)",
+   "merchantDescription": "Discover the posh and precious side of Charmmy Kitty and Honeycute with the latest My Furbaby series! Adorn your keychains, bags, and more with these whimsical designs that capture this pair’s sophisticated charm. Whether you're personalizing your space or add",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Charmmy Kitty",
+    "Character:Honeycute"
+   ],
+   "price": 26
+  },
+  {
+   "id": "sanrio-charmmy-kitty-plush-mascot-keychain-my-furbaby-series",
+   "name": "Charmmy Kitty Plush Mascot Keychain (My Furbaby Series)",
+   "merchantDescription": "Discover the posh and precious side of Charmmy Kitty and Honeycute with the latest My Furbaby series! Adorn your keychains, bags, and more with these whimsical designs that capture this pair’s sophisticated charm. Whether you're personalizing your space or add",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Charmmy Kitty",
     "Keychains"
    ],
    "price": 26
   },
   {
-   "id": "sanrio-hello-kitty-x-one-today-figurine-heart-black-series",
-   "name": "Hello Kitty x ONE TODAY Figurine (Heart - Black Series)",
-   "merchantDescription": "The release of the art figure \"Hello Kitty Black Series\" has been decided, and it features a design form that combines the cuteness of Hello Kitty with a stylishness for adults, based on the concept of \"a cute and stylish Hello Kitty that adults will want.\" Th",
-   "vendor": "12DO Corp",
-   "productType": "Toys&Games",
+   "id": "sanrio-pompompurin-x-sonix-iphone-case-30th-anniversary",
+   "name": "Pompompurin x Sonix iPhone Case (30th Anniversary)",
+   "merchantDescription": "The Pompompurin 30th Anniversary MagSafe Compatible iPhone Case is an adorable Sonix x Sanrio phone case bursting with playful energy. This design features exclusive Pompompurin 30th Anniversary art that features the lovable pup atop a grand pudding cake toppe",
+   "vendor": "BySonix Inc.",
+   "productType": "Accessory",
    "merchantTags": [
-    "Brand:12Do Corp",
-    "Character:Hello Kitty",
-    "Collectibles",
-    "Home Decor",
-    "Home Goods",
-    "NA-041726",
-    "One Today",
-    "PO:L478"
+    "Accessory",
+    "app:new",
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Pompompurin",
+    "Mobile Phone Cases",
+    "NA-050126",
+    "PN30"
    ],
-   "price": 170
+   "price": 47.99
   },
   {
-   "id": "sanrio-hello-kitty-x-lola-the-boys-adult-gem-love-hoodie-pink",
-   "name": "Hello Kitty x Lola + The Boys Adult Gem Love Hoodie (Pink)",
-   "merchantDescription": "Celebrate your individuality with the Hello Kitty x Lola and The Boys collection! Inspired by vibrant colors, beloved characters, and fearless creativity, this fun collaboration brings together charming character details that celebrate your one-of-a-kind style",
-   "vendor": "Lola and The Boys NYC INC",
-   "productType": "Apparel",
+   "id": "sanrio-my-melody-lined-notebook-elastic-closure-1",
+   "name": "My Melody Lined Notebook (Elastic Closure)",
+   "merchantDescription": "Classic Sanrio! This banded spiral journal features your favorite Sanrio Characters and is great for jotting down notes, essential lists, and positive affirmations. Plus, the double spiral backing makes it easy to lay flat when studying! ♡ 60 sheets ♡ 7mm hori",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
    "merchantTags": [
     "app:new",
-    "Apparel",
     "Badge:BrandNew",
-    "Brand:Lola And The Boys Nyc Inc",
-    "Character:Hello Kitty",
-    "Hoodies",
-    "NA-020226",
-    "NA-021226"
+    "BFCM24-40",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2024",
+    "BTS-2026",
+    "Character:My Melody"
    ],
-   "price": 72
+   "price": 7.99
   },
   {
-   "id": "sanrio-converse-x-hello-kitty-and-friends-chuck-taylor-all-star-hi-",
-   "name": "Converse x Hello Kitty and Friends Chuck Taylor All Star Hi-Top Sneaker (Adult - Black)",
-   "merchantDescription": "Add some playfulness into your day and a dose of kawaii into your step! Sanrio and Converse have joined forces to bring you Converse x Hello Kitty, a playful collection of footwear, sportswear, and accessories made for fans of all ages! The Converse x Hello Ki",
-   "vendor": "CONVERSE",
-   "productType": "Shoes",
+   "id": "sanrio-kuromi-lined-notebook-elastic-closure-1",
+   "name": "Kuromi Lined Notebook (Elastic Closure)",
+   "merchantDescription": "Classic Sanrio! This banded spiral journal features your favorite Sanrio Characters and is great for jotting down notes, essential lists, and positive affirmations. Plus, the double spiral backing makes it easy to lay flat when studying! ♡ 60 sheets ♡ 7mm hori",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
    "merchantTags": [
-    "2026CONVERSE",
     "app:new",
     "Badge:BrandNew",
-    "Best Seller",
-    "Brand:CONVERSE",
-    "Character:Badtz-maru",
-    "Character:Chococat",
+    "BFCM24-10",
+    "BFCM24-15",
+    "BFCM25-25",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2024"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-lined-notebook-elastic-closure-1",
+   "name": "Cinnamoroll Lined Notebook (Elastic Closure)",
+   "merchantDescription": "Classic Sanrio! This banded spiral journal features your favorite Sanrio Characters and is great for jotting down notes, essential lists, and positive affirmations. Plus, the double spiral backing makes it easy to lay flat when studying! ♡ 60 sheets ♡ 7mm hori",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "BFCM24-20",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2024",
+    "BTS-2026",
     "Character:Cinnamoroll"
    ],
-   "price": 80
+   "price": 7.99
   },
   {
-   "id": "sanrio-anti-social-social-club-x-badtz-maru-classic-tee-black",
-   "name": "Anti Social Social Club x Badtz-maru Classic Tee (Black)",
-   "merchantDescription": "Celebrating its milestone 10-year anniversary, Anti Social Social Club is teaming up once again with Hello Kitty for their highly anticipated second collaboration. This exclusive drop features limited edition hoodies and tees that fuse the iconic charm of Hell",
-   "vendor": "Anti Social Social Club",
-   "productType": "Apparel",
+   "id": "sanrio-sanrio-characters-sparkling-carabiner-blind-box-tokimeki-pla",
+   "name": "Sanrio Characters Sparkling Carabiner Blind Box (Tokimeki Planet Series)",
+   "merchantDescription": "Everyone loves the thrill of a fun blind box, especially when the surprise is met with a supercute carabiner! These sparkling carabiners easily attach to your bag or can bring a bit of joy to your keys or anywhere your heart desires! ♡ 1 Blind box ♡ Assortment",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
    "merchantTags": [
-    "app:new",
-    "Apparel",
-    "Brand:Anti Social Social Club",
-    "Brand:Assc",
-    "Character:Badtz-maru",
-    "NA-050325",
-    "PO:L458",
-    "prodavail"
-   ],
-   "price": 55
-  },
-  {
-   "id": "sanrio-anti-social-social-club-x-cinnamoroll-classic-hoodie-black",
-   "name": "Anti Social Social Club x Cinnamoroll Classic Hoodie (Black)",
-   "merchantDescription": "Celebrating its milestone 10-year anniversary, Anti Social Social Club is teaming up once again with Hello Kitty for their highly anticipated second collaboration. This exclusive drop features limited edition hoodies and tees that fuse the iconic charm of Hell",
-   "vendor": "Anti Social Social Club",
-   "productType": "Apparel",
-   "merchantTags": [
-    "app:new",
-    "Apparel",
-    "Brand:Anti Social Social Club",
-    "Brand:Assc",
-    "Character:Cinnamoroll",
-    "Hoodies",
-    "MAY25-jump",
-    "MAY25-mid"
-   ],
-   "price": 99
-  },
-  {
-   "id": "sanrio-anti-social-social-club-x-hello-kitty-spring-sakura-hoodie-b",
-   "name": "Anti Social Social Club x Hello Kitty Spring Sakura Hoodie (Blue Tie-Dye)",
-   "merchantDescription": "Celebrating its milestone 10-year anniversary, Anti Social Social Club is teaming up once again with Hello Kitty for their highly anticipated second collaboration. This exclusive drop features limited edition hoodies and tees that fuse the iconic charm of Hell",
-   "vendor": "Anti Social Social Club",
-   "productType": "Apparel",
-   "merchantTags": [
-    "app:new",
-    "Apparel",
-    "Brand:Anti Social Social Club",
-    "Brand:Assc",
-    "Character:Hello Kitty",
-    "Hoodies",
-    "NA-050325",
-    "outerwear"
-   ],
-   "price": 99
-  },
-  {
-   "id": "sanrio-hello-kitty-halloween-ornament-white-ghost",
-   "name": "Hello Kitty Halloween Ornament (White Ghost)",
-   "merchantDescription": "Hovering and gliding through the air, Halloween wouldn’t be complete without a scary-cute ghost featuring Hello Kitty! These pint-sized hanging ornaments are highly giftable and ready to make your holiday decor spookier! ♡ Halloween character accents ♡ White g",
-   "vendor": "NAKAJIMA CORPORATION",
-   "productType": "Seasonal",
-   "merchantTags": [
-    "2025HALLOWEEN",
-    "app:new",
-    "BFCM25-10",
-    "Brand:Nakajima Corporation",
-    "Character:Hello Kitty",
-    "Halloween",
-    "Holiday Ornaments",
-    "Home Decor"
-   ],
-   "price": 19.99
-  },
-  {
-   "id": "sanrio-anti-social-social-club-x-hello-kitty-metal-tee-black",
-   "name": "Anti Social Social Club x Hello Kitty Metal Tee (Black)",
-   "merchantDescription": "Anti Social Social Club is teaming up once again with Hello Kitty for their newest collaboration yet. This exclusive drop features limited edition hoodies, tees, and accessories that fuse the iconic charm of Hello Kitty with ASSC’s signature streetwear edge. T",
-   "vendor": "Anti Social Social Club",
-   "productType": "Apparel",
-   "merchantTags": [
-    "2026ASSC",
-    "app:new",
-    "Apparel",
-    "Badge:BrandNew",
-    "Brand:Anti Social Social Club",
-    "Character:Hello Kitty",
-    "Els PW 28708",
-    "Hello Kitty"
-   ],
-   "price": 55
-  },
-  {
-   "id": "sanrio-hello-kitty-x-baggu-embroidered-nylon-crescent-bag-classic-a",
-   "name": "Hello Kitty x Baggu Embroidered Nylon Crescent Bag (Classic Apple)",
-   "merchantDescription": "Practical doesn’t have to be boring. This Medium Nylon Crescent Bag is effortlessly casual and large enough to carry more than just the essentials. Wear it slung over your shoulder or crossbody for a hands-free experience. Complete with two interior pockets th",
-   "vendor": "Baggu Corporation",
-   "productType": "Bags",
-   "merchantTags": [
-    "1125DS",
     "Accessories",
     "Accessory",
-    "Bags",
-    "Bestsellers EM",
-    "BFDONE",
-    "Brand:Baggu",
-    "Brand:Baggu Corporation"
+    "app:new",
+    "Badge:BrandNew",
+    "best",
+    "Best Seller",
+    "Blind Box",
+    "Blind Boxes"
    ],
-   "price": 56
+   "price": 7.99
   },
   {
-   "id": "sanrio-cinnamoroll-8-plush-gingham-cap-series",
-   "name": "Cinnamoroll 8\" Plush (Gingham Cap Series)",
-   "merchantDescription": "Adventuring and exploring is always more fun with a friend! Your favorite Sanrio Characters take their trusty sun cap for a day of non-stop exploring. Dressed in a matching gingham fit and accented with their tag-along pal, these plushies make a great addition",
-   "vendor": "NAKAJIMA CORPORATION",
-   "productType": "Plush",
+   "id": "sanrio-sanrio-characters-tote-bag-forest-lace-series",
+   "name": "Sanrio Characters Tote Bag (Forest Lace Series)",
+   "merchantDescription": "“Everyday is a fun day together with my friends!” Fluffy and dressed in the cutest kitten-themed outfits, your favorite Sanrio Characters look as light as air and are inspired by popular Japanese cafe drinks. Colors drawn from pea, strawberry, and peach milks,",
+   "vendor": "Japan Original",
+   "productType": "Bags",
    "merchantTags": [
-    "1125DS",
-    "BFCM24-40",
-    "BFCM25-40",
-    "Brand:Nakajima Corporation",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Brand:Sanrio Original",
+    "Character:Bonbonribbon",
+    "Character:Charmmy Kitty"
+   ],
+   "price": 24
+  },
+  {
+   "id": "sanrio-tuxedosam-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "Tuxedosam Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "Character:Tuxedosam",
+    "Mechanical Pencils"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-kuromi-classic-compact-travel-umbrella",
+   "name": "Kuromi Classic Compact Travel Umbrella",
+   "merchantDescription": "Say goodbye to unexpected showers with this foldable umbrella, perfect for keeping in your car or near the doorway! With a fun print, carrying sleeve, and a convenient hanging loop, it's both practical and adorable. Plus, the UV protective material keeps you s",
+   "vendor": "Japan Original",
+   "productType": "Travel",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "Brand:Japan Original",
+    "Character:Kuromi",
+    "Home Goods",
+    "NA-071825",
+    "PO:Pmay25"
+   ],
+   "price": 39
+  },
+  {
+   "id": "sanrio-pochacco-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "Pochacco Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "Character:Pochacco",
+    "Mechanical Pencils"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "Cinnamoroll Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
     "Character:Cinnamoroll",
-    "MAY25-jump",
-    "NA-092724",
-    "Plush"
+    "Mechanical Pencils"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-littletwinstars-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "LittleTwinStars Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "BFCM24-10",
+    "BFCM24-20",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-hello-kitty-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "Hello Kitty Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "Character:Hello Kitty",
+    "Mechanical Pencils"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-kuromi-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "Kuromi Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "Character:Kuromi",
+    "Mechanical Pencils"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-pompompurin-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "Pompompurin Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "BFCM24-10",
+    "BFCM24-20",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-my-melody-kura-toga-self-sharpening-mechanical-pencil",
+   "name": "My Melody Kura Toga Self-Sharpening Mechanical Pencil",
+   "merchantDescription": "Jot down quick notes or journaling sessions with your favorite Sanrio Character! The self-sharpening Kuru Toga mechanical pencil delivers crisp, vivid lines every time with its extra-durable diamond-infused lead. ♡ Easily correct mistakes with a replaceable er",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "BACK IN STOCK",
+    "backinstock",
+    "BFCM24-40",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "Character:My Melody"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-hello-kitty-mini-health-document-folder",
+   "name": "Hello Kitty Mini Health Document Folder",
+   "merchantDescription": "Keep all your health essentials organized in one adorable place. This Hello Kitty mini folder features seven card pockets, two side pockets, and a slider pocket, perfect for storing medical cards, medicine notebooks, and health records. The compact design fits",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Hello Kitty",
+    "Folders",
+    "NA-052926",
+    "New"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-classic-luggage-tag",
+   "name": "Cinnamoroll Classic Luggage Tag",
+   "merchantDescription": "Make packing a breeze with these fun travel accessories featuring your favorite Sanrio Character! Just slide the luggage tag onto your bag’s handle or strap to add a touch of flair to your belongings. It’s ideal for quick and easy identification of your suitca",
+   "vendor": "Japan Original",
+   "productType": "Travel",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BACK IN STOCK",
+    "backinstock",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll"
    ],
    "price": 9.99
   },
   {
-   "id": "sanrio-hello-kitty-tiny-chum-plush-besties-3d-display-frame",
-   "name": "Hello Kitty & Tiny Chum Plush Besties 3D Display Frame",
-   "merchantDescription": "Step into the Sanrio gallery! Forget ordinary plush, this is a masterpiece. Introducing the Hello Kitty Tiny Chum Plush Display Frame a 3D art piece designed to bring a touch of sophistication to your space. Featuring an intricate, plastic frame adorned with a",
-   "vendor": "Jazwares",
-   "productType": "Plush",
+   "id": "sanrio-hello-kitty-car-steering-wheel-cover-teddy-pink",
+   "name": "Hello Kitty Car Steering Wheel Cover (Teddy Pink)",
+   "merchantDescription": "Add a touch of cuteness to your car with the Hello Kitty Teddy Pink Steering Wheel Cover. Perfect as a gift for Hello Kitty fans or as a treat for yourself, this steering wheel cover combines functionality and style, making every drive a delightful experience.",
+   "vendor": "Japan Original",
+   "productType": "Travel",
    "merchantTags": [
     "app:new",
-    "Besties",
-    "Brand:Jazwares",
+    "automobile",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Car Accessories",
+    "Character:Hello Kitty",
+    "Home Goods"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-sanrio-characters-bento-box-plush-set",
+   "name": "Sanrio Characters Bento Box Plush Set",
+   "merchantDescription": "Spark imaginative play with this delightful bento box plush set featuring your favorite and adorable Sanrio Characters! This soft, huggable collection includes 5 rice ball plushies, 4 side dish plushies, a lunch box, and chopsticks for interactive pretend play",
+   "vendor": "Japan Original",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Cinnamoroll",
     "Character:Hello Kitty",
     "Character:Hello Kitty & Friends",
-    "Character:Tiny Chum",
-    "Collectibles",
-    "Dolls"
+    "Character:Kuromi"
    ],
-   "price": 59.99
+   "price": 48
   },
   {
-   "id": "sanrio-hello-kitty-x-aloha-collection-pencil-case-hawaii-kawaii",
-   "name": "Hello Kitty x Aloha Collection Keep It Light Pencil Case (Hawaii Kawaii)",
-   "merchantDescription": "Write it up with Hello Kitty! Designed to keep your pencils, pens, and other essentials in one place, this sleek case has you covered from classroom to café. Made with water-resistant fabric and a zipper closure, it's the perfect sidekick for every school comm",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 32
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-lunch-bag-hawaii-kawaii",
-   "name": "Hello Kitty x Aloha Collection Keep It Light Lunch Bag (Hawaii Kawaii)",
-   "merchantDescription": "A lunch date with Hello Kitty! For every student, from grade school to grad school, or workers on the go, this lunchbox is made to keep snacks fresh and ready. With water-resistant insulation, it holds a bento box, drink, and has a mesh pocket for snacks or an",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 50
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-backpack-black-white-icons",
-   "name": "Hello Kitty x Aloha Collection Keep It Light Backpack (Black & White Icons)",
-   "merchantDescription": "Go everywhere with Hello Kitty! This sleek, lightweight, and durable backpack, crafted from ripstop nylon, seamlessly blends style with functionality. Become a carry-on pro with the built-in trolley sleeve that lets you secure your bag to your luggage for effo",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Backpacks",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026"
-   ],
-   "price": 70
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-lunch-bag-black-white-icons",
-   "name": "Hello Kitty x Aloha Collection Keep It Light Lunch Bag (Black & White Icons)",
-   "merchantDescription": "A lunch date with Hello Kitty! For every student, from grade school to grad school, or workers on the go, this lunchbox is made to keep snacks fresh and ready. With water-resistant insulation, it holds a bento box, drink, and has a mesh pocket for snacks or an",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 50
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-pencil-case-black-and-white-i",
-   "name": "Hello Kitty x Aloha Collection Keep It Light Pencil Case (Black & White Icons)",
-   "merchantDescription": "Write it up with Hello Kitty! Designed to keep your pencils, pens, and other essentials in one place, this sleek case has you covered from classroom to café. Made with water-resistant fabric and a zipper closure, it's the perfect sidekick for every school comm",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 32
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-13-laptop-case-black-white-ic",
-   "name": "Hello Kitty x Aloha Collection Keep It Light 13\" Laptop Case (Black & White Icons)",
-   "merchantDescription": "Dress your tech with Hello Kitty! Designed to keep your tech protected and essentials in one place, this laptop case has you covered from classroom to café. Made with water-resistant fabric and light padding, it's built to fit up to a 13” laptop. With pockets ",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 46
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-13-laptop-case-hawaii-kawaii",
-   "name": "Hello Kitty x Aloha Collection Keep It Light 13\" Laptop Case (Hawaii Kawaii)",
-   "merchantDescription": "Dress your tech with Hello Kitty! Designed to keep your tech protected and essentials in one place, this laptop case has you covered from classroom to café. Made with water-resistant fabric and light padding, it's built to fit up to a 13” laptop. With pockets ",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026",
-    "Character:Hello Kitty"
-   ],
-   "price": 46
-  },
-  {
-   "id": "sanrio-hello-kitty-x-aloha-collection-keep-it-light-backpack-hawaii",
-   "name": "Hello Kitty x Aloha Collection Keep It Light Backpack (Hawaii Kawaii)",
-   "merchantDescription": "Go everywhere with Hello Kitty! This sleek, lightweight, and durable backpack, crafted from ripstop nylon, seamlessly blends style with functionality. Become a carry-on pro with the built-in trolley sleeve that lets you secure your bag to your luggage for effo",
-   "vendor": "Aloha Collection Inc",
-   "productType": "Bags",
-   "merchantTags": [
-    "2026ALOHACOLLECTION",
-    "app:new",
-    "Backpacks",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Aloha Collection",
-    "Brand:Aloha Collection Inc",
-    "BTS-2026"
-   ],
-   "price": 70
-  },
-  {
-   "id": "sanrio-hangyodon-petit-wash-towel-strike-a-pose-series",
-   "name": "Hangyodon Petit Wash Towel (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
+   "id": "sanrio-hello-kitty-travel-first-aid-case",
+   "name": "Hello Kitty Travel First-Aid Case",
+   "merchantDescription": "Don't fear, the doctor's in! Keep your wellness routine organized with this handy medical case. Featuring a secure all-around zipper closure that opens wide for convenient access, it's perfect for storing bandages, vitamins, medications, and personal care esse",
    "vendor": "Japan Original",
-   "productType": "Home Goods",
+   "productType": "Accessory",
    "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bath",
-    "Bath & Body",
-    "Bathroom",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "Character:Hangyodon"
-   ],
-   "price": 5.99
-  },
-  {
-   "id": "sanrio-cinnamoroll-slim-pencil-pouch-strike-a-pose-series",
-   "name": "Cinnamoroll Slim Pencil Pouch (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
-   "vendor": "Japan Original",
-   "productType": "Stationery",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "BTS-2026",
-    "Character:Cinnamoroll",
-    "NA-070226"
-   ],
-   "price": 11.99
-  },
-  {
-   "id": "sanrio-pompompurin-slim-pencil-pouch-strike-a-pose-series",
-   "name": "Pompompurin Slim Pencil Pouch (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
-   "vendor": "Japan Original",
-   "productType": "Stationery",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "BTS-2026",
-    "Character:Pompompurin",
-    "NA-070226"
-   ],
-   "price": 11.99
-  },
-  {
-   "id": "sanrio-pompompurin-slim-double-spiral-notebook-strike-a-pose-series",
-   "name": "Pompompurin Slim Double Spiral Notebook (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! This compact notebook fits nicely in your tote or backpack and is great for note-taking or making lists, while the mini gr",
-   "vendor": "Japan Original",
-   "productType": "Stationery",
-   "merchantTags": [
+    "Accessory",
     "app:new",
     "Badge:BrandNew",
     "Brand:Japan Original",
     "Brand:Sanrio",
-    "BTS-2026",
-    "Character:Pompompurin",
-    "NA-070226",
-    "New"
-   ],
-   "price": 5.99
-  },
-  {
-   "id": "sanrio-hangyodon-tote-bag-strike-a-pose-series",
-   "name": "Hangyodon Tote Bag (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A tote that holds the most with a place to hang charms and mascots, while the big graphic shows the cutest expression of y",
-   "vendor": "Japan Original",
-   "productType": "Bags",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "BTS-2026",
-    "Character:Hangyodon",
-    "NA-070226"
-   ],
-   "price": 22
-  },
-  {
-   "id": "sanrio-hello-kitty-tote-bag-strike-a-pose-series",
-   "name": "Hello Kitty Tote Bag (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A tote that holds the most with a place to hang charms and mascots, while the big graphic shows the cutest expression of y",
-   "vendor": "Japan Original",
-   "productType": "Bags",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bags",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "BTS-2026",
     "Character:Hello Kitty",
-    "NA-070226"
+    "First Aid Kits",
+    "NA-052926"
    ],
-   "price": 22
+   "price": 16.99
   },
   {
-   "id": "sanrio-my-melody-petit-wash-towel-strike-a-pose-series",
-   "name": "My Melody Petit Wash Towel (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
+   "id": "sanrio-pochacco-kids-drawstring-backpack-adventure-series",
+   "name": "Pochacco Kids Drawstring Backpack (Adventure Series)",
+   "merchantDescription": "A kids' knapsack and shoulder pocket pouch that can be used in a wide range of situations. You can easily put your gym clothes and other items in it and carry it over your school bag. ★ It has a mesh pocket that lets you see the contents, making it easy to use",
    "vendor": "Japan Original",
-   "productType": "Home Goods",
+   "productType": "Bags",
    "merchantTags": [
     "app:new",
+    "Backpacks",
     "Badge:BrandNew",
-    "Bath",
-    "Bath & Body",
-    "Bathroom",
+    "Bags",
     "Brand:Japan Original",
     "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Pochacco"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-kuromi-kids-drawstring-backpack-adventure-series",
+   "name": "Kuromi Kids Drawstring Backpack (Adventure Series)",
+   "merchantDescription": "A kids' knapsack and shoulder pocket pouch that can be used in a wide range of situations. You can easily put your gym clothes and other items in it and carry it over your school bag. ★ It has a mesh pocket that lets you see the contents, making it easy to use",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Kuromi"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-cinnamoroll-kids-drawstring-backpack-adventure-series",
+   "name": "Cinnamoroll Kids Drawstring Backpack (Adventure Series)",
+   "merchantDescription": "A kids' knapsack and shoulder pocket pouch that can be used in a wide range of situations. You can easily put your gym clothes and other items in it and carry it over your school bag. ★ It has a mesh pocket that lets you see the contents, making it easy to use",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Cinnamoroll"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-hello-kitty-kids-drawstring-backpack-adventure-series",
+   "name": "Hello Kitty Kids Drawstring Backpack (Adventure Series)",
+   "merchantDescription": "A kids' knapsack and shoulder pocket pouch that can be used in a wide range of situations. You can easily put your gym clothes and other items in it and carry it over your school bag. ★ It has a mesh pocket that lets you see the contents, making it easy to use",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-hello-kitty-black-signature-backpack-i-love-hello-kitty-seri",
+   "name": "Hello Kitty Black Signature Backpack (I Love Hello Kitty Series)",
+   "merchantDescription": "One can never have too many friends or Hello Kitty! Discover a colorful design series of various goods featuring her signature bow and face. From small accessories, bags, mascots, and even home decor items, these pieces show off an interchangeable collection t",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 48
+  },
+  {
+   "id": "sanrio-pochacco-kids-ribbon-logo-backpack",
+   "name": "Pochacco Kids Ribbon Logo Backpack",
+   "merchantDescription": "Send your little one off with the most covetable backpack around! Equipped with sweet ribbon details and comfy shoulder straps, this bag has room for all the scholarly needs while looking stylish at the same time! ♡ Sized for Kids ♡ Stopper on chest belt ♡ Dou",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Pochacco"
+   ],
+   "price": 44
+  },
+  {
+   "id": "sanrio-kuromi-kids-ribbon-logo-backpack",
+   "name": "Kuromi Kids Ribbon Logo Backpack",
+   "merchantDescription": "Send your little one off with the most covetable backpack around! Equipped with sweet ribbon details and comfy shoulder straps, this bag has room for all the scholarly needs while looking stylish at the same time! ♡ Sized for Kids ♡ Stopper on chest belt ♡ Dou",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Kuromi"
+   ],
+   "price": 44
+  },
+  {
+   "id": "sanrio-hello-kitty-kids-ribbon-logo-backpack",
+   "name": "Hello Kitty Kids Ribbon Logo Backpack",
+   "merchantDescription": "Send your little one off with the most covetable backpack around! Equipped with sweet ribbon details and comfy shoulder straps, this bag has room for all the scholarly needs while looking stylish at the same time! ♡ Sized for Kids ♡ Stopper on chest belt ♡ Dou",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 44
+  },
+  {
+   "id": "sanrio-my-melody-kids-ribbon-logo-backpack",
+   "name": "My Melody Kids Ribbon Logo Backpack",
+   "merchantDescription": "Send your little one off with the most covetable backpack around! Equipped with sweet ribbon details and comfy shoulder straps, this bag has room for all the scholarly needs while looking stylish at the same time! ♡ Sized for Kids ♡ Stopper on chest belt ♡ Dou",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
     "Character:My Melody"
    ],
-   "price": 5.99
+   "price": 44
   },
   {
-   "id": "sanrio-kuromi-slim-pencil-pouch-strike-a-pose-series",
-   "name": "Kuromi Slim Pencil Pouch (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "id": "sanrio-kuromi-translucent-2-way-pencil-case",
+   "name": "Kuromi Translucent 2-Way Pencil Case",
+   "merchantDescription": "Organize and carry your pens and pencils in this adorable case, fitted with different slots and compartments for all of your writing tools. The exterior has a puffy vinyl design, and two-way openings with a translucent finish featuring your favorite Sanrio Cha",
    "vendor": "Japan Original",
    "productType": "Stationery",
    "merchantTags": [
     "app:new",
     "Badge:BrandNew",
-    "Bags",
     "Brand:Japan Original",
     "Brand:Sanrio",
     "BTS-2026",
     "Character:Kuromi",
-    "NA-070226"
+    "NA-052926",
+    "New"
    ],
-   "price": 11.99
+   "price": 26
   },
   {
-   "id": "sanrio-my-melody-slim-pencil-pouch-strike-a-pose-series",
-   "name": "My Melody Slim Pencil Pouch (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "id": "sanrio-my-melody-translucent-2-way-pencil-case",
+   "name": "My Melody Translucent 2-Way Pencil Case",
+   "merchantDescription": "Organize and carry your pens and pencils in this adorable case, fitted with different slots and compartments for all of your writing tools. The exterior has a puffy vinyl design, and two-way openings with a translucent finish featuring your favorite Sanrio Cha",
    "vendor": "Japan Original",
    "productType": "Stationery",
    "merchantTags": [
     "app:new",
     "Badge:BrandNew",
-    "Bags",
     "Brand:Japan Original",
     "Brand:Sanrio",
     "BTS-2026",
     "Character:My Melody",
-    "NA-070226"
+    "GOLINBTS2026",
+    "NA-052926"
    ],
-   "price": 11.99
+   "price": 26
   },
   {
-   "id": "sanrio-hello-kitty-slim-pencil-pouch-strike-a-pose-series",
-   "name": "Hello Kitty Slim Pencil Pouch (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "id": "sanrio-cinnamoroll-translucent-2-way-pencil-case",
+   "name": "Cinnamoroll Translucent 2-Way Pencil Case",
+   "merchantDescription": "Organize and carry your pens and pencils in this adorable case, fitted with different slots and compartments for all of your writing tools. The exterior has a puffy vinyl design, and two-way openings with a translucent finish featuring your favorite Sanrio Cha",
    "vendor": "Japan Original",
    "productType": "Stationery",
    "merchantTags": [
     "app:new",
     "Badge:BrandNew",
-    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Cinnamoroll",
+    "NA-052926",
+    "New"
+   ],
+   "price": 26
+  },
+  {
+   "id": "sanrio-hello-kitty-multi-tier-jewelry-box",
+   "name": "Hello Kitty Multi-Tier Jewelry Box",
+   "merchantDescription": "Keep your treasures safe and stylish with this charming jewelry case featuring Hello Kitty's supercute aesthetic. The elegant pearl-finish box is perfect for organizing rings, bracelets, hair clips, watches, and all your favorite accessories in one adorable sp",
+   "vendor": "Japan Original",
+   "productType": "Jewelry",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Hello Kitty",
+    "Home Decor",
+    "Home Goods",
+    "Jewelry"
+   ],
+   "price": 52
+  },
+  {
+   "id": "sanrio-hello-kitty-mini-eraser-hearts",
+   "name": "Hello Kitty Mini Eraser (Hearts)",
+   "merchantDescription": "Make erasing fun with this delightful Hello Kitty mini eraser! Featuring a translucent design sprinkled with charming hearts, it's the perfect companion for any fan's pencil case! ♡ Name space ♡ PVC material ♡ Approx. 2 x 1\"",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
     "Brand:Japan Original",
     "Brand:Sanrio",
     "BTS-2026",
     "Character:Hello Kitty",
-    "NA-070226"
+    "Erasers",
+    "NA-052926"
    ],
-   "price": 11.99
+   "price": 2.99
   },
   {
-   "id": "sanrio-kuromi-3d-eyewear-case-duo-strike-a-pose-series",
-   "name": "Kuromi 3D Eyewear Case Duo (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Keep your stylish shades or reading glasses protected and safe with this hard 3D eyeglasses case. Equipped with a matching",
+   "id": "sanrio-cinnamoroll-portable-mini-lamp",
+   "name": "Cinnamoroll Portable Mini Lamp",
+   "merchantDescription": "Transform any space into a cozy haven with this adorable Portable Mini Lamp! The clever dual-power design means you can plug in via USB or go battery-powered—perfect for bedside tables, dorm rooms, or anywhere inspiration strikes. Whether you're gifting it to ",
    "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Cinnamoroll",
+    "Desk Lamps",
+    "Home Decor",
+    "Home Goods"
+   ],
+   "price": 36
+  },
+  {
+   "id": "sanrio-cinnamoroll-mini-eraser-hearts",
+   "name": "Cinnamoroll Mini Eraser (Hearts)",
+   "merchantDescription": "Make erasing fun with this delightful Cinnamoroll mini eraser! Featuring a translucent design sprinkled with charming hearts, it's the perfect companion for any fan's pencil case! ♡ Name space ♡ PVC material ♡ Approx. 2 x 1\"",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Cinnamoroll",
+    "GOLINBTS2026",
+    "NA-052926"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sanrio-my-melody-mini-eraser-hearts",
+   "name": "My Melody Mini Eraser (Hearts)",
+   "merchantDescription": "Make erasing fun with this delightful My Melody mini eraser! Featuring a translucent design sprinkled with charming hearts, it's the perfect companion for any fan's pencil case! ♡ Name space ♡ PVC material ♡ Approx. 2 x 1\"",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:My Melody",
+    "Erasers",
+    "GOLINBTS2026"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sanrio-littletwinstars-portable-mini-lamp",
+   "name": "LittleTwinStars Portable Mini Lamp",
+   "merchantDescription": "Transform any space into a cozy haven with this adorable Portable Mini Lamp! The clever dual-power design means you can plug in via USB or go battery-powered—perfect for bedside tables, dorm rooms, or anywhere inspiration strikes. Whether you're gifting it to ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:LittleTwinStars",
+    "Desk Lamps",
+    "Home Decor",
+    "Home Goods"
+   ],
+   "price": 36
+  },
+  {
+   "id": "sanrio-cogimyun-x-sonix-phone-stand",
+   "name": "Cogimyun x Sonix Phone Stand",
+   "merchantDescription": "Brighten up your day and desk space with the charm and cuteness of Hello Kitty and Friends! These super cute characters add instant charm and decor to your room, when they’re not doubling as cute and handy phone stands. These convenient Sonix x Sanrio characte",
+   "vendor": "BySonix Inc.",
    "productType": "Accessory",
    "merchantTags": [
     "Accessories",
     "Accessory",
     "app:new",
     "Badge:BrandNew",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "BTS-2026",
-    "Character:Kuromi"
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cogimyun",
+    "Mobile Phone Stands"
    ],
-   "price": 11.99
+   "price": 29.99
   },
   {
-   "id": "sanrio-hello-kitty-3d-eyewear-case-duo-strike-a-pose-series",
-   "name": "Hello Kitty 3D Eyewear Case Duo (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Keep your stylish shades or reading glasses protected and safe with this hard 3D eyeglasses case. Equipped with a matching",
-   "vendor": "Japan Original",
+   "id": "sanrio-cogimyun-x-sonix-airtag-keychain",
+   "name": "Cogimyun x Sonix AirTag Keychain",
+   "merchantDescription": "Keep your essentials close with the Cogimyun Smart Tracker Keychain. Crafted from cozy quilted material with white lace detailing stitched around the edge of this sweet heart shaped charm, this keychain includes a gold-tone ring and lobster claw clips for atta",
+   "vendor": "BySonix Inc.",
    "productType": "Accessory",
    "merchantTags": [
     "Accessories",
     "Accessory",
     "app:new",
     "Badge:BrandNew",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "BTS-2026",
-    "Character:Hello Kitty"
+    "Brand:Bysonix",
+    "Brand:BySonix Inc.",
+    "Character:Cogimyun",
+    "GPS Cases"
    ],
-   "price": 11.99
-  },
-  {
-   "id": "sanrio-cinnamoroll-petit-wash-towel-strike-a-pose-series",
-   "name": "Cinnamoroll Petit Wash Towel (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
-   "vendor": "Japan Original",
-   "productType": "Home Goods",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bath",
-    "Bath & Body",
-    "Bathroom",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "Character:Cinnamoroll"
-   ],
-   "price": 5.99
-  },
-  {
-   "id": "sanrio-kuromi-petit-wash-towel-strike-a-pose-series",
-   "name": "Kuromi Petit Wash Towel (Strike A Pose Series)",
-   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
-   "vendor": "Japan Original",
-   "productType": "Home Goods",
-   "merchantTags": [
-    "app:new",
-    "Badge:BrandNew",
-    "Bath",
-    "Bath & Body",
-    "Bathroom",
-    "Brand:Japan Original",
-    "Brand:Sanrio",
-    "Character:Kuromi"
-   ],
-   "price": 5.99
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-pentel-energel-rtx-liquid-gel-pen--2",
-   "name": "Hello Kitty and Friends x Pentel EnerGel RTX Liquid Gel Pen (Mix 1 - 5-Pk)",
-   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. ♡ Key features: Limited-Edition ",
-   "vendor": "Pentel Of America Ltd",
-   "productType": "Stationery",
-   "merchantTags": [
-    "2026PENTEL",
-    "app:new",
-    "Badge:BrandNew",
-    "Brand:Pentel Of America Ltd",
-    "BTS-2026",
-    "Character:Chococat",
-    "Character:Cinnamoroll",
-    "Character:Hello Kitty"
-   ],
-   "price": 19.1
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-pentel-rsvp-ballpoint-pen-pack-mix",
-   "name": "Hello Kitty and Friends x Pentel RSVP Ballpoint Pen Pack (Mix 1 - 5-Pk)",
-   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. ♡ Key features: Limited-Edition ",
-   "vendor": "Pentel Of America Ltd",
-   "productType": "Stationery",
-   "merchantTags": [
-    "2026PENTEL",
-    "app:new",
-    "Badge:BrandNew",
-    "Ballpoint Pens",
-    "Brand:Pentel Of America Ltd",
-    "BTS-2026",
-    "Character:Cinnamoroll",
-    "Character:Hello Kitty"
-   ],
-   "price": 6.4
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-pentel-energize-mechanical-pencil-",
-   "name": "Hello Kitty and Friends x Pentel EnerGize Mechanical Pencil (2-Pk)",
-   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. This Pentel EnerGize mechanical ",
-   "vendor": "Pentel Of America Ltd",
-   "productType": "Stationery",
-   "merchantTags": [
-    "2026PENTEL",
-    "app:new",
-    "Badge:BrandNew",
-    "Brand:Pentel Of America Ltd",
-    "BTS-2026",
-    "Character:Chococat",
-    "Character:Cinnamoroll",
-    "Character:Hello Kitty"
-   ],
-   "price": 9.98
-  },
-  {
-   "id": "sanrio-hello-kitty-and-friends-x-pentel-rsvp-ballpoint-pen-pack-mix-2",
-   "name": "Hello Kitty and Friends x Pentel RSVP Ballpoint Pen Pack (Mix 2 - 5-Pk)",
-   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. ♡ Key features: Limited-Edition ",
-   "vendor": "Pentel Of America Ltd",
-   "productType": "Stationery",
-   "merchantTags": [
-    "2026PENTEL",
-    "app:new",
-    "Badge:BrandNew",
-    "Ballpoint Pens",
-    "Brand:Pentel Of America Ltd",
-    "BTS-2026",
-    "Character:Chococat",
-    "Character:Hello Kitty"
-   ],
-   "price": 6.4
+   "price": 19.99
   }
  ]
 }

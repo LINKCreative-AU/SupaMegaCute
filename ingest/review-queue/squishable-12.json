@@ -1,0 +1,728 @@
+{
+ "source": "squishable",
+ "batch": 12,
+ "items": [
+  {
+   "id": "squishable-micro-squishable-fluffy-bunny",
+   "name": "Micro Squishable Fluffy Bunny Keychain",
+   "merchantDescription": "What makes this Fluffy Bunny so darn fluffy? Perhaps it's an adaptation to a colder climate? Taking on-and-off a winter jacket during day-trips from the warren would be tiresome indeed! Or is there some other special secret purpose to this fantastical fleece? ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-micro-squishable-fuzzy-bumblebee",
+   "name": "Micro Squishable Fuzzy Bumblebee Keychain",
+   "merchantDescription": "Bees are the only insect that make a food humans can eat! I mean, I knew this cricket once who made dishes that looked like something out of a faded '50s cookbook - all pale meats suspended in fluorescent gelatin with toothpicks sticking out for no discernible",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-micro-squishable-corgi",
+   "name": "Micro Squishable Corgi Keychain",
+   "merchantDescription": "Corgi, though royal of lineage and wiggly of hindquarters, is no mere lapdog! Nay, this noble breed has a well-honed herding instinct! It has been sharpened through centuries of ensuring the livestock of Wales don't wander off to places where they shouldn't be",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-massive-squishable-venus-flytrap",
+   "name": "Massive Squishable Venus Flytrap",
+   "merchantDescription": "What happens when your Venus Flytrap traps too many flies? And also cupcakes? This! Don't worry, it's a happy, healthy carnivorous plant, and properly proportional for its...height? Mass? Whatever it is, it's sure to make its presence felt in a big way. So, yo",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-squishable-hot-dog-dachshund",
+   "name": "Massive Squishable Hot Dog Dachshund",
+   "merchantDescription": "With this, our Dachshund takeover is COMPLETE! The ultimate combo of fluffy and delicious, this hot diggity dog is ready to warm the hearts and stomachs of canine/barbecue fans everywhere. What he lacks in actual edibility he makes up for in cuteness! Standard",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-squishable-mushroom",
+   "name": "Massive Squishable Mushroom",
+   "merchantDescription": "Do you like foraging for fungi in the night? Do you communicate using waves of your antennae and a complicated pattern of pheromone emission? Does your exoskeleton molt once a week? Are you, in fact, a bug? I knew it. Welcome to your new home. Standard Ground ",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-squishable-banana",
+   "name": "Massive Squishable Banana",
+   "merchantDescription": "Top reasons for purchasing a Massive Banana. 1) I want it. 2) It looks great in a cowboy hat. 3) I want it. 4) A lifelong reminder to meet my daily potassium needs. 5) I want it. 6) I haven't really been hugged until I've been hugged by a Massive Banana 7) I W",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-ufo",
+   "name": "Massive UFO",
+   "merchantDescription": "Massive UFO, where do you come from? Is it a cuddly planet? A squishy planet? A furry planet? A...massive planet? I ask because you're really really really...massive. Standard Ground Shipping to the Continental US Only.",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-squishable-frog",
+   "name": "Massive Squishable Frog",
+   "merchantDescription": "Frog Facts! Frogs were invented in 2005. All frogs have a license to drive. 80% of vandalism committed in the UK is done by frogs. If you spell frogs backwards you get horse. The proper size of a frog is 32 inches. One of the previous facts is true. Buy this 3",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-plague-doctor",
+   "name": "Massive Plague Doctor",
+   "merchantDescription": "We originally intended for this to be a Halloween Squishable, but, well, here we are. When we posted our 7\" version of this dude, the amount of traffic crashed our site. Then we spent 2 days fixing the site. Then you ordered a LOT of them. Then our site crashe",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-fuzzy-bumblebee",
+   "name": "Massive Fuzzy Bumblebee",
+   "merchantDescription": "Bees don't just fly around looking cute! NO! They have a big job weighing on their tiny buzzing bodies! They pollinate, people! I mean, they pollinate flowers, not people. It's a massive job! Let's count on the Massive Bee to take it on! Standard Ground Shippi",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-hamburger",
+   "name": "Massive Hamburger",
+   "merchantDescription": "That's some Grade-A chopped up steak, right there! Check out that juicy quality! Of course that doesn't mean that this hamburger meat is actually steak (unless you're from Australia, where it does!) but it does mean that you're in for some superior savoriness!",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-cute-octopus",
+   "name": "Massive Cute Octopus",
+   "merchantDescription": "What mysterious creatures dwell in the depths of the sea? Well, this one, for one! Is it an aquatic monster with long fangs and glow-in-the-dark eyes? No! It's a friendly fuzzy cephalopod with long, fuzzy arms and cute, sparkly eyes! Come on out, massive frien",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-massive-avocado",
+   "name": "Massive Avocado",
+   "merchantDescription": "The darling of the supermarket! The perfect topping to your morning toast! Oh how we revel in the silky smooth texture of the beloved avocado! Do you ever wish that you could dive head first into a cauldron of guac? I do! Just think of the wonders it would do ",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-squishable-go-airplane",
+   "name": "Squishable GO! Airplane",
+   "merchantDescription": "It's not a bird, it's DEFINITELY a plane!! With this aerial marvel at your disposal, the possibilities for play are endless! Explore the tundra's of Antarctica, the pyramids of Egypt, and the monuments of Rome, for almost 100% less than a plane ticket! Now tha",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-squishable-go-ambulance",
+   "name": "Squishable GO! Ambulance",
+   "merchantDescription": "Wee woo! Wee woo! What an alarming, yet melodic tune, and so classic. What's that you say, Squishable GO! Ambulance? It's not classic? You're trying an entirely new cutting-edge siren sound? Ah yes, now I hear it - regular ambulances say Wee woo! Wee woo! Way ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-squishable-go-tractor",
+   "name": "Squishable GO! Tractor",
+   "merchantDescription": "Do you know how to drive a tractor? I don't! I thought it was like driving a normal car. I was totally wrong. Sorry dad! Anyways, the Squishable GO! Tractor doesn't require a driver's license or heavy machinery license or any other license at all to operate, s",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-squishable-go-train",
+   "name": "Squishable GO! Train",
+   "merchantDescription": "Trains feel like freedom and smell like pizza! The Squishable GO! Train actually has neither of those qualities, but it does feel super soft. And I suppose you could technically make it smell like pizza by rubbing a pizza all over it but DON'T DO THAT. Anyway,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-squishable-go-fire-truck",
+   "name": "Squishable GO! Fire Truck",
+   "merchantDescription": "Did you hear that siren? That must be coming from the Squishable GO! Firetruck! I can tell because it's the only fire truck specifically designed to handle cats that are stuck in trees, cats that are stuck OUT of trees, and all emergencies having to do with lo",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-squishable-go-dump-truck",
+   "name": "Squishable GO! Dump Truck",
+   "merchantDescription": "The clean up crew is here! Well, the Squishable GO! Dump Truck is here. I'm not sure of how well it can clean, but then again I'm not great at cleaning either!. What I do know is how well it squishes! Which is to say, very well indeed!At 12\", Squishable GO! it",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-squishable-go-front-loader",
+   "name": "Squishable GO! Front Loader",
+   "merchantDescription": "Look at this classic front loader! Yes, THIS one, not the one outside your window causing a ruckus during your video chat. The Squishable GO! Front Loader screams nostalgic happy memories direct from your childhood sandbox, not the construction site in front o",
+   "vendor": "Squishable",
+   "productType": "big",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "squishable-snacker-pumpkin",
+   "name": "Snacker Pumpkin",
+   "merchantDescription": "Getting a pumpkin spice latte? Bring this snacker pumpkin with you! They're cute! They're tasty! They eat the souls of their enemies! Pumpkins! pumpkin,spooky,halloween, pump, pumpki",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-baby-mothman",
+   "name": "Snacker Baby Mothman",
+   "merchantDescription": "This jet-black bundle with floppy wings and red eyes is many things to many people! To some it's a friend to tell secrets to! To others it's an imaginative guide on wilderness expeditions! And for some it's an agent of tyranny death upon your enemies! We don't",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 22
+  },
+  {
+   "id": "squishable-snacker-cerberus",
+   "name": "Snacker Cerberus",
+   "merchantDescription": "Three heads are definitely better than one, and only slightly cooler than two! Think of it like always having someone to talk to about your day! Three opinions, three takes, three different perspectives! It's a win-win...win! Cerberus, Spooky, Cryptid, gray, d",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 23
+  },
+  {
+   "id": "squishable-snacker-tie-dye-mushroom",
+   "name": "Snacker Tie Dye Mushroom",
+   "merchantDescription": "While I wouldn't recommend eating any of our plushes, I TRIPLE recommend you don't eat this one in particular! Let's just say we're not liable for any talking animals you may or may not encounter, or for any sudden changes in the colors of your surroundings! m",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-pufferfish",
+   "name": "Snacker Pufferfish",
+   "merchantDescription": "I doubt this puffer can teach you how to drive, let alone a sentient sea sponge, but they'll give it their all! Just don't ask about what happened to their husband...it's a bit of a touchy subject. fish,puff,blowfish,green,blue,teal,mrs.puff,ocean,aquarium,sea",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-snacker-watermelon",
+   "name": "Snacker Watermelon",
+   "merchantDescription": "A certain British pop singer made watermelons cool again with his hit song. Well we can't do that. What we can do is give you a new snacker watermelon...no sugar though, and no high... water, melon, seed, red, green, stripe, striped, seed",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-strawberry",
+   "name": "Snacker Strawberry",
+   "merchantDescription": "For the longest time I had a personal vendetta against strawberries for no reason. Like I would see a strawberry and be like \"ew, no go away.\" While they still aren't my favorite fruit, I wouldn't turn them away! I definitely wouldn't turn this guy away either",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-hot-sauce",
+   "name": "Snacker Hot Sauce",
+   "merchantDescription": "Two of my coworkers have a constant supply of hot sauce on their desks, so I figured I could join the party!!! This is the hot sauce that never expires, and doesn't get those weird little crusties on the spout of the bottle! Also, you can't cuddle with glass! ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-reaper",
+   "name": "Snacker Reaper",
+   "merchantDescription": "There are two things for sure in life, death and taxes. We promise we won't make a marketable plush of your W-2, so here's the next best thing! A marketable personification of death, small enough to fit in your pocket but large enough to remind you it's always",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-snacker-bubble-tea",
+   "name": "Snacker Bubble Tea",
+   "merchantDescription": "What's your favorite boba flavor? If you take the time to read this description AND you buy the snacker Boba, reply somewhere on our socials saying \"My favorite boba in boating school is...\" Anyway my favorite flavor of boba in boating school is taro milk boba",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-dolphin",
+   "name": "Snacker Dolphin",
+   "merchantDescription": "When I was younger my family took a vacation to Mexico, and my mother insisted my brother and I swim with the dolphins as an ~experience~. Cue 7 year old me SCREAMING at the top of my lungs as a dolphin nose touched my foot! Well, who's laughing NOW dolphins, ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-stegosaurus",
+   "name": "Snacker Stegosaurus",
+   "merchantDescription": "It's a bird! It's a plane! It's a small dinosaur that makes you rethink the meaning of how we came to be as an evolutionary society!! Hold one of the world's most fascinating creatures in the palm of your hands!! Or like, put him on your dashboard or something",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-baby-axolotl",
+   "name": "Snacker Baby Axolotl",
+   "merchantDescription": "Squishable used to have a rule that we couldn't take very tiny animals and design them to be bigger than they actually are. Then we started making occasional exceptions, like for bees. Then we started making a lot more exceptions, like for caterpillars and mot",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-strawberry-cow",
+   "name": "Snacker Strawberry Cow",
+   "merchantDescription": "This is the perfect Squish for any of the following groups of people; cottage-core girlies, farm-core girlies, girl's girlies, basically, this one's for the girlies! Boys...you can be girlies too! strawberry, pink, kawii, soft, cow, milk",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-snacker-t-rex-ii",
+   "name": "Snacker T-rex II",
+   "merchantDescription": "All I'm saying is that, if this was the T-Rex Jeff Goldblum and pals were racing against all those years ago, things would have turned out a BIT different. Imagine your glass of water is rippling, you are absolutely cowering in fear...and This is what shows up",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-orca",
+   "name": "Snacker Orca",
+   "merchantDescription": "IiiiiNNnntroOOOOduCInGGGG THeeeee sNAcKerrrrrrr ORrrrrrrcA WHaLEEE! Oops, sorry, I forgot not everyone can speak whale like I can! What I said was, \"Introducing the Snacker Orca Whale!\" Are we all caught up now? GOOD! May this be the beginning to a long and il",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-flamingo",
+   "name": "Snacker Flamingo",
+   "merchantDescription": "I think we've finally done it. We've perfected the round-to-plush factor needed to complete the ultimate Squishable! Who would've thought that it would be the flamingo? Just look at that circumference! That beak to leg ratio! This, is the golden ratio of Squis",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-turquoise-mushroom",
+   "name": "Snacker Turquoise Mushroom",
+   "merchantDescription": "If you see a turquoise mushroom in nature, do not eat it! If it has a smiley face, definitely don't eat it! If it starts talking to you...you may have already eaten it. mushroom, turquoise, fungi, blue",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-mushroom",
+   "name": "Snacker Mushroom",
+   "merchantDescription": "Do you spend your time frolicking through the forest looking for mushrooms to add to your wicker basket? And dancing with the tweeting little birds? And singing songs to the squirrels? No? Just me? Ok well, this is awkward. mushroom, pink, fungi",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-cold-brew",
+   "name": "Snacker Cold Brew",
+   "merchantDescription": "Can Cold Brew even be considered a snack? If you work in the Squishable office, it sure can! Each day at 3:00pm exactly, the entire Art Team goes on a walk around the corner to get the drinkable version of one of these. Then we drink it. Then we mosey the offi",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 14
+  },
+  {
+   "id": "squishable-snacker-ramen",
+   "name": "Snacker Ramen",
+   "merchantDescription": "You can never have too much ramen! Or at least, you can, but we're talking about a lot of ramen. Say, like, about the amount of ramen I ate on my 20th birthday. Wow, that was a lot of Ramen. Like, noodles for days. I woke up in a puddle of broth, surrounded by",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-triceratops",
+   "name": "Snacker Triceratops",
+   "merchantDescription": "Good things definitely come in threes, but you know what's better than three? That's right, FOUR! Here's the fourth size of our beloved three-horned friend, the Snacker Triceratops! So make sure to give them three hugs and three kisses, plus one for good luck!",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-christmas-star-cookie",
+   "name": "Snacker Christmas Star Cookie",
+   "merchantDescription": "For a break between holiday courses, the Snacker XMas Star Cookie is here to say, \"HEY! Don't eat me, I'm made of plush!\" Or maybe that's your conscious speaking to you, since cookies can't talk. But if they could, that's what they'd say! cookie, frosting, chr",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-rainbow",
+   "name": "Snacker Rainbow",
+   "merchantDescription": "Some think that at the end of each rainbow is a pot of gold, well I'm here to tell you that's actually completely wrong thank you very much! In fact, at the end of each rainbow is actually an even smaller plush rainbow that has small little squishy beans insid",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-milk-carton",
+   "name": "Snacker Milk Carton",
+   "merchantDescription": "If you're the type of person who puts their milk before the cereal...I want NOTHING to do with that. I'm sure you're a fantastic person, who simply cannot make good choices!! Now, this Snacker milk here? They can help you come over to the light of managing mil",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-spooky-ghost",
+   "name": "Snacker Spooky Ghost",
+   "merchantDescription": "You hear a creak in the floorboards, a whisper in the wind. There's a chill running down your spine, and a crackle in the fireplace! Oh, there's also a Snacker Spooky Ghost just chillin' in an armchair, reading the \"Daily Boos,\" uuuugh, I mean, News! They aren",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-great-white-shark",
+   "name": "Snacker Great White Shark",
+   "merchantDescription": "Were gonna need a smaller boat! Don't worry about finding a whole ocean to fit this Great White into your life, just a comfy shelf, or a spot in your blanket fort! Aquatic,Sea Life,Grey,Plush Shark,Stuffed Shark, San Jose, sharkie, hockey",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-soup-dumpling",
+   "name": "Snacker Soup Dumpling",
+   "merchantDescription": "Soup dumplings are the PERFECT comfort food, so warm and pillowy!! It's so cool how they're made too! The broth is gelatinized before being mixed in with the rest of the filling, so when the dumpling is steamed, BOOM, SOUP! Now, this soup dumpling in particula",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-luna-moth",
+   "name": "Snacker Luna Moth",
+   "merchantDescription": "Should we make a snacker lamp to go along with all these moths?!?! Well, maybe not since we don't wanna hurt them! Snacker moths are very precious and delicate. They've traveled a long way to get here, and we wouldn't want something like a pesky lamp getting i",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-snacker-frog",
+   "name": "Snacker Frog",
+   "merchantDescription": "This frog is literally perfect. Not figuratively, literally. Perfect. HIs little green legs are perfect. His froggy smile is perfect. Hands down we are all in agreement that this is the best thing we've ever made. And that's all I have to say about this frog. ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-shrimp-sushi",
+   "name": "Snacker Shrimp Sushi",
+   "merchantDescription": "Sushi is honestly the perfect food and I don't understand how people don't like it!! The only excuse is a seafood allergy but even then, carry around an Epi-pen you cowards!!! Shrimp sushi is so good with a little sliver of avocado and some wasabiugh my mouth",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-baby-corgi",
+   "name": "Snacker Baby Corgi",
+   "merchantDescription": "All corgi's are Baby, but are all baby corgi's DOUBLE Baby? If you multiply Baby by Baby, do you get fish? I figured you'd be tired of the word B*by by now. That being said, the BB Corg is a fun little lad who can fit anywhere from your backpack to your dashbo",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-dachshund-hot-dog",
+   "name": "Snacker Dachshund Hot Dog",
+   "merchantDescription": "Henlo frens. This Snacker is a long boi. He has landed his dream job. He is chief sausage impersonator. He is trying to keep cool but can't contain himself. Please ignore his blep. 14/10. hotdog,hot,dog,dachshund,ketchup,mustard,bun",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-fluffy-bunny-tie-dye-bunny",
+   "name": "Snacker Fluffy Bunny Tie Dye Bunny",
+   "merchantDescription": "Did somebody saaaaay PASTEL TIE DYE?!?!?! ...No...? Oh well, I'm saying it now! This Snacker-sized bun is perfect for Easter baskets, pastel goth gamer setups, or, you know, pretty much anything! Get your hands on this floofy lad to brighten up your Spring sho",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-smore",
+   "name": "Snacker S'more",
+   "merchantDescription": "Oh my melty, bitter-sweet friend, what could be more delicious than you!? Not much, that's what! Let's cuddle up by the campfire and...snack. Only one of us will be left at the end, but it will be worth it. (Editor's note: that got dark, could someone pls chec",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-pink-donut",
+   "name": "Snacker Pink Donut",
+   "merchantDescription": "Donuts are the perfect form of measurement. I am 36 donuts tall. To reach the top of the Statue of Liberty it would take 3,660 donuts. It's the perfect way to end this nonsensical imperial vs metric debate forever: pout us all on the donut standard! pink,doonu",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-sushi-roll",
+   "name": "Snacker Sushi Roll",
+   "merchantDescription": "Hands or chopsticks? Hands or chopsticks? Hands or chopsticks? It's a serious debate: Chopsticks are cleaner, but hands shove the food in your mouth faster. Ah, but there's no debate with you, Snackers Sushi Roll! Hands! Hands! Hands! sushi,crab,avocado,sushis",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-pineapple",
+   "name": "Snacker Pineapple",
+   "merchantDescription": "Hey Pineapple, HUGE NEWS! I heard that you ripen faster upside down? This changes everything! Does that ripening trick apply to any other items? Maybe bananas? Financial stocks and bonds? My taste in interior decor? The possibilities are endless!",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-fuzzy-bumblebee",
+   "name": "Snacker Fuzzy Bumblebee",
+   "merchantDescription": "So, I was thinking. Your outfit. The stripes are great, and I'm digging the yellow/black motif you've got going on. But how about trying something a little more edgy? Like, this nifty full-body beige number, with long sleeves, long pants, heavy-duty work glove",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-ufo",
+   "name": "Snacker UFO",
+   "merchantDescription": "Review by StrawberryCow17: \"I received my UFO-delivered milkshake quickly and unspilled. Flavor top-notch, high quality ingredients. Only downside was that upon opening my front door to retrieve it I was surrounded by a gleaming spotlight, beamed up into a fly",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-cactus",
+   "name": "Snacker Cactus",
+   "merchantDescription": "Cacti are so misunderstood. Even with all those prickles and ouches, it's completely possible for a healthy cactus to to enjoy a hug, a pat on the back or even just a handshake. Stop the stereotype! Cacti need cuddles. You know what you have to do. plant,garde",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-snacker-corn",
+   "name": "Snacker Corn",
+   "merchantDescription": "For years I was terrified of corn. Well, not exactly corn...their kids. The children of the corn. Baby corns, hiding in the corn maze, lurking in the crops, hovering at the edge of the pasture just out of sight. I'm finally over it though! I even picked up thi",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 14
+  },
+  {
+   "id": "squishable-snacker-mint-octopus",
+   "name": "Snacker Mint Octopus",
+   "merchantDescription": "Hey Octopus, have you ever considered Yoga? Those eight legs would be perfect for a Lotus Pose or Trikonasana! And what will you wear during your aquatic exercises? Well, yoga pants, little Octopus, obviously. Lots and lots of pairs of pants. Somehow. octopus,",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-baby-unicorn",
+   "name": "Snacker Baby Unicorn",
+   "merchantDescription": "This Baby Unicorn recently graduated with a PhD in theoretical fluffy physics (which is a sub-school of String Theory!). That dissertation on Quantum Mechanics revolutionized the way that fuzzy stuff is...hugged. Hurrah for science. unicorn,horse,honse,magical",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-pink-fluffy-bunny",
+   "name": "Snacker Pink Fluffy Bunny",
+   "merchantDescription": "The color pink is pretty great. Case in point: this Bunny's full name is actually \"Pink Fluffy Bunny Cherry Blossom Cotton Candy Flamingo Rose Santa Monica Sunset Cadillac Madame de Pompadour.\" Sadly we were forced to shorten it when we ran out of breath. Ah w",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-fluffy-bunny",
+   "name": "Snacker Fluffy Bunny",
+   "merchantDescription": "Here are 10 things that might be as fluffy as a Fluffy Bunny: A cloud, my Grandpa's marshmallow pie recipe, my unicorn winter onesie, the coffee foam on a caramel latte. Hmm... What else? A Japanese pancake, I guess... and I'm out. Final score: there are very ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-candy-hearts-me-you",
+   "name": "Snacker Candy Hearts Me + You",
+   "merchantDescription": "Seriously. Name a more iconic duo...I'll wait. candy,candy hearts,heart,vday,valentine's day,valentine,love,me,you,couple,boyfriend,girlfriend,blue",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-snacker-candy-hearts-xoxo",
+   "name": "Snacker Candy Hearts XOXO",
+   "merchantDescription": "The lazy yet lovable abbreviation for hugs and kisses. Even though it's exactly the same number of syllables as \"hugs and kisses\". Thus rendering this abbreviation unnecessary. candy,candy hearts,heart,vday,valentine's day,valentine,love,xoxo,hugs,kisses,xo,pu",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-snacker-candy-hearts-be-mine",
+   "name": "Snacker Candy Hearts Be Mine",
+   "merchantDescription": "Or be yours! I don't own you, be whoever's you want! Now that's romantic. candy,candy hearts,heart,vday,valentine's day,valentine,love,be mine,mine,green",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-snacker-candy-hearts-bestie",
+   "name": "Snacker Candy Hearts Bestie",
+   "merchantDescription": "Hey bestie! We've never met before but I feel a connection. It's a soft and squishy connection! That's right, it's this giant plate of spaghetti I just spilled over both of us! Now that's friendship! candy,candy hearts,heart,vday,valentine's day,valentine,love",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-snacker-peppermint-mocha",
+   "name": "Snacker Peppermint Mocha",
+   "merchantDescription": "My minty friend, we meet again! I promised I'd be back, didn't I? Let's roast some chestnuts and bundle up in mittens and hats! No, no, you're not seasonal, I just decided to hang out somewhere else for...11 straight months. It's not you, it's me. peppermint m",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-santa-avocado",
+   "name": "Snacker Santa Avocado",
+   "merchantDescription": "Leaving milk and cookies out for Santa is certainly a thing you could do...or you could be hip, cool, and up to date! Yes, I'm talking about leaving out an Avocado. This adorable little pal is your reminder that Santa needs his vitamins C, E, K, and B6 too. sa",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-hot-chocolate",
+   "name": "Snacker Hot Chocolate",
+   "merchantDescription": "Oh Chocolat Chaud, vous etes tres tres bon! Votre douce amertume au chocolat est si delicieuse! Ooh la laaaaah! And that's about all I can do with a combination of the Google Translate tool and my long-forgotten high school french. Mrs. Lafontaine would be so ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 14.99
+  },
+  {
+   "id": "squishable-snacker-taco",
+   "name": "Snacker Taco",
+   "merchantDescription": "We don't believe in Taco Tuesdays. Oh no no no. We believe in Taco Wednesdays. And Thursdays and Fridays. Also Saturdays, Sundays and Mondays, in case you were curious! Oh who am I kidding, also Tuesdays too. taco,hot sauce,snacker,snackers",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-unicorn-cake",
+   "name": "Snacker Unicorn Cake",
+   "merchantDescription": "Unicorn-themed pastry! What a brilliant idea! But why stop at cake? How about unicorn-themed cannoli! Unicorn broccoli! Unicorn macaroni and cheese! Unicorn split-level duplex in downtown Seattle! Unicorn philosophy about the role of the ego in pre-rational de",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-pumpkin-spice-latte",
+   "name": "Snacker Pumpkin Spice Latte",
+   "merchantDescription": "Orange is the new coffee. No, I don't mean orange coffee, I mean, orange-colored coffee. Except that would be weird. I guess I mean coffee flavored with something that is also orange, like a pumpkin. Except for it's not actually pumpkin flavored, it's flavored",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-pizza",
+   "name": "Snacker Pizza",
+   "merchantDescription": "Cake covered in frosting! Donuts covered in powdered sugar! Sunbathers covered in sunblock! Things covered with other things are the best things of all. Case in point, this pizza covered in cheese! It's the best! pizza,red,yellow,pie,snacker,snackers",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-snacker-hamburger",
+   "name": "Snacker Hamburger",
+   "merchantDescription": "A bleached wheat-based bun. A chunk of mangled meat. Some random vegetables we can pretend are healthy. Huh! How does a hamburger still sound delicious even when I use descriptions that are deeply unattractive? Gimme some of that bleached bun. hamburger,burger",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-snacker-gingerbread-man",
+   "name": "Snacker Gingerbread Man",
+   "merchantDescription": "This Gingerbread Man does not like to 'run as fast as he can.' He prefers a gentle meander. Of course, that also means we can catch him pretty easily. And then we eat him. Because we're humans, and he's a slower-than-average cookie, and that's the predator/pre",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  }
+ ]
+}

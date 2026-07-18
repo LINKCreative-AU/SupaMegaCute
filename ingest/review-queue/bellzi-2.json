@@ -3,297 +3,27 @@
  "batch": 2,
  "items": [
   {
-   "id": "bellzi-limited-edition-patch-torti",
-   "name": "Limited Edition Patch Torti",
-   "merchantDescription": "With an individually designed print pattern, different textures, as well as multiple hand stitchings, the Patch Torti brings about the next level of handcrafting to our collection. When you take our Limited Edition Patch Torti home, you will be able to enjoy h",
+   "id": "bellzi-lop-sami-the-mini-lop-rabbit",
+   "name": "Lop Bunni the Lop Eared Rabbit",
+   "merchantDescription": "Lop Bunni the Lop Eared Rabbit are a little bit vain 'cause they KNOW they're extremely cute! This contributes to their high level of confidence. These fluffy bunnies dream of a relaxed, easy-going life filled with lots of tasty snacks! Hop into a world of sof",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
-    "limited edition",
+    "bunni",
+    "bunny",
     "Low stock",
-    "new"
-   ],
-   "price": 50
-  },
-  {
-   "id": "bellzi-morpho-butti-the-butterfly-copy",
-   "name": "Monarch Butti the Butterfly",
-   "merchantDescription": "Regal and resolute, they glide through the skies with a quiet sense of purpose, their golden wings catching the sun like crowns in flight. Guided by ancient memory, their journeys stretch far and wide, as if stitched into the fabric of time itself. Length 10.5",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [],
-   "price": 36
-  },
-  {
-   "id": "bellzi-morpho-butti-the-butterfly",
-   "name": "Morpho Butti the Butterfly",
-   "merchantDescription": "Glimmering like a dream, they flit through the forest with wings of living sapphire, vanishing and reappearing like a trick of the light. Mischievous and curious, they love to surprise, often leading wanderers off the beaten path just for the fun of it. Length",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Low stock"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-mini-cappi-the-capybara",
-   "name": "Mini Cappi the Capybara",
-   "merchantDescription": "Meet Cappi the Capybara, your new chill buddy who's always down for a cuddle session or a lazy day binge-watching your favorite shows. With a sleek tan coat that’s smoother than your morning coffee and dark brown accents that add just the right amount of sass,",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "animal",
-    "capybara",
-    "Low stock",
-    "Mini Cappi the Capybara",
-    "plush toy"
-   ],
-   "price": 16
-  },
-  {
-   "id": "bellzi-mini-orange-cappi-the-capybara",
-   "name": "Mini Orange Cappi the Capybara",
-   "merchantDescription": "Meet Mini Orange Cappi the Capybara, This chill kings are serving up spa day vibes with a citrusy twist! Inspired by real-life capybaras in Japan who soak in hot springs with fruit on their heads (yes, it’s a thing!), our Mini Orange Cappi is all about relaxat",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "forest & tundra plushies",
-    "Low stock",
-    "mini"
-   ],
-   "price": 21
-  },
-  {
-   "id": "bellzi-cappi-the-capybara",
-   "name": "Cappi the Capybara",
-   "merchantDescription": "Meet Cappi the Capybara, your new chill buddy who's always down for a cuddle session or a lazy day binge-watching your favorite shows. With a sleek tan coat that’s smoother than your morning coffee and dark brown accents that add just the right amount of sass,",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "forest & tundra plushies",
-    "Low stock",
-    "mini",
-    "new"
+    "pet & farm plushies",
+    "rabbit"
    ],
    "price": 26
   },
   {
-   "id": "bellzi-mini-ankli-the-ankylosaurus",
-   "name": "Mini Ankli the Ankylosaurus",
-   "merchantDescription": "Meet Ankli the Ankylosaurus Plushie — your dino-mite new buddy that’s as tough as they are cuddly! With bumpy armor details, a sweet little smile, and a soft, huggable belly, Ankli is the perfect blend of prehistoric cool and plushy comfort. 💚🦕 Fun Fascinati",
+   "id": "bellzi-mini-froggi-the-frog-1",
+   "name": "Mini Alli the Alligator",
+   "merchantDescription": "Meet Alli the Alligator, our alligator stuffed animal born from the wild heart of the Everglades. Alli's story begins in the midst of the lush, swampy waters of its native habitat. Life in the Everglades was an adventure, with new discoveries at every turn. As",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
-    "A06",
-    "dinosaur plushies",
-    "Low stock"
-   ],
-   "price": 16
-  },
-  {
-   "id": "bellzi-mini-fenni-the-fennec-fox",
-   "name": "Mini Fenni the Fennec Fox",
-   "merchantDescription": "Meet Mini Fenni the Fennec Fox Plushie —small in size but big in charm! With its oversized ears, super-soft fur, and curious little face, this cuddly cutie is inspired by the real desert-dwelling fennec fox, the tiniest fox species in the world! 🌵💛 Fun Facts",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "Low stock",
-    "savannah & desert"
-   ],
-   "price": 16
-  },
-  {
-   "id": "bellzi-sea-torti-the-sea-turtle",
-   "name": "Sea Torti the Sea Turtle",
-   "merchantDescription": "Beautiful green Sea Torti collectible featuring sea turtle design. Perfect for ocean lovers and marine life enthusiasts.",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "collectible",
-    "green",
-    "Low stock",
-    "sea",
-    "turtle"
-   ],
-   "price": 26
-  },
-  {
-   "id": "bellzi-peggi-the-pegasus",
-   "name": "Peggi the Pegasus",
-   "merchantDescription": "Soaring through storm and starlight, this guardian carries messages between worlds with unshakable resolve. This Guardian is a beacon of freedom, they guide the lost with swift wings and a spirit that cannot be chained.",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Freedom",
-    "Hope",
-    "Low stock",
-    "Magical World",
-    "mystical",
-    "Mystical Creatures",
-    "new",
-    "Peggi the Pegasus"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-yuni-the-unicorn",
-   "name": "Yuni the Unicorn",
-   "merchantDescription": "Radiating quiet grace and ancient magic, this guardian brings healing to hearts and clarity to troubled minds. This Guardian is a beacon of purity, they walk the line between dreams and reality, restoring hope wherever they thread.",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Low stock",
-    "new",
-    "Yuni the Unicorn"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-mini-muddy-piggi-the-pig",
-   "name": "Mini Muddy Piggi the Pig",
-   "merchantDescription": "Muddy Piggi might be a little messy, but that just adds to their charm! They adore rolling around in the mud, using it as their canvas for inspiration. Don't be surprised if they leave a trail of muddy footprints behind their latest masterpiece!",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Bellzi",
-    "Low stock",
-    "Mini Muddy Piggi the Pig",
-    "Mini Pig",
-    "Plush Toy",
-    "Stuffed Animals"
-   ],
-   "price": 21
-  },
-  {
-   "id": "bellzi-mini-muddy-phanti-the-elephant",
-   "name": "Mini Muddy Phanti the Elephant",
-   "merchantDescription": "Muddy Phanti can't resist a good puddle! They'll spend hours splashing, rolling, and turning every spot into a muddy playground. With their incredible memory they never forget the best muddy adventures!",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Bellzi",
-    "Mini Elephant",
-    "Mini Muddy Phanti the Elephant",
-    "Plush Toy",
-    "Stuffed Animals"
-   ],
-   "price": 21
-  },
-  {
-   "id": "bellzi-muddy-phanti-the-elephant",
-   "name": "Muddy Phanti the Elephant",
-   "merchantDescription": "Muddy Phanti can't resist a good puddle! They'll spend hours splashing, rolling, and turning every spot into a muddy playground. With their incredible memory they never forget the best muddy adventures!",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Bellzi",
-    "Elephant",
-    "Low stock",
-    "Muddy Phanti the Elephant",
-    "Plush Toy",
-    "Stuffed Animals"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-muddy-piggi-the-pig",
-   "name": "Muddy Piggi the Pig",
-   "merchantDescription": "Muddy Piggi might be a little messy, but that just adds to their charm! They adore rolling around in the mud, using it as their canvas for inspiration. Don't be surprised if they leave a trail of muddy footprints behind their latest masterpiece!",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Bellzi",
-    "Muddy Piggi",
-    "Pig",
-    "Plush Toy",
-    "Stuffed Animals"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-kohaku-koi-the-koi-fish-mystery-style",
-   "name": "Kohaku Koi the Koi Fish - Mystery Style",
-   "merchantDescription": "Cast your line and wait for a bite! Our Kohaku Koi Koi Fish Plush is a fun surprise. You might reel in the classic Kuchibeni Koi, the vibrant Maruten Koi, or the elegant Sandan Koi. Each one is a unique catch, made with soft, high-quality materials. Perfect fo",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Cute and Cuddly",
-    "Fish Enthusiast Gift",
-    "Good Luck and Friendship",
-    "Kohaku Koi",
-    "Koi Fish Plush",
-    "Low stock"
-   ],
-   "price": 26
-  },
-  {
-   "id": "bellzi-wormi-with-elf-outfit",
-   "name": "Wormi with Elf Outfit",
-   "merchantDescription": "Introducing Wormi the Elf – a delightful and festive addition to the holiday season! Wormi, the Worm, has transformed from its usual self into an adorable Elf, all in the spirit of spreading joy during this magical time of year. Wormi's journey began deep with",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Low stock",
-    "pet & farm plushies"
-   ],
-   "price": 35
-  },
-  {
-   "id": "bellzi-orange-cappi-the-capybara",
-   "name": "Orange Cappi the Capybara",
-   "merchantDescription": "Meet Orange Cappi the Capybara, This chill kings are serving up spa day vibes with a citrusy twist! Inspired by real-life capybaras in Japan who soak in hot springs with fruit on their heads (yes, it’s a thing!), our Orange Cappi is all about relaxation, good ",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "forest & tundra plushies",
-    "Low stock",
-    "mini",
-    "new"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-fenni-the-fennec-fox",
-   "name": "Fenni the Fennec Fox",
-   "merchantDescription": "Meet Fenni the Fennec Fox Plushie —small in size but big in charm! With its oversized ears, super-soft fur, and curious little face, this cuddly cutie is inspired by the real desert-dwelling fennec fox, the tiniest fox species in the world! Fun Facts: Fennec f",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "Low stock",
-    "new",
-    "savannah & desert"
-   ],
-   "price": 25
-  },
-  {
-   "id": "bellzi-ankli-the-ankylosaurus",
-   "name": "Ankli the Ankylosaurus",
-   "merchantDescription": "Meet Ankli the Ankylosaurus Plushie — your dino-mite new buddy that’s as tough as they are cuddly! With bumpy armor details, a sweet little smile, and a soft, huggable belly, Ankli is the perfect blend of prehistoric cool and plushy comfort. Fun Fascinating Di",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "dino",
-    "dinosaur",
-    "dinosaur plushies",
-    "Low stock",
-    "new"
-   ],
-   "price": 29
-  },
-  {
-   "id": "bellzi-mini-kii-the-kiwi",
-   "name": "Mini Kii the Kiwi",
-   "merchantDescription": "Meet Mini Kii the Kiwi Plushie – a pocket-sized bundle of kiwi bird charm that’s irresistibly adorable! With its soft, vibrant green body, petite and chunky shape, and light-yellow beak, Mini Kii captures all the whimsy of its full-sized counterpart in a small",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
     "forest & tundra plushies",
     "Low stock",
     "mini"
@@ -301,196 +31,49 @@
    "price": 16
   },
   {
-   "id": "bellzi-graduation-owli",
-   "name": "Graduation Owli",
-   "merchantDescription": "Introducing the Graduation Owli! This Seasonal plush is perfect for cuddling and celebrating Graduation—a cuddly keepsake to remind graduates of their hard work and bright future! Dressed up in a cap and gown, complete with a sash proudly displaying the gradua",
+   "id": "bellzi-copy-of-mini-owli-the-barn-owl",
+   "name": "Mini Owli the Barn Owl",
+   "merchantDescription": "Meet Owli, your new fluffy companion from the charming world of Bellzi®! Owlis are inquisitive and adventurous, and they are always seeking out the wonders of the world. They enjoy puzzles and riddles, often tinkering and crafting in their nest. Our barn owl p",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
     "birds",
-    "Low stock"
-   ],
-   "price": 36
-  },
-  {
-   "id": "bellzi-kii-the-kiwi",
-   "name": "Kii the Kiwi",
-   "merchantDescription": "Meet Kii the Kiwi Plushie – a chubby and cuddly friend that captures the whimsical charm of kiwi birds in the most adorable way! With its soft, vibrant green body, chunky shape, and mellow light-yellow beak, Kii is the perfect blend of cuteness and coziness. I",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "A06",
-    "forest & tundra plushies",
-    "Low stock"
-   ],
-   "price": 26
-  },
-  {
-   "id": "bellzi-mini-sami-the-siamese-cat-copy",
-   "name": "Mini Sami the Siamese Cat (New)",
-   "merchantDescription": "Meet Mini Sami the Siamese Cat – a pocket-sized plush companion that captures all the elegance and charm of a classic Siamese in an irresistibly tiny and huggable form! With its soft, ivory-colored body and signature gray accents on the ears, paws, and tail, M",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
     "Low stock",
-    "mini",
-    "pet & farm plushies"
+    "mini"
    ],
    "price": 16
   },
   {
-   "id": "bellzi-mini-tuxi-the-tuxedo-cat-new",
-   "name": "Mini Tuxi the Tuxedo Cat (New)",
-   "merchantDescription": "Meet Mini Tuxi the Tuxedo Cat — the purr-fect pint-sized blend of elegance and charm! With its classic black-and-white fur and dapper design, Mini Tuxi is here to steal your heart in the cutest way possible. This tiny plush captures the timeless style of a tux",
+   "id": "bellzi-mini-spyni-the-spinosaurus",
+   "name": "Mini Spyni the Spinosaurus",
+   "merchantDescription": "Embark on a mini prehistoric adventure with Mini Spyni the Spinosaurus! This mini plush may be small in size, but it's big on charm and excitement. In the world of dinosaurs, Spyni is known for its daring spirit and adventurous heart. Mini Spyni may not be as ",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
+    "dino",
+    "dinosaur",
+    "dinosaur plushies",
     "Low stock",
-    "mini",
-    "pet & farm plushies"
+    "mini"
    ],
    "price": 16
   },
   {
-   "id": "bellzi-tuxi-the-tuxedo-cat-new",
-   "name": "Tuxi the Tuxedo Cat (New)",
-   "merchantDescription": "Meet Tuxi the Tuxedo Cat —the purr-fect blend of elegance and charm! With its classic black-and-white fur and a dapper look, Tuxi is ready to steal your heart. This plush captures the timeless style of a tuxedo cat, with soft black fur, white paws, and an ador",
+   "id": "bellzi-mini-griffi-the-griffin",
+   "name": "Mini Griffi the Griffin",
+   "merchantDescription": "Griffi are often found high above in the rocky mountains. They are avid collectors and find value in items often dismissed as worthless by others. BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is origina",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
     "Low stock",
-    "pet & farm plushies"
+    "mini"
    ],
-   "price": 26
+   "price": 21
   },
   {
-   "id": "bellzi-sami-the-siamese-cat-new",
-   "name": "Sami the Siamese Cat (New)",
-   "merchantDescription": "Meet Sami the Siamese Cat – a plush companion that brings all the elegance and charm of a classic Siamese into the world of huggable cuteness! With its soft, ivory-colored body and signature gray accents on the ears, paws, and tail, Sami has an irresistible, g",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "Low stock",
-    "pet & farm plushies"
-   ],
-   "price": 26
-  },
-  {
-   "id": "bellzi-nessi-enamel-pin-wave",
-   "name": "Nessi Enamel Pin - Wave",
-   "merchantDescription": "Ride the Tide – The Nessi Wave Enamel Pin Dive into the whimsical charm of the Nessi Wave enamel pin, featuring our beloved blue Nessi waving in style. With its soothing teal tones and playful pose, this pin captures Nessi’s spirited personality and the serene",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "enamel pin",
-    "mystical",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-nessi-enamel-pin-wave-copy",
-   "name": "Nessi Enamel Pin - Flaunt",
-   "merchantDescription": "Flaunt Your Style – Nessi Enamel Pin Make waves with the Nessi Flaunt enamel pin, featuring the ever-sassy Nessi showing off its graceful tricks with ocean blue hues. This pin captures Nessi’s playful confidence and the mesmerizing beauty of the mythical loch,",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "enamel pin",
-    "mystical",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-nessi-enamel-pin-dive",
-   "name": "Nessi Enamel Pin - Dive",
-   "merchantDescription": "Dive into Adventure – The Nessi Dive Enamel Pin Plunge into the depths of imagination with the Nessi Dive enamel pin, featuring Nessi gracefully diving under the waves, embodying a spirit of exploration and wonder. With hues inspired by the shimmering ocean bl",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "enamel pin",
-    "mystical",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-long-yi-enamel-pin-soar",
-   "name": "Long-yi Enamel Pin - Soar",
-   "merchantDescription": "Ascend with Majesty – The Long-Yi Soaring Enamel Pin Feel the rush of the wind and the freedom of the skies with the Long-Yi Soaring enamel pin. Featuring the magnificent serpent dragon in full flight, this pin is a celebration of grace, power, and limitless p",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "enamel pin",
-    "mystical",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-long-yi-enamel-pin-nap",
-   "name": "Long-yi Enamel Pin - Nap",
-   "merchantDescription": "Drift into a World of Serene Mysticism with the Long-Yi Napping Enamel Pin! Let tranquility and magic intertwine with our Long-Yi Napping enamel pin, a stunning homage to the serene elegance of the serpent dragon. Long-Yi, peacefully curled in slumber, embodie",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "enamel pin",
-    "mystical",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-long-yi-enamel-pin-float",
-   "name": "Long-yi Enamel Pin - Float",
-   "merchantDescription": "Soar to New Heights of Serenity with the Long-Yi Floating Enamel Pin! Take a breath of fresh air and let your imagination ascend with the Long-Yi Floating enamel pin. This elegant depiction of Long-Yi, the serpent dragon, gracefully hovering amidst dreamy clou",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "enamel pin",
-    "mystical",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-christmas-sticker-sheet",
-   "name": "Christmas Sticker Sheet",
-   "merchantDescription": "Deck the halls with a festive dino twist! This adorable Christmas sticker sheet features a whimsical collection of dinosaurs celebrating the season in the most charming ways. From dinos wrapped in holiday sweaters and decorating trees to snow-dino creations, s",
-   "vendor": "Bellzi",
-   "productType": "Decorative Stickers",
-   "merchantTags": [
-    "Low stock",
-    "stickers"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "bellzi-mystical-sticker-sheet",
-   "name": "Mystical Sticker Sheet",
-   "merchantDescription": "Embark on an enchanting journey with Bellzi's Mystical Creatures Sticker Sheet ! Each sticker captures a moment of magic and wonder, featuring: Draggi playfully conjuring flames with a mischievous spark. Griffi napping atop potion books, lost in a dreamy, magi",
-   "vendor": "Bellzi",
-   "productType": "Decorative Stickers",
-   "merchantTags": [
-    "stickers"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "bellzi-zodiac-sticker-sheet",
-   "name": "Zodiac Sticker Sheet",
-   "merchantDescription": "Celebrate the charm of the zodiac with this adorable sticker sheet! Featuring all twelve zodiac animals in Bellzi's signature cute style, each character is paired with a playful personality that reflects their zodiac charm: Mousi : Clever and quick, Mousi is f",
-   "vendor": "Bellzi",
-   "productType": "Decorative Stickers",
-   "merchantTags": [
-    "stickers"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "bellzi-mini-raccooni-the-raccoon",
-   "name": "Mini Raccooni the Raccoon",
-   "merchantDescription": "Introducing Bellzi's Raccooni the Raccoon in a mini version! With plush gray fur and charming dark accents, this adorable companion steals hearts with its short legs and sweet ears. Known for their intellect and love for treats, Raccooni are experts at solving",
+   "id": "bellzi-mini-froggi-the-frog",
+   "name": "Mini Froggi the Frog",
+   "merchantDescription": "Hop into a world of soothing tranquility and delightful melodies with Froggi, our irresistibly cute frog plush that's crafted to bring you endless joy and comfort. Created as part of Bellzi®'s high-quality collection, Froggi embodies the essence of a rainy day",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
@@ -501,175 +84,951 @@
    "price": 16
   },
   {
-   "id": "bellzi-raccooni-the-raccoon",
-   "name": "Raccooni the Raccoon",
-   "merchantDescription": "Meet the timeless charm of Bellzi's Raccooni the Raccoon, boasting a lusciously soft gray fur adorned with captivating dark accents that add to their irresistible cuteness. Sporting adorable short legs and endearing little ears, they effortlessly capture heart",
+   "id": "bellzi-mini-chamili-the-chameleon",
+   "name": "Mini Chamili the Chameleon",
+   "merchantDescription": "Chamili strive to stay hidden and to be the best wallflower! They love watching others from the sidelines and silently judging them. BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-mini-bii-the-bee",
+   "name": "Mini Bii the Bee",
+   "merchantDescription": "Meet Mini Bii the Bee, a mini plush of buzzworthy charm that's as sweet as honey! Mini Bii's journey begins in a vibrant garden, where it flutters from blossom to blossom, collecting nectar and spreading happiness. With its distinctive yellow and black stripes",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-graduation-rexxi",
+   "name": "Graduation Rexxi",
+   "merchantDescription": "Introducing the Graduation Rexxi! This Seasonal plush is perfect for cuddling and celebrating Graduation. BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters are original designs, and are created with an ultra",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "dinosaur plushies",
+    "Low stock"
+   ],
+   "price": 36
+  },
+  {
+   "id": "bellzi-easter-egg-rexxi",
+   "name": "Easter Egg Rexxi",
+   "merchantDescription": "Introducing the Easter Egg Rexxi! This special edition plush is perfect for cuddling and celebrating the Easter holiday. BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters are original designs, and are create",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "A06",
+    "dinosaur plushies",
+    "Low stock"
+   ],
+   "price": 35
+  },
+  {
+   "id": "bellzi-pencil-case",
+   "name": "Pencil Case",
+   "merchantDescription": "The multipurpose Bellzi Pencil Case is the perfect addition to your organization arsenal. Keep all of your essentials in one place and never lose track of your favorite chapter again! Order now and enjoy the convenience and cuteness of the Bellzi Pencil Case. ",
+   "vendor": "Bellzi",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Low stock",
+    "PENCIL CASE",
+    "stationery"
+   ],
+   "price": 15
+  },
+  {
+   "id": "bellzi-mini-arcti-the-arctic-fox",
+   "name": "Mini Arcti the Arctic Fox",
+   "merchantDescription": "Meet Mini Arcti the Arctic Fox, a delightful fox stuffed animal that embodies the charm of an arctic fox plush but in a miniaturized form. This mini plush is here to bring a touch of the Arctic wilderness into your life. Mini Arcti's story begins amidst the ic",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
     "forest & tundra plushies",
     "Low stock"
    ],
-   "price": 26
-  },
-  {
-   "id": "bellzi-mini-huski-the-siberian-husky",
-   "name": "Mini Huski the Siberian Husky",
-   "merchantDescription": "Introducing Bellzi's Mini Huski, the Siberian Husky plush – a delightful fusion of cuddles and charm! While real Siberian Huskies are renowned for their energy, our plush Huski captures all the liveliness without the early morning hustle. Wrap yourself in the ",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "dog",
-    "Low stock",
-    "mini",
-    "pet & farm plushies"
-   ],
    "price": 16
   },
   {
-   "id": "bellzi-giant-draggi-the-fire-dragon",
-   "name": "Giant Draggi the Fire Dragon",
-   "merchantDescription": "Meet Giant Draggi the Fire Dragon – a legendary plush companion that combines epic style with ultimate comfort! With its bold brick-red body, Giant Draggi exudes strength and charm, instantly adding a spark to any room it occupies. This dragon isn’t just fierc",
+   "id": "bellzi-foxxi-bundle",
+   "name": "Foxxi Bundle",
+   "merchantDescription": "Our lovable Foxxi Bundle is here! Includes: x1 Foxxi regular plush x1 Foxxi small plush x1 Foxxi enamel pin",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "bundle"
+   ],
+   "price": 40
+  },
+  {
+   "id": "bellzi-spyni-the-spinosaurus",
+   "name": "Spyni the Spinosaurus",
+   "merchantDescription": "Journey back in time to the age of dinosaurs and meet Spyni, the Spinosaurus with an insatiable appetite for adventure. In the heart of the prehistoric wilderness, Spyni roamed, ruling the land with power and determination. Spyni is no ordinary dinosaur—it’s a",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "dino",
+    "dinosaur",
+    "dinosaur plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-miss-you-enamel-pin",
+   "name": "Miss you Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.45\" x 1.33\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-happy-birthday-enamel-pin-1",
+   "name": "Happy Birthday Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.41\" x 1.57\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-thank-you-enamel-pin",
+   "name": "Thank you Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.18\" x 1.57\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-3d-greeting-card-graduation",
+   "name": "3D Greeting Card - Graduation",
+   "merchantDescription": "Let our amazing 3D Greeting Card deliver your message! Size: Length 6.3\" x Depth 2.75\" x Height 4.72\"",
+   "vendor": "Bellzi",
+   "productType": "Greeting & Note Cards",
+   "merchantTags": [
+    "Black Friday 50",
+    "cards",
+    "greeting cards",
+    "Low stock"
+   ],
+   "price": 11
+  },
+  {
+   "id": "bellzi-3d-greeting-card-get-better-soon",
+   "name": "3D Greeting Card - Get Better Soon",
+   "merchantDescription": "Let our amazing 3D Greeting Card deliver your message! Size: Length 4.75\" x Depth 4.75\" x Height 6.25\"",
+   "vendor": "Bellzi",
+   "productType": "Greeting & Note Cards",
+   "merchantTags": [
+    "Black Friday 50",
+    "cards",
+    "greeting cards",
+    "Low stock"
+   ],
+   "price": 11
+  },
+  {
+   "id": "bellzi-jumbo-wormi-the-worm-1",
+   "name": "Giant Wormi the Worm",
+   "merchantDescription": "Wormi are reliable friends that everyone wish they had! They are extremely productive and hardworking for all four seasons of the year. Nothing can stop them! BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our character",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
     "Jumbo Plushies",
     "Large",
-    "Low stock",
-    "mystical",
     "Oversized"
    ],
-   "price": 125
+   "price": 95
   },
   {
-   "id": "bellzi-ducki-mummy-enamel-pin",
-   "name": "Ducki Mummy Enamel Pin",
-   "merchantDescription": "Quack into the spooky season with Ducki the Duck – an enamel pin that’s delightfully haunting! Wrapped up like a mummy, Ducki has ghostly white eyes, haunting arms, and tiny bats fluttering around, adding to the eerie atmosphere. This unique pin combines cuten",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "Black Friday 50",
-    "enamel pin",
-    "Low stock",
-    "pins"
-   ],
-   "price": 11.5
-  },
-  {
-   "id": "bellzi-snaki-frankenstein-enamel-pin",
-   "name": "Snaki Frankenstein Enamel Pin",
-   "merchantDescription": "Meet Snaki Frankenstein – the cute yet spooky snake that’s here to slither its way into your heart! With a playful green color, a bolt in its head, stitches along its body and tail, and a pink tongue sticking out, this enamel pin blends Halloween fun with ador",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "Black Friday 50",
-    "enamel pin",
-    "Low stock",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-batti-web-enamel-pin",
-   "name": "Batti Web Enamel Pin",
-   "merchantDescription": "Meet Batti Web – a spooky-cute enamel pin that brings a bat’s charm with an added twist of a delicate spider web! This little bat pin is perfect for those who love a hint of the eerie and whimsical combined. Batti Web adds a unique flair to jackets, bags, hats",
-   "vendor": "Bellzi",
-   "productType": "Enamel Pin",
-   "merchantTags": [
-    "Black Friday 50",
-    "enamel pin",
-    "Low stock",
-    "pins"
-   ],
-   "price": 10.5
-  },
-  {
-   "id": "bellzi-franki-phanti-figure-keychain",
-   "name": "Franki Phanti Figure Keychain",
-   "merchantDescription": "Meet Franki Phanti – the adorable yet spooky elephant with a unique twist! Dressed in a stitched-up look with a hint of mystery, Franki Phanti brings playful charm and a dash of eerie fun wherever it goes. This lovable keychain features detailed accents like i",
-   "vendor": "Bellzi",
-   "productType": "Keychains",
-   "merchantTags": [
-    "keychains",
-    "Low stock"
-   ],
-   "price": 13
-  },
-  {
-   "id": "bellzi-pumpkin-torti-figure-keychain",
-   "name": "Pumpkin Torti Figure Keychain",
-   "merchantDescription": "Say hello to Pumpkin Torti – the charming tortoise with a festive twist! With a pumpkin shell and a little candle on its head, Pumpkin Torti is ready to bring a cozy, whimsical vibe to your everyday style. Its adorable yet slightly spooky design will add chara",
-   "vendor": "Bellzi",
-   "productType": "Keychains",
-   "merchantTags": [
-    "keychains",
-    "Low stock"
-   ],
-   "price": 13
-  },
-  {
-   "id": "bellzi-mini-chicki-the-chick",
-   "name": "Mini Chicki the Chick",
-   "merchantDescription": "Tiny but bursting with charm, meet Mini Chicki the Chick ! This pocket-sized ball of sunshine is as cute as can be, with its soft yellow feathers and sweet blushy cheeks. Perfect for little hands or as a playful decoration, Mini Chicki brings all the joy of sp",
+   "id": "bellzi-froggi-the-frog-stuffed-animal",
+   "name": "Froggi the Frog",
+   "merchantDescription": "Leap into a world of serene enchantment and cozy comfort with Froggi, our delightful frog plush that's designed to bring joy and tranquility to your life! As a standout member of our Bellzi® plush collection, Froggi is an original character that combines the c",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
-    "birds",
-    "Low stock",
-    "mini"
-   ],
-   "price": 16
-  },
-  {
-   "id": "bellzi-chicki-the-chick",
-   "name": "Chicki the Chick",
-   "merchantDescription": "Meet Chicki the Chick —a little burst of sunshine and joy! With its soft, pastel yellow fluff and rosy pink cheeks, Chicki is the perfect plush for anyone who adores all things cute and cuddly. This lovable little chick is ready to spread warmth and happiness ",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "birds",
+    "A06",
+    "forest & tundra plushies",
     "Low stock"
    ],
    "price": 26
   },
   {
-   "id": "bellzi-mini-ferri-the-ferret",
-   "name": "Mini Ferri the Ferret",
-   "merchantDescription": "Say hello to Mini Ferri the Ferret —a pint-sized bundle of woodland charm! With its soft, light brown and cream fur, this adorable mini plush captures the playful spirit of the forest in a compact, huggable form. Perfect for nature lovers and adventurers alike",
+   "id": "bellzi-valentines-rexxi",
+   "name": "Valentine's Rexxi",
+   "merchantDescription": "Looking for a special way to say \"I love you\" this Valentine's Day? Valentine's Rexxi is the perfect way to show your loved ones how much you care! Rexxi are large and in charge! They may seem intimidating, but looks can be deceiving. This particular one is he",
    "vendor": "Bellzi",
    "productType": "Stuffed Animals",
    "merchantTags": [
-    "forest & tundra plushies",
-    "Low stock",
-    "mini"
-   ],
-   "price": 16
-  },
-  {
-   "id": "bellzi-ferri-the-ferret",
-   "name": "Ferri the Ferret",
-   "merchantDescription": "Step into the whimsical world of autumn with Ferri the Ferret —a plush that embodies the cozy charm of the season. With soft, earthy tones of light brown and cream, Ferri is designed for nature lovers and those who adore the playful spirit of the outdoors. Thi",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "forest & tundra plushies",
-    "Low stock",
-    "red panda"
-   ],
-   "price": 26
-  },
-  {
-   "id": "bellzi-spyni-with-witch-outfit",
-   "name": "Spyni with Witch Outfit",
-   "merchantDescription": "It’s Spooky Season and Witch Spyni has arrived - a magical plush creature born from the depths of ancient spells and primal power, designed for Halloween lovers and fans of the mysterious. This seasonal edition spinosaurus plush is an enchanting mix of eerie c",
-   "vendor": "Bellzi",
-   "productType": "Stuffed Animals",
-   "merchantTags": [
-    "dinosaur",
     "dinosaur plushies",
     "Low stock"
    ],
    "price": 36
+  },
+  {
+   "id": "bellzi-owli-the-owl",
+   "name": "Owli the Barn Owl",
+   "merchantDescription": "Meet Owli, your new feathery friend from the enchanting world of Bellzi®. Owli is inquisitive and adventurous, and they are always seeking out the wonders of the world. Owli enjoys puzzles and riddles, often tinkering and crafting in their nest. Our barn owl p",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "birds",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-bii-the-bee",
+   "name": "Bii the Bee",
+   "merchantDescription": "Meet Bii the Bee, a charming plush companion that buzzes with boundless energy and sweetness. This bee stuffed animal’s story begins in a bustling garden, where it diligently flutters from flower to flower, spreading joy and collecting nectar. Adorned with dis",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "A06",
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-griffi-the-griffin",
+   "name": "Griffi the Griffin",
+   "merchantDescription": "Hello, adventurers of the heart! Welcome to Bellzi, your haven for delightful and enchanting plush companions. Prepare to be charmed by Griffi, our adorable griffin plush, a mythical friend that's ready to share unforgettable moments of warmth and imagination ",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "mystical"
+   ],
+   "price": 36
+  },
+  {
+   "id": "bellzi-chamili-the-chameleon",
+   "name": "Chamili the Chameleon",
+   "merchantDescription": "Introducing Chamili the Chameleon, the ultimate master of disguise and charm in the realm of reptile plush companions! Born in the heart of a lush jungle, Chamili possesses the extraordinary ability to blend seamlessly into its vibrant surroundings. Its soft, ",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "A06",
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-arcti-the-arctic-fox",
+   "name": "Arcti the Arctic Fox",
+   "merchantDescription": "Meet Arcti the Arctic Fox—this white fox plush is the perfect embodiment of the Arctic wilderness, making it a delightful addition to your collection of cute animal plushies. This arctic fox plush’s story begins in the heart of the frozen tundra, where it lear",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-jumbo-froggi-the-frog",
+   "name": "Giant Froggi the Frog",
+   "merchantDescription": "Dive into a cozy, rain-soaked wonderland with Froggi, our captivating frog plush that's designed to enchant your senses and elevate your comfort. Part of Bellzi®'s exclusive collection of plush animals, Froggi is an adorable original character that’s more than",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Jumbo Plushies",
+    "Large",
+    "Oversized"
+   ],
+   "price": 95
+  },
+  {
+   "id": "bellzi-youre-amazing-enamel-pin",
+   "name": "You're Amazing Enamel Pin",
+   "merchantDescription": "Size: 1.35\" x 1.6\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-graduation-enamel-pin",
+   "name": "Graduation Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.55\" x 1.3\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-i-love-you-enamel-pin-1",
+   "name": "I Love You Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.3\" x 1.35\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-get-better-soon-enamel-pin",
+   "name": "Get Better Soon Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.55\" x 1\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-first-bellzi-enamel-pin",
+   "name": "First Bellzi Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.55\" x 1\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-happy-birthday-enamel-pin",
+   "name": "Congratulations Enamel Pin",
+   "merchantDescription": "Let our amazing greeting enamel pins deliver your message! These pins can be used to demonstrate your appreciation or give encouragement to friends and family– or use them to express yourself however you’d like. Size: 1.28\" x 1.45\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-mini-monki-the-monkey",
+   "name": "Mini Monki the Monkey",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters are original designs, and are created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! ★ Coa",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-terri-enamel-pin-soccer",
+   "name": "Terri Enamel Pin - Soccer",
+   "merchantDescription": "This fun and feisty Terri pin is perfect for soccer lovers and athletes alike. Add a little sparkle to your life with Terri! Size: 1.4\" x 1.6\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-terri-enamel-pin-mail",
+   "name": "Terri Enamel Pin - Mail",
+   "merchantDescription": "Whether you're adding a touch of whimsy to your outfit or simply showing off your love of all things snail mail, this little Terri pin is sure to make a statement. Size: 1.57\" x 1.3\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-terri-enamel-pin-flying",
+   "name": "Terri Enamel Pin - Flying",
+   "merchantDescription": "Let Terri take your style to new heights with this fantastic enamel pin! He's perfect for accessorizing clothes, bags, or hats, and he makes a great gift for any occasion. Size: 1.8\" x 1.38\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-bronti-enamel-pin-eating",
+   "name": "Bronti Enamel Pin - Eating",
+   "merchantDescription": "Who can resist that cute face? Not even the fussiest of eaters will be able to turn down their veggies when they see this adorable Bronti enamel pin. It's the perfect way to show your love for all things green! Size: 1.2\" x 1.6\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-bronti-enamel-pin-butterfly",
+   "name": "Bronti Enamel Pin - Butterfly",
+   "merchantDescription": "Bronti will make your heart flutter! This is a one of a kind playful and cute enamel pin that will add a touch of fun to anything. Size: 1.2\" x 1.6\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-3d-greeting-card-first-bellzi",
+   "name": "3D Greeting Card - First Bellzi",
+   "merchantDescription": "Let our amazing 3D Greeting Card deliver your message! Size: Length 4.75\" x Depth 4.75\" x Height 6.25\"",
+   "vendor": "Bellzi",
+   "productType": "Greeting & Note Cards",
+   "merchantTags": [
+    "Black Friday 50",
+    "cards",
+    "greeting cards"
+   ],
+   "price": 11
+  },
+  {
+   "id": "bellzi-jumbo-octi-the-octopus",
+   "name": "Giant Octi the Octopus",
+   "merchantDescription": "Prepare to be enchanted by the colossal presence of Giant Octi the Octopus, a monumental addition to the world of ocean-inspired plushies. Towering in size, Giant Octi carries the grace and intelligence of a true octopus plush, making it a mesmerizing centerpi",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Jumbo Plushies",
+    "Large",
+    "Oversized"
+   ],
+   "price": 95
+  },
+  {
+   "id": "bellzi-slothi-bundle",
+   "name": "Slothi Bundle",
+   "merchantDescription": "Our lovable Slothi Bundle is here! Includes: x1 Slothi regular plush ($25) x1 Slothi small plush ($13.50) x1 Slothi enamel pin ($6.5)",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "bundle"
+   ],
+   "price": 45
+  },
+  {
+   "id": "bellzi-jumbo-heni-the-hen",
+   "name": "Giant Heni the Hen",
+   "merchantDescription": "Heni are overreacting, overprotective, and just plain over the top! They often think the entire world is out to get them, and are positively frightened by anything and everything. BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! ",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Jumbo Plushies",
+    "Large",
+    "Oversized"
+   ],
+   "price": 95
+  },
+  {
+   "id": "bellzi-mouse-stuffed-animal",
+   "name": "Mousi the Mouse",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size: L",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-mousi-the-mouse",
+   "name": "Mini Mousi the Mouse",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size: L",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-rexxi-bundle",
+   "name": "Rexxi Bundle",
+   "merchantDescription": "Looking for the perfect gift for the dinosaur lover in your life? Look no further than the Rexxi Bundle! This bundle includes a regular plush Rexxi, a small plush Rexxi, and a random Rexxi enamel pin. Plushes are made of soft, huggable material that is perfect",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "bundle"
+   ],
+   "price": 45
+  },
+  {
+   "id": "bellzi-skunk-stuffed-animal",
+   "name": "Skunki the Skunk",
+   "merchantDescription": "Meet Skunki the Skunk, a charming and mischievous skunk plush with a tale as distinctive as its striking appearance. Skunki hails from a peaceful woodland nestled deep in the heart of nature, where it learned the art of grace and charm from the forest's gentle",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-skunki-the-skunk",
+   "name": "Mini Skunki the Skunk",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is an original design, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size:",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-koala-stuffed-animal",
+   "name": "Koali the Koala",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is an original design, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size:",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-koali-the-koala",
+   "name": "Mini Koali the Koala",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is an original design, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size:",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-sami-wood-container",
+   "name": "Sami Wood Container",
+   "merchantDescription": "",
+   "vendor": "Bellzi",
+   "productType": "Desk Organizers",
+   "merchantTags": [
+    "Black Friday 50"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "bellzi-hedgehog-stuffed-animal",
+   "name": "Hedgi the Hedgehog",
+   "merchantDescription": "Welcome to a world of cuteness, comfort, and companionship with Hedgi, your new favorite hedgehog stuffed animal! Crafted with love and affection by Bellzi, this adorable plushie will steal your heart and bring endless joy to your everyday moments. Hedgi the H",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-hedgi-the-hedgehog",
+   "name": "Mini Hedgi the Hedgehog",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size: L",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-memory-notebook-set",
+   "name": "Memory Notebook Set",
+   "merchantDescription": "Memory Notebook Set x1 (L5.6\" x D0.5\" x H8.5\" )",
+   "vendor": "Bellzi",
+   "productType": "Notebooks & Notepads",
+   "merchantTags": [
+    "Black Friday 50",
+    "notebook"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "bellzi-hedgi-desk-decor",
+   "name": "Hedgi Desk Decor",
+   "merchantDescription": "Hedgi Desk Decor (L5.25\" x D1.8\" x H3.65\" )",
+   "vendor": "Bellzi",
+   "productType": "Desk Organizers",
+   "merchantTags": [
+    "Black Friday 50",
+    "desk decor",
+    "homi",
+    "Low stock"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "bellzi-deeri-pillow",
+   "name": "Deeri Pillow",
+   "merchantDescription": "Deeri Pillow comes with cover and pillow.",
+   "vendor": "Bellzi",
+   "productType": "Pillows",
+   "merchantTags": [
+    "pillow"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "bellzi-mini-kangi-the-kangaroo",
+   "name": "Mini Kangi The Kangaroo",
+   "merchantDescription": "Introducing Mini Kangi the Kangaroo, a star within our kangaroo stuffed animal family and a delightful embodiment of Bellzi®'s enduring commitment to exceptional design. Mini Kangi is more than just a kangaroo plush—it's a tiny treasure meticulously crafted to",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock",
+    "mini"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-kangaroo-stuffed-animal",
+   "name": "Kangi The Kangaroo",
+   "merchantDescription": "Introducing Kangi the Kangaroo, the star of our kangaroo stuffed animal collection, and a charming representation of Bellzi®'s unwavering commitment to extraordinary design. Kangi isn't just your ordinary kangaroo plush, it's a masterpiece meticulously crafted",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-jumbo-poli-the-polar-bear",
+   "name": "Giant Poli The Polar Bear",
+   "merchantDescription": "Dive into a world of boundless hugs and affection with Jumbo Poli, our spectacular large polar bear stuffed animal! Crafted meticulously to be a colossal bundle of joy, Jumbo Poli stands out with his irresistibly soft fur and welcoming embrace, offering a giga",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Jumbo Plushie",
+    "Jumbo Plushies"
+   ],
+   "price": 95
+  },
+  {
+   "id": "bellzi-ducki-the-duck",
+   "name": "Ducki the Duck",
+   "merchantDescription": "Get ready to waddle with excitement over Bellzi's Duck Plush - Ducki, the ultimate cuddle buddy for duck enthusiasts of all ages! This plush is carefully crafted with the softest materials and exquisite attention to detail, making it a true treasure in any col",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "A06",
+    "Low stock",
+    "pet & farm plushies"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-ducki-the-duck",
+   "name": "Mini Ducki the Duck",
+   "merchantDescription": "Embark on a delightful journey with Mini Ducki, our enchanting duck stuffed animal! Created with meticulous attention to detail, Mini Ducki flaunts a charming white color scheme, making this duck plushie a harmonious blend of cuteness and serenity. Mini Ducki ",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "mini",
+    "pet & farm plushies"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-worm-stuffed-animal",
+   "name": "Wormi the Worm",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size: L",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "pet & farm plushies"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-wormi-the-worm",
+   "name": "Mini Wormi the Worm",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size: L",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "mini",
+    "pet & farm plushies"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-chicken-stuffed-animal",
+   "name": "Heni the Hen",
+   "merchantDescription": "Looking to hug a fluffy, adorable Hen? Look no further than Bellzi's Heni the Hen Plush - the ultimate companion for Hen lovers of all ages! With its attention to detail and cuddly materials, our Hen plush will quickly become a beloved friend. Featuring a vibr",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "pet & farm plushies"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-mini-heni-the-hen",
+   "name": "Mini Heni the Hen",
+   "merchantDescription": "BELLZI® DESIGN: Bellzi® animals are super soft, adorable, and unabashedly cute! Each of our characters is original designs, and is created with an ultra-premium, child-friendly, and high-density plush material for maximum softness, weight, and quality! Size: L",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "Low stock",
+    "mini",
+    "pet & farm plushies"
+   ],
+   "price": 16
+  },
+  {
+   "id": "bellzi-3d-greeting-card-i-love-you",
+   "name": "3D Greeting Card - I Love You",
+   "merchantDescription": "Let our amazing 3D Greeting Card deliver your message! Size: Length 4.75\" x Depth 4.75\" x Height 6.25\"",
+   "vendor": "Bellzi",
+   "productType": "Greeting & Note Cards",
+   "merchantTags": [
+    "Black Friday 50",
+    "cards",
+    "greeting cards",
+    "Low stock"
+   ],
+   "price": 11
+  },
+  {
+   "id": "bellzi-homi-box",
+   "name": "The Homi-Box (Limited Quantity)",
+   "merchantDescription": "Our Homi-Box is here to help you invoke that feeling of comfort and warmth with each and every item specifically designed to work for your home. We made sure to find out what was most important in order for you to sit down and relax, from a cozy blanket to cov",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "limited edition",
+    "Low stock"
+   ],
+   "price": 80
+  },
+  {
+   "id": "bellzi-steggi-figure-keychain",
+   "name": "Steggi Figure Keychain",
+   "merchantDescription": "Bring a little magic wherever you go with our Steggi keychain. Whether worn on your wrist or clipped to your bag, Steggi will keep an eye on your keys so you'll never lose them! High-quality design Detailed Steggi figurine with clip Handle strap with keyring M",
+   "vendor": "Bellzi",
+   "productType": "Keychains",
+   "merchantTags": [
+    "keychains",
+    "Low stock"
+   ],
+   "price": 13
+  },
+  {
+   "id": "bellzi-rexxi-figure-keychain",
+   "name": "Rexxi Figure Keychain",
+   "merchantDescription": "Bring a little magic wherever you go with our Rexxi keychain. Whether worn on your wrist or clipped to your bag, Rexxi will keep an eye on your keys so you'll never lose them! High-quality design Detailed Rexxi figurine with clip Handle strap with keyring Mate",
+   "vendor": "Bellzi",
+   "productType": "Keychains",
+   "merchantTags": [
+    "keychains",
+    "Low stock"
+   ],
+   "price": 13
+  },
+  {
+   "id": "bellzi-corgi-figure-keychain",
+   "name": "Corgi Figure Keychain",
+   "merchantDescription": "Bring a little magic wherever you go with our Corgi keychain. Whether worn on your wrist or clipped to your bag, Corgi will keep an eye on your keys so you'll never lose them! High-quality design Detailed Corgi figurine with clip Handle strap with keyring Mate",
+   "vendor": "Bellzi",
+   "productType": "Keychains",
+   "merchantTags": [
+    "keychains",
+    "Low stock"
+   ],
+   "price": 13
+  },
+  {
+   "id": "bellzi-foxxi-figure-keychain",
+   "name": "Foxxi Figure Keychain",
+   "merchantDescription": "Bring a little magic wherever you go with our Foxxi keychain. Whether worn on your wrist or clipped to your bag, Foxxi will keep an eye on your keys so you'll never lose them! High-quality design Detailed Foxxi figurine with clip Handle strap with keyring Mate",
+   "vendor": "Bellzi",
+   "productType": "Keychains",
+   "merchantTags": [
+    "keychains",
+    "Low stock"
+   ],
+   "price": 13
+  },
+  {
+   "id": "bellzi-giraffi-figure-keychain",
+   "name": "Giraffi Figure Keychain",
+   "merchantDescription": "Bring a little magic wherever you go with our Giraffi keychain. Whether worn on your wrist or clipped to your bag, Giraffi will keep an eye on your keys so you'll never lose them! High-quality design Detailed Giraffi figurine with clip Handle strap with keyrin",
+   "vendor": "Bellzi",
+   "productType": "Keychains",
+   "merchantTags": [
+    "keychains",
+    "Low stock"
+   ],
+   "price": 13
+  },
+  {
+   "id": "bellzi-seri-figure-keychain",
+   "name": "Seri Figure Keychain",
+   "merchantDescription": "Bring a little magic wherever you go with our Seri keychain. Whether worn on your wrist or clipped to your bag, Draggi will keep an eye on your keys so you'll never lose them! High-quality design Detailed Seri figurine with clip Handle strap with keyring Mater",
+   "vendor": "Bellzi",
+   "productType": "Keychains",
+   "merchantTags": [
+    "keychains",
+    "Low stock"
+   ],
+   "price": 13
+  },
+  {
+   "id": "bellzi-monkey-stuffed-animal",
+   "name": "Monki the Monkey",
+   "merchantDescription": "Get ready to swing into jungle fun with Monki, our adorable monkey plush, a charming friend who's ready to bring a world of adventure and warm cuddles to your life! Bellzi's Monki is a standout star in our plush collection. With its expressive look, playful pe",
+   "vendor": "Bellzi",
+   "productType": "Stuffed Animals",
+   "merchantTags": [
+    "forest & tundra plushies",
+    "Low stock"
+   ],
+   "price": 26
+  },
+  {
+   "id": "bellzi-phanti-enamel-pin-phantastic",
+   "name": "Phanti Enamel Pin - Phantastic",
+   "merchantDescription": "Size: 1.25\" x 1.15\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-torti-enamel-pin-tortilly-awesome",
+   "name": "Torti Enamel Pin - Tortilly Awesome",
+   "merchantDescription": "Size: 1.25\" 1.625\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-steggi-enamel-pin-munch",
+   "name": "Steggi Enamel Pin - Munch",
+   "merchantDescription": "Size: 1.125\" x 1.5\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-steggi-enamel-pin-drink",
+   "name": "Steggi Enamel Pin - Drink",
+   "merchantDescription": "Size: 1.375\" x 1.5\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "bellzi-seri-enamel-pin-shell",
+   "name": "Seri Enamel Pin - Shell",
+   "merchantDescription": "Size: 1.625\" x 1.25\"",
+   "vendor": "Bellzi",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "Black Friday 50",
+    "enamel pin",
+    "Low stock",
+    "pins"
+   ],
+   "price": 10.5
   }
  ]
 }

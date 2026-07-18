@@ -1,0 +1,702 @@
+{
+ "source": "japanla",
+ "batch": 21,
+ "items": [
+  {
+   "id": "japanla-sanrio-chocolate-strawberry-dress-clip-on-mascot",
+   "name": "Sanrio Chocolate Strawberry Dress Clip-On Mascot",
+   "merchantDescription": "Strawberry, chocolate, great when separate, but when they combine it makes these Sanrio mascots epic! Each of these super cute plush charms are dressed in chocolate strawberry-themed outfits, with matching dresses and bows. Add some sweetness to your Sanrio ba",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "pompombday"
+   ],
+   "price": 19
+  },
+  {
+   "id": "japanla-sanrio-face-shaped-calculator",
+   "name": "Sanrio Face-Shaped Calculator",
+   "merchantDescription": "These Sanrio characters will help you with your math homework! Each Sanrio Face-Shaped Calculator is styled after a special character, including an adorable shaped screen and buttons. Add these unique items to your kawaii collection, and bring some cuteness in",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "japanla-sanrio-rabbit-plush",
+   "name": "Sanrio Fluffy Rabbit Plush",
+   "merchantDescription": "The Year of the Rabbit hops along with these kawaii Sanrio Rabbit Plushes! Each one is dressed in a colorful Bunny costume complete with ears, stubby paws, poofy fabric, and even an adorable ribbon! You'll be jumping for joy when you add these special plushes ",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "Easter",
+    "pompombday"
+   ],
+   "price": 46
+  },
+  {
+   "id": "japanla-sanrio-hair-cap-towel",
+   "name": "Sanrio Hair Cap Towel",
+   "merchantDescription": "This Sanrio Hair Cap doubles as a towel! After you wash your hair, put it in this cap to keep it out of the way while its drying. You can even wear it to sleep! Be sure to add this Sanrio Hair Cap Towel to your bedtime essentials! Measures 8\" x 15.75\". Officia",
+   "vendor": "Sanrio",
+   "productType": "Bedroom",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 12
+  },
+  {
+   "id": "japanla-sanrio-loop-hand-towel-set-of-3",
+   "name": "Sanrio Loop Hand Towel Set of 3",
+   "merchantDescription": "Always have enough hand towels in your kitchen with these Sanrio Sets of 3! Each washable towel can be hung with a loop at the top and can be folded for easy storing. Choose between designs themed around kawaii Sanrio characters! Each hand towel measures 14\" x",
+   "vendor": "Sanrio",
+   "productType": "Kitchen",
+   "merchantTags": [
+    "greensale"
+   ],
+   "price": 9
+  },
+  {
+   "id": "japanla-sanrio-reflector-clip-set-of-2",
+   "name": "Sanrio Reflector Clip Set of 2",
+   "merchantDescription": "These Sanrio Reflector clips will add some kawaii style to your pockets! Each set includes two magnetic clips that will attach easily to your tote bags, jackets, and all kinds of pockets. Collect all 5 sets for different design options and cute combinations! L",
+   "vendor": "Sanrio",
+   "productType": "Personal",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 12
+  },
+  {
+   "id": "japanla-sanrio-retro-perfume-shaped-keychain",
+   "name": "Sanrio Retro Perfume-Shaped Keychain",
+   "merchantDescription": "These super cute Sanrio keychains are shaped after perfume bottles! Each one features a Sanrio character, and comes sporting a glitter retro-inspired container and lid. Add some classic kawaii flair to your bag or purse with these Sanrio keychains! Measures 2\"",
+   "vendor": "Sanrio",
+   "productType": "Keychains & Charms",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 13
+  },
+  {
+   "id": "japanla-sanrio-heisei-memories-acrylic-stand",
+   "name": "Sanrio Heisei Y2K Acrylic Stand",
+   "merchantDescription": "These Sanrio Heisei Y2K Acrylic Stands are adorable and action-packed! Each one comes with a set of character pieces and a colorful background for them to play in. You can even swap out the characters and put them in different scenes! Choose between sets featu",
+   "vendor": "Sanrio",
+   "productType": "Collectible Figures",
+   "merchantTags": [],
+   "price": 13
+  },
+  {
+   "id": "japanla-sanrio-heisei-memories-tote-bag",
+   "name": "Sanrio Heisei Y2K Tote Bag",
+   "merchantDescription": "Bring it back to the early 2000s with these classic Sanrio Heisei Y2K Tote Bags! Each one is decorated with elusive characters from the kawaii history of Sanrio, such as Usahana, Sugarbunnies, and Corocorokuririn. They come with a large inner compartment with ",
+   "vendor": "Sanrio",
+   "productType": "Totebags",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "japanla-little-twin-stars-picture-book-memo-pad",
+   "name": "Little Twin Stars Picture Book Memo Pad",
+   "merchantDescription": "Write down your cutest stories with this deluxe Little Twin Stars Picture Book Memo Pad! This set includes a memo pad with adorable illustrations of Little Twin Stars, and a book-shaped collectable case for easy storage. Add to your library of cute things with",
+   "vendor": "Sanrio",
+   "productType": "Memo Pad",
+   "merchantTags": [],
+   "price": 12
+  },
+  {
+   "id": "japanla-little-twin-stars-picture-book-sticker-set",
+   "name": "Little Twin Stars Picture Book Sticker Set",
+   "merchantDescription": "Decorate your pages with a set of super cute Little Twin Stars Picture Book stickers! This set includes (#) stickers of Little Twin Stars and their fluffy friends, and a book-shaped collectable case for easy storage. Be sure to include these Sanrio stickers in",
+   "vendor": "Sanrio",
+   "productType": "Stationery & Stickers",
+   "merchantTags": [],
+   "price": 12
+  },
+  {
+   "id": "japanla-sanrio-3d-best-friends-plush",
+   "name": "Sanrio 3D Best Friends Plush",
+   "merchantDescription": "Complete your Sanrio 3D Best Friends collection with these super cute plushies! Each one comes attached to a little plush of their best friend. It's like two plushes in one! Be sure to add these friendly plushes to your Sanrio collection! Hello Kitty measures ",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 27
+  },
+  {
+   "id": "japanla-sanrio-ice-island-tote-bag",
+   "name": "Sanrio Ice Island Tote Bag",
+   "merchantDescription": "Fit all of your icy drinks in this Sanrio Ice Island Tote Bag! Carry all of your cutest necessities everywhere you go! Bag measures 14\" x 11.5\", straps measure 20.5\" long. Official Sanrio item.",
+   "vendor": "Sanrio",
+   "productType": "Totebags",
+   "merchantTags": [],
+   "price": 31
+  },
+  {
+   "id": "japanla-sanrio-ice-island-pouch",
+   "name": "Sanrio Ice Island Pouch",
+   "merchantDescription": "This Sanrio Ice Island Pouch is super cute and super iced out! You can keep your favorite cosmetics, trinkets, or any small gift safe with super cute Sanrio characters! Pouch measures 8\" x 5.5\", strap measures 12\" long. Official Sanrio item.",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [],
+   "price": 9.5
+  },
+  {
+   "id": "japanla-sanrio-characters-ice-island-8-plush",
+   "name": "Sanrio Characters Ice Island 8\" Plush",
+   "merchantDescription": "Just keep swimming! These adorable Sanrio Characters Ice Island Plushes are dressed as icy animals, like orcas, narwhals, and polar bears. These plushes also double as bean dolls, so each one can sit on a shelf or desk. Be sure to add these chilly buddies to y",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 18
+  },
+  {
+   "id": "japanla-hello-kitty-fruit-drawstring-bag",
+   "name": "Hello Kitty Fruit Drawstring Backpack",
+   "merchantDescription": "Carry all of your favorite things with this adorable Hello Kitty Drawstring Bag! It's perfect for carrying your favorite fruit-flavored snacks and treats! Measures 13.5\" x 15.75\" Official Sanrio item.",
+   "vendor": "Sanrio",
+   "productType": "Backpacks",
+   "merchantTags": [
+    "FRUITS"
+   ],
+   "price": 20
+  },
+  {
+   "id": "japanla-sanrio-characters-mascot-scrunchie",
+   "name": "Sanrio Characters Mascot Scrunchie",
+   "merchantDescription": "Plushie mascots meet fluffy scrunchies with this adorable series of Sanrio hair accessories! Each scrunchie is stylized after all of your favorite characters. Show your love for Sanrio with these adorable hairbands! Measures 12\" in circumference. Official Sanr",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 15
+  },
+  {
+   "id": "japanla-copy-of-copy-of-sanrio-characters-sweatshirt-with-pocket",
+   "name": "My Melody Sweatshirt with Pocket",
+   "merchantDescription": "Japan One Size, fits like a unisex size M. Measures 21.5\" wide (armpit to armpit) x 27\" long. Sleeve length is 21.5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Sweaters & Outerwear",
+   "merchantTags": [
+    "1318",
+    "Cyber25"
+   ],
+   "price": 31.5
+  },
+  {
+   "id": "japanla-sanrio-characters-clear-mini-pouch",
+   "name": "Sanrio Characters Clear Mini Pouch",
+   "merchantDescription": "Super cute meets stylish and sleek with these Sanrio Characters Clear Mini Pouches! Each one has three adorable faces of your favorite Sanrio bestie printed over a clear case. These colorful pouches are perfect for your writing or makeup supplies! Measures 7\" ",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [],
+   "price": 11
+  },
+  {
+   "id": "japanla-sanrio-characters-sweets-mascot-clip-on-1",
+   "name": "Sanrio Characters Sweets Mascot Clip-On",
+   "merchantDescription": "These Sanrio Sweets Mascot Clips are so adorable! Attach them to your favorite backpacks or bags! Choose between Cinnamoroll, Hello Kitty, My Melody and Pompompurin. Measures about 6\" tall Official Sanrio licensed item.",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "pompombday"
+   ],
+   "price": 17.5
+  },
+  {
+   "id": "japanla-sanrio-plump-motchiri-mini-plush",
+   "name": "Sanrio Plump Motchiri Mini Plush",
+   "merchantDescription": "These little Sanrio buddies are r o u n d. Each motchiri plush is super soft and squishy like a marshmallow, and comes with a little loop at the top of their head to attach to a clip. They also have beans at the bottom, so you can display them standing upright",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 10
+  },
+  {
+   "id": "japanla-sanrio-3d-figure-key-ring",
+   "name": "Sanrio 3D Figure Key Ring",
+   "merchantDescription": "Bring it back to basics with these super cute Sanrio key rings! Each one features a little figurine of your favorite characters in their original form. Take the classic look of Sanrio everywhere you go! Figure measures 2\" tall, keychain adds 3\" to height. Offi",
+   "vendor": "Sanrio",
+   "productType": "Keychains & Charms",
+   "merchantTags": [
+    "1318",
+    "greensale",
+    "pompombday"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "japanla-sanrio-face-spa-head-band",
+   "name": "Sanrio Face Spa Head Band",
+   "merchantDescription": "These adorable Sanrio Face Spa Head Band are perfect for your next self-care day! They are super soft and stretchy, making them easy and comfortable to wear while doing your skin care routine. Bring one along on your next spa day and stay stylish with Sanrio! ",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 16
+  },
+  {
+   "id": "japanla-sanrio-claw-hair-clip",
+   "name": "Sanrio Claw Hair Clip",
+   "merchantDescription": "These cute clips will keep your hair closed up! Choose between three different characters: Kuromi, My Melody, and Cinnamoroll! Measures 3\" tall. Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [],
+   "price": 13.5
+  },
+  {
+   "id": "japanla-sanrio-long-hair-clip",
+   "name": "Sanrio Long Hair Clip",
+   "merchantDescription": "These long hair clips are perfect to keep your bangs in place! These Sanrio hair accessories feature an adorable character on a colorful clip. You will look ready for a Sanrio-themed party or sleepover! Measures 5\" long. Official Sanrio item, imported from Jap",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "japanla-sanrio-japanesque-summer-sticker-pack",
+   "name": "Sanrio Japanesque Summer Sticker Pack",
+   "merchantDescription": "Celebrate good times with Hello Kitty and Friends! These super festive and super cute stickers are themed around summer festivals in Japan. Bring the cute joys of fun, games, and fireworks all year long with Sanrio! Includes 40 stickers, 10 of each design. Sti",
+   "vendor": "Sanrio",
+   "productType": "Stickers",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 4
+  },
+  {
+   "id": "japanla-sanrio-foil-origami-memo-pad",
+   "name": "Sanrio Foil Origami Memo Pad",
+   "merchantDescription": "Learn origami with this special Sanrio memo pad! Each set comes with memo paper *and* origami sheets. When you are done writing notes, have fun with the included origami paper styled after your favorite Sanrio characters! Each set includes the following: One g",
+   "vendor": "Sanrio",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "japanla-sanrio-photo-card-kawaii-deco-stickers",
+   "name": "Sanrio Photo Card Kawaii Deco Stickers",
+   "merchantDescription": "Decorate your photo cards with stickers of your favorite Sanrio characters! Each set comes with two different sheets of super shiny stickers. They will work perfect for printed photos or instant film! Comes with two sticker sheets, each measures 2.5\" x 3.5\". O",
+   "vendor": "Sanrio",
+   "productType": "Stationery & Stickers",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "japanla-sanrio-mini-charm-scrunchie",
+   "name": "Sanrio Mini Charm Scrunchie",
+   "merchantDescription": "Style your hair with Sanrio characters! These adorable scrunchies come with a little charm of either Hello Kitty or My Melody. You will look super cute at your next party or convention with these Sanrio scrunchies! Measures 4\" in diameter. Official Sanrio item",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [],
+   "price": 7
+  },
+  {
+   "id": "japanla-sanrio-acrylic-display-stand-with-clip",
+   "name": "Sanrio Acrylic Display Stand with Clip",
+   "merchantDescription": "Your photos will look so wholesome with these Sanrio acrylic standees! Each standee has a clip on the back to insert a photo or card. Choose your very favorite Sanrio character to make your favorite moments even more precious! Measures 2\" x 2.5\" (size does not",
+   "vendor": "Sanrio",
+   "productType": "Personal",
+   "merchantTags": [
+    "1318",
+    "Valentines"
+   ],
+   "price": 7.5
+  },
+  {
+   "id": "japanla-sanrio-memo-sticker-with-case-keychain",
+   "name": "Sanrio Memo & Sticker with Case Keychain",
+   "merchantDescription": "Carry the cutest stationery with you wherever you go! Each keychain comes with a Sanrio-themed case with a sticker sheet and 20-page notepad inside. Always have your notes on-hand and look super kawaii while doing so! Case measures 5\" x 3\". Memo pad measures 4",
+   "vendor": "Sanrio",
+   "productType": "Keychains & Charms",
+   "merchantTags": [
+    "1318",
+    "pompombday"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "japanla-sanrio-wet-wipes-case",
+   "name": "Sanrio Wet Wipes Case",
+   "merchantDescription": "This Sanrio case can fit all of your wet wipes for your bathroom or makeup desk! It comes with a character-themed lid that opens up to dispense your wipes, and is easily refillable for when you need more. Be sure to add this cute and practical Sanrio case to y",
+   "vendor": "Sanrio",
+   "productType": "Bedroom",
+   "merchantTags": [
+    "greensale"
+   ],
+   "price": 15
+  },
+  {
+   "id": "japanla-tuxedosam-candy-shop-trunk",
+   "name": "Tuxedosam Candy Shop Trunk",
+   "merchantDescription": "This colorful and cute Sanrio trunk is themed around Tuxedosam and his candy shop! The front opens up and gives you plenty of space to keep your small gifts. Keep all of your stuff in a cute place with this kawaii trunk! Measures 8\" x 5.5\" x 3.5\". Official San",
+   "vendor": "Sanrio",
+   "productType": "Travel",
+   "merchantTags": [],
+   "price": 31
+  },
+  {
+   "id": "japanla-tuxedosam-candy-shop-reversible-tote-bag",
+   "name": "Tuxedosam Candy Shop Reversible Tote Bag",
+   "merchantDescription": "This Tuxedosam tote is two-in-one! Flip it inside out to switch between designs and show your friends your love for Sanrio! Bag measures 14\" x 13\". Strap measures 11\" long. Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Totebags",
+   "merchantTags": [],
+   "price": 31
+  },
+  {
+   "id": "japanla-tuxedosam-candy-shop-file-folder-set",
+   "name": "Tuxedosam Candy Shop File Folder Set",
+   "merchantDescription": "Organize your papers with Tuxedosam! With a kawaii candy-themed design, your papers will be kept together in the cutest way possible. Keep all of your notes in a safe place with this file folder set! Comes with one standard size and one small size folder. Larg",
+   "vendor": "Sanrio",
+   "productType": "Folders",
+   "merchantTags": [],
+   "price": 5.5
+  },
+  {
+   "id": "japanla-tuxedosam-candy-shop-letter-set",
+   "name": "Tuxedosam Candy Shop Letter Set",
+   "merchantDescription": "Write the cutest letters in the world with Sanrio and Tuxedosam! With an adorably sweet candy shop theme, these letter papers are just what you need to write to your bestie. Comes with three sizes of stationery: Six pages sized 8\" x 12\" (3 designs, 2 of each) ",
+   "vendor": "Sanrio",
+   "productType": "Stationery",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 17.25
+  },
+  {
+   "id": "japanla-sanrio-cute-camp-melamine-skillet-plate",
+   "name": "Sanrio Cute Camp Melamine Decorative Plate",
+   "merchantDescription": "This Sanrio melamine plate is made to look like a skillet! There is a super cute illustration of Hello Kitty and her friends having fun with smores at a campfire. Use this as a bowl for all of your favorite snacks or candy! Please note, not for cooking. Made o",
+   "vendor": "Sanrio",
+   "productType": "Kitchen",
+   "merchantTags": [],
+   "price": 8
+  },
+  {
+   "id": "japanla-sanrio-kawaii-deco-compact-mirror",
+   "name": "Sanrio Photo Card Kawaii Deco Compact Mirror",
+   "merchantDescription": "Mirror mirror, in my hand, who's the cutest in all of the land? These kawaii Sanrio compact mirrors fold out to reveal an adorable character of your pick, along with a slot for a photo card. They will make a great addition to your purse as an adorable everyday",
+   "vendor": "Sanrio",
+   "productType": "Beauty Tools",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 12
+  },
+  {
+   "id": "japanla-hello-kitty-classic-fuzzy-small-plush",
+   "name": "Sanrio Collectible Classic Small Plush",
+   "merchantDescription": "These adorable classic-styled plush are \"Sanrio Original\" collectible items! Each plush is made with deluxe high quality plush fabric. Their heads are densely filled to give them a cute plump look. Their feet and bottoms are filled with beanies which makes the",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "japanla-sanrio-plush-pouch",
+   "name": "Sanrio x Potetan Plush Pouch",
+   "merchantDescription": "This cute, plush pouch is perfect for holding things like cosmetics, your phone, and so much more! Measures about 5.75” x 5.25” x 3” Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "japanla-sanrio-quilted-tote-bag",
+   "name": "Sanrio Quilted Tote Bag",
+   "merchantDescription": "These quilted tote bags are super soft and super stylish! Each tote bag is cushioned and is the perfect way to carry your cutest items! Comes in the style of three different Sanrio characters: Hello Kitty, My Melody, and Cinnamoroll. Measures 16\" x 14\" Officia",
+   "vendor": "Sanrio",
+   "productType": "Totebags",
+   "merchantTags": [
+    "last one"
+   ],
+   "price": 25
+  },
+  {
+   "id": "japanla-sanrio-super-cute-mini-rack",
+   "name": "Sanrio Characters Desk Racks",
+   "merchantDescription": "These Sanrio-themed portable racks can be folded out to keep all of your supplies handy! Make your desk look super cute with Hello Kitty Friends! Measures 5\" x 5\" x 4.5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Desk Organizers",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 13
+  },
+  {
+   "id": "japanla-sanrio-super-cute-mini-pouch",
+   "name": "Sanrio Cupcake Mini Pouch",
+   "merchantDescription": "These mini pouches come with a chain to put on your backpack or bag, and a small zipper on the back to keep your trinkets! Keep your stuff handy with Hello Kitty Friends! Measures 4.5\" x 5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Keychains & Charms",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 11
+  },
+  {
+   "id": "japanla-sanrio-characters-d-cut-scrunchie",
+   "name": "Sanrio Character Fuzzy Scrunchie",
+   "merchantDescription": "Pull your hair back with a cute Sanrio Character Fuzzy Scrunchie! Available in Hello Kitty, My Melody, Cinnamoroll, Kuromi, Pompompurin, Pochacco, Hangyodon, and Badtz-maru. Measures Approx. 5\" across Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 7
+  },
+  {
+   "id": "japanla-sanrio-characters-baby-mascot-plush",
+   "name": "Sanrio Characters Baby Mascot Plush",
+   "merchantDescription": "Attach these cute Sanrio Characters Baby Mascot Plush to your bag or keys! Measures about 4.25\" tall. Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "1318",
+    "BOGO25"
+   ],
+   "price": 21
+  },
+  {
+   "id": "japanla-sanrio-characters-hair-clips-with-case",
+   "name": "Sanrio Character Hair Pins with Case",
+   "merchantDescription": "These super cute hair pins are decorated with your favorite Sanrio characters! Each set comes with two pairs of pins and an adorable clip-on case! Case measures about 4\" x 1\" x 1\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "1318",
+    "pompombday"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "japanla-sanrio-characters-ribbon-ponytail-holder",
+   "name": "Sanrio Gingham Ribbon Ponytail Holder",
+   "merchantDescription": "Your hair will look so pretty with these Sanrio ribbon ponytail holders! Each one is designed with a gingham pattern, making your hair look cute and sophisticated. Style yourself with Sanrio! Measures approx. 2\" x 1\" x 0.5\". Official Sanrio item, imported from",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [],
+   "price": 7.25
+  },
+  {
+   "id": "japanla-sanrio-characters-heart-ponytail-holder",
+   "name": "Sanrio Full Body Heart Jewel Ponytail Holder",
+   "merchantDescription": "Show your love for your favorite Sanrio characters with these heart jewel ponytail holders! Tie up your hair and look cute with 7 different designs! Measures 3\" x 0.5\" x 0.5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 4
+  },
+  {
+   "id": "japanla-sanrio-character-face-memo",
+   "name": "Sanrio Character Face Memo",
+   "merchantDescription": "Your Sanrio besties are now available as super cute memo pads! Each one is styled after a character's adorable face and comes with 84 note papers Measures 3.5\" x 3\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Memo Pad",
+   "merchantTags": [],
+   "price": 5.25
+  },
+  {
+   "id": "japanla-sanrio-character-variety-letter-set",
+   "name": "Sanrio Character Variety Letter Set",
+   "merchantDescription": "Each of these super cute Sanrio variety letter sets comes with everything you need to send letters to your besties! These sets come with the following: Two styles of standard size letter paper (5 of each) Two styles of mailing envelopes (5 of each) Three style",
+   "vendor": "Sanrio",
+   "productType": "Letter Sets",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 7.5
+  },
+  {
+   "id": "japanla-sanrio-floral-pen-and-smartphone-stand",
+   "name": "Sanrio Floral Pen and Smartphone Stand",
+   "merchantDescription": "This cutesy Sanrio smartphone stand includes a compartment in the back to fit your writing utensils! Text your besties in style with Hello Kitty Friends! Measures 3.5\" x 4\" x 3.5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [
+    "Easter",
+    "Valentines"
+   ],
+   "price": 10
+  },
+  {
+   "id": "japanla-sanrio-floral-2-piece-stacking-case",
+   "name": "Sanrio Floral 2-Piece Stacking Case",
+   "merchantDescription": "Each Sanrio stacking set comes with two super cute mini cases that can connect together! Mix and match cases of your favorite characters and make your office space look extra kawaii! Single stacking case measures 3.5\" x 1\" x 3\", two pieces stacked measures 3.5",
+   "vendor": "Sanrio",
+   "productType": "Desk Organizers",
+   "merchantTags": [
+    "Easter",
+    "Valentines"
+   ],
+   "price": 9.5
+  },
+  {
+   "id": "japanla-sanrio-characters-plaid-drawstring-pouch",
+   "name": "Sanrio Characters Plaid Drawstring Pouch",
+   "merchantDescription": "These Sanrio themed drawstring bags are super portable and super cute! You can fit all of your favorite trinkets into these plaid-patterned pouches! We love the little tag of each characters friend on the side of each pouch. Measures 7\" x 7\" x 1\". Official San",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 19
+  },
+  {
+   "id": "japanla-sanrio-characters-message-cards",
+   "name": "Sanrio Characters Message Cards",
+   "merchantDescription": "Each pack comes with 5 small envelopes and 5 small cards. Write your friends the cutest messages with Sanrio! Measures 3.5\" x 2.5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Letter Sets",
+   "merchantTags": [
+    "1318",
+    "pompombday",
+    "Valentines"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "japanla-sanrio-sticky-notes-1",
+   "name": "Sanrio Characters Sticky Book Flags",
+   "merchantDescription": "Save that spot in your book with these adorable Sanrio book flags! Each set comes with 8 different designs to help you remember where you left off! Package measures 3\" x 6\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Stationery & Stickers",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "japanla-sanrio-super-cute-brooch",
+   "name": "Sanrio Super Cute Brooch",
+   "merchantDescription": "These super cute broaches are made to look like plushies, making them great for your next Sanrio-themed outfit! Measures 3\" x 4.5\" x 1.5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Pins",
+   "merchantTags": [
+    "1318",
+    "pompombday"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "japanla-sanrio-characters-marking-sticky-notes",
+   "name": "Sanrio Characters Pie-Shaped Notes",
+   "merchantDescription": "Leave a note on anything with these super cute Sanrio pie-shaped notes! Each set comes with adorably tiny sticky notes of your favorite characters! Package measures 3\" x 5\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "japanla-sanrio-clip-on-mascot-with-friend",
+   "name": "Sanrio With Friend Clip On Mascot",
+   "merchantDescription": "Each Sanrio character has a new little friend! These adorable clip on mascots come with a small little buddy to carry around with you! Measures 4.5\" x 5\" x 3\". Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "1318",
+    "BOGO25",
+    "pompombday"
+   ],
+   "price": 16.5
+  },
+  {
+   "id": "japanla-sanrio-pocket-pouches",
+   "name": "Sanrio Pocket Pouches",
+   "merchantDescription": "These Sanrio pocket pouches are perfect size for your cutest trinkets! Each pouch comes with two small clips on the back for easy hanging! Measures 6\" x 4.5\" Official Sanrio item. Imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [
+    "1318"
+   ],
+   "price": 13.5
+  },
+  {
+   "id": "japanla-sanrio-quilted-mini-travel-bag",
+   "name": "Sanrio Quilted Small Travel Bag",
+   "merchantDescription": "These super kawaii quilted travel bags are the perfect size to store your smaller items and keep them separate from your clothing, on the go! Make your vacation even cuter with Hello Kitty and Friends! Measures 8\" x 11\" Official Sanrio item. Imported from Japa",
+   "vendor": "Sanrio",
+   "productType": "Travel",
+   "merchantTags": [],
+   "price": 15.5
+  },
+  {
+   "id": "japanla-mewkledreamy-ribbon-mini-travel-bag",
+   "name": "Mewkledreamy Ribbon Small Travel Bag",
+   "merchantDescription": "Show your love for Mewkledreamy with this kawaii travel bag! Each bag is decorated with ribbons for a super cute look. Can fit a small pair of women's shoes. Measures 11\" x 8.5\" Official Sanrio item. Imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Travel",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "japanla-sanrio-diner-mascot-clip-on",
+   "name": "Sanrio Diner Clip On Mascot",
+   "merchantDescription": "Put these cute Sanrio mascots on your bag, purse, or backpack! With their kawaii diner themed clothes, they are perfect to bring to a dinner party or lunch break! Measures about 4\" tall. Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "New Arrivals",
+    "pompombday",
+    "Sanrio"
+   ],
+   "price": 17.5
+  },
+  {
+   "id": "japanla-sanrio-characters-miniature-house",
+   "name": "Sanrio Characters Miniature House",
+   "merchantDescription": "Build the cutest mini house with these stacking Sanrio Characters Miniature Houses! There are 9 supercute characters and rooms to choose from. Measures 3\" x 3\" x 1.5\" Official Sanrio item, imported from Japan.",
+   "vendor": "Sanrio",
+   "productType": "Collectible Figures",
+   "merchantTags": [],
+   "price": 12
+  },
+  {
+   "id": "japanla-sanrio-characters-die-cut-red-envelope",
+   "name": "Sanrio Characters Die Cut Red Envelope",
+   "merchantDescription": "These Sanrio Characters Die Cut Red Envelopes are the cutest envelopes for Chinese New Year! Measures about 3.75\" tall. Official Sanrio licensed item.",
+   "vendor": "Sanrio",
+   "productType": "Letter Sets",
+   "merchantTags": [],
+   "price": 4
+  },
+  {
+   "id": "japanla-smoko-pearl-boba-tea-clip-on-plush",
+   "name": "Smoko Pearl Boba Tea Clip On Plush",
+   "merchantDescription": "This cute Pearl Boba Tea Clip On Plush can clip onto your bag strap, a flower, your charging cord, or anything she can get her little arms around! Measures about 3\" tall. Official Smoko item.",
+   "vendor": "Smoko",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 12
+  },
+  {
+   "id": "japanla-gift-card",
+   "name": "Gift Card",
+   "merchantDescription": "Shopping for someone else but not sure what to give them? Give them the gift of choice with a JapanLA Gift Card. Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees. You can f",
+   "vendor": "JapanLA",
+   "productType": "Gift Card",
+   "merchantTags": [
+    "XMAS"
+   ],
+   "price": 25
+  }
+ ]
+}

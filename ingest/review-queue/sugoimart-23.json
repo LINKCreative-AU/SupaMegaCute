@@ -1,0 +1,1445 @@
+{
+ "source": "sugoimart",
+ "batch": 23,
+ "items": [
+  {
+   "id": "sugoimart-glico-libera-milk-chocolate",
+   "name": "Glico Libera Milk Chocolate",
+   "merchantDescription": "Glico is a Japanese food company based in Osaka, Japan. This is their Libera lineup, which can assist the body to suppress too much intake of fat and sugar, thus bringing a healthy effect. Volume: 50gr Please Note: If temperatures in your location are above 28",
+   "vendor": "Glico",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-glico-friend-bakery-chocolate-bakery",
+   "name": "Glico Friend Bakery Chocolate Biscuit",
+   "merchantDescription": "Glico is a Japanese food company based in Osaka, Japan. This is a chocolate biscuit with a crunchy texture. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsib",
+   "vendor": "Glico",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-glico-bisco-butter",
+   "name": "Glico Bisco Butter",
+   "merchantDescription": "Glico is a Japanese food company based in Osaka, Japan. This is a biscuit snack with a great butter flavored filling.",
+   "vendor": "Glico",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "COOKIES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-mike-popcorn-pino-strawberry-cream",
+   "name": "Mike Popcorn Pino Strawberry Cream",
+   "merchantDescription": "Mike Popcorn collaborated with Pino, one of the most beloved chocolate snacks in Japan. This features a strawberry flavor.",
+   "vendor": "Mike",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_cream",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calbee-lightly-salted-potato-chips",
+   "name": "Calbee Usushio Potato Chips",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is their lightly salted flavor, which gives you the most original taste of potato.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-calbee-wasabi-seaweed-potato-chips",
+   "name": "Calbee Wasabi Seaweed Potato Chips",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is the Wasabi Seaweed flavor which can provide you with a kick of wasabi.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-jagariko-cheese-dakgalbi-flavor",
+   "name": "Jagariko Cheese Dakgalbi Flavor",
+   "merchantDescription": "Jagariko is one of the most popular potato chip snacks in Japan, except it's not shaped like a chip, but rather very similar to French fries! This is the Cheese Dakgalbi flavor, which is a stir-fried dish with chicken and vegetables. This dish originated from ",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cheese",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calbee-consomme-punch-potato-chips-xl",
+   "name": "Calbee Consomme Punch Potato Chips Xl",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is the Consomme Punch Potato Chips, which can provide you with a rich stock flavor now in XL size!",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-karamucho-hot-chilli-flavor",
+   "name": "Karamucho Hot Chilli Flavor",
+   "merchantDescription": "Karamucho is a popular hot snack in Japan. This is their classic hot chilli flavor which gives you a spicy kick.",
+   "vendor": "Karamucho",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-chip-star-classic-potato-chips-xl",
+   "name": "Chip Star Classic Potato Chips Xl",
+   "merchantDescription": "Well-known for their potato chips in Japan,åÊ Chip Star turned chips into this popularåÊ classic flavor, which is slightly-salted in XL size.",
+   "vendor": "Chip Star",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-morinaga-salt-potalong",
+   "name": "Morinaga Salt Potalong",
+   "merchantDescription": "This is a potato snack made by Morinaga, and this features a salt flavor.",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-morinaga-lightly-salted-ototo-pokemon-edition",
+   "name": "Ottotto Usushio Pokemon Edition Cup",
+   "merchantDescription": "This is Ototo, a snack made by Morinaga. This is a lightly salted flavor featuring various Pokemons.",
+   "vendor": "Pokémon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-calbee-kiwajaga-jagabutter",
+   "name": "Calbee Kiwajaga Jagabutter",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is their Kiwajaga, which features a thin and crispy design. This is the Jagabutter flavor.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_butter"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calbee-kiwajaga-yakishio",
+   "name": "Calbee Kiwajaga Yakishio",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is their Kiwajaga, which features a thin and crispy design. This is Yakishio flavor, which refers to slightly grilled salt in Japanese.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_salt"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calbee-salt-edamariko",
+   "name": "Calbee Salt Edamariko",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is a snack inspired by Edamame, which refers to immature soy beans in pod in Japanese. This has a lightly salted flavor.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "090921STOP",
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calbee-salty-corn-doumariko",
+   "name": "Calbee Salty Corn Toumoriko",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. They released a classical flavor that's been a hit with locals. This snack salted corn flavor will satisfy any puff-corn lover!",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-baby-star-champon-ball",
+   "name": "Baby Star Champon Ball",
+   "merchantDescription": "Baby Star is famous for its snack inspired by champon or yakisoba in Japan. This is their Champon snack featuring a ball-shaped design and a lightly salted vegetable flavor.",
+   "vendor": "Baby Star",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_seafood",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-calbee-jagabee-lightly-salted-flavor",
+   "name": "Calbee Jagabee Usushio Flavor",
+   "merchantDescription": "Calbee is Japan's most well known potato chips manufacturer. This is Jagabee, a snack inspired by French Fries. This has a lightly salted flavor.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "CONVENIENCESTORE"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-jagariko-cheese-mentaiko-monjayaki-flavor",
+   "name": "Jagariko Cheese Mentaiko Monjayaki Flavor",
+   "merchantDescription": "Jagariko is one of the most popular potato chip snacks in Japan, except it's not shaped like a chip, but rather very similar to French fries! This is the Cheese Mentaiko Monjayaki flavor. Monjayaki is a traditional pan-fried dish popular in the Kanto region.",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-baby-star-ramen-snack-pilikara-chicken",
+   "name": "Baby Star Peanuts Ramen Snack Pirikara Chicken",
+   "merchantDescription": "Baby Star is famous for its snack inspired by champon or yakisoba in Japan. This is their classic ramen snack featuring a Pirikara Chicken with peanuts flavor, which provides you with a hint of spiciness.",
+   "vendor": "Baby Star",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "080322STOP",
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kaki-no-tane-classic",
+   "name": "Kaki No Tane Wasabi (Mini)",
+   "merchantDescription": "Kaki No Tane is a very famous snack in Japan, containing crescent-shaped fragments of senbei, and peanuts. This is the Wasabi flavor.",
+   "vendor": "Kaki No Tane",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kaki-no-tane-wasabi",
+   "name": "Kaki No Tane Classic (Mini)",
+   "merchantDescription": "Kaki No Tane is a very famous snack in Japan, containing crescent-shaped fragments of senbei, and peanuts. This is the classic flavor.",
+   "vendor": "Kaki No Tane",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_nuts"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-super-nori-crackers",
+   "name": "Chou Nori Crackers",
+   "merchantDescription": "This is a senbei snack that serves really well with beer, and with a Norishio flavor, which refers to seaweed and salt in Japanese.",
+   "vendor": "Cracker",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_seafood",
+    "F_soy sauce"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-umiajisen-seafood-snacks",
+   "name": "Umiajisen Seafood Snack",
+   "merchantDescription": "This is an assorted ball-shaped snack containing four kinds of flavors, namely crab, shrimp, squid, and tuna. This pack of assorted rice cracker snack is perfect with a cup of beer or any other beverage of your choice. Try it out!",
+   "vendor": "Snack",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "DAGASHI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kameda-shoyu-cunchy-snack",
+   "name": "Kameda Shoyu Crunchy Snack",
+   "merchantDescription": "Kameda is a famous snack manufacturer in Japan. This is their crunchy snack with a rich soy sauce taste.",
+   "vendor": "Kameda",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_soy sauce",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kameda-usuyaki-snack",
+   "name": "Kameda Usuyaki Snack",
+   "merchantDescription": "Kameda is a famous snack manufacturer in Japan. This is their usuyaki, a traditional crunchy snack in Japan.",
+   "vendor": "Kameda",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-baby-star-ramen-snack-chicken",
+   "name": "Baby Star Ramen Snack Chicken Flavor",
+   "merchantDescription": "Baby Star is famous for its snack inspired by champon or yakisoba in Japan. This is their classic ramen snack featuring their classic chicken flavor.",
+   "vendor": "Baby Star",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_meat"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-porippy-spice-flavor",
+   "name": "Porippy Spice Flavor",
+   "merchantDescription": "Porippy is a peanut snack that can give you a burst of pleasant aroma and flavor. This is the Spice flavor.",
+   "vendor": "Porippy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_spicy",
+    "SOLD OUT"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-porippy-shio-flavor",
+   "name": "Porippy Shio Flavor",
+   "merchantDescription": "Porippy is a peanut snack that can give you a burst of pleasant aroma and flavor. This is the Shio flavor.",
+   "vendor": "Porippy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_salt",
+    "SOLD OUT"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-koikeya-olive-salt-potato-chips",
+   "name": "Koikeya Olive Salt Pride Potato Chips",
+   "merchantDescription": "Koikeya is one o the most famous potato chips and snacks manufacturer in Japan. This is their Japan Pride Potato Chip lineup, which provides specialized and unique Japanese flavor. This is Olive Salt flavor.",
+   "vendor": "Koikeya",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_salt",
+    "SOLD OUT"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-spicy-onion-oil-potato-chips",
+   "name": "Spicy Onion Oil Potato Chips",
+   "merchantDescription": "Spicy Onion Oil is a very famous seasoning in Japan, mainly used in ramen, gyoza, and many other Japanese dishes. This potato chip is being inspired by this seasoning, giving you a spicy kick.",
+   "vendor": "Chips",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_onion"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-hard-headed-senbei-black-pepper-flavor",
+   "name": "Hard-Headed Senbei Black Pepper Flavor",
+   "merchantDescription": "This snack is famous for its super hard and crunchy texture. This is their Black Pepper flavor.",
+   "vendor": "Senbei",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_pepper"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kameda-tsubugotae-assorted-snack",
+   "name": "Kameda Tsubugotae Fried Crackers",
+   "merchantDescription": "Kameda is a famous snack manufacturer in Japan. This is a crunchy snack featuring two flavors in a pack: Salt and Soy Sauce.",
+   "vendor": "Kameda",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_salt",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-lawsons-seasoned-dried-squid",
+   "name": "Lawson's Seasoned Dried Squid",
+   "merchantDescription": "Lawson is one of the most famous convenient stores in Japan. They released a series of dried foods which is served perfectly with beer and alcohol. Here is Seasoned Dried Squid.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-lawsons-dried-squid",
+   "name": "Lawson's Dried Squid Mini",
+   "merchantDescription": "Lawson is one of the most famous convenient stores in Japan. They released a series of dried foods which is served perfectly with beer and alcohol. Here is Dried Squid.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BENTO MAKING",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lawsons-soft-fried-squid",
+   "name": "Lawson's Soft Fried Squid",
+   "merchantDescription": "Lawson is one of the most famous convenient stores in Japan. They released a series of dried foods which is served perfectly with beer and alcohol. Here is Soft Fried Squid.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lawsons-dry-squid-noodles",
+   "name": "Lawson's Dry Squid Noodles",
+   "merchantDescription": "Lawson is one of the most famous convenient stores in Japan. They released a series of dried foods which is served perfectly with beer and alcohol. Here is Dry Squid Noodles.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lawsons-roasted-capelin",
+   "name": "Lawson's Roasted Capelin",
+   "merchantDescription": "Lawson is one of the most famous convenient stores in Japan. They released a series of dried foods which is served perfectly with beer and alcohol. Here is Roasted Capelin.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "011422STOP",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-oronamin-c-energy-drink",
+   "name": "Oronamin C Energy Drink",
+   "merchantDescription": "Oronamin C Energy Drink contains an amount of vitamin C that you need each day as well as vitamin B2, vitamin B6 essential amino acids and honey.",
+   "vendor": "Oronamin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINK",
+    "DRINKNP",
+    "DRINKS",
+    "ENERGY DRINK"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lipovitan-d-energy-drink",
+   "name": "Lipovitan D Energy Drink",
+   "merchantDescription": "Lipovitan is a famous Japan energy drink known to help alleviate physical and mental fatigue. This energy drink contains 1000 mg of taurine and inositol and vitamin B, which exerts excellent effect on recovering and preventing fatigue. Ingredients: Taurine (10",
+   "vendor": "Lipovitan",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "DRINKS",
+    "ENERGY DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-dekavita-c-energy-drink",
+   "name": "Dekavita C Energy Drink",
+   "merchantDescription": "Launched in Japan in 1992, Dekavita C is a famous Japanese long-selling energy drink. It contains eight kinds of vitamins and the royal jelly extract.",
+   "vendor": "Dekavita",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "DRINKS",
+    "ENERGY DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-fibe-mini-vitamin-drink",
+   "name": "Fibe-Mini Vitamin Drink",
+   "merchantDescription": "Fibe-Mini is a drink containing 6000mg dietary fiber as well as 300mg of Vitamin C, which brings a lot of benefits to your body.",
+   "vendor": "Drinks",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "DRINKS",
+    "ENERGY DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-c1000-vitamin-lemon-drink",
+   "name": "C1000 Vitamin Lemon Drink",
+   "merchantDescription": "Energize yourself with essential Vitamin C to prepare yourself for the cold season!åÊThis drink contains 1000mg of Vitamin C in lemon flavor.",
+   "vendor": "C1000",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-one-day-vitamin-energy-jelly-muscat-flavor",
+   "name": "One Day Vitamin Energy Jelly Muscat Flavor",
+   "merchantDescription": "This vitamin jelly provides you with a one-day portion of vitamins. This is the Muscat flavor.",
+   "vendor": "One Day Vitamin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "ENERGY DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-one-day-vitamin-energy-jelly-grapefruit-flavor",
+   "name": "One Day Vitamin Energy Jelly Grapefruit Flavor",
+   "merchantDescription": "This vitamin jelly provides you with a one-day portion of vitamins. This is the Grapefruit flavor.",
+   "vendor": "One Day Vitamin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-caloriemate-energy-jelly",
+   "name": "Calorie Mate Energy Jelly",
+   "merchantDescription": "Caloriemate Jelly contains a nutritionally balanced source of the energy needed for daily activities, and it's perfect for people who are always on-the-go.",
+   "vendor": "Calorie Mate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "033021STOP",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-konnyakubatake-grape-jellly",
+   "name": "Konnyakubatake Grape Jelly",
+   "merchantDescription": "Konnyakubatake is a famous jelly brand in Japan. This is their classic jelly with a grape flavor.",
+   "vendor": "Jelly",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_fruit",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-minute-maid-mornig-banana",
+   "name": "Minute Maid Morning Banana Energy Jelly",
+   "merchantDescription": "This is a energy jelly that can provide you with energy equivalent to the energy of two bananas.",
+   "vendor": "Minute Maid",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "ENERGY DRINKS",
+    "F_fruit"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lawsons-fish-cake-with-cheese-red-pepper-flavor",
+   "name": "Lawson's Fish Cake With Cheese Red Pepper Flavor",
+   "merchantDescription": "Tube-Shaped Fish Cake, or known as Chikuwa in Japanese, is one of the traditional food in Japan. This one has a Cheese Red Pepper Flavor.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "022122STOP",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lawsons-cheddar-cheese-fish-cake",
+   "name": "Lawson's Cheddar Cheese Fish Cake",
+   "merchantDescription": "Tube-Shaped Fish Cake, or known as Chikuwa in Japanese, is one of the traditional food in Japan. This one has Cheddar Cheese inserted in the fish cakes.",
+   "vendor": "Lawson",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-super-mario-bros-lucky-coin-jr",
+   "name": "Super Mario Bros. Lucky Coin Jr.",
+   "merchantDescription": "The goal is to collect as many coins as you can! Drop a coin in, and time it correctly so you can get more in return. Requires 1 AA battery (not included).",
+   "vendor": "Super Mario",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-tomica-town-build-city-711",
+   "name": "Tomica Town Build City: 7-11",
+   "merchantDescription": "Tomica is a popular toy car brand which is only found in Japan. They are known for their miniature toy sets, and here you can build your own miniature 7-11 convenient store!",
+   "vendor": "Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$20-$30",
+    "120122STOP",
+    "AMAZON",
+    "BIG CAMERA",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-jagariko-shock-game",
+   "name": "Jagariko Shock Game",
+   "merchantDescription": "Modeled after the popular Jagariko potato chip snack, players take turns taking out a potato stick. But be careful; one of the sticks will cause the rest to suddenly jump out of the cup! No batteries required.",
+   "vendor": "Jagariko",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "BIC CAMERA ODAIKYU",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "data_department_kawaii",
+    "data_persona_is_gamer"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-ittougai-meat-puzzle-crab",
+   "name": "Ittougai Meat Puzzle: Crab",
+   "merchantDescription": "Learn about the different cuts and parts of a crab through this interesting 3D puzzle!",
+   "vendor": "Puzzle",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "3DMEATPUZZLE",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-asahi-group-food-concentrated-mango-88g",
+   "name": "Asahi Rich Mango Candy",
+   "merchantDescription": "A hard candy that can enjoy the rich taste of mango. One bag contains 1320åÊ ë_g of vitamin A and 1000 mg of vitamin C. You can enjoy the rich taste using mango puree.",
+   "vendor": "Asahi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "20231213Stop",
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "DAIKOKU DRUG",
+    "data_department_sweets_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-asahi-group-foods-strong-mandarin-candy-84g",
+   "name": "Asahi Rich Mikan Candy",
+   "merchantDescription": "Melting sweetness and thick, juicy taste.",
+   "vendor": "Asahi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-asahi-group-food-dark-apple-88g",
+   "name": "Asahi Rich Apple Candy",
+   "merchantDescription": "Strong apple candy, good acidity and rich, juicy taste of apples.",
+   "vendor": "Asahi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "APPEM",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-asahi-group-food-concentrated-cacao-88g",
+   "name": "Asahi Rich Cacao Candy",
+   "merchantDescription": "Candy which can enjoy rich taste of cacao and nutrients derived from raw materials. Nutritional function food (iron and vitamin E). It contains 600 mg of cocoa extract, cocoa polyphenols and GABA, and you can take iron and vitamins anytime and anywhere.",
+   "vendor": "Asahi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-asahi-group-food-calpis-candy-100g",
+   "name": "Calpis Candy",
+   "merchantDescription": "Four kinds of assortment candy of refreshing and gentle taste of \"Calpis\", including Calpis, Melon, Pineapple, and Peach!",
+   "vendor": "Asahi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_milk",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lion-candy-sweet-potato-soda-152g",
+   "name": "Janjaka Soda Candy",
+   "merchantDescription": "It is an eight-flavor assortment soda candy that can be enjoyed with a refreshing soda taste.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-shield-lactic-acid-bacteria-tablet-33g",
+   "name": "Shield Yogurt Tablet Candy",
+   "merchantDescription": "This is a yogurt tablet that contains ingredients which are great for the digestive system and for your body.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_milk"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-morinaga-seika-matcha-green-tea-bag-79g",
+   "name": "Morinaga Matcha Caramel Candies",
+   "merchantDescription": "Caramel that allows you to taste the bittersweet green tea and the richness of milk using 100% aroma-rich domestic green tea.",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-morinaga-haichua-sort-94g",
+   "name": "Hi-Chew Assorted Candies",
+   "merchantDescription": "Strawberry, Green Apple and Grape, and Mikan Hi-Chews are all included in this variety pack!",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-fujiya-pop-candy-packet-21-sticks",
+   "name": "Fujiya Pop Candy",
+   "merchantDescription": "It is a candy with a stick of four kinds of assortment which added soda flavor seasonally to popular taste grape, orange and strawberry. It is recommended for snacks for children, containing oligosaccharides and tooth-friendly green tea polyphenols.",
+   "vendor": "Fujiya",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-amehama-strawberry-milk-candy-95g",
+   "name": "Amehama Strawberry Milk Candies",
+   "merchantDescription": "A sweet and sour strawberry candy, wrapped in mellow milk powder, is a crisp crunchy candy.",
+   "vendor": "Amehama",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sakuma-strawberry-milk-100g",
+   "name": "Sakuma Ichigo Milk Candies",
+   "merchantDescription": "This is a candy that brings you the delicious flavor of strawberry milk.",
+   "vendor": "Sakuma",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sakuma-type-drops-120g",
+   "name": "Sakuma Fruit Drops",
+   "merchantDescription": "This is a fruits flavor hard candy. Including tons of flavor such as strawberry, apple, grapes, orange, pineapple, lemon, mint, and chocolate.",
+   "vendor": "Sakuma",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "120622STOP",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-kasugai-confectionery-charcoal-coffee-100g",
+   "name": "Kasugai Roasted Coffee Candies",
+   "merchantDescription": "Using an extract extracted from charcoal-roasted roasted soybeans, it is finished to a deeper rich taste.",
+   "vendor": "Kasugai",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-chibi-super-candy-90g",
+   "name": "Chibi Super Candy",
+   "merchantDescription": "A candy with three kinds of small candy coated with sour powder to enjoy the change of taste.",
+   "vendor": "Chibi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nobel-super-soda-candy-88g",
+   "name": "Super Soda Candy",
+   "merchantDescription": "åÊIt is a candy that can be enjoyed by eating exciting sour soda taste.",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lion-candy-soda-kids-98g",
+   "name": "Soda Kids Candy",
+   "merchantDescription": "It is a pack of assorted hard candies with six soda flavors.",
+   "vendor": "Lion",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "101422STOP",
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lion-candy-confection-candy-100g",
+   "name": "Kiechau! Candy",
+   "merchantDescription": "It is a communication candy that tells with changing color and taste. You can enjoy the fortune-telling written on the individual packaging depending on how many colors you eat.",
+   "vendor": "Lion",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "DAGASHI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-nobel-super-cola-candy-88g",
+   "name": "Super Cola Candy",
+   "merchantDescription": "The cola flavor is a derivative of the company's popular product, \"Super Lemon Candy\"!åÊ",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nobel-my-milk-hokkaido-melon-80g",
+   "name": "My Milk Candy Melon Flavor",
+   "merchantDescription": "Hokkaido melon taste has newly appeared in \"My Milk Candy\" characterized by super-rich taste and high-impact package design. A candy that mixes melon and milk, and has a super rich taste with a smooth mouth.",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kanro-gold-milk-candy-matcha-70g",
+   "name": "Kanro Gold Milk Candy Matcha",
+   "merchantDescription": "Premium Matcha milk candy for adults who pursues a sense of luxury with a focus on carefully selected materials.åÊ",
+   "vendor": "Kanro",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nobel-my-milk-80g",
+   "name": "My Milk Candy Milk Flavor",
+   "merchantDescription": "Using carefully selected ingredients carefully selected, the milk is finished in an ultra-rich taste that is extremely rich in taste, with a focus on the smoothness of milk and the richness of milk itself.",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-morinaga-milk-caramel-bag-97g",
+   "name": "Morinaga Milk Caramel Candy Bag",
+   "merchantDescription": "This will satisfy your heart with moderate sweetness and gentle taste of caramel.",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nobel-confectionery-mini-cube-gummy-fruit-assortment-80g",
+   "name": "Mini Cube Gummies",
+   "merchantDescription": "Cube-shaped small gummy with a soft texture. You can enjoy the sweet and sour taste of 4 kinds of rich fruits: grape, muscat, orange, and peach!",
+   "vendor": "Nobel",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kanro-jure-puree-setouchi-mandarin-wakayama-hashiku-63g",
+   "name": "Pure Gummy (Setouchi Mikan & Wakayama Hassaku)",
+   "merchantDescription": "A deliciously thick and juicy gelee inside, this gummy also comes in two fun citrus flavors, Setouchi mandarin and Wakayama Hassaku orange!",
+   "vendor": "Kanro",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-asahi-calpis-tablet-adult-milk-taste-27g",
+   "name": "Calpis Tablet Candies (Milk For Adults)",
+   "merchantDescription": "Taste that softly feels the richness of the mild and gentle tablet milk blended with \"Calpis\".",
+   "vendor": "Asahi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_milk",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  }
+ ]
+}

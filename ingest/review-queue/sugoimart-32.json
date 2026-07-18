@@ -1,0 +1,1444 @@
+{
+ "source": "sugoimart",
+ "batch": 32,
+ "items": [
+  {
+   "id": "sugoimart-kitkat-yuzu-sake",
+   "name": "Kit Kat: Yuzu Sake Flavor",
+   "merchantDescription": "Yuzu is a very popular citrus fruit with a delicious and unique taste. It's perhaps comparable to a combination of grapefruit and lime. Yuzushu (Yuzu Sake) is a delicious alcoholic beverage that is zesty, sweet, tart and refreshing. Please Note: If temperature",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "072721STOP",
+    "AMAZON",
+    "BIC CAMERA SHINJUKU",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-koala-march-mango",
+   "name": "Koala March: Thai Mango",
+   "merchantDescription": "Small cute koala cookies filled with mango, made from the delicious and sweet mangos of Thailand!",
+   "vendor": "Koala March",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-fettuccine-gummy-pear",
+   "name": "Fettuccine Gummy Pear",
+   "merchantDescription": "This thin long gummies famous for its fruit juicy flavor now caters Pear flavor!",
+   "vendor": "Fettuccine",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sours-jewel-pineapple",
+   "name": "Jewel Sours Gummy (Pineapple)",
+   "merchantDescription": "A new pineapple flavor from the Jewels SOURS series. You'll be surprised at the burst of pineapple scent hitting your senses right when you open the bag. This sparkly coated pineapple gummy candy will bring you summer during all seasons!",
+   "vendor": "Sours",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-sanrio-pompompurin-pouch",
+   "name": "Sanrio Pompompurin Vanity Pouch",
+   "merchantDescription": "18 x 13 x 12cm This leather fluffy pouch was adorably made for Sanrio family fans out there.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "data_character_pompompurin",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-pokemon-alonassi-plush-point-ballpen",
+   "name": "Pokemon: Alola Exeggutor Plush Ballpoint Pen",
+   "merchantDescription": "Make your friends jealous by using this soft and stylish ballpoint pen in the design of the Alolan form of Exeggutor from Pokemon Sun/Moon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-black-thunder-tiramisu-pretty-style",
+   "name": "Black Thunder Pretty Style: Tiramisu",
+   "merchantDescription": "Black Thunder is the most beloved chocolate candy in Japan. They're now offering Tiramisu flavor, pretty style! Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held respo",
+   "vendor": "Black Thunder",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AKIHABARA DONKI",
+    "BLACK THUNDER",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-marukawa-spicy-cola-gum",
+   "name": "Marukawa Spicy Cola Gum",
+   "merchantDescription": "Spice things up with this refreshing soda flavored gum by Japanese snack maker Marukawa.",
+   "vendor": "Marukawa",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_soda"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-kanro-cototto-honey-mixed-berries-gummies",
+   "name": "Cototto Honey Mixed Berries Gummies",
+   "merchantDescription": "Chewy on the outside, melty on the inside. Dig in to these sweet and fruity honey mixed berry gummies by Kanro.",
+   "vendor": "Kanro",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-chococones-almond-and-caramel-mini",
+   "name": "Chococones: Almond And Caramel (Mini)",
+   "merchantDescription": "This loved chocolate snack called Chococones, or Takenoko no Sato, is in the cute shape of bamboo shoots! Here we have a limited edition almond and caramel flavor. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may ",
+   "vendor": "Chococones",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_caramel"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-kitkat-ruby-chocolate",
+   "name": "Kit Kat: Ruby Chocolate (Mini)",
+   "merchantDescription": "Ruby chocolate was introduced to the world in 2017 and is known as the \"fourth\" type of chocolate. Discover this unique new chocolate for yourself with Kitkat's Ruby chocolate flavor. Please Note: If temperatures in your location are above 28°C (82°F), this ch",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "CHOCOLATES",
+    "CONBINI",
+    "CONVENIENCESTORE"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kitkat-bite-sized-strawberry-flavor",
+   "name": "Kit Kat: Bite Sized Strawberry Flavor",
+   "merchantDescription": "Japanese Kit Kats are famous for being so unique and different. Here is a bite sized strawberry flavor coated in chocolate! Note: As orders are shipped in a non-temperature controlled environment, some chocolate, candy, and snacks may arrive melted. We are una",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "081721STOP",
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kitkat-mini-chestnut-flavor",
+   "name": "Kit Kat: Chestnut Flavor (Mini)",
+   "merchantDescription": "Enjoy all the variety of Kit Kats that Japan has to offer! This special Kit Kat is made to taste like chestnut - a staple of the autumn season! Contains 3 bars. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-karamucho-garlic-shrimp-flavor",
+   "name": "Karamucho Garlic Shrimp Flavor",
+   "merchantDescription": "Karamucho is a popular spicy Japanese potato snack, and here we have a new garlic shrimp flavor.",
+   "vendor": "Karamucho",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_garlic",
+    "F_seafood"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pizza-potato-genovese-tomato-basil-flavor",
+   "name": "Pizza Potato: Genovese Tomato Basil Flavor",
+   "merchantDescription": "Pizza Potato is one of Japan's most popular brand of potato chips! Here we have an edition made to taste like genovese tomato basil on top of the classic pizza taste.",
+   "vendor": "Pizza",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_tomato",
+    "JULY2020CHIPS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-jagariko-karupasu-flavor",
+   "name": "Jagariko: Karupasu Flavor",
+   "merchantDescription": "Jagariko is a popular potato chip snack shaped like French fries. This variation is made to taste like the Japanese favorite Karupasu sausage!",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_coffee",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fujiya-country-maam-2-in-1-vanilla-and-cocoa-chocolates",
+   "name": "Country Ma'Am Chocolates: Vanilla And Cocoa",
+   "merchantDescription": "Country Ma'am is usually enjoyed in cookie form, but now Fujiya has produced this new snack so you can enjoy the taste vanilla and cocoa in the form of chocolate bars. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product ",
+   "vendor": "Fujiya",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "F_vanilla"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-mike-popcorn-premium-orange-chocolate-flavor",
+   "name": "Mike Popcorn: Premium Orange Chocolate Flavor",
+   "merchantDescription": "Mike Popcorn has come up again with a new limited edition popcorn: Premium Orange Chocolate!",
+   "vendor": "Mike",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "F_citrus"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-pureal-gummy-oriental-fruits-mix",
+   "name": "Pure Jure Puree Gummies (Oriental Fruits Mix)",
+   "merchantDescription": "Jure Puree gummies are known for their super sweet and luxurious taste. Here we have a limited oriental fruits mix flavor.",
+   "vendor": "Pure",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kirin-sparkling-lemon-tea",
+   "name": "Kirin Afternoon Tea: Sparkling Lemon Tea",
+   "merchantDescription": "Bubbly, smooth, and refreshing. This sparkling lemon tea by Kirin is the perfect hydrator.",
+   "vendor": "Kirin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "F_citrus",
+    "LEMON",
+    "SOLD OUT"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-dodecamin-forbidden-energy-soda",
+   "name": "Dodecamin Forbidden Energy Soda",
+   "merchantDescription": "Dodecamin is a popular energy soda, and this is a limited edition made to taste like guarana.",
+   "vendor": "Dodekamin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-nissin-cup-noodles-green-curry-flavor",
+   "name": "Nissin Cup Noodles: Green Curry Flavor",
+   "merchantDescription": "Nissin is one of the popular instant ramen makers of Japan, and here we have a flavor inspired by Thai green curry. Comes with a pack of green curry paste to season your noodles after it finishes cooking.",
+   "vendor": "Nissin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "031621STOP",
+    "CAT_FOODDRINKS",
+    "data_character_cup_noodle",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_curry"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-nissin-cup-noodles-low-salt",
+   "name": "Nissin Cup Noodle: Salt Off",
+   "merchantDescription": "Nissin is one of the popular instant ramen makers of Japan, and here we have a less salty edition. Made with 30% less salt.",
+   "vendor": "Nissin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "05262023STO",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CNEMAILER",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_character_cup_noodle",
+    "data_department_food_drinks"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-toppo-maple-syrup-chocolate-edition",
+   "name": "Toppo Premium: Maple Chocolate",
+   "merchantDescription": "Toppo is a popular pretzel stick snack with various sweet, creative fillings. Here we have a limited time offering of their Canadian maple syrup flavor!",
+   "vendor": "Toppo",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "F_maple"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-toppo-sweet-potato-edition",
+   "name": "Toppo Premium: Baked Sweet Potato",
+   "merchantDescription": "Toppo is a popular pretzel stick snack with various sweet, creative fillings. Here we have a limited time offering of their autumn sweet potato flavor!",
+   "vendor": "Toppo",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_sweet potato",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-mike-popcorn-rainbow-seven-seasonings",
+   "name": "Mike Popcorn: Rainbow Seven Seasonings",
+   "merchantDescription": "Mike popcorn has come up again with a new limited edition popcorn: Rainbow Seven Seasonings! Flavors include: Clams, Shitake, Konbu Seaweed, Bonito, Scallop, Shrimp, and Oyster.",
+   "vendor": "Mike",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_caramel",
+    "F_mint"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-spicy-soup-less-tantanmen",
+   "name": "Akeboshi Spicy Soupless Tantanmen",
+   "merchantDescription": "Heat things up with these hot and spicy tantanmen instant noodles.",
+   "vendor": "Noodle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_spicy",
+    "SOLD OUT",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-lotte-choco-pie-rich-hochija-tea",
+   "name": "Choco Pie: Rich Hochija Tea",
+   "merchantDescription": "Lotte is one of the most famous snack manufacturers around the world. This is their classic Choco Pie with a rich hojicha tea flavor. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. W",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_hojicha",
+    "SOLD OUT"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-pepsi-nex-ii-clear",
+   "name": "Pepsi: Nex Ii Clear",
+   "merchantDescription": "A Pepsi that suppresses the absorption of fat ingested from food intake and increases its excretion by the action of indigestible dextrin (dietary fiber), and moderates the increase in blood neutral fat after meals. It has a clear color and is said to have a l",
+   "vendor": "Pepsi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-koala-march-thai-banana-chocolate",
+   "name": "Koala March: Thai Banana Choco",
+   "merchantDescription": "Koala March is a popular chocolate-filled biscuit snack originally from Japan, but here we have a variety made popular in Thailand: chocolate banana!",
+   "vendor": "Koala March",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "F_fruit"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-peyoung-squid-ink-yakisoba",
+   "name": "Peyoung Yakisoba: Squid Ink",
+   "merchantDescription": "Peyoung is a popular instant yakisoba maker, and here we have a special edition seasoned with squid ink!",
+   "vendor": "Peyoung",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_seafood",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_YAKISOBA"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-chibikko-orange-candies",
+   "name": "Chibikko Orange Candies",
+   "merchantDescription": "A great way to roll up a bigger katamari faster is to run into stacked things like these oranges! Pop one out and small orange mints come out!",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "PRIORITY_SHIP_OK"
+   ],
+   "price": 0.69
+  },
+  {
+   "id": "sugoimart-shimitto-chocolate",
+   "name": "Shimitto Chocolate",
+   "merchantDescription": "Delicious puffs soaked in rich, rich chocolate! The taste will take you to the stars and feel the cosmos! Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible",
+   "vendor": "Chocolate",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-niginigi-sushi",
+   "name": "DIY Niginigi Sushi Restaurant",
+   "merchantDescription": "Make your own sushi using these gummy candies! Combine flavors for more dynamic sushi… Or roll them all up into one sticky sushi katamari ball!",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-petit-confection-sugar-bag",
+   "name": "Petit Confection Sugar Bag",
+   "merchantDescription": "What’s a KATAMARI DAMACY™ crate without your own supply of little katamari. Konpeito are traditional Japanese candies shaped like stars or… katamaris! Happy rolling! :)",
+   "vendor": "Petit",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-kanibisu",
+   "name": "Kanibisu",
+   "merchantDescription": "Semi sweet crab shaped biscuits! Yummy! Kind of reminds us of the Cancer constellation!",
+   "vendor": "Kanibisu",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cookie",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kitkat-peach-mint-single-bar",
+   "name": "Kit Kat: Peach Mint (Single Bar)",
+   "merchantDescription": "These Kits Kats are scientifically designed to help people keep cool in the summer heat using a mixture of refreshing flavors like mint, fresh peaches and a bit of rum cream! Delicious! Please Note: If temperatures in your location are above 28°C (82°F), this ",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_fruit",
+    "F_mint"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-cold-tanuki-udon",
+   "name": "Cold Tanuki Udon",
+   "merchantDescription": "In the summer it’s common to eat chilled noodles rather than hot dishes. Enjoy slurping these refreshing chili pepper and crunchy tempura seasoned udon noodles. Try it with: egg, sesame seeds",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_UDON"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-chikkoi-udon-yuzu",
+   "name": "Chikkoi Udon With Yuzu",
+   "merchantDescription": "A refreshing cup of udon with soft noodles and a Japanese style soup containing salmon, kelp, and soy sauce. Yuzu is added into the mix for a bright and citrusy twist. Try it with: a side of fish, leeks",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_citrus",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_UDON"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-cold-lemon-chinese-noodles",
+   "name": "Cold Lemon Chinese Noodles",
+   "merchantDescription": "In Japan, ramen shops start to add “hiyashi chuka” to their menus during summertime. Hiyashi chuka is a fusion between ramen and salad! It’s a flavorful chilled noodle dish, and now you can make your own! Try it with: cucumber, tomato, egg, sliced pork or chic",
+   "vendor": "Noodle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_citrus",
+    "LEMON",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-maruchan-cold-ramen",
+   "name": "Maruchan Cold Ramen",
+   "merchantDescription": "Hiyashi chuka ramen again! This dish is such a tasty summertime staple that you have to eat it as much as you can while you can. The chilled noodles and sauce are included so just add your favorite toppings. Try it with: sesame seeds, cucumber, tomato, egg, sl",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-banshu-hoso-udon",
+   "name": "Banshu Hoso Udon",
+   "merchantDescription": "These thin udon noodles are the perfect match to the Kamatama Udon Sauce featured in this crate! Combine the two together for 3 tasty meals. Try it with: fish, tempura, seaweed",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_UDON"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-katsuobushi",
+   "name": "Katsuobushi",
+   "merchantDescription": "Enjoy these conveniently packaged bonito flakes! Add them to your meal or noodles half way through to change the flavor. They’re also a great seasoning to rice balls or stir fried vegetables. Try it with: udon, rice, cabbage",
+   "vendor": "Katsuobushi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_seafood",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-marshmal-park-marine-whale-shark",
+   "name": "Marshmal Park Marine Plush: Whale Shark",
+   "merchantDescription": "Snuggle up to a friend of the sea with these jumbo sized mochi plushies.",
+   "vendor": "Plushie",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "SOLD OUT",
+    "SUBCAT_COLLECTIBLES"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-marshmal-park-marine-seal",
+   "name": "Marshmal Park Marine Plush: Seal",
+   "merchantDescription": "Snuggle up to a friend of the sea with these jumbo sized mochi plushies.",
+   "vendor": "Plushie",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "SOLD OUT",
+    "SUBCAT_COLLECTIBLES"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-knorr-green-pottage-cup-soup",
+   "name": "Knorr Green Pottage Cup Soup",
+   "merchantDescription": "Knorr is famous for making easy to prepare soups. All you have to do is add the soup mix to your cup and add 150ml of hot water and it'll be ready in about 15 seconds. Includes 2 soup packs.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream",
+    "FOOD & DRINKS",
+    "MARUETSU",
+    "NEW1017"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-knorr-rich-mushroom-cup-soup",
+   "name": "Knorr Rich Mushroom Cup Soup",
+   "merchantDescription": "Knorr is famous for making easy to prepare soups. All you have to do is add the soup mix to your cup and add 150ml of hot water and it'll be ready in about 15 seconds. Includes 2 soup packs.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream",
+    "FOOD & DRINKS",
+    "MARUETSU",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calpis-original-pink-grapefruit",
+   "name": "Calpis Original: Pink Grapefruit",
+   "merchantDescription": "Calpis Water is a popular soft drink, but here we have the original Calpis. The difference? You pour into a glass and mix the water in yourself, so you can make it as thick or light as you want! Includes 470ml.",
+   "vendor": "Calpis",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_citrus",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-asahi-hot-yuzu-tea-with-honey",
+   "name": "Asahi Hot Yuzu Tea With Honey",
+   "merchantDescription": "This Hot Yuzu Tea with Honey is easy to make and perfect for warming up and getting cozy on cold nights. Mix with hot water in a 1:4 ratio, or adjust the strength to your taste. Each bottle contains 470ml of tea concentrate.",
+   "vendor": "Asahi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "F_honey",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-mentaiko-and-cheese-cheetos",
+   "name": "Cheetos: Mentaiko And Cheese Flavor",
+   "merchantDescription": "A Japanese twist on an American classic, this variety of Cheetos adds mentaiko to the cheesy snack.",
+   "vendor": "Cheetos",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "06292021",
+    "101121STOP",
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHEETOS",
+    "CHEETOSJP"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-kit-kat-sweetness-for-adults-hojicha",
+   "name": "Kit Kat: Sweetness For Adults (Hojicha)",
+   "merchantDescription": "Enjoy the variety of Kit Kats that Japan has to offer! Sweetness for Adults is a special series that has less sweetness and more flavor that adults would enjoy. This variety infuses hojicha (roasted green tea) into the familiar Kit Kat for a uniquely Japanese ",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "B2B",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-jagariko-spicy-indian-curry-flavor",
+   "name": "Jagariko: Spicy Indian Curry Flavor",
+   "merchantDescription": "Jagariko is one of the most popular potato chip snacks in Japan, except it's not shaped like a chip, but rather very similar to French fries! The sticks in this pack are flavoured like spicy Indian curry!",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_curry"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-meiji-rich-caramel-sandwich-cookies",
+   "name": "Meiji Chocolate Sandwich Cookies: Rich Caramel",
+   "merchantDescription": "Meiji, one of the renowned food makers of Japan, is here with one of their chocolate sandwich cookies in a limited flavor of rich caramel!",
+   "vendor": "Meiji",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "CONVENIENCESTORE",
+    "COOKIES",
+    "data_department_sweets_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-koikeya-strong-potato-chips-grilled-bacon-and-cheese-flavor",
+   "name": "Koikeya Strong Potato Chips: Grilled Bacon And Cheese Flavor",
+   "merchantDescription": "Koikeya potato chips are some of the highest quality in Japan, and their Strong series is packed with, well, Strong flavor!",
+   "vendor": "Koikeya",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_cheese",
+    "F_meat"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-fanta-double-luxury-cabernet-and-chardonnary",
+   "name": "Fanta Double Luxury: Cabernet And Chardonnay",
+   "merchantDescription": "Fanta by Coca Cola is here with another limited flavor soda, this time mixing the luxurious tastes of cabernet and chardonnay. Volume: 410mL",
+   "vendor": "Fanta",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "FANTASY LUDA",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-suntory-kuro-black-oolong-tea-350ml",
+   "name": "Suntory Kuro Black Oolong Tea",
+   "merchantDescription": "Suntory is one of the largest beverage makers in Japan and here we have their limited edition black \"kuro\" oolong tea. Contains 350ml",
+   "vendor": "Suntory",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "03082023J",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-mitsuya-nagano-grape-soda",
+   "name": "Mitsuya Nagano Grape Soda",
+   "merchantDescription": "Mitsuya is a soda series by Asahi, and this limited flavor is made from kyoho grapes of Nagano prefecture! Contains 460ml.",
+   "vendor": "Mitsuya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_fruit",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-teas-tea-hojicha-latte",
+   "name": "Teas' Tea Hojicha Latte",
+   "merchantDescription": "Teas' Tea is a series by Itoen that brings more fun flavors for everyone to enjoy. Hojicha has a rich, dark flavor and is made from roasted green tea. Here we have a hojicha with milk for a smooth and slightly sweet latte. Contains 500ml.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wonda-kiwami-caffe-latte",
+   "name": "Wonda Kiwami Caffe Au Lait",
+   "merchantDescription": "Wonda is a popular producer of canned coffee, and here we have their Kiwami caffe latte blend. Contains: 370g",
+   "vendor": "Wonda",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "F_coffee",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-oreo-crispy-strawberry-shake",
+   "name": "Oreo Crispy: Strawberry Milkshake",
+   "merchantDescription": "Oreo is one of the most famous cookie brands in the world, and here is their Japan limited release of crispy strawberry milkshake oreos.",
+   "vendor": "Oreo",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "COOKIES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pokemon-pressed-powder-makeup-pink-pikachu",
+   "name": "Pokemon Pressed Powder Makeup: Pink (Pikachu)",
+   "merchantDescription": "This pressed powder makeup is perfect for Pikachu lovers who want to look Kawaii. Best used for makeup finishes and retouching. Contain mineral powder (mica) and collagen!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COSMETICS"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-pressed-powder-makeup-green-eevee",
+   "name": "Pokemon Pressed Powder Makeup: Green (Eevee)",
+   "merchantDescription": "This pressed powder makeup is perfect for Eevee lovers who want to look Kawaii. Best used for makeup finishes and retouching. Contain mineral powder (mica) and collagen!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COSMETICS"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-pressed-powder-makeup-yellow-slowpoke",
+   "name": "Pokemon Pressed Powder Makeup: Yellow (Slowpoke)",
+   "merchantDescription": "This pressed powder makeup is perfect for Slowpoke lovers who want to look Kawaii. Best used for makeup finishes and retouching. Contain mineral powder (mica) and collagen!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COSMETICS"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-pressed-powder-makeup-purple-mew",
+   "name": "Pokemon Pressed Powder Makeup: Purple (Mew)",
+   "merchantDescription": "This pressed powder makeup is perfect for Mew lovers who want to look Kawaii. Best used for makeup finishes and retouching. Contains mineral powder (mica) and collagen!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COSMETICS"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-cheek-stick-makeup-milky-pink-pikachu",
+   "name": "Pokemon Cheek Stick Makeup: Milky Pink (Pikachu)",
+   "merchantDescription": "This Pokemon cheek stick makeup gives your cheeks a milky pink pop of color and a glossy glow, now with Pikachu!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COSMETICS"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-pokemon-cheek-stick-makeup-rose-pink-eevee",
+   "name": "Pokemon Cheek Stick Makeup: Rose Pink (Eevee)",
+   "merchantDescription": "This Pokemon cheek stick makeup gives your cheeks a milky pink pop of color and a glossy glow, now with Eevee!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COSMETICS"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-pokemon-cheek-stick-makeup-coral-pink-slowpoke",
+   "name": "Pokemon Cheek Stick Makeup: Coral Pink (Slowpoke)",
+   "merchantDescription": "This Pokemon cheek stick makeup gives your cheeks a milky pink pop of color and a glossy glow, now with Slowpoke!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "012822STOP",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-pokemon-cheek-stick-makeup-pearl-white-mew",
+   "name": "Pokemon Cheek Stick Makeup: Pearl White (Mew)",
+   "merchantDescription": "This Pokemon cheek stick makeup gives your cheeks a milky pink pop of color and a glossy glow, now with Mew!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "040721STOP",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-pokemon-face-mask-pikachu",
+   "name": "Pokemon Face Mask: Pikachu",
+   "merchantDescription": "The collagen and hyaluronic acid in this moisturizing face mask provides relief for dry and sensitive skin. Stay dewy and moisturized with Pikachu !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-face-mask-eevee",
+   "name": "Pokemon Face Mask: Eevee",
+   "merchantDescription": "The collagen and hyaluronic acid in this moisturizing face mask provides relief for dry and sensitive skin. Stay dewy and moisturized with Eevee !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-face-mask-slowpoke",
+   "name": "Pokemon Face Mask: Slowpoke",
+   "merchantDescription": "The collagen and hyaluronic acid in this moisturizing face mask provides relief for dry and sensitive skin. Stay dewy and moisturized with Slowpoke !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "060822STOP",
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-face-mask-mew",
+   "name": "Pokemon Face Mask: Mew",
+   "merchantDescription": "The collagen and hyaluronic acid in this moisturizing face mask provides relief for dry and sensitive skin. The face mask is of Mew's face. Stay dewy and moisturized while looking like Mew !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-face-mask-eevee-winking",
+   "name": "Pokemon Face Mask: Eevee (Winking)",
+   "merchantDescription": "The collagen and hyaluronic acid in this moisturizing face mask provides relief for dry and sensitive skin. Stay dewy and moisturized with Eevue !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-face-mask-jigglypuff",
+   "name": "Pokemon Face Mask: Jigglypuff",
+   "merchantDescription": "The collagen and hyaluronic acid in this moisturizing face mask provides relief for dry and sensitive skin. Stay dewy and moisturized with Jigglypuff !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-hand-cream-pikachu",
+   "name": "Pokemon Hand Cream: Pikachu",
+   "merchantDescription": "The collagen and hyaluronic acid in this hand cream provides relief for dry hands. Now available in a cute Pikachu bottle!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-hand-cream-slowpoke",
+   "name": "Pokemon Hand Cream: Slowpoke",
+   "merchantDescription": "The collagen and hyaluronic acid in this hand cream provides relief for dry hands. Now available in a cute Slowpoke bottle!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-hand-cream-eevee",
+   "name": "Pokemon Hand Cream: Eevee",
+   "merchantDescription": "The collagen and hyaluronic acid in this hand cream provides relief for dry hands. Now available in a cute Eevee bottle!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-lip-cream-pikachu",
+   "name": "Pokemon Lip Cream: Pikachu",
+   "merchantDescription": "This c ute Pikachu lip cream is the perfect gift! . Bring out the beauty in your lips !",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BEAUTY",
+    "BEAUTY & CARE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-ghibli-chopsticks-princess-mononoke-green",
+   "name": "Ghibli Chopsticks Princess (Mononoke Green)",
+   "merchantDescription": "These Japan-exclusive Ghibli chopsticks feature all of the anime studio's most famous characters. This set has Kodama forest spirits from Princess Mononoke. Length of chopsticks: 21 cm.",
+   "vendor": "Studio Ghibli",
+   "productType": "HOME",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CHARACTER GOODS TOP BRANDS",
+    "CHOPSTICKS",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_foodie"
+   ],
+   "price": 12.99
+  },
+  {
+   "id": "sugoimart-ghibli-chopsticks-totoro-green",
+   "name": "Ghibli Chopsticks Totoro (Green)",
+   "merchantDescription": "These Japan-exclusive Ghibli chopsticks feature all of the anime studio's most famous characters. This in particular features Totoro in a Green forest design. Length of chopsticks: 21 cm.",
+   "vendor": "Studio Ghibli",
+   "productType": "HOME",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CHARACTER GOODS",
+    "CHOPSTICKS",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli"
+   ],
+   "price": 11.99
+  }
+ ]
+}

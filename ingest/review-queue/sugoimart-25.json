@@ -1,0 +1,1442 @@
+{
+ "source": "sugoimart",
+ "batch": 25,
+ "items": [
+  {
+   "id": "sugoimart-pey-young-sauce-yakisoba-super-large-237g",
+   "name": "Peyoung Super Large Yakisoba",
+   "merchantDescription": "A classic yakisoba from Peyoung. Ingredients include deep-fried noodles (flour, vegetable oil, lard, soy sauce, salt, spices), attached seasoning (Uster sauce, sugar, protein hydrolysate, salt, flavor oil and beef extract.",
+   "vendor": "Peyoung",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "DONKINOODLES",
+    "F_meat"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-pey-young-sauce-yakisoba-super-super-super-big-gigamax-439g",
+   "name": "Peyoung Super Super Super Large Yakisoba Gigamax",
+   "merchantDescription": "This yakisoba is an extra large variety that has achieved unprecedented capacity and size. With the normal size coming in at 544kcal at 120g per meal, GIGAMAX is about 3.7 times of that 4 times more calories!",
+   "vendor": "Peyoung",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "07122021",
+    "07142021EY1",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-maru-chan-vertical-big-black-pig-curry-udon-94g",
+   "name": "Maruchan Black Pork Curry Udon Cup",
+   "merchantDescription": "It contains seasoned pork, carrot, onion, green onion. Curry udon with lots of flavor and taste.",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_curry",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-yamadai-odon-noodles-clear-soup-of-pork-bone-ramen-103g",
+   "name": "Yamadai Clear Soup Tonkotsu Ramen",
+   "merchantDescription": "Carefully cooked pork bones are carefully selected, added to the back fat based on the flavorful fresh water soup, and finished with a rich rich taste. In addition, the mellow flavor was imparted by adding Hokkaido-made kelp powder to the secret taste.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-gotsu-grilled-wonton-soy-sauce-ramen-117g",
+   "name": "Gotsumori Wantan Shoyu Ramen",
+   "merchantDescription": "The noodles are smooth, crisp and resilient. The ingredients used are wonton, noodles, corn and green onion. Based on chicken and pork extract, it is a large size ramen of standard soy sauce-like soup, which is made up of sweet onion.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-maru-chan-gotsu-corn-miso-ramen-cup-138g",
+   "name": "Gotsumori Corn Miso Ramen",
+   "merchantDescription": "The noodles are smooth, crisp and resilient. The soup is based on pork extract with garlic and a well-balanced blend of red and white miso paste. It is finished in rich soup.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_corn",
+    "F_miso",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-maru-chan-gotsu-rich-pork-bone-soy-sauce-ramen-122g",
+   "name": "Gotsumori Tonkotsu Shoyu Ramen",
+   "merchantDescription": "Smooth, crisp and resilient noodles. Based on the taste of pork and chicken, it has a thick soy sauce-rich soup made with soy sauce, including extra onion and garlic.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-gotsu-grilled-pork-bone-ramen-115g",
+   "name": "Gotsumori Thick Tonkotsu Ramen",
+   "merchantDescription": "It is a large bowl of pork bone ramen with a smell of sesame seeds.åÊ The ingredients used are sesame, minced chicken with seasoned chicken, fried garlic, and green onion.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-nissin-cup-noodle-massaman-curry-big-107g",
+   "name": "Nissin Big Cup Noodle Masaman Curry Ramen",
+   "merchantDescription": "The world's most delicious food and hot topic \"Massaman curry\" is released from Cup Noodle!It is a thick sweet and spicy curry made up of 9 kinds of spices for the taste and sweetness of coconut milk.",
+   "vendor": "Nissin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_character_cup_noodle",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_curry",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sapporo-ichiban-salt-carbi-taste-fried-soba-109g",
+   "name": "Sapporo Ichiban Shio Karubi Yakisoba",
+   "merchantDescription": "Crisp noodles with garlic, sesame flavor and char-grilled flavor based on beef extract with a sense of lemon and black pepper featuring salt flavor and a crispy texture.",
+   "vendor": "Yakisoba",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "F_salt",
+    "LEMON",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-ace-cook-super-cup-max-tonkotsu-ramen-120g",
+   "name": "Ace Cook Supercup Max Tonkotsu Ramen",
+   "merchantDescription": "Firm elasticity and presence in the mouth by using several types of pork extract, adding flavored vegetables after adding flavored pork bone soup. Ingredients are sesame, leek, fried ball, chrysanthemum, red ginger.",
+   "vendor": "Ace Cook",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-ace-cook-super-cup-max-miso-ramen-138g",
+   "name": "Ace Cook Supercup Max Miso Ramen",
+   "merchantDescription": "It is firm and resilient, and it is a noodle with a strong presence in the mouth. A tasteful miso soup noodle based on pork, with added flavors of ginger and garlic and other flavored vegetables.",
+   "vendor": "Ace Cook",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_miso",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-super-cup-super-cup-1-5-times-pepape-peppa-pepper-salt-soba-",
+   "name": "Ace Cook Salt And Pepper Soba",
+   "merchantDescription": "Soba noodles based on a chicken base with a balanced balance of flavors such as onion, ginger, garlic etc., followed by the addition of white and black pepper.",
+   "vendor": "Ace Cook",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_SOBA"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-sapporo-ichiban-salt-carbi-taste-fried-soba-wasabi-100g",
+   "name": "Sapporo Ichiban Shio Karubi Double Wasabi Yakisoba",
+   "merchantDescription": "It is salted and grilled soba noodles characterized by the flavor of beef rib meat, and horseradish.",
+   "vendor": "Sapporo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_wasabi",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-acecook-edge-wontonmen-tanmen-taste-kobu-at-birth-60th-and-6",
+   "name": "Ace Cook Wantanmen",
+   "merchantDescription": "This wantanmen gives you 6.0 times of greatness on it's 60th anniversary.",
+   "vendor": "Ace Cook",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_umami",
+    "SOLD OUT"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-acecook-edge-wakame-ramen-sesame-and-soy-sauce-wakame-95g",
+   "name": "Ace Cook Wakame Ramen",
+   "merchantDescription": "åÊIt is a clear soy sauce soup with the added flavor of seafood such as sardines and salmon. The lavish deep-fried roast sesame and corn are added to the massive wakame seaweed that spreads in the bowl.",
+   "vendor": "Ace Cook",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-yamadai-odon-noodles-yokohama-origin-sunmar-noodles-113g",
+   "name": "Yamadai Sanmamen",
+   "merchantDescription": "The soup is based on soy sauce and has a flavor of oyster and sesame oil to thicken the taste.",
+   "vendor": "Yamadai",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-yamadai-odon-noodles-niigata-back-fat-soy-sauce-ramen-124g",
+   "name": "Yamadai Thick Shoyu Ramen",
+   "merchantDescription": "It has a strong taste of simmered dashi to make it effective. A lot of back fat was added to the finish to reproduce a thick back fat soy soup like a ramen shop.",
+   "vendor": "Yamadai",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-yamadai-new-touch-noodles-negemi-its-special-dish-133g",
+   "name": "Yamadai Negimiso Ramen",
+   "merchantDescription": "An exquisite combination of rich miso soup, mochi mochi noodles, and crispy green onion.åÊ",
+   "vendor": "Yamadai",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_miso",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-supervised-from-red-cup-from-red-ramen-116g",
+   "name": "Akakara Honke Ramen",
+   "merchantDescription": "The original red hot spicy ramen with a good soup paste with firm Koshi and Tsurumi.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-chinese-noodles-nagoya-taiwan-ramen",
+   "name": "Nagoya Taiwan Ramen",
+   "merchantDescription": "Reproduce the spicy noodles to be loved in Nagoya, minced meat and leek with plenty of ingredients, giving you a straight spicy pepper soup flavor.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-noodles-kyoto-back-fat-soy-sauce-124g",
+   "name": "Kyoto Thick Shoyu Ramen",
+   "merchantDescription": "It is soy sauce soup that is blended with several kinds of meat extract based on this brewed containing concentrated soy sauce to give it a complex taste.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-nissin-yakisoba-uf-oil-soba-spicy-thick-dark-rice-oil-mayo-1",
+   "name": "Ufo Abura Soba: Sesame Oil Mayo",
+   "merchantDescription": "You can enjoy the rich taste by adding garlic oil and sauces attached in the noodles, which is characterized by its spicy and rich taste.",
+   "vendor": "Nissin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "033021STOP",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_black sesame",
+    "F_spicy"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-mysterious-foods-ippeis-yakisoba-at-night-shop-columno-hot-c",
+   "name": "Ippeichan Nighttime Yakisoba: Karamucho Hot Chilli",
+   "merchantDescription": "A spicy soy sauce noodles which expresses the taste of Koi Kaya \"Karamucho hot chilli flavor\".åÊ",
+   "vendor": "Yakisoba",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_YAKISOBA"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-nissin-cup-noodle-mexican-tacos-big-109g",
+   "name": "Nissin Big Cup Noodle Taco Ramen",
+   "merchantDescription": "This limited edition Cup Noodle is bigger than your usual cup noodle, and best of all it's Mexican Tacos flavor! It's safe to say you won't find this ramen anywhere else.",
+   "vendor": "Nissin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_character_cup_noodle",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-nagasaki-salt-lemon-ramen-63g",
+   "name": "Nagasaki Salty Lemon Ramen",
+   "merchantDescription": "The soup is a fresh salted lemon soup seasoned with chicken powder and lemon powder and seasoned with spices, using salt from Nagasaki Prefecture.There are three types of bean sprouts: cabbage, kakitama, and teri-soboro.",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_citrus",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-ginger-honey-throat-70g",
+   "name": "Ginger Honey Throat Candy",
+   "merchantDescription": "This candy combine the mild sweetness of Japanese domestic honey with the mild and mild taste of ginger from Kochi,åÊresulting in a refreshing taste which is soothing for your throat!",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kabaya-citrate-candy-110g",
+   "name": "Kabaya Citrate Salt Candies",
+   "merchantDescription": "It is a candy that can be easily replenished with salt content You can enjoy two flavors of lemon taste and plum flavor.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_salt",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fresh-salted-lemon-candy-100g",
+   "name": "Salt Lemon Candies",
+   "merchantDescription": "A candy that's popular in the summer because of its salt ingredient which can replenish salts lost through sweating.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "F_salt"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-lion-candy-yuzu-throat-candy-73g",
+   "name": "Lion Yuzu Throat Candies",
+   "merchantDescription": "A fragrant Yuzu throat bowl using Yuzu juice from Kitagawa Village from Kochi Prefecture. The product has been renewed this time, and the texture has not been rough, and it has become easier to lick it. You can also enjoy the original taste of Yuzu.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-nobel-throat-ebony-130g",
+   "name": "Okinawa Black Sugar Throat Candies",
+   "merchantDescription": "This is a throat candy made from a mixture of Okinawan processed black sugar and 18 kinds of wild grass extracts.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kabaya-kinkans-throat-bowl-160g",
+   "name": "Kabaya Kinkan Throat Candies",
+   "merchantDescription": "A wide range of layers supporting Kinkan-no-don which contains Kinkan extract and vitamin C of about one lemon in one tablet.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-senjakuame-honpo-teacup-bowl-green-tea-throat-bowl-100g",
+   "name": "Senjakuame Honpo Green Tea Throat Candies",
+   "merchantDescription": "It is a green tea-flavoredåÊthroat candy that gives you a rich green tea scent due to its Uji Matcha ingredient.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "04062021",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-sakuma-confectionery-marunoman-masu-oro-throat-bowl-83g",
+   "name": "Sakuma Maruno Honma Watermelon Throat Candies",
+   "merchantDescription": "It is a refreshing hard throat candy that features a rich watermelon flavor.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-nobel-hachimi-kinkans-nodori-110g",
+   "name": "Nobel Honey Kinkan Throat Candies",
+   "merchantDescription": "This is a throat drop that tastes like honey and Kinkan, which is a citrusy fruit from Japan.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "F_ume"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kasugai-confectionery-throat-refreshing-125g",
+   "name": "Kasugai Sukkiri Refreshing Throat Candies",
+   "merchantDescription": "A mild milk flavor and gentle, mellow and easy-to-take throat candy. You can enjoy the tender taste of milkåÊthat uses plenty of condensed milk from Hokkaido.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-koris-shito-ramune-55g",
+   "name": "Koris Salty Ramune Candies",
+   "merchantDescription": "A speedy grapefruit-flavored thin tablet that contains ingredients that help the body recover from heat. As well as salt, it contains 90% of the brain and body nutrients \"glucose\".",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_salt"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fruit-ball-140g",
+   "name": "Pon Fruit Ball Candies",
+   "merchantDescription": "It is an assortment candy that collects eight kinds of popular fruits that can be easily opened individually. Individual packaging can be easily opened simply by pressing with one hand \"Pon\".",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-bourbon-cubicle-112g",
+   "name": "Cubi Rope Fruit Candy",
+   "merchantDescription": "It is a small, cute cube-shaped candy, and it fits well in the mouth and can be enjoyed in a wide range of ages from children to the elderly.",
+   "vendor": "Bourbon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-ribbon-raw-plum-radish-110g",
+   "name": "Fresh Ume Candy",
+   "merchantDescription": "A plum paste is included in the center section so that you can enjoy the deliciousness of plum with a fresh sense.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_ume",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-my-luxury-salami-grilled-cheese-mustard-sauce-45g",
+   "name": "Kamoi My Luxury Salami And Grilled Cheese",
+   "merchantDescription": "Salami in cheese and baked it in a sheet made of fish meat carefully. It has a rich taste with a spicy mustard sauce.",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "091521STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-my-luxury-smoked-roasted-squid-50g",
+   "name": "Kamoi My Luxury Roasted Squid And Cheese",
+   "merchantDescription": "Smoked squid thinly and put cream cheese on it and baked slowly making it a perfect snack. Goes well with beer or other beverages.",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "020722STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-duck-well-food-my-luxury-grilled-chicken-meatball-58g",
+   "name": "Kamoi My Luxury Grilled Tsukune",
+   "merchantDescription": "Grilled chicken meatballs with Nagoya Cochin fragrant and finished with a rich flavor. The ingredients are seasoned with salt and pepper so that the taste of the ingredients is savory.",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "111522STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kamoi-my-luxury-soft-roasted-squid-34g",
+   "name": "Kamoi My Luxury Soft Grilled Squid",
+   "merchantDescription": "It is a dried grilled squid that is seasoned with Hokkaido's original seasoning liquid using domestically produced soy sauce etc.",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DONKIDRIEDFOODS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-duck-well-food-my-luxury-soft-roast-squid-cartilage-44g",
+   "name": "Kamoi My Luxury Soft Roasted Squid Cartilage",
+   "merchantDescription": "It uses thick-walled Japanese red squid cartilage and is finished in an easy-to-eat size and soft texture.åÊ",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_seafood",
+    "SOLD OUT"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kamoi-snack-series-my-luxury-taste-per-33g",
+   "name": "Kamoi My Luxury Dried Squid",
+   "merchantDescription": "This is seasoned with our own seasoning sauce and baked tastefully. It is seasoned using fish sauce to bring out the taste of squid.",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "111522STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kamoi-food-industry-my-luxury-child-carrier-45g",
+   "name": "Kamoi My Luxury Grilled Pregnant Smelt",
+   "merchantDescription": "This dried fish is rich in calcium and the whole bone is processed in order to give you an enjoyable texture.",
+   "vendor": "Kamoi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "040522STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-inoue-food-baked-scallop-string-kimchi-40g",
+   "name": "Inoue Baked Scallop Kimchi",
+   "merchantDescription": "Umami rich Hokkaido scallops finished with rich sesame seed and kochijang's spicy kimchi. Kayoya oil \"golden sesame oil\" used.",
+   "vendor": "Inoue",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_garlic",
+    "F_salt"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-inoue-food-smoked-cheese-squid-48g",
+   "name": "Inoue Smoked Cheese Squid",
+   "merchantDescription": "Enjoy the rich flavor of the smoked double cheese combining with the taste of squid.",
+   "vendor": "Inoue",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cheese",
+    "SOLD OUT"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-inoue-grilled-salmon-fillet-soy-sauce-taste-31g",
+   "name": "Inoue Grilled Ray Fin Shoyu",
+   "merchantDescription": "A rich rich soy sauce is added to the ray fin and grilled with care.",
+   "vendor": "Inoue",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_soy sauce",
+    "SOLD OUT"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-special-dish-of-natori-skill-30g",
+   "name": "Natori Dried Squid",
+   "merchantDescription": "Finished with only \"natural materials\" without using food additives. Aroma is baked fragrant and finished with a natural taste.åÊ",
+   "vendor": "Natori",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DONKIDRIEDFOODS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-special-dish-of-skill-sakiika-fishing-fire-33g",
+   "name": "Natori Gyoka Shredded Squid",
+   "merchantDescription": "Finished with only \"natural materials\" without using food additives, this snack is filled with great flavor and amazing aroma.",
+   "vendor": "Natori",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DONKIDRIEDFOODS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-special-dish-of-grilling-megeso-38g",
+   "name": "Natori Grilled Cuttlefish Legs",
+   "merchantDescription": "Finished with only \"natural materials\" without using food additives. Please enjoy the taste of the snack that spreads through and theåÊnice fragrant.",
+   "vendor": "Natori",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DONKIDRIEDFOODS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-special-soft-squid-of-natori-technique-33g",
+   "name": "Natori Soft Shredded Squid",
+   "merchantDescription": "This allows you to taste the original taste of ika, squid in Japanese without any food additives.",
+   "vendor": "Natori",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "DONKIDRIEDFOODS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-coca-cola-squarius-powder-powder-48g",
+   "name": "Aquarius Powder Mix",
+   "merchantDescription": "Classic Aquarius is easy to drink even in the active scene, and the taste is refreshing. And it's aåÊzero-calorie drink.",
+   "vendor": "Coca-Cola",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_fruit",
+    "MURICA",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-power-of-house-turmeric-100ml",
+   "name": "Ukon Power Energy Drink",
+   "merchantDescription": "It contains turmeric extract from autumn turmeric about 13g, and purple turmeric about 15g for 1 part in fresh turmeric conversion.",
+   "vendor": "Ukon Power",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DONKIENERGYDRINKS",
+    "DRINKNP",
+    "DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-suntory-decavita-c-jelly-270g",
+   "name": "Dekavita C Energy Jelly",
+   "merchantDescription": "This jelly contains multivitamin such as Vitamin B1, vitamin B2, vitamin B6, vitamin C and niacin for more than one day.",
+   "vendor": "Suntory",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "112721STOP",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DONKIENERGYDRINKS",
+    "DRINKS",
+    "ENERGY DRINK"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-suntory-decavita-c-sports-jelly-270",
+   "name": "Dekavita C Sports Energy Jelly",
+   "merchantDescription": "Doubly blended glucose for rapid energy source and palatinose for sustainable energy source. By combining two types of sugars with different absorption speeds, energy is supplied for a long time. It is salty lemon taste that you can drink neatly at sports time",
+   "vendor": "Suntory",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_fruit",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "SUBCAT_ENERGYDRINK"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-real-gold-jelly-180g",
+   "name": "Real Gold Energy Jelly",
+   "merchantDescription": "The first energy jelly beverage from the \"Real Gold\" brand! 180 calories per rice ball Delicious taste unique to Real Gold rich in nutritional ingredients such as royal jelly, citric acid, vitamin C, ginseng extract and BCAA",
+   "vendor": "Real Gold",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "120721STOP",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DONKIDRINKS",
+    "DRINKS",
+    "ENERGY DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-jelly-drink-coca-cola-company-minute-maid-morning-apple-pouc",
+   "name": "Minute Maid Morning Apple Energy Jelly",
+   "merchantDescription": "\"Minutes made morning apple\" is a jelly beverage that can take nutrition for two pieces of fruit that is ideal for breakfast.",
+   "vendor": "Jelly",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "APPEM",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DONKIENERGYDRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-ito-en-oi-ocha-green-tea-with-green-tea-stick-0-8g",
+   "name": "Itoen Oi Ocha Green Tea Powder (100 Sticks)",
+   "merchantDescription": "Uses 100% domestic tea leaves. You can easily enjoy the authentic taste. The new natural-fresh green tea powder with excellent freshness is going to bring you the authentic taste of green tea from Japan.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$30-$50",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS",
+    "DRINKS",
+    "F_tea"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-ito-en-one-pot-green-tea-bag-3g",
+   "name": "Itoen One Pot Green Tea",
+   "merchantDescription": "This is a green tea tea bag which contains real green tea leaves, bringing you the authentic green tea taste from Japan.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "SUBCAT_TEA"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-ito-en-premium-tea-bag-uji-green-tea-1-8g",
+   "name": "Itoen Premium Matcha Tea Bags (50 Bags)",
+   "merchantDescription": "It is a tea bag product that is finished by adding matcha tea to clean fragrant green tea.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$10-$20",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS",
+    "DRINKS"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-ito-en-premium-tea-bag-matcha-green-tea-with-brown-rice-2-3g",
+   "name": "Itoen Premium Matcha With Brown Rice Tea Bags (50 Bags)",
+   "merchantDescription": "It is a brown rice tea bag with fragrant Uji powdered green tea.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$10-$20",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS",
+    "DRINKS"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-ito-en-premium-tea-bags-green-tea-1-8g",
+   "name": "Itoen Premium Matcha Tea Bags (20 Bags)",
+   "merchantDescription": "It is a tea bag product that is finished by adding matcha tea to clean fragrant green tea.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS",
+    "F_matcha"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-ito-en-oi-tea-premium-tea-bag-with-matcha-brown-rice-2-3g",
+   "name": "Itoen Premium Matcha With Brown Rice Tea Bags (20 Bags)",
+   "merchantDescription": "It is a brown rice tea bag with fragrant Uji powdered green tea.",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS",
+    "F_brown sugar"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-j-kakaku-kakegawa-tea",
+   "name": "Jounetsu Kakaku Kakegawa Tea Leaves",
+   "merchantDescription": "Here are green tea leaves from Kakegawa so you can make a healthy cup of green tea!",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "083122STOP",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKI",
+    "DONKI SHIBUYA",
+    "DRINKS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-ujis-cold-matcha-with-green-tea-200g",
+   "name": "Iyemon Green Tea Leaves",
+   "merchantDescription": "It is a tea leaf where you can enjoy the fragrant brown rice tea and the taste of matcha green tea. It is convenient for storage with a zipper, and you can enjoy its freshness and fragrant anytime.",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "SUBCAT_TEA"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-j-kakaku-powdered-green-tea",
+   "name": "Jounetsu Kakaku Powdered Green Tea",
+   "merchantDescription": "Delicious green tea powder that you can add to a cup of boiled water to make a quick hot cup of tea!",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "SUBCAT_TEA"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-mitsui-meicha-teapot-unnecessary-green-tea-40g",
+   "name": "Mitsui Green Tea Powder",
+   "merchantDescription": "The taste of carefully selected domestic tea leaves and the taste of Uji Matcha, and a refreshing drink feeling. Instant green tea that you can enjoy authentic taste easily.",
+   "vendor": "Mitsui",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "SUBCAT_TEA"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-ito-en-oi-tea-uji-green-tea-with-brown-rice-200g",
+   "name": "Itoen Oi Ocha Matcha With Roasted Rice",
+   "merchantDescription": "It is a highly aromatic and vivid brown rice tea powder with a combination of autumn picked bancha, powdered steamed rice and powdered green tea ground with Uji tea. You can enjoy the deep flavor, steamed finish, and the clean taste of Matcha.åÊ",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "SOLD OUT",
+    "SUBCAT_MATCHA"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-ja-shizuoka-keizairen-fujiyama-soudachi-shizuoka-tea-bag-3g",
+   "name": "Mt. Fuji Shizuoka Tea Bags",
+   "merchantDescription": "This tea is produced in Shizuoka Prefecture, which is famous for producing tea, carrying locally harvested tea leaves.",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-tea-boutique-instant-sakura-latte-104g",
+   "name": "Tea Boutique Instant Sakura Latte",
+   "merchantDescription": "We got this cherry-colored latte with the spring sweetness of the cherry blossoms in full bloom and the mellow taste of milk. This Instant Sakura Latte can be made in minutes! Enjoy it hot or cold! How to make it hot: - Add 3 teaspoons of powder for every 100m",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sugoimart-tea-boutique-sweet-cherry-tea-green-tea-bag-2g",
+   "name": "Sweet Sakura Green Tea",
+   "merchantDescription": "This product is a luxurious blend of cherry blossoms and green tea leaves, beautifully reproducing the scent of sweet flowers.",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-morihan-uji-matcha-aure-120g",
+   "name": "Morihan Uji Matcha Au Lait",
+   "merchantDescription": "It is a full-fledged matcha au lait powder that has an exquisite balance of mild milk sweetness and matcha taste. You can easily make it by just mixing it with hot water or water.",
+   "vendor": "Matcha",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "F_milk"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-nestle-luxury-matcha-green-tea-potion-sweetness-return",
+   "name": "Nestle Luxury Matcha",
+   "merchantDescription": "A luxury matcha sweetness type powder that features a good astringency of matcha and a slight sweetness of milk. You can enjoy authentic iced green tea easily at home simply by mixing it with water or milk.",
+   "vendor": "Nestle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "SOLD OUT"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-kataoka-yuri-kyo-latte-green-tea-milk-14-0g",
+   "name": "Tsujiri Kyo Latte (5 Servings)",
+   "merchantDescription": "Tsujiri is one of the most famous tea producers in Japan. This is their instant Kyo Matcha Latte, which gives you the original taste of Matcha and also a creamy texture.",
+   "vendor": "Kataoka",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS",
+    "DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-nestle-japan-dark-luxury-matcha-latte-15g",
+   "name": "Nestle Rich Luxury Matcha Latte",
+   "merchantDescription": "With elegant deep taste and smooth texture plus a deep astringency and original dark taste of Matcha, this is a full-fledged Matcha powder with a slight milk mellowness.",
+   "vendor": "Nestle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "SOLD OUT"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-nestle-scented-round-green-tea-latte-5-6",
+   "name": "Nestle Fragrant Matcha Latte",
+   "merchantDescription": "A mixed powder product of Matcha latte that has plenty of milk and a creamy and smooth mouthfeel, and you can also enjoy the rich green tea flavor and a slightly sweet taste.",
+   "vendor": "Nestle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "DONKITEAS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-blendy-stick-matcha-i",
+   "name": "Blendy Stick Matcha Au Lait",
+   "merchantDescription": "Blendy Stick Matcha green tea is a medium volume size of creamy and flavorful green tea powder using domestic green tea, easy to enjoy in your daily life. Contains 21 sticks.",
+   "vendor": "Matcha",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 9.99
+  }
+ ]
+}

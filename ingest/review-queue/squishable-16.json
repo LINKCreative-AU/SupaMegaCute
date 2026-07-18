@@ -1,0 +1,33 @@
+{
+ "source": "squishable",
+ "batch": 16,
+ "items": [
+  {
+   "id": "squishable-alter-egos-series-1-unicado",
+   "name": "Alter Egos Series 1: Unicado",
+   "merchantDescription": "Do not eat this unicorn. I know it looks like an avocado, but it's only *kind of* an avocado. I mean, it would probably taste delicious, like a cross between buttercream and arugula. But don't eat it. Don't even think about eating it. And definitely don't look",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-alter-egos-series-1-rainbowcado",
+   "name": "Alter Egos Series 1: Rainbowcado",
+   "merchantDescription": "Rainbows make everything better. A cupcake? How about a rainbow-colored cupcake! A small poodle? Let's try a rainbow-colored small poodle! Hazy memories of your childhood? Definitely better when they're rainbow-colored! Existential dread? If it's rainbow-color",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-alter-egos-series-1-avocato",
+   "name": "Alter Egos Series 1: Avocato",
+   "merchantDescription": "Know what cats like? A variable, multi-nutrient diet high in protein! And cuddles! And a variety of predator-centric sensory stimulation! And hanging out with people who are allergic to them! And...avocados? No idea! Could be! I'm not totally sure where I was ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  }
+ ]
+}

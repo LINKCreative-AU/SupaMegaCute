@@ -13,7 +13,8 @@
     "prep-queue": "node ingest/prep-queue.mjs",
     "apply-review": "node ingest/apply-review.mjs",
     "validate": "node ingest/validate.mjs",
-    "refresh": "node ingest/refresh.mjs"
+    "refresh": "node ingest/refresh.mjs",
+    "build": "node build/build.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.70.0"

@@ -3,472 +3,733 @@
  "batch": 3,
  "items": [
   {
-   "id": "kawaiipenshop-mt-deco-masking-tape-asanoha",
-   "name": "MT Deco Masking Tape - Asanoha",
-   "merchantDescription": "Add a splash of traditional charm to your creative projects with MT Deco Washi Tape by Kamoi Kakoshi—a beloved Japanese brand known for blending “sweetness and functionality” in every roll! 🌸✨ Choose from 5 beautiful asanoha patterns in vibrant colors that br",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 6.99
-  },
-  {
-   "id": "kawaiipenshop-tombow-mono-graph-shaker-mechanical-pencil-sumikko-gurashi",
-   "name": "Tombow Mono Graph Shaker Mechanical Pencil - Sumikko Gurashi",
-   "merchantDescription": "Upgrade your writing game with the Sumikko Gurashi Tombow Mono Graph Shaker Mechanical Pencil! Packed with high-tech features and adorable charm, this pencil shines with your favorite characters on a glossy body. The clever shaker mechanism lets you extend the",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 14.99
-  },
-  {
-   "id": "kawaiipenshop-mofusand-kitty-ribbon-a4-folder",
-   "name": "Mofusand Kitty Ribbon A4 Folder - Limited Spring Edition",
-   "merchantDescription": "Keep your important documents safe and perfectly sorted with the help of these precious feline friends! 🐱 This high-quality Mofusand Kitty Ribbon A4 Folder features five spacious tab pockets, each decorated with unique watercolor illustrations of fluffy kitte",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 12.99
-  },
-  {
-   "id": "kawaiipenshop-plus-neko-rush-cat-transfer-tape-roller",
-   "name": "Plus Neko Rush Cat Transfer Tape Roller",
-   "merchantDescription": "Bring a splash of feline fun to your pages with the limited-edition Plus Neko Rush Cat Transfer Tape Roller ! These charming transfer tapes glide effortlessly across your journal or planner, leaving behind a trail of beautifully detailed cat illustrations. Wit",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 8.99
-  },
-  {
-   "id": "kawaiipenshop-rilakkuma-memo-pad-mint",
-   "name": "Rilakkuma Clover Sticky Notes (60 Sheets, 4 Designs)",
-   "merchantDescription": "Bring a breath of fresh air to your desk with this Rilakkuma Mint Memo Pad ! Featuring four unique and adorable page designs, these square sticky notes showcase Rilakkuma, Korilakkuma, and Chairoikoguma in a soft, clover-filled aesthetic. Each 60-sheet pad off",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 7.99
-  },
-  {
-   "id": "kawaiipenshop-sakura-petal-core-eraser",
-   "name": "Sakura Petal Core Eraser",
-   "merchantDescription": "Celebrate the beauty of cherry blossoms every time you pick up a pencil! This Sakura Petal Core Eraser features a stunning flower-shaped core tucked inside a matching pastel barrel. It’s more than just a desk accessory—it’s a tiny piece of spring that makes co",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 4.49
-  },
-  {
-   "id": "kawaiipenshop-pentel-energel-soft-color-gel-pen-limited-series",
-   "name": "Pentel Energel Soft Color Gel Pen - Kohare Series",
-   "merchantDescription": "Experience the gentle touch of spring on every page with the limited-edition Pentel Energel Kohare series . These pens feature soft, subtle hues inspired by nature that are perfect for highlighting your favorite planner moments or adding delicate annotations t",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 5.99
-  },
-  {
-   "id": "kawaiipenshop-moomin-write-on-stickers-moomin-dreams",
-   "name": "Moomin Write-On Stickers - Moomin Dreams",
-   "merchantDescription": "Step into the whimsical world of Moominvalley with these Moomin Dreams Write-On Stickers . Featuring soft pastel borders and dreamy celestial motifs, these die-cut stickers provide the perfect little canvas for your daily reminders and heartfelt notes. Whether",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 8.99
-  },
-  {
-   "id": "kawaiipenshop-uni-jetstream-moomin-3-in-1-multi-color-pen-starry-night",
-   "name": "Uni Jetstream Moomin 3-in-1 Multi Color Pen - Starry Night",
-   "merchantDescription": "The magic of Moominvalley meets world-class ink technology in this beautiful Uni Jetstream multi-pen . Dressed in a dreamy purple \"Starry Night\" barrel, this pen features Moomintroll and Little My wandering under a celestial sky. With three ink colors tucked i",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 12.99
-  },
-  {
-   "id": "kawaiipenshop-jinbesan-donut-island-memo-pad-donut-party",
-   "name": "Jinbesan Donut Island Memo Pad - Donut Party",
-   "merchantDescription": "Get ready for the tastiest underwater celebration with the Jinbesan Donut Party Memo Pad ! This limited edition notepad features Jinbesan and his ocean pals surrounded by a sea of colorful, frosted donuts. Each page is an invitation to jot down your brightest ",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 10.99
-  },
-  {
-   "id": "kawaiipenshop-jinbesan-donut-island-memo-pad-pastel-friends",
-   "name": "Jinbesan Donut Island Memo Pad - Pastel Friends",
-   "merchantDescription": "Escape to a sugary paradise with Jinbesan and his ocean friends on Donut Island ! This charming memo pad is filled with pastel dreams, featuring whale sharks and sea pals floating among delicious treats. With a durable transparent cover and plenty of space for",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 10.99
-  },
-  {
-   "id": "kawaiipenshop-mind-wave-die-cut-masking-tape-naptime-animal-family-series",
-   "name": "Mind Wave Die-Cut Masking Tape - Naptime Animal Family Series",
-   "merchantDescription": "Bring a touch of cozy tranquility to your pages with the Naptime Animal Family Die-Cut Masking Tape . Featuring sleepy pandas, bunnies, and pups in soft watercolor illustrations, this tape captures the ultimate \"lazy Sunday\" vibe. It is the perfect way to add ",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 5.99
-  },
-  {
-   "id": "kawaiipenshop-miffy-corner-guard-2-piece-set",
-   "name": "Miffy Corner Guard - 2-Piece Set",
-   "merchantDescription": "Keep your home cozy and worry-free with the help of our favorite little bunny! These soft Miffy silicone corner guards are designed to cushion sharp edges while adding a touch of minimalist charm to your furniture. Simply peel, stick, and let Miffy take care o",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 12.99
-  },
-  {
-   "id": "kawaiipenshop-miffy-rainy-day-clear-umbrella",
-   "name": "Miffy Rainy Day Clear Umbrella",
-   "merchantDescription": "Don’t let a little rain dampen your mood—bring Miffy along for a magical walk in the park! 🌧️ This adorable umbrella features a sophisticated frosted, semi-transparent finish adorned with an all-over pattern of Miffy’s sweet face. 🐰 It’s the perfect blend of",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 29.99
-  },
-  {
-   "id": "kawaiipenshop-pilot-acroball-t-series-0-3m-ballpoint-pen",
-   "name": "Pilot Acroball T Series Ballpoint Pen - 0.3 mm",
-   "merchantDescription": "Write smooth, light, and precise with the Pilot Acroball T Series! This ultra-fine 0.3 mm ballpoint pen glides effortlessly on paper, delivering crisp, clean black ink that dries quickly and resists smudging. The stylish pastel barrel adds a pop of fun while t",
-   "vendor": "Kawaii Pen Shop",
-   "productType": "Pens",
-   "merchantTags": [
-    "0.3",
-    "Acroball",
-    "ballpoint",
-    "mm",
-    "pen",
-    "Pilot",
-    "Series",
-    "T"
-   ],
-   "price": 3.99
-  },
-  {
-   "id": "kawaiipenshop-sanrio-compact-mirror-comb-set-pompompurin",
-   "name": "Sanrio Compact Mirror & Comb Set - Pompompurin",
-   "merchantDescription": "The Compact Mirror and Comb Set by Sanrio features the adorable Pompompurin. Its compact size makes it great for portability. Made with sturdy material but lightweight to carry. Fit in a tote bag, purse, or beauty bag. A beauty set for on-the-go! Size: 12.7 cm",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 14.99
-  },
-  {
-   "id": "kawaiipenshop-my-neighbor-totoro-washi-paper-spring-new",
-   "name": "My Neighbor Totoro Washi Paper - Spring",
-   "merchantDescription": "Celebrate the return of a classic with the My Neighbor Totoro Spring Washi Paper Set! 🌸✨ This charming set captures the gentle spirit of spring with soft illustrations of Totoro and Chibi Totoro nestled among blooming flowers and leaves. Whether you're crafti",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 13.99
-  },
-  {
-   "id": "kawaiipenshop-zebra-sarasa-clip-color-gel-pen-set",
-   "name": "Zebra Sarasa Clip Color Gel Pen Set",
-   "merchantDescription": "Say hello to your new favorite gel pens! The Zebra Sarasa Clip Color Gel Pen Set delivers vibrant , smooth-flowing ink that pops on both light and dark paper —and even on glossy photos! Designed for comfort and performance , these pens are a must-have for jour",
-   "vendor": "Kawaii Pen Shop",
-   "productType": "Pens",
-   "merchantTags": [
-    "best pens for bullet journaling",
-    "best pens for note taking",
-    "best pens for school",
-    "clip color",
-    "color",
-    "gel",
-    "high quality",
-    "japanese"
-   ],
-   "price": 24.99
-  },
-  {
-   "id": "kawaiipenshop-studio-ghibli-kikis-delivery-service-bamboo-chopsticks",
-   "name": "Studio Ghibli Kiki's Delivery Service Bamboo Chopsticks",
-   "merchantDescription": "Dine in charm with the Kiki's Delivery Service Bamboo Chopsticks! Featuring the ever-adorable Jiji and dreamy pastel patterns, these officially licensed chopsticks turn every meal into a magical moment. ✨🐾 💖 Why You’ll Love Them: ✔ Whimsical Jiji Design – Ad",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 8.79
-  },
-  {
-   "id": "kawaiipenshop-uni-x-sanrio-jetstream-3-color-ballpoint-pen-cinnamoroll",
-   "name": "Uni x Sanrio Jetstream 3-Color Ballpoint Pen - Cinnamoroll",
-   "merchantDescription": "Combine functionality with charm! The Uni x Sanrio Jetstream 3-Color Ballpoint Pen features Cinnamoroll in an irresistibly cute design while packing the power of three Jetstream inks in one convenient pen. Whether you're a hardworking student or professional, ",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 14.99
-  },
-  {
-   "id": "kawaiipenshop-uni-x-sanrio-jetstream-3-color-ballpoint-pen",
-   "name": "Uni x Sanrio Jetstream 3-Color Ballpoint Pen",
-   "merchantDescription": "Take your notes from \"meh\" to magical with these adorable Jetstream pens featuring your favorite Sanrio characters ! Each pen features 3 vibrant ink colors—black, red, and blue—in one sleek body, and showcases Hello Kitty, My Melody, Kuromi, or Pochacco in del",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 10.99
-  },
-  {
-   "id": "kawaiipenshop-kuru-toga-mechanical-pencil-sanrio-characters",
-   "name": "Kuru Toga Mechanical Pencil - Sanrio Characters",
-   "merchantDescription": "Elevate your writing game with the Sanrio Kuru Toga Mechanical Pencil! Blending precision with kawaii charm, this pencil features Uni’s innovative rotating lead mechanism that keeps the tip consistently sharp—perfect for neat notes and smooth sketches. Adorned",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 15.99
-  },
-  {
-   "id": "kawaiipenshop-pokemon-pocket-monsters-hb-pencil",
-   "name": "Pokemon Pocket Monsters HB Pencil",
-   "merchantDescription": "Transform your everyday notes into a cozy adventure with these darling Pokémon wooden pencils that offer a classic schoolhouse staple with a whimsical twist. Each hexagonal barrel is sprinkled with illustrations of fan-favorites nestled among colorful sweets l",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 3.99
-  },
-  {
-   "id": "kawaiipenshop-everyday-essentials-multi-pocket-tote",
-   "name": "Everyday Essentials Multi-Pocket Tote",
-   "merchantDescription": "Organize your day with a touch of minimalist charm using our Everyday Essentials Multi-Pocket Tote . Crafted from durable canvas in creamy ivory or deep black, this spacious bag is designed to hold everything from your thickest bullet journals to your favorite",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 29.99
-  },
-  {
-   "id": "kawaiipenshop-pokemon-mechanical-pencil-set-pencil-refills-eraser",
-   "name": "Pokemon Mechanical Pencil Set - Pencil + Refills + Eraser",
-   "merchantDescription": "Bring a touch of Pokémon magic to your desk with this all-in-one mechanical pencil set featuring Jigglypuff and Pikachu . This high-quality kit includes a pressure-absorbing pencil, smooth lead refills, and a jelly-like eraser to keep your journaling pages fla",
+   "id": "kawaiipenshop-mini-totoro-figures",
+   "name": "My Neighbor Totoro Mini Figures",
+   "merchantDescription": "Bring a touch of Studio Ghibli magic into your everyday space with these adorable Mini Totoro Figures ! Each tiny resin figure captures Totoro in a sweet pose—holding a leaf, flower, or even a carrot. With smooth flat bottoms, they’re perfect for decorating sh",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 11.99
   },
   {
-   "id": "kawaiipenshop-chiikawa-happy-friends-card-holder",
-   "name": "Chiikawa Happy Friends Card Holder",
-   "merchantDescription": "Keep your daily essentials delightfully close at hand with the Chiikawa Happy Friends Card Holder ! Crafted from durable, easy-to-clean ABS material, this pastel accessory features sweet illustrations of your favorite round companions and a handy clear back wi",
+   "id": "kawaiipenshop-pokemon-legendary-charm-keychain-limited-collector-s-edition",
+   "name": "Pokémon Legendary Charm Keychain - Limited Collector’s Edition",
+   "merchantDescription": "Catch your favorite Pokémon and carry them everywhere you go! 💫 These adorable charm keychains feature your chosen Pokémon along with a Pokéball and a colorful PVC wrist strap designed with playful themed icons. Clip them to your bag, keys, or belt loop and s",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 15.99
+   "price": 16.99
   },
   {
-   "id": "kawaiipenshop-chiikawa-blush-bunny-carry-tote",
-   "name": "Chiikawa Bunny Cheer Tote Bag",
-   "merchantDescription": "Carry your daily journaling essentials in absolute kawaii style with the Chiikawa Bunny Cheer Tote Bag . Woven from soft cotton canvas, this delightfully aesthetic bag features high-definition, washable prints of your favorite round friends cheering you on or ",
+   "id": "kawaiipenshop-miffy-figure-phone-stand-surprise-box",
+   "name": "Miffy Figure Phone Stand - Surprise Box",
+   "merchantDescription": "Bring charm and function to your desk with this adorable Miffy figure blind box phone stand ! Each bunny figure doubles as a cute display piece and a handy stand that holds your phone at the perfect tilt for watching, scrolling, or video calls. 💖 Why You’ll L",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 27.99
   },
   {
-   "id": "kawaiipenshop-chiikawa-transparent-umbrella",
-   "name": "Chiikawa Clear Dome Umbrella",
-   "merchantDescription": "Brighten up the gloomiest of rainy days with the adorable Chiikawa Transparent Umbrella , featuring your favorite round friends dancing happily across a clear, star-speckled canopy. This lightweight, compact accessory allows you to stay cozy and dry while enjo",
+   "id": "kawaiipenshop-snoopy-earbud-pouch",
+   "name": "Snoopy Earbud Pouch",
+   "merchantDescription": "Keep your tech tidy with the Snoopy Earbud Pouch — a mini case that’s big on charm! Featuring Snoopy’s iconic face on the front and a peek-through semi-transparent back, this palm-sized pouch is perfect for earbuds, charging cables, or tiny treasures. Lightwei",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 29.99
+   "price": 24.99
   },
   {
-   "id": "kawaiipenshop-my-neighbor-totoro-forest-adventures-expandable-tote",
-   "name": "My Neighbor Totoro Expandable Tote - Forest Adventures",
-   "merchantDescription": "Step into a whimsical woodland dream with the My Neighbor Totoro Forest Adventures Expandable Tote , featuring a charming forest green pattern of delicate leaves, sweet florals, and peeking Totoros. This lightweight, water-repellent eco-bag effortlessly folds ",
+   "id": "kawaiipenshop-pentel-fude-touch-brush-sign-pen-black",
+   "name": "Pentel Fude Touch Brush Sign Pen - Black",
+   "merchantDescription": "Elevate your handwriting and artistic projects with the award-winning Pentel Fude Touch Brush Sign Pen ! This fan-favorite tool features a unique, flexible felt tip that mimics the strokes of a traditional brush while maintaining the control of a standard pen.",
+   "vendor": "Kawaii Pen Shop",
+   "productType": "Brush Pens",
+   "merchantTags": [],
+   "price": 4.49
+  },
+  {
+   "id": "kawaiipenshop-kuretake-gansai-tambi-pearl-colors-6-color-set",
+   "name": "Kuretake Gansai Tambi Pearl Colors - 6 Color Set",
+   "merchantDescription": "Gansai Tambi Pearl Colors is a palette of six mica watercolors infused with shimmering particles. Each watercolor pan contains a bright, dazzling hue and is perfectly compatible with other Gansai Tambi paint sets. Fuse the water-based pigments for magnificent,",
+   "vendor": "Kawaii Pen Shop",
+   "productType": "Watercolors",
+   "merchantTags": [
+    "art",
+    "calligraphy",
+    "drawing",
+    "illustration",
+    "japan",
+    "kuretake",
+    "lettering",
+    "painting"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "kawaiipenshop-tom-jerry-peek-a-cheese-pouch",
+   "name": "Tom & Jerry Peek-a-Cheese Pouch",
+   "merchantDescription": "Say hello to the cheesiest (and cutest!) pouch ever! This Tom Jerry plush pouch brings your favorite cartoon duo to life inside a huggable cheese wedge. With a bright yellow carabiner clip and a playful bell, it’s ready to add charm and function to your everyd",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 21.99
+   "price": 25.99
   },
   {
-   "id": "kawaiipenshop-sleeping-pikachu-desk-companion-wireless-mouse",
-   "name": "Sleeping Pikachu Desk Companion – Limited Drop",
-   "merchantDescription": "Let this sleepy little Pikachu bring a spark of cozy magic to your desk setup while you work or journal. This uniquely shaped wireless mouse captures Pikachu in a peaceful nap, turning your daily tech into an adorable 3D figurine that feels right at home in an",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 49.99
-  },
-  {
-   "id": "kawaiipenshop-the-powerpuff-girls-a4-folder",
-   "name": "The Powerpuff Girls A4 Folder",
-   "merchantDescription": "Organize your papers with a burst of girl power! This Powerpuff Girls A4 Folder features Blossom, Bubbles, and Buttercup in vibrant comic-style poses on a pink backdrop with floating hearts, stars, and colorful action words like “Whnk!” and “Biff!” . Made of d",
+   "id": "kawaiipenshop-seasonal-splendor-pet-stickers",
+   "name": "Seasonal Splendor Stickers - Set of 8 Sheets",
+   "merchantDescription": "Add a touch of nature to your projects with the Seasonal Splendor PET Stickers! These beautiful stickers showcase leaves in a spectrum of colors, reflecting the unique charm of each season. Made with semi-glossy, durable, and waterproof PET material, they mimi",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 5.99
   },
   {
-   "id": "kawaiipenshop-winter-storyland-masking-tapes",
-   "name": "Winter Storyland Masking Tapes",
-   "merchantDescription": "Bring a touch of cozy magic to your journals with the Winter Storyland Masking Tapes — a breathtaking series of PET transparent tapes that capture the warmth and wonder of a snow-covered world. Each roll features a seamless winter scene that blends beautifully",
+   "id": "kawaiipenshop-tom-jerry-deco-petit-stickers-i-love-cheese",
+   "name": "Tom & Jerry Deco Petit Stickers - I Love Cheese",
+   "merchantDescription": "Snack on tiny doses of joy with this mini PET sticker sheet starring Tom Jerry in their cheesiest adventures yet! These die-cut stickers blend into any surface with a crystal-clear outline—perfect for adding some nostalgic fun to your crafts, journals, or even",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 5.99
   },
   {
-   "id": "kawaiipenshop-crystal-snowflake-metallic-bookmark",
-   "name": "Crystal Snowflake Metallic Bookmark",
-   "merchantDescription": "Mark your favorite chapters with a shimmer of winter magic! The Crystal Snowflake Metallic Bookmark is delicately crafted from stainless steel, featuring intricate snowflake cutouts that glisten like real frost. Each design—available in three elegant styles—bo",
+   "id": "kawaiipenshop-tom-jerry-drop-block-stickers",
+   "name": "Tom & Jerry 3D Block Stickers",
+   "merchantDescription": "Step into the classic chaos of Tom Jerry with these cheeky 3D Block Stickers ! Each glossy tile-style sticker pops with personality—whether it’s Tom in trouble or Jerry mid-prank. With 52 puffy stickers in 2 sizes and 2 nostalgic designs to choose from, this s",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 10.99
+   "price": 5.99
   },
   {
-   "id": "kawaiipenshop-movic-retro-frame-clear-folder-my-neighbor-totoro",
-   "name": "Movic Retro Frame Clear Folder - My Neighbor Totoro",
-   "merchantDescription": "Keep your important papers safe under the watchful eyes of Totoro ! This stunning A 4 folder from Movic features a nostalgic, retro-inspired frame design that feels like a vintage movie poster come to life. Detailed with elegant gold stamping that catches the ",
+   "id": "kawaiipenshop-the-powerpuff-girls-drop-block-stickers",
+   "name": "The Powerpuff Girls 3D Block Stickers",
+   "merchantDescription": "Fight crime—and decorate everything—with a dash of sugar, spice, and everything nice! These unique Powerpuff Girls 3D Block Stickers feature Bubbles, Blossom, and Buttercup in adorable, action-packed poses across 52 glossy, tile-style stickers. Each set includ",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 10.99
+   "price": 5.99
   },
   {
-   "id": "kawaiipenshop-chiikawa-happy-friends-a5-notepad",
-   "name": "Chiikawa Happy Friends Large Notepad",
-   "merchantDescription": "Add a touch of whimsical charm to your study sessions or daily writing with the Chiikawa Happy Friends A5 Notepad . Featuring a subtly textured softcover adorned with scattered pastel characters and tiny stars, this top-bound notepad brings a beautifully cozy,",
+   "id": "kawaiipenshop-q-lia-special-mochi-mochi-seal-squishy-edition",
+   "name": "Q-Lia Mochi Mochi Puffy Stickers - Squishy Edition",
+   "merchantDescription": "Get ready to giggle every time you decorate! These delightfully silly Japanese stickers feature adorable animals with squishy, 3D bums you can actually press. Choose between the sweet Bunny set or the playful Mixed Animals set (panda, bird, cat, bear, and more",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 5.99
+  },
+  {
+   "id": "kawaiipenshop-the-powerpuff-girls-pin-badge-surprise-pack",
+   "name": "The Powerpuff Girls Pin Badge - Limited Aurora Surprise Pack",
+   "merchantDescription": "Add a blast of girl power to your day with this mystery pin badge set ! Inside each surprise pack, you'll receive one glossy Powerpuff Girls badge —featuring your favorite trio in vibrant, collectible designs. With 8 styles to discover (plus 2 secret ones!), e",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 12.99
   },
   {
-   "id": "kawaiipenshop-sanrio-kuromi-memo-pad",
-   "name": "Sanrio Kuromi Memo Pad - Limited Edition",
-   "merchantDescription": "Bring a touch of cheeky, pastel magic to your daily note-taking with the adorable Sanrio Kuromi Memo Pad ! Imported directly from Japan, this perfectly pocket-sized notepad features soft purple hues and sweet illustrations of Kuromi and Baku catching some Z's.",
+   "id": "kawaiipenshop-the-powerpuff-girls-pouch-surprise-pack",
+   "name": "The Powerpuff Girls Pouch - Secret Box",
+   "merchantDescription": "Get ready for a blast of girl power with this surprise Powerpuff Girls pouch pack! Each TV-themed box hides one adorable flat pouch featuring Blossom, Bubbles, Buttercup—or maybe even a secret rare design. With 9 known styles and a mystery 10th, it’s a fun unb",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 10.99
+   "price": 24.99
   },
   {
-   "id": "kawaiipenshop-sanrio-chibi-friends-memo-pad",
-   "name": "Sanrio & Chibi Friends Memo Pad - Limited Edition",
-   "merchantDescription": "Gather all your favorite characters in one cozy place with the S anrio Chibi Friends Memo Pad ! This high-quality Japanese stationery features a dreamy pastel cover filled with adorable Sanrio faces, making it the perfect aesthetic companion to bring a sprinkl",
+   "id": "kawaiipenshop-the-powerpuff-girls-aurora-clear-sticker-set",
+   "name": "Powerpuff Girls Premium Clear Sticker Set – Japanese Edition",
+   "merchantDescription": "Add a pop of GRL PWR! to your world with these bold and sparkly clear stickers featuring the iconic Powerpuff Girls ! Made with high-quality PET material, each set includes 3 waterproof, decorative stickers perfect for jazzing up your phone, laptop, tumbler, o",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 10.99
+   "price": 8.99
   },
   {
-   "id": "kawaiipenshop-pokemon-pocket-monsters-memo-pad-white",
-   "name": "Pokemon Pocket Monsters Memo Pad - Limited Edition - White",
-   "merchantDescription": "Bring a spark of joy to your desk with the Pokémon Pocket Monsters Memo Pad ! Imported from Japan, this premium mini notepad features a cheerful white and pastel purple cover starring favorites like Pikachu and Sprigatito, with inner pages beautifully decorate",
+   "id": "kawaiipenshop-powerpuff-girls-plushie-keychain-pouch",
+   "name": "Powerpuff Girls Plush Pouch - Mini Bag with Zip Pocket",
+   "merchantDescription": "The girls are here to save your day—and your stuff! These adorable Powerpuff Girls plushies double as mini pouches with secret zip pockets on the back. Soft, cuddly, and super functional, each one includes a heart-shaped carabiner for cute-and-convenient carry",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 10.99
+   "price": 24.99
   },
   {
-   "id": "kawaiipenshop-pokemon-pocket-monsters-memo-pad-blue",
-   "name": "Pokemon Pocket Monsters Memo Pad - Limited Edition - Blue",
-   "merchantDescription": "Add a splash of playful charm to your daily planning with the Pokémon Pocket Monsters Memo Pad in a soothing pastel blue! Imported from Japan, this premium pocket-sized notepad features beloved companions like Pikachu, Sprigatito, and Ditto alongside sweet che",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 10.99
-  },
-  {
-   "id": "kawaiipenshop-pokemon-pocket-monsters-large-notepad-blue",
-   "name": "Pokemon Pocket Monsters Large Notepad - Limited Edition - Blue",
-   "merchantDescription": "Bring a touch of pastel magic to your daily journaling with the Pokémon Pocket Monsters Large Notepad ! Imported straight from Japan, this premium A6 notepad features an adorably aesthetic cover sprinkled with your favorite friends like Pikachu, Jigglypuff, an",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 15.99
-  },
-  {
-   "id": "kawaiipenshop-pokemon-pocket-monsters-large-notepad-white",
-   "name": "Pokemon Pocket Monsters Large Notepad - Limited Edition - White",
-   "merchantDescription": "Capture all your biggest ideas and daily dreams in the beautifully kawaii Pokémon Pocket Monsters Large Notepad - White! Imported straight from Japan, this premium A6 notepad features your favorite companions like Pikachu, Sprigatito, and Jigglypuff surrounded",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 15.99
-  },
-  {
-   "id": "kawaiipenshop-mofusand-bow-2-in-1-multi-pen",
-   "name": "Mofusand Bow 2-in-1 Multi Pen",
-   "merchantDescription": "A collectible kawaii pen that’s as cute as it is functional. Drench your daily lists in sugary sweetness with these whimsical Mofusand kittens and their signature statement bows. Adorned with darlings nestled in donuts and macaroons, these high-quality Japanes",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 14.99
-  },
-  {
-   "id": "kawaiipenshop-chiikawa-starry-2-in-1-multi-pen",
-   "name": "Chiikawa Starry 2-in-1 Multi Pen",
-   "merchantDescription": "Add a sprinkle of stardust to your journal with the Chiikawa Starry 2-in-1 Multi Pen , featuring the sweetest little hamster friends and magical star toppers. These high-quality Japanese pens feel wonderfully smooth in your hand, making every doodle and note-t",
-   "vendor": "Kawaii Pen Shop",
-   "productType": null,
-   "merchantTags": [],
-   "price": 14.99
-  },
-  {
-   "id": "kawaiipenshop-mofusand-sakura-cloud-a5-notebook-limited-spring-edition",
-   "name": "Mofusand Sakura Cloud A5 Notebook - Limited Spring Edition",
-   "merchantDescription": "Step into a world of springtime sweetness with the Mofusand Sakura Cloud A5 Notebook . This limited-edition treasure features darling kittens napping on colorful wasanbon candies in a dreamy pastel palette. It’s the perfect aesthetic companion for your daily t",
+   "id": "kawaiipenshop-peanuts-snoopy-acrylic-luggage-tag-chill-series-chill-out",
+   "name": "Peanuts Snoopy Acrylic Luggage Tag - Chill Series - Chill Out",
+   "merchantDescription": "Take a break and travel in style with this adorable Snoopy luggage tag ! Part of the Chill Series, this tag features Snoopy and Woodstock lounging with the words “Chill Out” in dreamy lettering. On the back, there’s space to write your name, address, and phone",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 17.99
   },
   {
-   "id": "kawaiipenshop-mofusand-candy-jar-a5-notebook-limited-spring-edition",
-   "name": "Mofusand Candy Jar A5 Notebook - Limited Spring Edition",
-   "merchantDescription": "Treat yourself to the sweetest writing experience with the Mofusand Candy Jar A5 Notebook , a limited spring edition imported directly from Japan. This softcover beauty features a curious ginger kitten floating inside a jar of colorful, star-shaped Konpeito ca",
+   "id": "kawaiipenshop-peanuts-snoopy-acrylic-luggage-tag-chill-series-yoga-time",
+   "name": "Peanuts Snoopy Acrylic Luggage Tag - Chill Series - Yoga Time",
+   "merchantDescription": "Take a break and travel in style with this adorable Snoopy luggage tag ! Part of the Chill Series , this tag features Snoopy and Woodstock lounging with the words “Chill Out” in dreamy lettering. On the back, there’s space to write your name, address, and phon",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 17.99
   },
   {
-   "id": "kawaiipenshop-mofusand-sweet-candies-a5-folder-limited-spring-edition",
-   "name": "Mofusand Sweet Candies A5 Folder - Limited Spring Edition",
-   "merchantDescription": "Keep your most precious notes and stickers organized in the most whimsical way with the Mofusand Sweet Candies A5 Folder ! Part of our limited Spring Edition, this high-quality Japanese folder features a darling kitten nestled among star-shaped Konpeito sugar ",
+   "id": "kawaiipenshop-the-powerpuff-girls-cosmetic-travel-bag-pink",
+   "name": "The Powerpuff Girls Cosmetic Travel Bag - Pink",
+   "merchantDescription": "Get ready to pow your way through the day with this ultra-sweet Powerpuff Girls Cosmetic Travel Bag in bubblegum pink! Designed with a playful school bag-style shape, this pouch is the perfect sidekick for organizing your daily essentials. Decorated with Bloss",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 32.99
+  },
+  {
+   "id": "kawaiipenshop-hello-kitty-canvas-tote-limited-45th-anniversary-edition",
+   "name": "Hello Kitty Canvas Tote - Limited 45th Anniversary Edition",
+   "merchantDescription": "Celebrate Hello Kitty’s iconic 45th anniversary in style with this ultra-cute, collectible canvas tote ! Covered in playful sketches of Hello Kitty, bows, and hearts, this roomy bag is the perfect mix of fun and function. Featuring sturdy red straps, a secure ",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 38.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-earbud-accessory-pouch",
+   "name": "Miffy Earbud & Accessory Pouch",
+   "merchantDescription": "Whether you’re storing your earbuds, keeping your keys handy, or tucking away little treasures, this pouch does it all—with bunny-eared charm! Featuring Miffy’s iconic face, this compact case is perfect for clipping onto your bag or slipping into your pocket. ",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-mini-storage-bag-blue-flowers",
+   "name": "Miffy Mini Storage Bag - Blue Flowers",
+   "merchantDescription": "Take a little joy on every journey with this adorable Miffy Mini Storage Bag ! Whether you're dashing to class, packing for a trip, or just organizing your bag, this petite pouch is here to keep your tiny treasures safe and snug. Covered in sweet floral prints",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-mini-storage-bag-pink-flowers",
+   "name": "Miffy Mini Storage Bag - Pink Flowers",
+   "merchantDescription": "Take a little joy on every journey with this adorable Miffy Mini Storage Bag ! Whether you're dashing to class, packing for a trip, or just organizing your bag, this petite pouch is here to keep your tiny treasures safe and snug. Covered in sweet floral prints",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22.99
+  },
+  {
+   "id": "kawaiipenshop-pressed-botanical-ephemera-stickers",
+   "name": "Pressed Botanical Ephemera Stickers",
+   "merchantDescription": "Add a sprinkle of woodland magic to your crafts with the Pressed Botanical Ephemera Stickers ! 🌼🍄 Each set includes 40 delicate PET stickers with transparent backing, showcasing beautifully illustrated autumn leaves, whimsical mushrooms, wildflowers, or fore",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 6.79
+  },
+  {
+   "id": "kawaiipenshop-pressed-flowers-vintage-decorative-paper-set",
+   "name": "Pressed Flowers Vintage Decorative Paper Set",
+   "merchantDescription": "Whisk yourself away to a garden of creativity with this Pressed Flowers Vintage Decorative Paper Set ! 🌼🌸 With 30 beautifully mixed sheets featuring delicate pressed flower and leaf designs, each piece feels like a little nature keepsake. Choose from four dr",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 10.99
   },
   {
-   "id": "kawaiipenshop-mofusand-sakura-treats-a5-folder-limited-spring-edition",
-   "name": "Mofusand Sakura Treats A5 Folder - Limited Spring Edition",
-   "merchantDescription": "Keep your most precious notes and stickers safe in the dreamiest way possible with this limited-edition Mofusand A5 folder . Featuring adorable kittens napping on traditional Japanese sweets in a soft pastel palette, this compact organizer brings a whimsical t",
+   "id": "kawaiipenshop-autumn-nature-forest-critters-stickers",
+   "name": "Autumn Nature & Forest Critters Stickers",
+   "merchantDescription": "Step into an autumn wonderland with this charming set of 50 Autumn Nature Forest Critters Stickers ! 🍄🦝 Featuring high-definition prints of cozy cabins, woodland animals, pumpkins, golden trees, and crisp mountain scenes, each sticker is a tiny masterpiece. ",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 10.99
+   "price": 5.99
   },
   {
-   "id": "kawaiipenshop-sanrio-characters-little-hippers-blind-box-phone-screen-edge",
-   "name": "Sanrio Characters Little Hippers Blind Box – Phone & Screen Edge Figures",
-   "merchantDescription": "These darling Sanrio Little Hippers are the sweetest way to add a sprinkle of kawaii magic to your favorite tech and everyday items. Simply peel and stick these adorable mini-figures onto your phone, laptop, or even a coffee mug to keep Hello Kitty and her fri",
+   "id": "kawaiipenshop-golden-autumn-leaf-bookmark",
+   "name": "Golden Autumn Leaf Bookmark",
+   "merchantDescription": "Bring a touch of autumn magic to your reading nook with the Golden Autumn Leaf Bookmark ! 🍃✨ Crafted from gleaming metal copper, each bookmark features a stunning hollow die-cut design inspired by nature — choose from graceful ginkgo, delicate lotus, or class",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
-   "price": 26.99
+   "price": 14.99
   },
   {
-   "id": "kawaiipenshop-miffy-cute-supporter-phone-stand-surprise-box",
-   "name": "Miffy Cute Supporter Phone Stand - Surprise Box",
-   "merchantDescription": "Bring a touch of soft pastel magic to your desk setup with the Miffy Cute Supporter Phone Stand Surprise Box ! These charming blind boxes feature everyone's favorite little bunny ready to hold your device on a dreamy, bead-filled translucent base that doubles ",
+   "id": "kawaiipenshop-fall-leaves-long-strip-stickers",
+   "name": "Autumn Leaves Long Strip Stickers - 6 Foil Strips",
+   "merchantDescription": "Bring warm autumn tones into your crafts with these shimmering Autumn Leaves Long Strip Stickers . This set includes 6 long PET strips , each featuring delicate holographic foil that catches the light like crisp leaves in the sun. Perfect for layering along jo",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 6.99
+  },
+  {
+   "id": "kawaiipenshop-fluorescent-halloween-gel-pens",
+   "name": "Fluorescent Halloween Gel Pens",
+   "merchantDescription": "Get ready for Halloween with these Fluorescent Halloween Gel Pens! Featuring vibrant purple and orange colors, these pens combine spooky charm with practicality. Each pen's glossy body is decorated with cute Halloween illustrations, while the soft grip ensures",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 4.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-wood-piece-stamps",
+   "name": "Miffy Wood Piece Stamps",
+   "merchantDescription": "Hop into cuteness with the Miffy Wood Piece Stamps ! 🌸✨ Made by the beloved Japanese brand Kodomo No Kao, this set features 6 delightful designs of Miffy — walking, twirling, holding a balloon, hugging her teddy, and more! Each sturdy wooden stamp has a soft,",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 12.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-tech-buddy-adjustable-phone-tablet-stand",
+   "name": "Miffy Tech Buddy - Adjustable Phone & Tablet Stand - Surprise Box",
+   "merchantDescription": "Let Miffy lend a helping paw to your desk setup! Whether you're watching your favorite show or video calling a friend, this charming tech buddy keeps your device perfectly in place—and adds a sprinkle of surprise, too! 🌈 💖 Why You’ll Love It: ✔ Adjustable He",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 27.99
   },
   {
-   "id": "kawaiipenshop-my-neighbor-totoro-expandable-tote",
-   "name": "My Neighbor Totoro Expandable Tote",
-   "merchantDescription": "Never be caught without a bag again with the most enchanting shopping companion in the forest! 🍃 This 2-in-1 treasure features a soft, plush Totoro pouch that holds a full-sized, durable eco-bag hidden inside its zippered tummy. Simply unzip the plushie to re",
+   "id": "kawaiipenshop-miffy-led-light-up-compact-mirror",
+   "name": "Miffy LED Light-Up Compact Mirror",
+   "merchantDescription": "Touch-up time just got a whole lot cuter! This Miffy LED Light-Up Compact Mirror is the sweetest beauty buddy for on-the-go glow-ups. With two mirrors (1x and 10x), you’ll get the full view or focus in for precision—from blending to brows. A soft, ring-shaped ",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 25.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-hug-n-hold-little-helper-figure",
+   "name": "Miffy Hug-n-Hold Little Helper Figure - Surprise Box",
+   "merchantDescription": "Miffy’s here to help—one tiny paw at a time! These adorable bunny figurines don’t just sit pretty—they’ll hold your pen, flower, or rings with the sweetest little hug. Each blind box contains one surprise Miffy from six designs across three dreamy finishes: so",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-large-kiss-lock-pouch-limited-70th-anniversary-edition",
+   "name": "Miffy Large Kiss-Lock Pouch - Limited 70th Anniversary Edition",
+   "merchantDescription": "Let your everyday essentials hop into something cuter! This spacious Miffy kiss-lock pouch is part of the limited 70th anniversary collection, dressed in elegant gold foil details and bunny charm. With a roomy interior and bonus side pocket, it’s perfect for o",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 34.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-pocket-kiss-lock-pouch-limited-70th-anniversary-editio",
+   "name": "Miffy Pocket Kiss-Lock Pouch - Limited 70th Anniversary Edition",
+   "merchantDescription": "A tiny treasure with timeless charm! Celebrate 70 years of Miffy with this elegant coin purse featuring the beloved bunny in a black-and-gold foil print. With its classic kiss-lock clasp and soft curved frame, it’s perfect for coins, folded bills, or tiny trin",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 26.99
+  },
+  {
+   "id": "kawaiipenshop-miffy-large-keyboard-mat-cute-desk-pad-mouse-pad",
+   "name": "Miffy Large Keyboard Mat – Cute Desk Pad & Mouse Pad",
+   "merchantDescription": "Make your desk feel like a cozy corner of cuteness with this extra-wide Miffy keyboard mat ! Featuring the iconic bunny in soft pastel styles and expressions, this mat doubles as a mouse pad and workspace protector. Non-slip, durable, and delightfully adorable",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24.99
+  },
+  {
+   "id": "kawaiipenshop-sun-star-peanuts-snoopy-clear-book-a4-new-limited-edition",
+   "name": "Sun-Star Peanuts Snoopy Clear Book - A4 - New Limited Edition",
+   "merchantDescription": "Bring order to your papers with a dash of Peanuts charm! This limited edition Snoopy A4 Clear Book from Sun-Star is both adorable and ultra-functional, featuring 5 clear file pockets, 1 zip pouch for extras, and a sparkly pink elastic band to keep everything s",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 14.99
+  },
+  {
+   "id": "kawaiipenshop-sun-star-peanuts-snoopy-memo-pad-dark-blue-new-limited-editi",
+   "name": "Sun-Star Peanuts Snoopy Memo Pad - Dark Blue - New Limited Edition",
+   "merchantDescription": "Say “BLEAH!” to boring notes with this mini but mighty Snoopy memo pad ! Featuring Charlie Brown, Lucy, Woodstock, and of course, everyone's favorite napping beagle, this notepad packs a punch of Peanuts personality. With two adorable page layouts—lined and bl",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 5.99
+  },
+  {
+   "id": "kawaiipenshop-sun-star-peanuts-snoopy-glitter-folder-yellow-new-limited-ed",
+   "name": "Sun-Star Peanuts Snoopy Glitter Folder - Yellow - New Limited Edition",
+   "merchantDescription": "Applause, please! This limited edition Peanuts Snoopy Glitter Folder brings the spotlight to your stationery setup with a sunshine-yellow cover, floating silver stars, and a puppet show-worthy Snoopy scene. Shake it to sparkle, open it to smile—organization ju",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 7.99
+  },
+  {
+   "id": "kawaiipenshop-sun-star-peanuts-snoopy-glitter-folder-pink-new-limited-edit",
+   "name": "Sun-Star Peanuts Snoopy Glitter Folder - Pink - New Limited Edition",
+   "merchantDescription": "Get ready to dazzle your desk with this limited edition Peanuts Snoopy Glitter Folder ! With a vibrant pink background, floating star sequins, and double-sided comic strip cuteness, it brings sparkle, humor, and iconic charm to your school or office days. Shak",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 7.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-wood-piece-stamps",
+   "name": "Peanuts Snoopy Wood Piece Stamps",
+   "merchantDescription": "Add a sprinkle of Peanuts charm to your crafts with the Peanuts Snoopy Wood Piece Stamps ! ✨ Made by Japanese brand Kodomo No Kao, these sturdy wood stamps feature Snoopy in eight lovable designs — from typing on his typewriter and hugging Woodstock 💛, to sna",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 12.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-brothers-clear-stamp-set",
+   "name": "Peanuts Snoopy & Brothers Clear Stamp Set",
+   "merchantDescription": "Add a dash of cozy charm to your planner with this adorable Snoopy Brothers Clear Stamp Set ! Featuring 17 versatile designs—including to-do lists, mini calendars, lined blocks, and delicious treats—these transparent stamps make journaling, planning, or scrapb",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-drop-block-stickers",
+   "name": "Peanuts Snoopy 3D Block Stickers - Limited Vintage Series",
+   "merchantDescription": "Let your creativity pop with these playful Peanuts Snoopy 3D Block Stickers ! Each 3D tile-style sticker brings Snoopy and friends to life with a delightful puff of personality. Featuring 52 raised stickers in two sizes and two unique designs, these little cut",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 5.99
+  },
+  {
+   "id": "kawaiipenshop-math-mate-dual-screen-calculator-with-one-tap-erase-writing-",
+   "name": "Math Mate – Dual Screen Calculator with One-Tap Erase Writing Pad",
+   "merchantDescription": "Solve and scribble side-by-side with the Math Mate ! This smart foldable calculator opens up to reveal a full-function calculator on one side and a digital writing pad on the other — perfect for jotting down equations, steps, or quick notes. Tap the erase butt",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 25.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-passport-cover-pochacco",
+   "name": "Sanrio Characters Passport Cover - Pochacco",
+   "merchantDescription": "Take Pochacco with you on every trip! This soft blue PVC passport cover features Pochacco's floppy ears and gentle gaze peeking from behind a fluffy cloud of joy. It fits passports or B7 notebooks with room to spare inside thanks to extra pockets and a front s",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-passport-cover-my-melody",
+   "name": "Sanrio Characters Passport Cover - My Melody",
+   "merchantDescription": "Let soft pink and bunny ears be your travel aesthetic with this My Melody passport cover! Featuring her gentle face and iconic hood, this waterproof PVC case keeps your notes or passport tucked away with pastel charm. Extra pockets inside and out make it as pr",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-passport-cover-cinnamoroll",
+   "name": "Sanrio Characters Passport Cover - Cinnamoroll",
+   "merchantDescription": "Float through your day with the soft blue sweetness of this Cinnamoroll passport cover ! His round cheeks, floppy ears, and pastel bow bring gentle energy to your travels. Built from waterproof PVC, it features clever compartments and a snug fit for your passp",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-passport-cover-kuromi",
+   "name": "Sanrio Characters Passport Cover - Kuromi",
+   "merchantDescription": "Give your travel gear a playful twist with this bold Kuromi passport cover ! Featuring her signature smirk and pointy ears in rich purple tones, this waterproof PVC case brings attitude and organization. With plenty of inner storage and an outer pocket, it’s i",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-passport-cover-hello-kitty",
+   "name": "Sanrio Characters Passport Cover - Hello Kitty",
+   "merchantDescription": "Say hello to charm on-the-go with this pastel pink Hello Kitty passport cover ! Her iconic bow and soft expression peek from the front, adding cuteness to your travel plans. Use it as a notebook cover or passport protector—either way, it’s packed with thoughtf",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-3-in-1-fast-charging-cable",
+   "name": "Sanrio 3-in-1 Fast Charging Cable – Cute Multi-Device Charger",
+   "merchantDescription": "Charge with cuteness! This pastel-perfect Sanrio 3-in-1 Fast Charging Cable features your favorite characters—like Kuromi, My Melody, and Cinnamoroll—on a glittery braided cord that’s as tough as it is adorable. With one USB-A input and three outputs ( Lightni",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18.99
+  },
+  {
+   "id": "kawaiipenshop-rosyposy-sugar-cube-stapler",
+   "name": "RosyPosy Sugar Cube Stapler",
+   "merchantDescription": "Say hello to your new desk crush — the RosyPosy Sugar Cube Stapler ! This mini cutie is small in size but big on charm, with soft pastel accents, a matching star-shaped charm, and a playful “I Pick You :)” print. Just press the colored button to staple, and yo",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 10.99
+  },
+  {
+   "id": "kawaiipenshop-rosyposy-buddy-pencil-case",
+   "name": "RosyPosy Buddy Pencil Case",
+   "merchantDescription": "Your pens just found their bestie! The RosyPosy Buddy Pencil Case is the perfect mix of cute and practical, designed to carry up to 45 pens without breaking a sweat. With pastel charm and clever pockets (inside and out!), it's ready to tag along on study days,",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 28.99
+  },
+  {
+   "id": "kawaiipenshop-mickey-minnie-metallic-bookmark",
+   "name": "Mickey & Minnie Metallic Bookmark",
+   "merchantDescription": "Bring a touch of Disney magic to your next read with these charming Mickey Minnie slide-in bookmarks ! Featuring golden metal frames and vibrant enamel artwork, each bookmark stars Mickey, Minnie, or their adorable duo peeking from the page. Whether you're stu",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 11.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-hello-kitty-huggrip-phone-holder",
+   "name": "Sanrio Hello Kitty HugGrip Phone Holder",
+   "merchantDescription": "Let Hello Kitty hold your phone while you hit the road in style! This pink-tastic HugGrip Phone Holder is as functional as it is adorable, with four gentle grips shaped like kitty paws and bows to keep your phone snug—even on bumpy drives. It auto-locks with a",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 18.99
+  },
+  {
+   "id": "kawaiipenshop-snoopy-tote-bag",
+   "name": "Snoopy Tote Bag",
+   "merchantDescription": "Bring a little Peanuts charm to your daily routine with the Snoopy Tote Bag ! 🐶💛 Covered in fun doodles of Snoopy and Woodstock, this roomy canvas bag is perfect for grocery runs, art supplies, or everyday errands—with a splash of personality along for the r",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 27.99
+  },
+  {
+   "id": "kawaiipenshop-ensky-my-neighbor-totoro-paper-theatre-arrival-of-the-catbus",
+   "name": "Ensky My Neighbor Totoro Paper Theatre - Arrival of the Catbus",
+   "merchantDescription": "Step into a magical moment from My Neighbor Totoro with this enchanting Paper Theatre kit ! Featuring Totoro, Satsuki, Mei, and the grinning Catbus, this layered paper craft by Ensky Japan lets you recreate the iconic forest bus stop scene in stunning 3D. Each",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 44.99
+  },
+  {
+   "id": "kawaiipenshop-ensky-my-neighbor-totoro-3d-jigsaw-puzzle-catbus",
+   "name": "Ensky My Neighbor Totoro 3D Jigsaw Puzzle - Catbus",
+   "merchantDescription": "Piece together a bit of Ghibli whimsy with the Ensky Catbus 3D Jigsaw Puzzle ! With 18 playful parts, this charming build-it-yourself collectible features the iconic, grinning Catbus from My Neighbor Totoro —tiny mice lights and all! Once assembled, it becomes",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 47.99
+  },
+  {
+   "id": "kawaiipenshop-ensky-my-neighbor-totoro-3d-jigsaw-puzzle-chuu-totoro",
+   "name": "Ensky My Neighbor Totoro 3D Jigsaw Puzzle - Chuu-Totoro",
+   "merchantDescription": "Say hello to the little blue bundle of joy from My Neighbor Totoro ! This Chuu-Totoro 3D Jigsaw Puzzle by Ensky Japan is an 11-piece snap-together delight, transforming into a playful, pouch-carrying Totoro once complete. With his expressive face, curious pose",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 32.99
+  },
+  {
+   "id": "kawaiipenshop-ensky-my-neighbor-totoro-3d-jigsaw-puzzle-calcifer",
+   "name": "Ensky My Neighbor Totoro 3D Jigsaw Puzzle - Calcifer",
+   "merchantDescription": "Straight from the heart of Howl’s Moving Castle comes Calcifer —the cheeky little fire demon you know and love, now in adorable 3D puzzle form ! This collectible 9-piece jigsaw puzzle by Ensky Japan snaps together to create a glowing, translucent Calcifer that",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 32.99
+  },
+  {
+   "id": "kawaiipenshop-ensky-kikis-delivery-service-3d-jigsaw-puzzle-jiji",
+   "name": "Ensky Kiki's Delivery Service 3D Jigsaw Puzzle - Jiji",
+   "merchantDescription": "Build a little piece of Ghibli wonder with the Ensky Jiji 3D Jigsaw Puzzle ! This adorable 10-piece puzzle transforms into a sweet figurine of Jiji, the beloved black cat from Kiki’s Delivery Service , complete with his signature red bow. Made by Ensky Japan, ",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 32.99
+  },
+  {
+   "id": "kawaiipenshop-my-neighbor-totoro-wind-chime-forest-whispers",
+   "name": "My Neighbor Totoro Wind Chime - Forest Whispers - Limited Edition",
+   "merchantDescription": "Let the forest spirit sing to you with this enchanting Totoro wind chime ! Crafted in ceramic and hand-painted with visible brushstrokes, this whimsical piece brings a soft, melodic chime to your balcony, window, or cozy reading nook. Rain or shine, Totoro wil",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 28.99
+  },
+  {
+   "id": "kawaiipenshop-my-neighbor-totoro-ceramic-tableware",
+   "name": "My Neighbor Totoro Ceramic Tableware - Limited Edition",
+   "merchantDescription": "Bring a dash of Ghibli magic to mealtime with this adorable My Neighbor Totoro ceramic tableware ! Each piece—from the chubby-cheeked spoon to the charming plate and bowl—is lovingly hand-painted and full of woodland whimsy. Whether you're enjoying breakfast o",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 11.49
+  },
+  {
+   "id": "kawaiipenshop-my-neighbor-totoro-travel-luggage-name-tag-floral-frame",
+   "name": "My Neighbor Totoro Travel Luggage Name Tag – Floral Frame",
+   "merchantDescription": "Spot your suitcase in a breeze with this adorable Floral Frame Totoro luggage tag ! Made with durable rubber and a faux leather strap, it's the perfect travel companion for every Studio Ghibli fan. This elegant design features Totoro framed by pastel flowers, ",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-my-neighbor-totoro-travel-luggage-name-tag-chubby-totoro",
+   "name": "My Neighbor Totoro Travel Luggage Name Tag – Chubby Totoro",
+   "merchantDescription": "Spot your suitcase in a breeze with this adorable Chubby Totoro luggage tag ! Made with durable rubber and a faux leather strap, it's the perfect travel companion for every Studio Ghibli fan. Featuring Totoro in his classic sitting pose—round, relaxed, and rea",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-my-neighbor-totoro-travel-luggage-name-tag-umbrella-ride",
+   "name": "My Neighbor Totoro Travel Luggage Name Tag – Umbrella Ride",
+   "merchantDescription": "Spot your suitcase in a breeze with this adorable Umbrella Ride Totoro luggage tag ! Made with durable rubber and a faux leather strap, it's the perfect travel companion for every Studio Ghibli fan. Featuring Totoro mid-air with his trusty leaf and umbrella—ju",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-pokemon-pocket-monster-stickers",
+   "name": "Pokemon Pocket Monster Stickers",
+   "merchantDescription": "Bring the magic of Kanto to your journals, laptop, or water bottle with this epic pack of 50 Pokémon Pocket Monster Stickers ! Each sticker features a different beloved character—from Pikachu and Jigglypuff to Mewtwo and Dragonite—printed on durable, waterproo",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 6.99
+  },
+  {
+   "id": "kawaiipenshop-letters-never-sent-vintage-script-washi-tape-set",
+   "name": "Letters Never Sent Vintage Script Washi Tape Set",
+   "merchantDescription": "Let your pages speak in cursive with the Letters Never Sent Washi Tape Set — a dreamy collection of 8 vintage-inspired tapes featuring elegant handwritten scripts in sepia tones, creams, and deep browns. Each 1 cm roll offers delicate detail perfect for adding",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 11.99
+  },
+  {
+   "id": "kawaiipenshop-antique-pages-washi-tape-set",
+   "name": "Antique Pages Washi Tape Set",
+   "merchantDescription": "Give your crafts a nostalgic twist with the Antique Pages Washi Tape Set — a dreamy collection of 8 washi tapes inspired by old letters, book pages, and delicate illustrations. Each roll is 1 cm wide, perfect for layering, framing, or adding vintage flair to y",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 11.99
+  },
+  {
+   "id": "kawaiipenshop-autumn-cottage-days-stickers",
+   "name": "Autumn at the Cottage - Cozy Sticker Set",
+   "merchantDescription": "Wrap yourself in the warmth of fall with the Autumn at the Cottage - Cozy Sticker Set — a dreamy sticker set filled with cozy cottages, books, blankets, and golden leaves. Printed on transparent PET material, each sticker peels easily and adds a gentle, waterc",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 6.99
+  },
+  {
+   "id": "kawaiipenshop-nut-nest-forest-fall-animal-stickers",
+   "name": "Nut & Nest Forest Fall Animal Stickers",
+   "merchantDescription": "Step into an enchanted forest with the Nut Nest Fall Animal Sticker Set — a heartwarming collection of squirrels, deer, florals, and cozy cabins, all wrapped in the golden hues of autumn. With 20 dreamy designs (2 of each!) printed on durable PET material, the",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 6.99
+  },
+  {
+   "id": "kawaiipenshop-when-leaves-fall-clear-masking-tapes",
+   "name": "When Leaves Fall Clear Masking Tapes",
+   "merchantDescription": "Wrap your pages in a cozy autumn glow with the When Leaves Fall clear masking tapes . Each roll features beautifully illustrated leaves and florals in rich, fall-inspired hues—think golden ambers, russet reds, and warm cinnamon browns. Made of smooth PET with ",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 5.99
+  },
+  {
+   "id": "kawaiipenshop-whimsy-leaves-forest-friends-passport-cover",
+   "name": "Whimsy Leaves & Forest Friends Passport Cover (2 Designs)",
+   "merchantDescription": "Ready for a cozy adventure? These adorable passport covers are perfect for dreamy getaways and daily wanderings alike! Featuring charming forest critters and autumn leaves, this kawaii essential adds a sprinkle of joy to every journey. Made of smooth PU leathe",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 14.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-compact-mirror-comb-set",
+   "name": "Sanrio Compact Mirror & Comb Set",
+   "merchantDescription": "Stay cute and polished wherever you go! This adorable Sanrio compact set includes a handy mirror and matching comb , tucked inside a lightweight, pocket-sized case shaped like your favorite Sanrio friends. Perfect for touch-ups at school, work, or travel, it’s",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-sanrio-characters-magnet",
+   "name": "Sanrio Characters Magnet",
+   "merchantDescription": "Bring charm to every corner with the Sanrio Characters Magnet ! Whether it’s your fridge, locker, or desk, these adorable 3D magnets add a sprinkle of cuteness and fun. Choose your fave from Hello Kitty, Cinnamoroll, My Melody, Keroppi, Kuromi, or Pompompurin,",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 12.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-type-c-fast-charging-cable-cover",
+   "name": "Peanuts Snoopy Type-C Fast Charging Cable Cover",
+   "merchantDescription": "Charging your phone just got a whole lot cuter. This 4-piece Snoopy charging set transforms your everyday charger into a happy little beagle! With a snug silicone case shaped like Snoopy’s smiling face, a matching lightning tip cover, 1.4m cable sleeve, and ti",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 14.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-airpods-case",
+   "name": "Peanuts Snoopy AirPods Case",
+   "merchantDescription": "Let Snoopy guard your earbuds while he naps on his iconic red doghouse! This adorable AirPods case combines charm and protection, with soft-touch silicone and precise cutouts for easy charging and pairing. Available in two sizes (Gen 1/2 Pro), it comes with a ",
    "vendor": "Kawaii Pen Shop",
    "productType": null,
    "merchantTags": [],
    "price": 17.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-ceramic-bowl",
+   "name": "Peanuts Snoopy Ceramic Bowl",
+   "merchantDescription": "Mealtime just got a little cozier with these charming Snoopy ceramic bowls ! Featuring everyone’s favorite nap-loving beagle lounging inside the bowl, these glossy-glazed pieces bring a smile with every spoonful. Perfect for rice, cereal, soup, or snacks, they",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 16.49
+  },
+  {
+   "id": "kawaiipenshop-sun-star-peanuts-snoopy-notepad-light-pink-limited-edition",
+   "name": "Sun-Star Peanuts Snoopy Notepad - Light Pink - Limited Edition",
+   "merchantDescription": "Fall in love with every page! This charming Peanuts-themed notepad from Sun-Star Japan brings nostalgic joy and practical charm to your stationery stash. With sweet scenes of Snoopy and the gang, a heart-filled design, and playful pink hues, it’s the perfect p",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22.99
+  },
+  {
+   "id": "kawaiipenshop-peanuts-snoopy-passport-cover-snoopy-woodstock",
+   "name": "Peanuts Snoopy Passport Cover - Snoopy & Woodstock",
+   "merchantDescription": "Ready for a getaway with the cutest travel duo? This Snoopy Woodstock passport cover wraps your essentials in a hug of friendship and charm. Made of waterproof PVC, it fits a passport or B7 notebook with ease—and includes a handy outer sleeve plus multiple inn",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15.99
+  },
+  {
+   "id": "kawaiipenshop-gilded-flower-glow-stickers",
+   "name": "Gilded Flower Glow Stickers",
+   "merchantDescription": "Let your journal pages bloom with stardust! These ethereal PET stickers feature watercolor-like petals layered with radiant gold foil flowers or butterflies, capturing a magical glow in every detail. Each set includes 10 delicate stickers in your choice of 6 s",
+   "vendor": "Kawaii Pen Shop",
+   "productType": null,
+   "merchantTags": [],
+   "price": 6.99
   }
  ]
 }

@@ -1,0 +1,1445 @@
+{
+ "source": "sugoimart",
+ "batch": 16,
+ "items": [
+  {
+   "id": "sugoimart-survivor-energy-drink",
+   "name": "Survivor Energy Drink",
+   "merchantDescription": "This Survivor Energy Drink is an easy and delicious way to add more pep to your step. Featuring a sweet taste, this lightly fizzy drink is a refreshing option during busy days. It includes 120mg of caffeine, 375mg of arginine, 262mg of vitamin C, and B vitamin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250723JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_sweet",
+    "Low Stock",
+    "OOS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-hi-chew-sour-lemon-and-ume",
+   "name": "Hi-Chew Sour Lemon and Ume",
+   "merchantDescription": "Delight your taste buds with this Hi-Chew Sour Lemon and Ume (Japanese apricot) pack! It features 24 pieces split between the two flavors, each with a deliciously sour kick and juicy fruit taste. Each candy is chewy and crunchy, adding an exciting appeal to th",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250724JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_lemon",
+    "SUBCAT_CANDY"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-bourbon-picara-garlic-salt-sauce-flavor-rice-snacks",
+   "name": "Bourbon Picara Garlic Salt Sauce Flavor Rice Snacks",
+   "merchantDescription": "Switch things up on snack night with Bourbon Picara Garlic Salt Sauce Flavor Rice Snacks! This delicious bag features crunchy, non-fried rice snacks tossed with cashews in a bold garlic salt sauce flavor. They're great on their own, or tossed with trail mix! N",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "2025087JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "F_salt"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-morinaga-hi-chew-tropical",
+   "name": "Morinaga Hi-Chew Tropical",
+   "merchantDescription": "Dive into juicy tropical flavors with this Morinaga Hi-Chew Tropical candy pack! Explore the taste of banana, pineapple, or mango as you chew your way through these candies. Each Hi-Chew in this pack is made with real fruit juice, for a deliciously aromatic an",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SUBCAT_CANDY"
+   ],
+   "price": 7.29
+  },
+  {
+   "id": "sugoimart-suppai-daisakusen-summer-flavour-collection",
+   "name": "Suppai Daisakusen Summer Flavour Collection",
+   "merchantDescription": "Extend the warm weather fun with this delicious Suppai Daisakusen Summer Flavour Collection! These gummy candy sticks come in an assortment of four fruity flavors: pineapple, passion fruit, mango, and lychee. They're tossed in a sour powder for a tangy, addict",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "Low Stock"
+   ],
+   "price": 9.49
+  },
+  {
+   "id": "sugoimart-asura-energy-drink",
+   "name": "Asura Energy Drink",
+   "merchantDescription": "Keep your energy high during the day with this refreshing Asura Energy Drink! Made with dragon fruit and pomegranate juice, it features a deliciously fruity taste. It's caffeine-free, yet includes a 6,000 mg energy composition to offer an energy boost. This dr",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_soda",
+    "Low Stock"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-dr-pepper-diet",
+   "name": "Dr. Pepper Diet",
+   "merchantDescription": "Test your taste buds with this Japanese Dr. Pepper Diet! It features 20 out of 23 of the flavors in the American version, offering a cleaner, sweeter taste. Refreshing and delicious, this diet soda is perfect during snack and meal time. See if you can taste th",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_soda",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-okinawa-specialty-premium-shikuwasa-juice",
+   "name": "Okinawa Specialty Premium Shikuwasa Juice",
+   "merchantDescription": "Bring home a taste of Japan with this Okinawa Specialty Premium Shikuwasa Juice! Made with ao yuzu (green yuzu fruit) from Okinawa’s Ogimi Village, this juice offers an authentic taste. It's cold-pressed with its skin within 48 hours of being picked, preservin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinks",
+    "F_lemon"
+   ],
+   "price": 135.99
+  },
+  {
+   "id": "sugoimart-pokemon-ball-bath-bomb-grass-type",
+   "name": "Pokemon Ball Bath Bomb Grass Type",
+   "merchantDescription": "Become a Pokemon Trainer by adding this Pokemon Ball Bath Bomb to your bath! As it dissolves, it turns the bath water into a lovely green hue and releases a Grass Type Pokemon figure, like Meowth or Venusaur. Indulge in relaxation with its delightful forest ar",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sugoimart-pokemon-ball-bath-bomb-flying-type",
+   "name": "Pokemon Ball Bath Bomb Flying Type",
+   "merchantDescription": "This Pokemon Ball Bath Bomb is equally fun and relaxing! Enjoy the refreshing feel of menthol, light blue water hue, and lovely, clean soap aroma when using this bath ball. As it dissolves, it releases a Flying Type Pokemon figure that can be collected. Each b",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-terrarium-collection-15-blind-box",
+   "name": "Pokemon Terrarium Collection 15: Blind Box",
+   "merchantDescription": "Explore adorable mini scenes with this Pokemon Terrarium Collection 15 blind box! Each terrarium includes 1-2 Pokemon from the first generation of video games, like Pikachu, Mew, and Charizard. Each diorama in this 15th collection includes a commemorative disp",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-megrhythm-cool-eye-mask",
+   "name": "MegRhythm Cool Eye Mask",
+   "merchantDescription": "Refresh tired eyes after long tech days with this MegRhythm Cool Eye Mask! Upon opening the eye mask, it offers a delightful, cooling effect and a relaxing eucalyptus aroma. Loop it around your ears, and enjoy a spa-like experience in your own home. This pack ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250813JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 11.49
+  },
+  {
+   "id": "sugoimart-megrhythm-cool-neck-patch",
+   "name": "MegRhythm Cool Neck Patch",
+   "merchantDescription": "Hot summer days call for a cooling MegRhythm Cool Neck Patch! This 6-pack of neck patches includes menthol for a refreshing cooling effect that lasts about three hours. Its delightful bergamot citrus scent makes each patch feel like a spa experience. Use these",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250813JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 19.69
+  },
+  {
+   "id": "sugoimart-pokemon-all-star-collection-small-plush-toy-meowscarada",
+   "name": "Pokemon All Star Collection Small Plush Toy: Meowscarada",
+   "merchantDescription": "Channel your inner Pokemon Trainer with this Meowscarada Pokemon All Star Collection Small Plush Toy! With its soft, squishy material, it makes an excellent addition to collections or displays. It's a larger plushie that's ideal for transporting anywhere, allo",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250813JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 99.99
+  },
+  {
+   "id": "sugoimart-demon-slayer-s-h-figuarts-nezuko-kamado",
+   "name": "Demon Slayer S.H. Figuarts Nezuko Kamado",
+   "merchantDescription": "Uncover the many forms of Nezuko Kamado with this Demon Slayer S.H. Figuarts collectible figure! It features an array of interchangeable expressions, hand positions, and even a bottom half that allows Nezuko to be posed in a seated position. This figure also i",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250814JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_demon_slayer",
+    "data_department_anime_manga",
+    "data_ip_demon_slayer",
+    "data_persona_is_collector"
+   ],
+   "price": 122.49
+  },
+  {
+   "id": "sugoimart-dragon-ball-s-h-figuarts-son-goku",
+   "name": "Dragon Ball S.H. Figuarts Son Goku",
+   "merchantDescription": "Power up your anime collection with a Dragon Ball S.H. Figuarts Son Goku featuring his Super Saiyan God form! This figure includes moveable limbs and interchangeable hands and expressions, allowing you to pose Son Goku as you see fit. Use this detailed figure ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250814JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_dragon_ball",
+    "data_department_anime_manga",
+    "data_ip_dragon_ball",
+    "data_persona_is_collector"
+   ],
+   "price": 134.49
+  },
+  {
+   "id": "sugoimart-dragon-ball-s-h-figuarts-son-goku-ss-god-ss",
+   "name": "Dragon Ball S.H. Figuarts Son Goku SS God SS",
+   "merchantDescription": "Show off ultimate power with this Dragon Ball S.H. Figuarts of Son Goku in his SS God SS form! This Super Saiyan God Super Saiyan form features Son Goku's distinctive blue hair and blue eyes. With moveable limbs and interchangeable expressions and features, th",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250814JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_dragon_ball",
+    "data_department_anime_manga",
+    "data_ip_dragon_ball",
+    "data_persona_is_collector"
+   ],
+   "price": 141.99
+  },
+  {
+   "id": "sugoimart-2025-30-days-of-japan-calendar-by-sugoi-mart",
+   "name": "[SOLD OUT] 30 Days of Japan Advent Calendar by Sugoi Mart",
+   "merchantDescription": "Get ready to step into your very own Sugoi Mart conbini with the Sugoi Mart 30 Days of Japan Calendar , featuring 30 drawers of fun and flavor. Each day unveils a new treasure from beloved Japanese characters and brands like Sanrio, Pokemon, Kit Kat, Nintendo ",
+   "vendor": "Sugoi Mart",
+   "productType": "LUCKY BAGS",
+   "merchantTags": [
+    "ALL FOOD (FOR SHIPPING RESTRICTION)",
+    "Arrives by Christmas",
+    "CAT_LBSETS",
+    "CAT_LUCKYBAGS",
+    "data_department_sweets_snacks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 164.99
+  },
+  {
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-floragato",
+   "name": "Pokemon I Choose You Plush Toy: Floragato",
+   "merchantDescription": "With its detailed appearance, including Floragato's flower bud, this Pokemon I Choose You Plush Toy is a welcome addition to any collection or display. Its soft, squishy material makes it a cuddle-worthy companion. This plushie is the perfect size for transpor",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 95.49
+  },
+  {
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-espeon",
+   "name": "Pokemon I Choose You Plush Toy: Espeon",
+   "merchantDescription": "Transform your Pokemon display into its final form with this Espeon Pokemon I Choose You Plush Toy! Soft and cuddly, it's the perfect companion for snuggling at home or hugging on the go. Enjoy its cute appearance in a display or while recreating scenes from t",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 111.99
+  },
+  {
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-froakie",
+   "name": "Pokemon I Choose You Plush Toy: Froakie",
+   "merchantDescription": "Become carefree like Froakie with this adorable Pokemon I Choose You Plush Toy! With its soft, squishy material, it's the perfect cuddle buddy. It's smaller, making it ideal for transporting and hugging anywhere. This Froakie plushie is a fantastic gift for fa",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 81.99
+  },
+  {
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-umbreon",
+   "name": "Pokemon I Choose You Plush Toy: Umbreon",
+   "merchantDescription": "This Pokemon I Choose You Plush Toy of Umbreon, a Dark-type Pokemon, is the perfect bedtime companion. With its adorable appearance and soft, squishy material, it's cuddle-worthy and ultra huggable. It's also the ideal size for transporting, so it can offer a ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 74.49
+  },
+  {
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-mega-lucario",
+   "name": "Pokemon I Choose You Plush Toy Mega: Lucario",
+   "merchantDescription": "This adorable yet fierce Pokemon I Choose You Plush Toy of Mega Lucario adds a powerful flair to displays. With its soft, squishy material and detailed appearance, it's an excellent option for fans and collectors. Its size is also perfect for transporting, mak",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 83.99
+  },
+  {
+   "id": "sugoimart-pokemon-pichu-to-pikachu-transformer",
+   "name": "Pokemon Pichu to Pikachu Transformer",
+   "merchantDescription": "This Pokemon Pichu to Pikachu Transformer lets you witness the character evolving with your own eyes! This exciting toy features a special setup that lets you transform Pichu into Pikachu in only a few steps. Start the transition by snapping open Pichu. Add a ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-pokemon-sprigatito-to-meowscarada-transformer",
+   "name": "Pokémon Sprigatito to Meowscarada Transformer",
+   "merchantDescription": "Enjoy two feline Pokémon in one with this Sprigatito to Meowscarada Transformer toy! Snapping open Sprigatito begins the transformation into Meowscarada. Complete the transition with a few snap-on decorative pieces. This transformer toy is great for displays o",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 33.99
+  },
+  {
+   "id": "sugoimart-pokemon-quaxly-to-quaquaval-transformer",
+   "name": "Pokemon Quaxly to Quaquaval Transformer",
+   "merchantDescription": "Watch a magical transformation as this Pokemon Quaxly to Quaquaval Transformer toy shifts between bird-inspired characters! It only requires a few steps, starting by snapping open Quaxly. Finish the transition by attaching a few decorative pieces, and Quaquava",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 67.49
+  },
+  {
+   "id": "sugoimart-pokemon-fuecoco-to-skeledirge-transformer",
+   "name": "Pokemon Fuecoco to Skeledirge Transformer",
+   "merchantDescription": "Witness Pokemon change in real life with this Fuecoco to Skeledirge Transformer figure! With a snap, you'll start to see the transformation take place from Fuecoco to Skeledirge. Finish the shift by snapping on a few decorative parts, and you'll see a new char",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 49.49
+  },
+  {
+   "id": "sugoimart-pokemon-plush-yellow-mega-lucario",
+   "name": "Pokemon Plush Yellow Mega Lucario",
+   "merchantDescription": "Bring the power and speed of Yellow Mega Lucario home with this Pokekon Plush! This plushie features a detailed appearance, creating a more immersive experience for displays, collections, and scene recreations. Its soft, squishy feel makes it ideal for cuddlin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250730JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 128.49
+  },
+  {
+   "id": "sugoimart-megrhythm-steam-eye-mask-lavender-scent",
+   "name": "MegRhythm Steam Eye Mask Lavender Scent",
+   "merchantDescription": "Skip expensive spa visits and enjoy ultimate relaxation at home with this MegRhythm Steam Eye Mask featuring a Lavender Scent! This 16-pack includes warming eye masks that help with stress relief throughout the day. Once activated, each eye mask becomes fluffy",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "2025087JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-megrhythm-steam-eye-mask-forest-scent",
+   "name": "MegRhythm Steam Eye Mask Forest Scent",
+   "merchantDescription": "Uncover ultimate relaxation with this MegRhythm Steam Eye Mask featuring a lovely Forest Scent! This warming eye mask helps you de-stress any time of day, lasting about 20 minutes. Use it before work to start the day off right or before bedtime. When activated",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "2025087JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "OOS",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 86.99
+  },
+  {
+   "id": "sugoimart-megrhythm-steam-eye-mask-unscented",
+   "name": "MegRhythm Steam Eye Mask Unscented",
+   "merchantDescription": "Revive tired eyes with an Unscented MegRhythm Steam Eye Mask! This pack of 16 features warming eye masks that fluff up when activated, providing a cozy, relaxing effect. Each eye mask offers a heating effect that lasts about 20 minutes. Use it in the morning o",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "2025087JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 26.49
+  },
+  {
+   "id": "sugoimart-megrhythm-warming-sheets",
+   "name": "MegRhythm Warming Sheets",
+   "merchantDescription": "Ease stiff shoulders, achy backs, and tired muscles with these MegRhythm Warming Sheets. These sheets are meant to be adhered directly to the skin, providing a heating effect that can help prompt blood circulation and relieve stiffness and pain. Use these warm",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "2025087JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_HOUSEHOLD",
+    "Throne"
+   ],
+   "price": 49.49
+  },
+  {
+   "id": "sugoimart-yamazen-ice-neck-ring",
+   "name": "Yamazen Ice Neck Ring",
+   "merchantDescription": "Stay cool at festivals, work, amusement parks, hikes, sports, and other outdoor warm-weather activities with this Yamazen Ice Neck Ring! This easy-to-use neck ring only requires ice and water to keep you cool in the summertime. Add ice and cold water through t",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "2025087JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 63.49
+  },
+  {
+   "id": "sugoimart-hi-chew-assortment-dessert-mix",
+   "name": "Hi-Chew Assortment - Dessert Mix",
+   "merchantDescription": "Explore a mouthwatering dessert mix with this delicious Hi-Chew Assortment! Featuring three flavors (candy apple, strawberry ice cream, and key lime pie), this assorted pack will transport you to a dessert shop. Enjoy the same deliciously fruity taste and chew",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_sweet",
+    "Low Stock"
+   ],
+   "price": 7.49
+  },
+  {
+   "id": "sugoimart-demon-slayer-vanilla-wafers-volume-13",
+   "name": "Demon Slayer Vanilla Wafers Volume 13",
+   "merchantDescription": "Immerse yourself in the world of Demon Slayer with this Demon Slayer Vanilla Wafers Volume 13 set! Each pack includes a delicious vanilla wafer treat and a randomized Demon Slayer sticker! With 32 sticker designs available, it's exciting to unveil which one yo",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250813JB",
+    "CANDY & SNACKS",
+    "CAT_ANIME",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_character_demon_slayer",
+    "data_department_sweets_snacks",
+    "data_ip_demon_slayer"
+   ],
+   "price": 9.49
+  },
+  {
+   "id": "sugoimart-pokemon-moncolle-pokedelze-black-rayquaza-ancient-pokeball",
+   "name": "Pokemon Moncolle Pokedelze Black Rayquaza Ancient Pokeball",
+   "merchantDescription": "Practice your Pokemon trainer skills with this Moncolle Pokedelze Black Rayquaza Ancient Pokeball. This set includes a Black Rayquaza figure and an ancient Pokeball. Place the figure inside the Pokeball, close it, and roll it to enjoy watching the Pokemon pop ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-muji-sesame-miso-soup-with-pork-and-bok-choy",
+   "name": "Muji Sesame Miso Soup with Pork and Bok Choy",
+   "merchantDescription": "Indulge in a comforting soup in only a few minutes with this Muji Sesame Miso Soup with Pork and Bok Choy! This instant soup features a savory, slightly sweet, and spicy pork bok choy broth you'll want to eat daily. This pack includes four individual servings,",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250813JB",
+    "CAT_FOODDRINKS",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_meals",
+    "F_pork",
+    "MB-25/8/19"
+   ],
+   "price": 17.29
+  },
+  {
+   "id": "sugoimart-bourbon-alfort-mini-japanese-chestnut-mont-blanc-flavor",
+   "name": "Bourbon Alfort Mini Japanese Chestnut Mont Blanc Flavor",
+   "merchantDescription": "These seasonal Bourbon Alfort Mini Japanese Chestnut Mont Blanc Flavor cookies are the ultimate indulgent treat! Featuring a crispy wheat biscuit base and creamy chocolate top layer, they're a delicious way to satisfy cravings. Each of these cookies includes a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250808JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chestnut",
+    "F_chocolate"
+   ],
+   "price": 12.69
+  },
+  {
+   "id": "sugoimart-fujiya-look-sweet-potato-japanese-chestnut",
+   "name": "Fujiya Look Sweet Potato & Japanese Chestnut",
+   "merchantDescription": "Treat your tastebuds to indulgent, autumn-inspired chocolates with this Fujiya Look Sweet Potato Japanese Chestnut box! This pack includes two different chocolates, each a popular falltime flavor in Japan. Indulge in the delicious taste of sweet potato or Japa",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250808JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "Low Stock"
+   ],
+   "price": 15.29
+  },
+  {
+   "id": "sugoimart-osomatsu-san-fizz-gin-tonic-flavor-carbonated-drink",
+   "name": "Osomatsu-san FIZZ Gin & Tonic Flavor Carbonated Drink",
+   "merchantDescription": "Immerse yourself in Osomatsu-san with this newly released, limited-edition FIZZ Gin Tonic Flavor Carbonated Drink! This 0% alcohol drink features a sophisticated, refreshing gin and tonic taste that anyone can enjoy. It also includes a fun can design inspired ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_fruit",
+    "Low Stock"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-bandai-gundam-gunpla-package-art-gummy-2",
+   "name": "Bandai Gundam Gunpla Package Art Gummy 2",
+   "merchantDescription": "Part fun, part tasty treat, this Bandai Gundam Gunpla Package Art Gummy 2 is a must for collectors and fans! Each pack includes a delicious gummy in the shape of \"runners\" from Gunpla Kits and a collectible card featuring a mobile suit or vehicle from the seri",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_gundam",
+    "data_department_anime_manga",
+    "data_ip_bandai",
+    "data_persona_is_collector"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-xyli-crystal-milk-mint-throat-lozenges",
+   "name": "Xyli Crystal Milk Mint Throat Lozenges",
+   "merchantDescription": "Featuring peppermint oil and milk, these Xyli Crystal Milk Mint Throat Lozenges offer a delightful flavor and cooling effect. Use them to soothe a sore throat or enjoy them when sweet cravings hit. With a convenient resealable bag, these cough drops are easy t",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_mint",
+    "MB-25/8/19"
+   ],
+   "price": 8.29
+  },
+  {
+   "id": "sugoimart-kasugai-kisri-crystal-fruit-assorted-throat-candy",
+   "name": "Kasugai Kisri Crystal Fruit Assorted Throat Candy",
+   "merchantDescription": "Cooling, soothing, and featuring a delicious fruity flavor, this Kasugai Kisri Crystal Fruit Assorted Throat Candy is great for cold and flu season! These cough drops include Vitamin C to help boost immunity while soothing sore throats. This pack includes thre",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "MB-25/8/19"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-kasugai-seika-kisyl-crystal-honey-assorted-throat-candy",
+   "name": "Kasugai Seika Kisyl Crystal Honey Assorted Throat Candy",
+   "merchantDescription": "Featuring delicious fruity flavors and Vitamin C, this Kasugai Seika Kisyl Crystal Honey Assorted Throat Candy is a must for sore throats. Each lozenge is crafted with xylitol, making this a sugar-free cough drop offering. They feature a cooling effect to help",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "MB-25/8/19"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-bourbon-mini-baum-roll-japanese-chestnut-mont-blanc-flavor",
+   "name": "Bourbon Mini Baum Roll Japanese Chestnut Mont Blanc Flavor",
+   "merchantDescription": "Dive into decadence with this Bourbon Mini Baum Roll Japanese Chestnut Mont Blanc Flavor. A rich Japanese chestnut Mont Blanc-flavored cream surrounds this delightful mini cake roll. With each addictive bite, the delicious taste of chestnut spreads throughout ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_chestnut",
+    "F_chocolate"
+   ],
+   "price": 20.99
+  },
+  {
+   "id": "sugoimart-kasugai-seika-non-sugar-manuka-honey-throat-candy",
+   "name": "Kasugai Seika Non-Sugar Manuka Honey Throat Candy",
+   "merchantDescription": "Soothe sore throats with this Kasugai Seika Non-Sugar Manuka Honey Throat Candy! Made with chamomile and manuka honey, these throat lozenges create a calming effect. Their delicious taste makes them an easy choice when feeling under the weather. Net Weight: 65",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_honey",
+    "MB-25/8/19"
+   ],
+   "price": 7.49
+  },
+  {
+   "id": "sugoimart-demon-slayer-nendoroid-zenitsu",
+   "name": "Demon Slayer Nendoroid: Zenitsu",
+   "merchantDescription": "Enjoy the kawaii appearance of Zenitsu with this Demon Slayer Nendoroid! This palm-sized action figure features a typical Nendoroid Doll head, with a poseable, doll-like body. Recreate your favorite Zenitsu scenes and poses easily with this Nendoroid! Size: 8 ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_demon_slayer",
+    "data_department_anime_manga",
+    "data_ip_demon_slayer",
+    "data_persona_is_collector"
+   ],
+   "price": 123.49
+  },
+  {
+   "id": "sugoimart-demon-slayer-non-scale-plastic-action-figure-sanemi-shinazug",
+   "name": "Demon Slayer Non Scale Plastic Action Figure: Sanemi Shinazugawa",
+   "merchantDescription": "Complete an anime collection with this Sanemi Shinazugawa Demon Slayer Non Scale Plastic Action Figure! This figure shows off Sanemi's power with an exciting (and intimidating!) pose. Use this figure to recreate scenes from the series or add it to a display! S",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_demon_slayer",
+    "data_department_anime_manga",
+    "data_ip_demon_slayer",
+    "data_persona_is_collector"
+   ],
+   "price": 83.99
+  },
+  {
+   "id": "sugoimart-demon-slayer-action-figure-tamashii-nations-zenitsu",
+   "name": "Demon Slayer Action Figure Tamashii Nations: Zenitsu",
+   "merchantDescription": "Bring Zenitsu's demon slaying powers to life with this detailed, high-quality Demon Slayer Action Figure from Tamashii Nations! This figure includes movable and interchangeable parts, making it easy to pose the character as you see fit. Shift its facial expres",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_demon_slayer",
+    "data_department_anime_manga",
+    "data_ip_demon_slayer",
+    "data_persona_is_collector"
+   ],
+   "price": 124.99
+  },
+  {
+   "id": "sugoimart-kaiju-no-8-s-h-figuarts-mina-ashiro",
+   "name": "Kaiju No. 8 S.H. Figuarts: Mina Ashiro",
+   "merchantDescription": "Bring the kaiju battle home with this Kaiju No. 8 S.H. Figuarts of Mina Ashiro! This detailed, high-quality figure includes an exciting element - movable and interchangeable parts. Shift the character's poses and expressions easily to recreate scenes from the ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_kaiju_no_8",
+    "data_department_anime_manga",
+    "data_ip_kaiju_no_8",
+    "data_persona_is_collector"
+   ],
+   "price": 133.99
+  },
+  {
+   "id": "sugoimart-kaiju-no-8-s-h-figuarts-reno-ichikawa",
+   "name": "Kaiju No. 8 S.H. Figuarts: Reno Ichikawa",
+   "merchantDescription": "Highlight Reno Ichikawa's high combat power with this action-packed Kaiju No. 8 S.H. Figuarts figure! With various interchangeable expressions, hands, hair, and movable limbs, you can pose this character figure dynamically. Use it to recreate scenes from the s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_kaiju_no_8",
+    "data_department_anime_manga",
+    "data_ip_kaiju_no_8",
+    "data_persona_is_collector"
+   ],
+   "price": 148.99
+  },
+  {
+   "id": "sugoimart-kaiju-no-8-s-h-figuarts-kikoru-shinomiya",
+   "name": "Kaiju No. 8 S.H. Figuarts: Kikoru Shinomiya",
+   "merchantDescription": "With this exciting Kikoru Shinomiya Kaiju No. 8 S.H. Figuarts figure, you can immerse yourself further in the anime! This figure features a detailed appearance, making it seem as if the character stepped right out of the series. It also includes movable limbs ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_kaiju_no_8",
+    "data_department_anime_manga",
+    "data_ip_kaiju_no_8",
+    "data_persona_is_collector"
+   ],
+   "price": 173.49
+  },
+  {
+   "id": "sugoimart-one-piece-gear-5-s-h-figuarts-monkey-d-luffy",
+   "name": "One Piece Gear 5- S.H. Figuarts: Monkey D. Luffy",
+   "merchantDescription": "Become the main character with this Monkey D. Luffy One Piece Gear 5- S.H. Figuarts figure! With its movable limbs and interchangeable parts, this figure can show off different facets of Luffy's personality. Lean into the Straw Hat Pirates' captain's playful o",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece",
+    "data_persona_is_collector"
+   ],
+   "price": 114.49
+  },
+  {
+   "id": "sugoimart-one-piece-s-h-figuarts-yamato",
+   "name": "One Piece S.H. Figuarts: Yamato",
+   "merchantDescription": "Join the Straw Hat Pirates with this high-quality, detailed Yamato One Piece S.H. Figuarts figure! This exciting figure includes movable and interchangeable parts (including expressions and hands), allowing you to pose the character as you see fit. Whether a c",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece",
+    "data_persona_is_collector"
+   ],
+   "price": 171.49
+  },
+  {
+   "id": "sugoimart-dragon-ball-daima-s-h-figuarts-piccolo",
+   "name": "Dragon Ball Daima S.H. Figuarts: Piccolo",
+   "merchantDescription": "This detailed Dragon Ball Daima S.H. Figuarts of Piccolo helps bring the powerful character to life! This character, featured in \"Dragon Ball DAIMA\", shows off his moves with this exciting figure. Featuring movable limbs and an interchangeable head, wrists, an",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_dragon_ball",
+    "data_department_anime_manga",
+    "data_ip_dragon_ball",
+    "data_persona_is_collector"
+   ],
+   "price": 183.49
+  },
+  {
+   "id": "sugoimart-dragon-ball-z-s-h-figuarts-majin-buu",
+   "name": "Dragon Ball Z S.H. Figuarts: Majin Buu",
+   "merchantDescription": "This exciting Dragon Ball Z S.H. Figuarts of Majin Buu features movable limbs and interchangeable parts. Create different poses, actions, and expressions to your heart's content. This detailed figure is ideal for displaying or recreating scenes from Dragon Bal",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250808JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_dragon_ball",
+    "data_department_anime_manga",
+    "data_ip_dragon_ball",
+    "data_persona_is_collector"
+   ],
+   "price": 116.49
+  },
+  {
+   "id": "sugoimart-house-jma-thai-green-curry-retort",
+   "name": "House JMA Thai Green Curry Retort",
+   "merchantDescription": "Conduct your own Japan Menu Award ceremony at home with this House JMA Thai Green Curry Retort. This curry is inspired by the restaurant menu selected by Japan Menu Award judges. It centers on the aromatic, bold flavor of Thai green curry paste. Enjoy its spic",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": null,
+   "merchantTags": [
+    "20250805JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_curry",
+    "Low Stock",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 10.99
+  },
+  {
+   "id": "sugoimart-kameya-wasabi-salt",
+   "name": "Kameya Wasabi Salt",
+   "merchantDescription": "Elevate recipes with this delightful Kameya Wasabi Salt! Crafted with domestic Japanese salt and Shizuoka Prefecture wasabi, this condiment adds pungent heat to dishes. Use it to enhance sushi, poke bowls, tempura, salads, meat dishes, and more! Net Weight: 45",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "F_salty",
+    "F_spicy"
+   ],
+   "price": 16.49
+  },
+  {
+   "id": "sugoimart-colombin-tokyo-skytree-merveille",
+   "name": "Colombin Tokyo Skytree Merveille",
+   "merchantDescription": "This Colombin Tokyo Skytree Merveille pack makes the perfect souvenir or gift for loved ones. It features a stunning Tokyo Skytree(R) design approved by the Tokyo Skytree(R) Secretariat. This pack includes 24 cookies, split between three decadent flavors: milk",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_sweet",
+    "SUBCAT_CANDY"
+   ],
+   "price": 49.49
+  },
+  {
+   "id": "sugoimart-meiji-white-chocolate-stick-pack",
+   "name": "Meiji White Chocolate Stick Pack",
+   "merchantDescription": "Uncover the rich taste of Hokkaido milk with this Meiji White Chocolate Stick Pack! This pack includes 10 chocolate pieces, each featuring a delightful white chocolate and Hokkaido milk flavor. This chocolate box can be resealed, making it a top choice for sat",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250725JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "F_milk"
+   ],
+   "price": 9.49
+  },
+  {
+   "id": "sugoimart-godzilla-1-0-starter-deck",
+   "name": "Godzilla -1.0 Starter Deck",
+   "merchantDescription": "Unleash the power of Godzilla with this Godzilla -1.0 Starter Deck! With a 50-card main deck, four monster cards, and six rage cards, you can create the 54-card deck of your dreams. This deck features red cards, ensuring powerful gameplay! Size: 10 x 10 x 10 c",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250727JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_collector"
+   ],
+   "price": 44.49
+  },
+  {
+   "id": "sugoimart-godzilla-card-game-sd02-heisei-series-starter-deck",
+   "name": "Godzilla Card Game SD02 – Heisei Series Starter Deck",
+   "merchantDescription": "Harness Godzilla's power with this Godzilla Card Game SD02 – Heisei Series Starter Deck! Perfect for beginners or collectors, this pack features a 50-card main deck, four monster cards, and six rage cards. Use it to assemble your ideal 54-card deck for gamepla",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250727JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_collector"
+   ],
+   "price": 58.49
+  },
+  {
+   "id": "sugoimart-godzilla-vs-godzilla-card-pack-1-pack",
+   "name": "Godzilla vs Godzilla Card Pack 1 Pack",
+   "merchantDescription": "Add more power to a Godzilla deck with this Godzilla vs Godzilla Card Pack 1 Pack! It features seven randomized cards to help boost your deck and gameplay. Expect a combination of red, white, and/or blue cards, allowing you to craft the best deck possible. Siz",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250727JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_collector"
+   ],
+   "price": 9.29
+  },
+  {
+   "id": "sugoimart-godzilla-vs-godzilla-full-set",
+   "name": "Godzilla vs Godzilla Full Set",
+   "merchantDescription": "Bring power to the table with this Godzilla vs Godzilla Full Set! This exclusive set is the first booster available for Godzilla card games. It features 12 packs with seven randomized cards per pack. Expect an array of red, white, and blue cards in this full s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250727JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_collector"
+   ],
+   "price": 121.99
+  },
+  {
+   "id": "sugoimart-yamayoshi-infinite-salt-potato-chips",
+   "name": "Yamayoshi Infinite Salt Potato Chips",
+   "merchantDescription": "These Yamayoshi Infinite Salt Potato Chips are so tasty, you'll wish there were an infinite amount in each bag! Crafted with salt and seaweed from the Ariake Sea, expect a delightful umami flavor in each bite. They're seasoned with garlic and chili pepper for ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "2025087JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_character_yoshi",
+    "data_department_sweets_snacks",
+    "data_ip_nintendo",
+    "data_persona_is_foodie",
+    "data_persona_is_gamer"
+   ],
+   "price": 11.69
+  },
+  {
+   "id": "sugoimart-morinaga-large-ramune-strong-carbonated-cola",
+   "name": "Morinaga Large Ramune Strong Carbonated Cola",
+   "merchantDescription": "Indulge in the taste of Cola Ramune on the go with this Morinaga Large Ramune Strong Carbonated Cola candy. Each piece offers a fizzy soda taste for a refreshing, fun taste. This package is resealable, making it easy to enjoy this treat anywhere. Net Weight: 3",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "SUBCAT_CANDY"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-disney-donald-plush-keychain-japanese-matsuri-collection",
+   "name": "Disney Donald Plush Keychain Japanese Matsuri Collection",
+   "merchantDescription": "This newly released Disney Donald Plush Keychain from the Japanese Matsuri Collection adds a fun flair to bags, purses, keys, and more! It features Donald Duck in a Japanese happi coat and a twisted headband, ready to head to a festival. Get this limited editi",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_mickey_and_friends",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-disney-dale-plush-keychain-japanese-matsuri-collection",
+   "name": "Disney Dale Plush Keychain Japanese Matsuri Collection",
+   "merchantDescription": "Every day will feel like a celebration with this super-cute Disney Dale Plush Keychain from the Japanese Matsuri Collection! It features a Japanese festival-inspired outfit, including a happi coat, a rolled headband, and a candy apple. Enjoy the kawaii appeara",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_dale",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-disney-stitch-plush-keychain-japanese-matsuri-collection",
+   "name": "Disney Stitch Plush Keychain Japanese Matsuri Collection",
+   "merchantDescription": "Celebrate the magic of Japanese festivals with this adorable Disney Stitch Plush Keychain from the Japanese Matsuri Collection! This plushie keychain features Stitch wearing a festival-inspired outfit, complete with a Japanese happi coat, rolled headband, and ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_stitch",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-pop-mart-skullpanda-the-ink-plum-blossom-series",
+   "name": "Pop Mart Skullpanda The Ink Plum Blossom Series",
+   "merchantDescription": "Immerse yourself in the enchanting world of Pop Mart Skullpanda , featuring the exquisite The Ink Plum Blossom series. This captivating collection showcases unique designs, blending whimsical artistry with intricate details. Each figure boasts its own personal",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 21.49
+  },
+  {
+   "id": "sugoimart-disney-chip-plush-keychain-japanese-matsuri-collection",
+   "name": "Disney Chip Plush Keychain Japanese Matsuri Collection",
+   "merchantDescription": "This adorable Disney Chip Plush Keychain is a newly released offering from the Japanese Matsuri Collection! This plushie keychain shows Chip ready for festivals and summer celebrations with a fan, Japanese happi coat, and rolled headband. Enjoy its cute appear",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_chip",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-pop-mart-skullpanda-image-of-reality",
+   "name": "Pop Mart Skullpanda Image Of Reality",
+   "merchantDescription": "Introducing the Pop Mart Skullpanda - Image of Reality series, featuring captivating and whimsical collectible figures that bring an enchanting blend of artistry and playfulness. Each unique figure features a charming character adorned in a distinctive hat or ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 21.49
+  },
+  {
+   "id": "sugoimart-pop-mart-tinytiny-the-prologue-series",
+   "name": "Pop Mart TINYTINY The Prologue Series",
+   "merchantDescription": "Explore the imaginative world of TINYTINY with this Pop Mart TINYTINY The Prologue blind box Series! This adorable character can travel through time and transform into imaginary characters on her journey. Enjoy the whimsical figures from this mystery box serie",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "Rare",
+    "SUBCAT_COLLECTIBLES"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-disney-big-hero-6-plush-keychain-japanese-matsuri-collection",
+   "name": "Disney Big Hero 6 Plush Keychain Japanese Matsuri Collection",
+   "merchantDescription": "This exclusive Disney Big Hero 6 Plush Keychain from the Japanese Matsuri Collection is festival-ready! With a red Japanese happi coat and matching rolled headband, Baymax is dressed to impress. This plush keychain also features the beloved character holding a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys",
+    "SUBCAT_ACCESSORIES"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-pop-mart-skullpanda-city-of-night-series",
+   "name": "Pop Mart Skullpanda City of Night Series",
+   "merchantDescription": "Introducing the Pop Mart Skullpanda City of Night Series – a stunning collectible that brings together artistry and whimsy! These charming figures feature a unique design with a character that embodies the vibrant spirit of the city at night. With intricate de",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-pepsi-big-zero-peach",
+   "name": "Pepsi Big Zero Peach",
+   "merchantDescription": "Bring the taste of Japanese peaches home with this refreshing Pepsi Big Zero Peach soda! Made with real Japanese peach juice extract, each sip is delightfully fruity and delicious. Since it's part of the Zero line, it has zero calories. This larger bottle is p",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250807JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_peach",
+    "Low Stock"
+   ],
+   "price": 8.69
+  },
+  {
+   "id": "sugoimart-kawaiine-sweet-potato-skin-snacks",
+   "name": "Kawaiine Sweet Potato Skin Snacks",
+   "merchantDescription": "Satisfy sweet cravings without the guilt with these Kawaiine Sweet Potato Skin Snacks. Made with rice bran and whole sweet potatoes, each bite offers a delicious flavor. Through a special manufacturing process, the sweetness of the sweet potatoes is enhanced w",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_sweet_snacks",
+    "F_potato 20250717JB",
+    "Low Stock"
+   ],
+   "price": 10.99
+  },
+  {
+   "id": "sugoimart-monster-energy-ripper",
+   "name": "Monster Energy Ripper",
+   "merchantDescription": "Enjoy the burst of tropical flavors in each sip of this Monster Energy Ripper beverage! Featuring 23% fruit juice, expect a boost of energy that's easy to drink. This Monster drink boasts a tangy pineapple taste accented with the flavor of guava, papaya, and p",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20240807JB WB-24/8/4",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_fruit",
+    "Low Stock",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 13.49
+  },
+  {
+   "id": "sugoimart-florence-purple-yam-spread",
+   "name": "Florence Purple Yam Spread",
+   "merchantDescription": "Bring the delicious taste of Filipino ube to meals with this Florence Purple Yam Spread! Featuring a complex, nutty vanilla taste, this spread is a versatile ingredient. Enjoy it on toast, as a filling for cakes and cookies, or by the spoonful! Net Weight: 340",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_yam",
+    "Low Stock",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 37.49
+  },
+  {
+   "id": "sugoimart-giron-powdered-purple-yam",
+   "name": "Giron Powdered Purple Yam",
+   "merchantDescription": "Create the ube desserts and drinks of your dreams with this Giron Powdered Purple Yam packet! This ube powder is versatile, as you can add it to sweet and savory recipes. Use it for cakes, cookies, ice cream, lattes, and more. It adds a delicious, nutty, vanil",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_yam",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 33.49
+  }
+ ]
+}

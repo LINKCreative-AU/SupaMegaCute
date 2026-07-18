@@ -1,0 +1,1236 @@
+{
+ "source": "uwumarket",
+ "batch": 25,
+ "items": [
+  {
+   "id": "uwumarket-misamisavt-postcard",
+   "name": "MisaMisaVT Postcard",
+   "merchantDescription": "MisaMisaVT x UwU Collab MisaMisaVT Postcard Designed By: Ryza",
+   "vendor": "UwU Market",
+   "productType": "GPC01",
+   "merchantTags": [
+    "anime merch",
+    "anime post card",
+    "vtuber merch",
+    "vtuber post card"
+   ],
+   "price": 6.95
+  },
+  {
+   "id": "uwumarket-bubulle-cafishius-subathon-chibi-sticker",
+   "name": "Bubulle_Cafishius Subathon Chibi Sticker",
+   "merchantDescription": "Bubulle_Cafishius x UwU Collab Bubulle_Cafishius Subathon Chibi Sticker Designed By: citrusbum",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-bubulle-cafishius-subathon-chibi-keychain",
+   "name": "Bubulle_Cafishius Subathon Chibi Keychain",
+   "merchantDescription": "Bubulle_Cafishius x UwU Collab Bubulle_Cafishius Subathon Chibi Keychain Designed By: citrusbum",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-wesleyj-blessed-day-sticker",
+   "name": "WesleyJ 'Blessed Day' Sticker",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Blessed Day' Sticker Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-wesleyj-dumbdumb-sticker",
+   "name": "WesleyJ 'DumbDumb' Sticker",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'DumbDumb' Sticker Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-wesleyj-gotta-piss-sticker",
+   "name": "WesleyJ 'Gotta piss' Sticker",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Gotta piss' Sticker Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-keychain",
+   "name": "WesleyJ 'Cafe' Keychain",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Keychain Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-standee",
+   "name": "WesleyJ 'Cafe' Standee",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Standee Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-wesleyj-gotta-piss-mugs",
+   "name": "WesleyJ 'Gotta piss' Mugs",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Gotta piss' Mugs Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "MGS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mug",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mug"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "uwumarket-wesleyj-howdydowdy-hat",
+   "name": "WesleyJ 'HowdyDowdy' Hat",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'HowdyDowdy' Hat Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "DHK01",
+   "merchantTags": [
+    "anime hat",
+    "anime merch",
+    "vtuber",
+    "vtuber hat",
+    "vtuber merch"
+   ],
+   "price": 32.99
+  },
+  {
+   "id": "uwumarket-wesleyj-squibby-hat",
+   "name": "WesleyJ 'Squibby' Hat",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Squibby' Hat Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "DHK01",
+   "merchantTags": [
+    "anime hat",
+    "anime merch",
+    "vtuber",
+    "vtuber hat",
+    "vtuber merch"
+   ],
+   "price": 32.99
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-phone-case",
+   "name": "WesleyJ 'Cafe' Phone Case",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Phone Case Designed By: MelMei",
+   "vendor": "UwU Market",
+   "productType": "PHC01",
+   "merchantTags": [
+    "anime iphone case",
+    "anime merch",
+    "anime phone case",
+    "vtuber",
+    "vtuber iphone case",
+    "vtuber merch",
+    "vtuber phone case"
+   ],
+   "price": 25
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-sweatpants",
+   "name": "WesleyJ 'Cafe' Sweatpants",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Sweatpants Designed By: MelMei",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-hat",
+   "name": "WesleyJ 'Cafe' Hat",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Hat Designed By: MelMei",
+   "vendor": "UwU Market",
+   "productType": "DHK01",
+   "merchantTags": [
+    "anime hat",
+    "anime merch",
+    "vtuber",
+    "vtuber hat",
+    "vtuber merch"
+   ],
+   "price": 32.99
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-shirt",
+   "name": "WesleyJ 'Cafe' Shirt",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Shirt Designed By: MelMei",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-crewneck",
+   "name": "WesleyJ 'Cafe' Crewneck",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Crewneck Designed By: MelMei",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-wesleyj-howdydowdy-hoodie",
+   "name": "WesleyJ 'HowdyDowdy' Hoodie",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'HowdyDowdy' Hoodie Designed By: WesleyJ",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-wesleyj-cafe-hoodie",
+   "name": "WesleyJ 'Cafe' Hoodie",
+   "merchantDescription": "WesleyJ x UwU Collab WesleyJ 'Cafe' Hoodie Designed By: MelMei",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-mizukithia-enamel-pin-campaign",
+   "name": "Mizukithia Enamel Pin Campaign",
+   "merchantDescription": "Mizukithia x UwU Collab LIMITED TIME ONLY! Pre Orders close on 06/19/26 - 12.30PM CST! Approx 2\" at the longest point Black nickel plating",
+   "vendor": "UwU Market",
+   "productType": "ENP01",
+   "merchantTags": [
+    "anime enamel pin",
+    "enamel pin",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "vtuber enamel pin"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "uwumarket-2026-liminal-spring-poster",
+   "name": "DalekMusical 2026 Liminal Spring Poster",
+   "merchantDescription": "DalekMusical x UwU Collab 2026 Liminal Spring Poster Designed By: NoiseNye",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-koummand-lets-go-kou-haori",
+   "name": "Koummand \"Let's Go, Kou!\" Haori",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Let's Go, Kou!\" Haori Designed By: IjenejI",
+   "vendor": "UwU Market",
+   "productType": "HAO01",
+   "merchantTags": [
+    "anime haori",
+    "anime merch",
+    "haori",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "uwumarket-koummand-kou-the-dog-tag-jet-tag",
+   "name": "Koummand \"Kou, The Dog Tag\" Jet Tag",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Kou, The Dog Tag\" Jet Tag Designed By: ohnowosabby IjenejI",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-koummand-a-bunch-of-fluffs-sweatpants",
+   "name": "Koummand \"A Bunch of Fluffs\" Sweatpants",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"A Bunch of Fluffs\" Sweatpants Designed By: kohiraikan",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-koummand-a-bunch-of-fluffs-white-t-shirt",
+   "name": "Koummand \"A Bunch of Fluffs\" White T-Shirt",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"A Bunch of Fluffs\" White T-Shirt Designed By: kohiraikan ohnowosabby",
+   "vendor": "UwU Market",
+   "productType": "TSW01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-koummand-lets-go-kou-gray-crewneck",
+   "name": "Koummand \"Let's Go, Kou!\" Gray Crewneck",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Let's Go, Kou!\" Gray Crewneck Designed By: 258meaw",
+   "vendor": "UwU Market",
+   "productType": "CNG01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79
+  },
+  {
+   "id": "uwumarket-koummand-lets-go-kou-blue-hoodie",
+   "name": "Koummand \"Let's Go, Kou!\" Blue Hoodie",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Let's Go, Kou!\" Blue Hoodie Designed By: 258meaw",
+   "vendor": "UwU Market",
+   "productType": "HDB01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-koummand-lets-go-kou-gray-hoodie",
+   "name": "Koummand \"Let's Go, Kou!\" Gray Hoodie",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Let's Go, Kou!\" Gray Hoodie Designed By: 258meaw",
+   "vendor": "UwU Market",
+   "productType": "HDD01",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89
+  },
+  {
+   "id": "uwumarket-koummand-kous-kickoff-event-welcome-edition-acrylic-standee",
+   "name": "Koummand \"Kou's Kickoff Event - Welcome Edition\" Acrylic Standee",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Kou's Kickoff Event - Welcome Edition\" Acrylic Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-koummand-kous-kickoff-event-heart-pose-edition-acrylic-stand",
+   "name": "Koummand \"Kou's Kickoff Event - Heart Pose Edition\" Acrylic Standee",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Kou's Kickoff Event - Heart Pose Edition\" Acrylic Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-koummand-chillaxing-acrylic-standee",
+   "name": "Koummand \"Chillaxing\" Acrylic Standee",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Chillaxing\" Acrylic Standee Designed By: ohnowosabby",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-koummand-kou-the-samoyed-vtuber-xxl-mousepad",
+   "name": "Koummand \"KOU, The Samoyed Vtuber \" XXL Mousepad",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"KOU, The Samoyed Vtuber \" XXL Mousepad Designed By: ohnowosabby",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-koummand-traverse-through-kous-treasury-xxl-mousepad",
+   "name": "Koummand \"Traverse Through Kou's Treasury\" XXL Mousepad",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Traverse Through Kou's Treasury\" XXL Mousepad Designed By: NoctusWindsor",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-koummand-kou-the-samoyed-vtuber-xl-mousepad",
+   "name": "Koummand \"KOU, The Samoyed Vtuber \" XL Mousepad",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"KOU, The Samoyed Vtuber \" XL Mousepad Designed By: ohnowosabby",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-koummand-traverse-through-kous-treasury-xl-mousepad",
+   "name": "Koummand \"Traverse Through Kou's Treasury\" XL Mousepad",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Traverse Through Kou's Treasury\" XL Mousepad Designed By: NoctusWindsor",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-koummand-kou-the-samoyed-vtuber-mousepad",
+   "name": "Koummand \"KOU, The Samoyed Vtuber \" Mousepad",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"KOU, The Samoyed Vtuber \" Mousepad Designed By: ohnowosabby",
+   "vendor": "UwU Market",
+   "productType": "MPS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mouse pad",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mouse pad"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-koummand-traverse-through-kous-treasury-mousepad",
+   "name": "Koummand \"Traverse Through Kou's Treasury\" Mousepad",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Traverse Through Kou's Treasury\" Mousepad Designed By: NoctusWindsor",
+   "vendor": "UwU Market",
+   "productType": "MPS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mouse pad",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mouse pad"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-koummand-vogue-magazine-poster",
+   "name": "Koummand \"Vogue Magazine\" Poster",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Vogue Magazine\" Poster Designed By: tofuboyart",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-koummand-vogue-magazine-wall-scroll",
+   "name": "Koummand \"Vogue Magazine\" Wall Scroll",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Vogue Magazine\" Wall Scroll Designed By: tofuboyart",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-koummand-fluff-sticker-collection-3-sticker-pack",
+   "name": "Koummand \"Fluff Sticker Collection 3\" Sticker Pack",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Fluff Sticker Collection 3\" Sticker Pack Designed By: kohiraikan",
+   "vendor": "UwU Market",
+   "productType": "FSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "uwumarket-koummand-fluff-sticker-collection-2-sticker-pack",
+   "name": "Koummand \"Fluff Sticker Collection 2\" Sticker Pack",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Fluff Sticker Collection 2\" Sticker Pack Designed By: kohiraikan",
+   "vendor": "UwU Market",
+   "productType": "FSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "uwumarket-koummand-fluff-sticker-collection-1-sticker-pack",
+   "name": "Koummand \"Fluff Sticker Collection 1\" Sticker Pack",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Fluff Sticker Collection 1\" Sticker Pack Designed By: kohiraikan",
+   "vendor": "UwU Market",
+   "productType": "FSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "uwumarket-koummand-digital-signature-sticker",
+   "name": "Koummand \"Digital Signature \" Sticker",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Digital Signature \" Sticker Designed By: koummand",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-koummand-kiyo-butt-keychain",
+   "name": "Koummand \"Kiyo Butt \" Keychain",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Kiyo Butt \" Keychain Designed By: kohiraikan",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-koummand-chillaxing-keychain",
+   "name": "Koummand \"Chillaxing\" Keychain",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Chillaxing\" Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-koummand-kiyo-butt-mini-standee",
+   "name": "Koummand \"Kiyo Butt \" Mini Standee",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Kiyo Butt \" Mini Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "MSD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 12.95
+  },
+  {
+   "id": "uwumarket-koummand-kiyo-butt-rug",
+   "name": "Koummand \"Kiyo Butt \" Rug",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Kiyo Butt \" Rug Designed By: kohiraikan",
+   "vendor": "UwU Market",
+   "productType": "RGS01",
+   "merchantTags": [
+    "anime merch",
+    "anime rug",
+    "vtuber",
+    "vtuber merch",
+    "vtuber rug"
+   ],
+   "price": 109.99
+  },
+  {
+   "id": "uwumarket-koummand-samoyed-in-snow-poster",
+   "name": "Koummand \"Samoyed in Snow\" Poster",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Samoyed in Snow\" Poster Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-koummand-samoyed-in-snow-wall-scroll",
+   "name": "Koummand \"Samoyed in Snow\" Wall Scroll",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Samoyed in Snow\" Wall Scroll Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-koummand-samoyed-in-snow-jet-tag",
+   "name": "Koummand \"Samoyed in Snow\" Jet Tag",
+   "merchantDescription": "Koummand x UwU Collab Koummand \"Samoyed in Snow\" Jet Tag Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-reika-chan-chibi-acrylic-standee",
+   "name": "Reika-chan – Chibi Acrylic Mini Standee",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Reika-chan – Chibi Acrylic Mini Standee Designed By: 四ノ宮しの Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "MSD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 12.95
+  },
+  {
+   "id": "uwumarket-otsuka-ray-chibi-acrylic-standee",
+   "name": "Otsuka Ray – Chibi Acrylic Standee",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Chibi Acrylic Standee Designed By: 四ノ宮しの Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-otsuka-ray-signature-logo-jet-tag",
+   "name": "Otsuka Ray – Signature Logo Jet Tag",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Signature Logo Jet Tag Designed By: おちんさま Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-otsuka-ray-pixel-mug",
+   "name": "Otsuka Ray – Pixel Mug",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Pixel Mug Designed By: シノミカ Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "MGS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mug",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mug"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "uwumarket-otsuka-ray-emote-sticker-pack",
+   "name": "Otsuka Ray – Emote Sticker Pack",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Emote Sticker Pack Designed By: by4co Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "ESP01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 19.95
+  },
+  {
+   "id": "uwumarket-otsuka-ray-premium-3d-mousepad",
+   "name": "Otsuka Ray – Premium 3D Mousepad",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Premium 3D Mousepad Designed By: 汁汁 Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-otsuka-ray-cozy-lounge-sweatpants",
+   "name": "Otsuka Ray – Cozy Lounge Sweatpants",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-otsuka-ray-kazoku-t-shirt",
+   "name": "Otsuka Ray – Kazoku T-Shirt",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Kazoku T-Shirt Designed By: LUCAS Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-otsuka-ray-kazoku-hoodie",
+   "name": "Otsuka Ray – Kazoku Hoodie",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Kazoku Hoodie Designed By: LUCAS and saku㊴ Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-otsuka-ray-kazoku-haori",
+   "name": "Otsuka Ray – Kazoku Haori",
+   "merchantDescription": "Otsuka Ray (乙夏れい) x UwU Collab Otsuka Ray – Kazoku Haori Designed By: おちんさま Made-to-Order products are produced in house and will take around 40 business days for fulfillment . Official Collaboration Launch between Otsuka Ray and UwU Market",
+   "vendor": "UwU Market",
+   "productType": "HAO01",
+   "merchantTags": [
+    "anime haori",
+    "anime merch",
+    "haori",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "uwumarket-aida-lyra-star-sticker-pack",
+   "name": "Aida Lyra Star Sticker Pack",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Star Sticker Pack Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "THS01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 14.95
+  },
+  {
+   "id": "uwumarket-aida-lyra-space-acrylic-keychain",
+   "name": "Aida Lyra Space Acrylic Keychain",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Space Acrylic Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-aida-lyra-moon-acrylic-keychain",
+   "name": "Aida Lyra Moon Acrylic Keychain",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Moon Acrylic Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-aida-lyra-chibi-keychain",
+   "name": "Aida Lyra Chibi Keychain",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Chibi Keychain Designed By: eggwaffle",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-aida-lyra-whimsical-standee",
+   "name": "Aida Lyra Whimsical Standee",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Whimsical Standee Designed By: Rakujin",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-aida-lyra-acrylic-standee",
+   "name": "Aida Lyra Acrylic Standee",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Acrylic Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-aida-lyra-album-blanket",
+   "name": "Aida Lyra Album Blanket",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Album Blanket Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "BLK01",
+   "merchantTags": [
+    "anime blanket",
+    "anime merch",
+    "vtuber",
+    "vtuber blanket",
+    "vtuber merch"
+   ],
+   "price": 61.99
+  },
+  {
+   "id": "uwumarket-aida-lyra-whimsical-jet-tag",
+   "name": "Aida Lyra Whimsical Jet Tag",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Whimsical Jet Tag Designed By: Rakujin",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-aida-lyra-whimsical-sweatpants",
+   "name": "Aida Lyra Whimsical Sweatpants",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Whimsical Sweatpants Designed By: Rakujin",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-aida-lyra-whimsical-shirt",
+   "name": "Aida Lyra Whimsical Shirt",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Whimsical Shirt Designed By: Rakujin",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-aida-lyra-whimsical-crewneck",
+   "name": "Aida Lyra Whimsical Crewneck",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Whimsical Crewneck Designed By: Rakujin",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-aida-lyra-whimsical-hoodie",
+   "name": "Aida Lyra Whimsical Hoodie",
+   "merchantDescription": "Aida Lyra x UwU Collab Aida Lyra Whimsical Hoodie Designed By: Rakujin",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-celestium-plushie-keychain-campaign",
+   "name": "Celestium Plushie Keychain Campaign",
+   "merchantDescription": "Celestium x UwU Collab LIMITED TIME ONLY! Pre Orders close on 06/17/26 - 12:00pm CST! Products Expected To Ship By December 2026 Bring the Bean plushie keychain to life! Size: Approximately 4\" (10cm). Material: Premium Plush Fabrics.",
+   "vendor": "UwU Market",
+   "productType": "PKC01",
+   "merchantTags": [
+    "anime merch",
+    "anime plushie keychain",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "plushie keychain",
+    "PREORDER",
+    "vtuber"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "uwumarket-kuruchuu-acrylic-standee",
+   "name": "Kuruchuu Acrylic Standee",
+   "merchantDescription": "Kuruchuu x UwU Collab Kuruchuu Acrylic Standee Designed By: Unknown Artist",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-mimiru-chibi-sticker",
+   "name": "Mimiru Chibi Sticker",
+   "merchantDescription": "Mimiru x UwU Collab Mimiru Chibi Sticker Designed By: dylanprb",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-mimiru-chibi-keychain",
+   "name": "Mimiru Chibi Keychain",
+   "merchantDescription": "Mimiru x UwU Collab Mimiru Chibi Keychain Designed By: dylanprb",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-mimiru-magical-sweatpants",
+   "name": "Mimiru Magical Sweatpants",
+   "merchantDescription": "Mimiru x UwU Collab Mimiru Magical Sweatpants Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-mimiru-magical-shirt",
+   "name": "Mimiru Magical Shirt",
+   "merchantDescription": "Mimiru x UwU Collab Mimiru Magical Shirt Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-mimiru-magical-crewneck",
+   "name": "Mimiru Magical Crewneck",
+   "merchantDescription": "Mimiru x UwU Collab Mimiru Magical Crewneck Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-mimiru-magical-hoodie",
+   "name": "Mimiru Magical Hoodie",
+   "merchantDescription": "Mimiru x UwU Collab Mimiru Magical Hoodie Designed By: Postalworks",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-sayurikitsunevt-spirit-pond-xxl-mousepad",
+   "name": "SayuriKitsuneVT \"Spirit Pond\" XXL Mousepad",
+   "merchantDescription": "SayuriKitsuneVT x UwU Collab SayuriKitsuneVT \"Spirit Pond\" XXL Mousepad Designed By: SayuriKitsune",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  }
+ ]
+}

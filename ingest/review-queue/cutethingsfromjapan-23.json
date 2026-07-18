@@ -1,0 +1,923 @@
+{
+ "source": "cutethingsfromjapan",
+ "batch": 23,
+ "items": [
+  {
+   "id": "cutethingsfromjapan-memo-pad-bunny-and-frames",
+   "name": "Shinako Moriyama / Memo Pad - Bunny and Frames",
+   "merchantDescription": "Cute memo pad designed by Japanese artist Shinako Moriyama known for her cute bunny illustrations perfect for jotting down notes and making to-do lists! ・5 unique designs ・10 sheets each (total of 50 sheets) * Size: 7.5cm x 10.5cm (2.9\" x 4.1\") * Made in Japan",
+   "vendor": "Papier Platz",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Bunny",
+    "Memo pad",
+    "Papier Platz",
+    "Shinako Moriyama"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-clear-tape-kumonoue-over-the-cloud",
+   "name": "Miki Tamura / Clear Tape - Kumonoue (over the cloud)",
+   "merchantDescription": "Beautiful PET clear tape designed by Japanese washi tape collage artist Miki Tamura. The tape is pre-cut every 5cm, so you can use each piece like a KITTA sticker, or roll it out like regular washi tape. [Who is Miki Tamura?] Known for her unique technique of ",
+   "vendor": "Miki Tamura",
+   "productType": "Clear Tape",
+   "merchantTags": [
+    "Clear Tape",
+    "Miki Tamura"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-clear-tape-kazemachi-wind-and-town",
+   "name": "Miki Tamura / Clear Tape - Kazemachi (wind and town)",
+   "merchantDescription": "Beautiful PET clear tape designed by Japanese washi tape collage artist Miki Tamura. The tape is pre-cut every 5cm, so you can use each piece like a KITTA sticker, or roll it out like regular washi tape. [Who is Miki Tamura?] Known for her unique technique of ",
+   "vendor": "Miki Tamura",
+   "productType": "Clear Tape",
+   "merchantTags": [
+    "Clear Tape",
+    "Miki Tamura"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-clear-tape-herb-spice",
+   "name": "Miki Tamura / Clear Tape - Herb & Spice",
+   "merchantDescription": "Beautiful PET clear tape designed by Japanese washi tape collage artist Miki Tamura. The tape is pre-cut every 5cm, so you can use each piece like a KITTA sticker, or roll it out like regular washi tape. [Who is Miki Tamura?] Known for her unique technique of ",
+   "vendor": "Miki Tamura",
+   "productType": "Clear Tape",
+   "merchantTags": [
+    "Clear Tape",
+    "Miki Tamura"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-print-on-stickers-daily",
+   "name": "Print-on Stickers - Daily",
+   "merchantDescription": "Beautiful pressure-activated print-on stickers are great for decorating your planner and journal notebooks. Unlike regular stickers, these stickers do not come with a sticky part on the back. All you need to do is rub the desired design of the sheet on paper. ",
+   "vendor": "MIDORI",
+   "productType": "Print-on Stickers",
+   "merchantTags": [],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-print-on-stickers-meal",
+   "name": "Print-on Stickers - Meal",
+   "merchantDescription": "Beautiful pressure-activated print-on stickers are great for decorating your planner and journal notebooks. Unlike regular stickers, these stickers do not come with a sticky part on the back. All you need to do is rub the desired design of the sheet on paper. ",
+   "vendor": "MIDORI",
+   "productType": "Print-on Stickers",
+   "merchantTags": [],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-nice-day-stickers-daily",
+   "name": "Nice Day Stickers - Daily",
+   "merchantDescription": "These stickers are from \"Nice Day\" series designed by a Japanese artist Tomatomayu known for her \"hokkori\" (\"heartwarming\" in Japanese) illustrations. Great for your planner and journal decoration. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Illustrator: Tomatomayu *",
+   "vendor": "Tomatomayu",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Other Brands",
+    "Other Japanese Creators",
+    "Stickers"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-okashina-planner-stickers-sweets",
+   "name": "Okashina Planner Stickers - Sweets",
+   "merchantDescription": "These are cute colorful stickers from \"Okashina Animal Studio\" collection great for decorating your planners and journals! The word \"okashina\" can be 2 different meanings in Japanese; 可笑しな (okashina) which means \"funny\" and お菓子な which means \"sweets / snack\", a",
+   "vendor": "Furukawa Paper",
+   "productType": "Planner Stickers",
+   "merchantTags": [],
+   "price": 3
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-uni-ball-one-miyabi",
+   "name": "Limited Edition Uni-ball One - Miyabi",
+   "merchantDescription": "These are the new limited edition new Uni-ball One pens from their Japanese color collection! Each color represents something Japanese, and in this set, colors of bellflower, \"daifuku\" (popular Japanese sweet of sweet bean paste wrapped with rice cake), loquat",
+   "vendor": "Uni",
+   "productType": "Writing Tool",
+   "merchantTags": [
+    "Gel Ink Ball-point Pen",
+    "Uni-ball One",
+    "Writing Tools"
+   ],
+   "price": 2
+  },
+  {
+   "id": "cutethingsfromjapan-limited-quantity-uni-ball-one-hannari",
+   "name": "Limited Edition Uni-ball One - Hannari",
+   "merchantDescription": "These are the new limited edition new Uni-ball One pens from their Japanese color collection! Each color represents something Japanese, and in this set, colors of sakura (cherry blossom which is the most beloved flower in Japan), Jade (one of the very popular ",
+   "vendor": "Uni",
+   "productType": "Writing Tool",
+   "merchantTags": [
+    "Gel Ink Ball-point Pen",
+    "Uni-ball One",
+    "Writing Tools"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-slim-washi-tape-set-line",
+   "name": "Slim Washi Tape Set - Line",
+   "merchantDescription": "A set of three 6mm width washi tapes for your planner and journal decoration. * Size: 6mm x 7m (0.2 inch x 7 yards) * Made in Japan * acid/lignin free * More mt washi tapes HERE",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "mt",
+    "Washi Tapes"
+   ],
+   "price": 3
+  },
+  {
+   "id": "cutethingsfromjapan-slim-washi-tape-set-grid",
+   "name": "Slim Washi Tape Set - Grid",
+   "merchantDescription": "A set of three 6mm width washi tapes for your planner and journal decoration. * Size: 6mm x 7m (0.2 inch x 7 yards) * Made in Japan * acid/lignin free * More mt washi tapes HERE",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [],
+   "price": 3
+  },
+  {
+   "id": "cutethingsfromjapan-slim-washi-tape-set-moire",
+   "name": "Slim Washi Tape Set - Moire",
+   "merchantDescription": "A set of three 6mm width washi tapes for your planner and journal decoration. * Size: 6mm x 7m (0.2 inch x 7 yards) * Made in Japan * acid/lignin free * More mt washi tapes HERE",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "mt",
+    "Washi Tapes"
+   ],
+   "price": 3
+  },
+  {
+   "id": "cutethingsfromjapan-slim-washi-tape-set-stitch",
+   "name": "Slim Washi Tape Set - Stitch",
+   "merchantDescription": "A set of three 3mm width washi tapes for your planner and journal decoration. * Size: 3mm x 7m (0.1 inch x 7 yards) * Made in Japan * acid/lignin free * More mt washi tapes HERE",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "mt",
+    "Washi Tapes"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-tokusa",
+   "name": "Shiny Iromoyo Stamp Ink - 木賊色 (tokusa)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 木賊色 (tokusa iro) refers to the color of a plant called \"tokusa\" known a",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-whisteria",
+   "name": "Shiny Iromoyo Stamp Ink - 藤色 (Whisteria)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. The ink dries in approximately 10 seconds. * Ink Pad Surface: 6.3cm x 4",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-water",
+   "name": "Shiny Iromoyo Stamp Ink - 水色 (Water)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 水色 (mizu iro) literally means \"water color\", and it refers to the color",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-light-green",
+   "name": "Shiny Iromoyo Stamp Ink - 若竹色 (Light Green)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 若竹色 (wakatake iro) literally means \"young bamboo color\" which refers to",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-yellow",
+   "name": "Shiny Iromoyo Stamp Ink - 向日葵色 (Yellow)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 向日葵色 (himawari iro) literally means \"sun flower color\" which refers to ",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-pink",
+   "name": "Shiny Iromoyo Stamp Ink - 桃色 (Pink)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 桃色 (momoiro) literally means \"Japanese apricot color) which refers to t",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-black",
+   "name": "Shiny Iromoyo Stamp Ink - 墨色 (Black)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 墨色 (sumi iro) literally means \"indian ink color\" which refers to the as",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-silver",
+   "name": "Shiny Iromoyo Stamp Ink - 銀鼠色 (Silver)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. This color is 銀鼠 (ginnezu) which literally means \"silver mice\". The col",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-chestnut",
+   "name": "Shiny Iromoyo Stamp Ink - 栗色 (Chestnut)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. 栗色 (kuri iro) literally means \"chestnut color\" which refers to the dark",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-shiny-iromoyo-stamp-ink-peony",
+   "name": "Shiny Iromoyo Stamp Ink - 牡丹色 (Peony)",
+   "merchantDescription": "This is a new shiny stamp ink series from Shachihata's Iromoyo collection. The oil-based pigment ink shine in reflection of light. The ink has water and light resistance, and is acid free. The color 牡丹色 (botan iro) literally means \"peony color\" which refers to",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-sakuralala-clear-stamps-happy-hour",
+   "name": "Igloo Dining 365 Clear Stamps - Happy Hour",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series are perfect for decorating your planner, journal, card, letter and lots more! * Contents: 4″ x 6″ Clear Photopolymer Stamps * Designed in Japan Made in USA! * More Sakuralala Sta",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-sakuralala-clear-stamps-amusement-park",
+   "name": "365 Clear Stamps - AMUSEMENT PARK",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series are perfect for decorating your planner, journal, card, letter and lots more! * Contents: 4″ x 6″ Clear Photopolymer Stamps * Designed in Japan Made in USA! * More Sakuralala Sta",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-sakuralala-clear-stamps-frame",
+   "name": "Igloo Dining 365 Clear Stamps - FRAME",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series are perfect for decorating your planner, journal, card, letter and lots more! * Contents: 4″ x 6″ Clear Photopolymer Stamps * Designed in Japan Made in USA! * More Sakuralala Sta",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-sakuralala-clear-stamps-celebration",
+   "name": "Igloo Dining 365 Clear Stamps - CELEBRATION",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series are perfect for decorating your planner, journal, card, letter and lots more! * Contents: 4″ x 6″ Clear Photopolymer Stamps * Designed in Japan Made in USA! * More Sakuralala Sta",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-flake-stickers-sewing",
+   "name": "eric / Flake Stickers - Sewing",
+   "merchantDescription": "Cute sewing motif flake stickers designed by eric, Japanese eraser stamp artist great for decorating your planner and journal. Part of the design on each sticker is hot-stamped in gold which shine in reflection of light. * 9 designs, 6 pieces each * 54 sticker",
+   "vendor": "Papier Platz",
+   "productType": "Flake Stickers",
+   "merchantTags": [
+    "eric",
+    "Flake Stickers",
+    "Papier Platz",
+    "Sewing"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-washi-tape-in-the-forest-3",
+   "name": "mt x Donna Wilson Washi Tape - In the Forest",
+   "merchantDescription": "A cute washi tape designed by a Scottish textile artist Donna Wilson great for your planner and journal decoration. * 3cm x 7m (1.1\" x 7.6 yards) * Made in Japan * acid/lignin free * More mt HERE",
+   "vendor": "mt",
+   "productType": "mt x Artists Washi Tape",
+   "merchantTags": [
+    "Other Creators"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-washi-tape-acorn",
+   "name": "mt x Donna Wilson Washi Tape - Leaf and Acorn",
+   "merchantDescription": "A cute washi tape designed by a Scottish textile artist Donna Wilson great for your planner and journal decoration. * 1.5cm x 7m (0.6\" x 7.6 yards) * Made in Japan * acid/lignin free * More mt HERE",
+   "vendor": "mt",
+   "productType": "mt x Artists Washi Tape",
+   "merchantTags": [
+    "Other Creators"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-mt-washi-tape-checkered-orange",
+   "name": "mt Washi Tape - Checkered Orange",
+   "merchantDescription": "Simple mt orange blue checkered washi tape for your planner and journal decoration, gift wrapping and craft project ! * Size: 1.5cm x 7m (0.6 inch x 7.6 yards) * Made in Japan * acid/lignin free * More mt HERE",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "mt",
+    "Washi Tapes"
+   ],
+   "price": 2
+  },
+  {
+   "id": "cutethingsfromjapan-washi-tape-flags-l",
+   "name": "Washi Tape - Flags L",
+   "merchantDescription": "This is a fun mt washi tape designed by a Japanese artist unit \"island universe\" of Yusaku Fujiwara and Chiaki Kurumizawa known for their unique and colorful art work. They carefully selected the washi tapes from all the mt washi tapes in the past to make a co",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "mt",
+    "Other Creators",
+    "Washi Tapes"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-kaku-washi-tape-shapes",
+   "name": "\"Kaku\" Washi Tape - Shapes",
+   "merchantDescription": "This is new mt washi tape series of \"kaku\" which means write / draw in Japanese. You can write on this tape using pencils and water-based ink like Zebra Sarasa. Great for your craft project and embellishment! * Size: 2.5cm x 7m (0.9 inch x 7.6 yards) * Made in",
+   "vendor": "mt",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "mt",
+    "Washi Tapes"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-rubber-stamp-box-set-you-got-mail-1",
+   "name": "Rubber Stamp Box Set - You Got Mail",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Limited Edition",
+    "Rubber Stamps"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "cutethingsfromjapan-mini-letter-set-otegami-cafe",
+   "name": "Furukawa Paper / Mini Letter Set - Otegami Cafe",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Mini Letter Set",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Letter Sets",
+    "Washi Paper"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-die-cut-letter-set-happy-mail-cafe",
+   "name": "Die-cut Letter Set - Happy Mail Cafe",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Die-cut Letter Set",
+   "merchantTags": [
+    "Washi Paper"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-washi-tape-stationery-love-1",
+   "name": "CTFJ x Furukawa Paper / Washi Tape - Stationery Love",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! This is a washi tape of cute animals writing a letter to someone they love. Great for your planner and journal decoratio",
+   "vendor": "Cute Things from Japan",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "animal",
+    "Cat",
+    "CTFJ Original",
+    "Washi Tape"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "cutethingsfromjapan-washi-tape-writing-for-you",
+   "name": "Washi Tape - Writing for You",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Washi Tapes"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "cutethingsfromjapan-planner-stickers-stationery-love",
+   "name": "Planner Stickers - Stationery Love",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Sticker Sheets",
+    "Stickers"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-planner-stickers-letter-love",
+   "name": "Planner Stickers - Letter Love",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Sticker Sheets",
+    "Stickers"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-postcard-stationery-love",
+   "name": "Postcard - Stationery Love",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Postcard",
+   "merchantTags": [
+    "Limited Edition"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-postcard-happy-mail-day",
+   "name": "Postcard - Happy Mail Day",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Postcard",
+   "merchantTags": [
+    "Limited Edition"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-origami-box-set-happy-mail-cafe",
+   "name": "Origami Box Set - Happy Mail Cafe",
+   "merchantDescription": "We are so happy introduce our new original products in collaboration with one of our favorite Japanese stationery companies Furukawa Paper! We wrote about how our collaboration started and who Furukawa Paper is in our special edition journal, so we will enclos",
+   "vendor": "Cute Things from Japan",
+   "productType": "Origami Paper",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Memo Pads"
+   ],
+   "price": 10
+  },
+  {
+   "id": "cutethingsfromjapan-eric-acrylic-rubber-stamps-5-designs",
+   "name": "eric Rubber Stamps (5 designs)",
+   "merchantDescription": "These are cute rubber stamps designed by a Japanese illustrator eric. The fun part about these rubber stamps is that the rubber stamp comes with an acrylic handle with cute eric's illustration. The stamp part and handle part can be separated so that it will be",
+   "vendor": "eric",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "eric"
+   ],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-clear-stamps-may-3-x-4",
+   "name": "Clear Stamps - May (3\" x 4\")",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series perfect for planner and journal decoration. This is the 3\" x 4\" size sheet size. You can cut the top part to use as a tab to organize them when stored. * Contents: 3″ x 4″ Clear ",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 12
+  },
+  {
+   "id": "cutethingsfromjapan-365-clear-stamps-happily-ever-after-4-x-6",
+   "name": "365 Clear Stamps - Happily Ever After (4\" x 6\")",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series are perfect for decorating your planner, journal, card, letter and lots more! * Contents: 4″ x 6″ Clear Photopolymer Stamps * Designed in Japan Made in USA! * More Sakuralala Sta",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-rubber-stamp-nice-holiday",
+   "name": "eric / Rubber Stamp - Nice Holiday",
+   "merchantDescription": "This adorable self-inking stamp is designed by a talented Japanese illustrator eric. The stamped image is sharp and vibrant. The oil-based ink, which resists water, gives you the freedom to color in the design once it's dry. * Size: 3.2cm x 3.2cm (1.2\" x 1.2\")",
+   "vendor": "eric",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "eric"
+   ],
+   "price": 7.5
+  },
+  {
+   "id": "cutethingsfromjapan-mini-letter-set-trip-to-taiwan-dim-sum",
+   "name": "Furukawa Paper / Limited Edition Mini Letter Set - Trip to Taiwan / Dim Sum",
+   "merchantDescription": "This is a cute mini letter set called \"soebumi-sen\" using high quality Japanese Mino washi paper. It comes with 30 mini sheets and 5 envelopes. \"そえぶみ箋 (soebumi sen)\" literally means \"accompany letter writing paper\", and it is to add little extra cuteness and w",
+   "vendor": "Furukawa Paper",
+   "productType": "Mini Letter Set",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Letter Set",
+    "Limited Edition",
+    "Washi Paper"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-bouquet-stickers-colorful",
+   "name": "Bouquet Stickers - Colorful",
+   "merchantDescription": "Beautiful stickers from \"Bouquet Stickers\" series great for your planner and journal decoration. Stickers are made of washi tape / masking tape material. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-bouquet-stickers-gray",
+   "name": "Bouquet Stickers - Gray",
+   "merchantDescription": "Beautiful stickers from \"Bouquet Stickers\" series great for your planner and journal decoration. Stickers are made of washi tape / masking tape material. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-bouquet-stickers-pink",
+   "name": "Bouquet Stickers - Pink",
+   "merchantDescription": "Beautiful stickers from \"Bouquet Stickers\" series great for your planner and journal decoration. Stickers are made of washi tape / masking tape material. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-bouquet-stickers-blue",
+   "name": "Bouquet Stickers - Blue",
+   "merchantDescription": "Beautiful stickers from \"Bouquet Stickers\" series great for your planner and journal decoration. Stickers are made of washi tape / masking tape material. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-decor-stickers-maroon",
+   "name": "Decor Stickers - Maroon",
+   "merchantDescription": "Beautiful antique style stickers from \"Decor Stickers\" series great for your planner and journal decoration. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-decor-stickers-sepia",
+   "name": "Decor Stickers - Sepia",
+   "merchantDescription": "Beautiful antique style stickers from \"Decor Stickers\" series great for your planner and journal decoration. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-decor-stickers-bronz",
+   "name": "Decor Stickers - Bronze",
+   "merchantDescription": "Beautiful antique style stickers from \"Decor Stickers\" series great for your planner and journal decoration. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-decor-stickers-iron-blue",
+   "name": "Decor Stickers - Iron Blue",
+   "merchantDescription": "Beautiful antique style stickers from \"Decor Stickers\" series great for your planner and journal decoration. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-wreath-flake-stickers-yellow",
+   "name": "Wreath Flake Stickers - Yellow",
+   "merchantDescription": "Beautiful wreath stickers great for your planner and journal decoration. Each sticker is within 4.8cm x 4.5cm size. * Contents: 40 stickers * 8 designs, 5 stickers per design * Made in Japan * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Flake Stickers",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-paper-clip-strawberry-parfait",
+   "name": "Limited Edition Paper Clip Set - Strawberry Parfait",
+   "merchantDescription": "This is a set of 5 cute paper clips f rom \"Fruits Parlor\" collection. Available in 2 different themes. Fruits parlor is a tea room which offers a variety of fruits desserts, cakes, parfaits, pudding and other delicious seasonal fruits sweets. If you come to To",
+   "vendor": "Furukawa Paper",
+   "productType": "Paper Clip",
+   "merchantTags": [
+    "Limited Edition"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-mini-letter-set-strawberry-parfait",
+   "name": "Furukawa Paper / Mini Letter Set - Strawberry Parfait",
+   "merchantDescription": "This is a cute mini letter set of high quality Japanese Mino washi paper f rom \"Fruits Parlor\" collection. It comes with 20 mini sheets and 5 envelopes. Available in 3 cute designs. Fruits parlor is a tea room which offers a variety of fruits desserts, cakes, ",
+   "vendor": "Furukawa Paper",
+   "productType": "Mini Letter Set",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Letter Set",
+    "Washi Paper"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-die-cut-memo-pad-strawberry-parfait",
+   "name": "Die-cut Memo Pad - Fruits Parlor",
+   "merchantDescription": "This is a cute die-cut memo pad from \"Fruits Parlor\" collection great for your planner and journal decoration . The pad comes with 25 sheets of cute die-cut parfait. Available in 4 cute designs. Fruits parlor is a tea room which offers a variety of fruits dess",
+   "vendor": "Furukawa Paper",
+   "productType": "Memo Pad",
+   "merchantTags": [],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-garland-stickers-beige-1",
+   "name": "Garland Stickers - Beige",
+   "merchantDescription": "Enjoy your planner and journal decoration with beautiful garland stickers. * 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-garland-stickers-blue",
+   "name": "Garland Stickers - Blue",
+   "merchantDescription": "Enjoy your planner and journal decoration with beautiful garland stickers. * 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-garland-stickers-yellow",
+   "name": "Garland Stickers - Yellow",
+   "merchantDescription": "Enjoy your planner and journal decoration with beautiful garland stickers. * 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * Limited Quantity * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Botanical"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-moomin-rubber-stamps-washi-tape-friends",
+   "name": "Moomin Rubber Stamps - Washi Tape Friends",
+   "merchantDescription": "Cute Moomin rubber stamps from \"Washi Tape Friends\" series are here! This \"Washi Tape Friends\" rubber stamp series was created for washi tape lovers to have fun crafting time. Rubber stamps are designed to play with washi tapes. Enjoy your fun crafting time wi",
+   "vendor": "Moomin",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Other Brands",
+    "Other Characters"
+   ],
+   "price": 8.5
+  },
+  {
+   "id": "cutethingsfromjapan-flake-stickers-blue-flowers-1",
+   "name": "Post Office Flake Stickers - Blue Flowers",
+   "merchantDescription": "A pack of cute PET flake stickers great for your planner and journal decoration! * 10 designs, 3 pieces each * More BGM Items HERE",
+   "vendor": "BGM",
+   "productType": "Flake Stickers",
+   "merchantTags": [
+    "Botanical",
+    "Send More Mail"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-washi-tapes",
+   "name": "eric x CTFJ Washi Tapes",
+   "merchantDescription": "We are so excited to introduce our new collaboration washi tapes with a Japanese eraser stamp artist eric where she put all the cute little designs. * Size: 2cm x 7cm (1.7 x 7.6\") * Available in 3 designs * Made in Japan * More eric items HERE Who is eric? eri",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Washi Tape"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-mini-iromoyo-stamp-ink",
+   "name": "Mini Iromoyo Stamp Ink - Warabe",
+   "merchantDescription": "Introducing the new \"Warabe\" Shachihata mini stamp ink pad - small and convenient in a handy square size, with the same original oil-based pigment ink. The unique design allows for precise ink application on your stamp, using the edge of the ink pad. With its ",
+   "vendor": "Shachihata",
+   "productType": "Iromoyo",
+   "merchantTags": [],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-square-label-stickers-spring",
+   "name": "Square Label Stickers - Spring",
+   "merchantDescription": "New Midori's square label stickers are created to make stamping more fun! There are 6 different shapes in 4 different colors of sticker sheets, total 24 stickers. Stickers are re-peeling stickers, so you can remove and reposition without leaving a residue. As ",
+   "vendor": "MIDORI",
+   "productType": "Planner Stickers",
+   "merchantTags": [],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sticky-notes-spring",
+   "name": "Round Sticky Notes - Spring",
+   "merchantDescription": "This pack includes a square sticky note with 3 different colors - essentially 3 sticky note pads in one. Each pad is attached at the top only, allowing you to easily choose which paper to use without having to wait for one paper to finish before using the next",
+   "vendor": "MIDORI",
+   "productType": "Sticky Note",
+   "merchantTags": [],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sticky-notes-winter",
+   "name": "Sticky Notes - Winter",
+   "merchantDescription": "This pack includes a square sticky note with 3 different colors - essentially 3 sticky note pads in one. Each pad is attached at the top only, allowing you to easily choose which paper to use without having to wait for one paper to finish before using the next",
+   "vendor": "MIDORI",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "Winter Limited"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-365-clear-stamps-january-3-x-4",
+   "name": "365 Clear Stamps - January (3\" x 4\")",
+   "merchantDescription": "Sakuralala x Igloo Dining collaboration clear photopolymer stamps from 365 series perfect for planner and journal decoration. This is the 3\" x 4\" size sheet size. You can cut the top part to use as a tab to organize them when stored. * Contents: 3″ x 4″ Clear ",
+   "vendor": "Sakuralala",
+   "productType": "Clear Stamp",
+   "merchantTags": [
+    "Igloo Dining"
+   ],
+   "price": 12
+  },
+  {
+   "id": "cutethingsfromjapan-kitta-stickers-nuance",
+   "name": "KITTA Special Stickers - Nuance",
+   "merchantDescription": "Postage-style stickers that you can tear or cut to any size. These versatile designs are easy to peel and reposition. ・ Includes 4 sheets of stickers ・C ard-sized folder fits in planner pocket ・Cover tucks into bottom tab to stay closed * Sheet: 9.1cm x 5.5cm ",
+   "vendor": "HITOTOKI",
+   "productType": "KITTA",
+   "merchantTags": [
+    "HITOTOKI",
+    "KITTA",
+    "KITTA Stickers",
+    "Planner Stickers"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-kitta-clear-stickers-fairy",
+   "name": "Heisuke Kitazawa / KITTA Clear Portable Die-Cut Stickers - Fairy",
+   "merchantDescription": "A compact clear film sticker set from the “KITTA CLEAR” series, illustrated by Japanese artist Heisuke Kitazawa. These die-cut designs add a light, creative touch to planners, journals, and everyday items. The pocket-sized folder makes it easy to carry and use",
+   "vendor": "HITOTOKI",
+   "productType": "KITTA",
+   "merchantTags": [
+    "girls",
+    "Heisuke Kitazawa",
+    "HITOTOKI",
+    "KITTA",
+    "KITTA Stickers",
+    "Planner Stickers"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sumikkogurashi-stickers-flower-garden",
+   "name": "Sumikko Gurashi / Stickers - Flower Garden",
+   "merchantDescription": "Maker your planners even cuter with these cute stickers! The designs are partly hot-stamped in gold which shine in reflection of light. Sumikko Gurashi means a life in the corner in Japanese, and they are the adorable characters living a quiet life in the corn",
+   "vendor": "San-X",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Kawaii",
+    "San-X",
+    "Sticker Sheets",
+    "Stickers",
+    "Sumikko Gurashi",
+    "Sumikkogurashi"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-sumikkogurashi-shiny-stickers-friends-1",
+   "name": "Sumikko Gurashi / Shiny Stickers - Friends",
+   "merchantDescription": "Maker your planners even cuter with these cute stickers! The edge of the stickers are hot-stamped which shine in reflection of light. Sumikko Gurashi means a life in the corner in Japanese, and they are the adorable characters living a quiet life in the corner",
+   "vendor": "San-X",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Kawaii",
+    "San-X",
+    "Sticker Sheets",
+    "Stickers",
+    "Sumikko Gurashi",
+    "Sumikkogurashi"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-okawari-stickers-aoyoshi",
+   "name": "Okawari Stickers - AOYOSHI",
+   "merchantDescription": "Adorable stickers designed by a Japanese illustrator AOYOSHI from \"okawari\" stickers series are here! \"Okawari\" literally means \"refill\" in Japanese, and we say that when you want some more of food or drink. This \"okawari\" stickers series is created for you wh",
+   "vendor": "Papier Platz",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Other Creators"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-petit-deco-rush-day-off",
+   "name": "Petit Deco Rush - Day Off",
+   "merchantDescription": "The Petit Deco Rush is a series of cute decoration tapes which somewhat a correction pen that rolls out cute tape with a simple pen-like stroke. The cap protects the tape from being damaged and dirty. The Chinese letter 休 means \"day off\" or \"take a rest\". **Ho",
+   "vendor": "PLUS",
+   "productType": "Deco Rush",
+   "merchantTags": [
+    "Deco Rush",
+    "Other Brands",
+    "Plan and Journal",
+    "Tools + Supplies"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "cutethingsfromjapan-sumikkogurashi-shiny-stickers-stickers-marche-2",
+   "name": "Sumikko Gurashi / Shiny Stickers - Stickers Marche",
+   "merchantDescription": "Maker your planners even cuter with these cute stickers! The edge of the stickers are hot-stamped which shine in reflection of light. Sumikko Gurashi means a life in the corner in Japanese, and they are the adorable characters living a quiet life in the corner",
+   "vendor": "San-X",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Kawaii",
+    "San-X",
+    "Sticker Sheets",
+    "Stickers",
+    "Sumikko Gurashi",
+    "Sumikkogurashi"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-ctfj-x-eric-tsubame-notebook-message-card",
+   "name": "eric x CTFJ Notebook Message Card",
+   "merchantDescription": "We are happy to introduce these cute message cards designed by a Japanese eraser stamp artist in collaboration with a Japanese notebook maker Tsubame Note established in 1936! We made 3 message cards from our A6 Tsubame collaboration Notebook. eric newly desig",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Note Card",
+   "merchantTags": [
+    "Card",
+    "CTFJ Original",
+    "eric"
+   ],
+   "price": 2.5
+  }
+ ]
+}

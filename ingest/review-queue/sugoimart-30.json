@@ -1,0 +1,1446 @@
+{
+ "source": "sugoimart",
+ "batch": 30,
+ "items": [
+  {
+   "id": "sugoimart-dragon-quest-shell-slime-nanoblock",
+   "name": "Dragon Quest Nanoblock: Shell Slime",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-golden-slime-nanoblock",
+   "name": "Dragon Quest Nanoblock: Golden Slime",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "data_department_toys_games",
+    "data_persona_is_collector"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-doraki-nanoblock",
+   "name": "Dragon Quest Nanoblock: Doraki",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_building_kits_models",
+    "SOLD OUT"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-chimera-nanoblock",
+   "name": "Dragon Quest Nanoblock: Chimera",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "data_department_toys_games",
+    "data_persona_is_collector"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-dragon-nanoblock",
+   "name": "Dragon Quest Nanoblock: Dragon",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_building_kits_models",
+    "SOLD OUT"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-dragonlord-nanoblock",
+   "name": "Dragon Quest Nanoblock: Dragonlord",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_building_kits_models",
+    "SOLD OUT"
+   ],
+   "price": 99.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-dqii-hero-nanoblock",
+   "name": "Dragon Quest Nanoblock: Dq Ii Hero",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_building_kits_models",
+    "SOLD OUT"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-dragon-quest-dqiii-hero-nanoblock",
+   "name": "Dragon Quest Nanoblock: Dq Iii Hero",
+   "merchantDescription": "Nanoblocks are like minature Legos, and this set let's you build this iconic Dragon Quest character.",
+   "vendor": "Dragon Quest",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "data_department_toys_games",
+    "data_persona_is_collector"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-kendama-red",
+   "name": "Kendama (Red)",
+   "merchantDescription": "Test your might with the traditional Japanese kendama!",
+   "vendor": "Kendama",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts",
+    "SOLD OUT",
+    "SUBCAT_TOYS"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sugoimart-kendama-blue",
+   "name": "Kendama (Blue)",
+   "merchantDescription": "Test your might with the traditional Japanese kendama!",
+   "vendor": "Kendama",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts",
+    "SOLD OUT",
+    "SUBCAT_TOYS"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sugoimart-kendama-pink",
+   "name": "Kendama (Pink)",
+   "merchantDescription": "Test your might with the traditional Japanese kendama!",
+   "vendor": "Kendama",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts",
+    "SOLD OUT",
+    "SUBCAT_TOYS"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sugoimart-kendama-black",
+   "name": "Kendama (Black)",
+   "merchantDescription": "Test your might with the traditional Japanese kendama!",
+   "vendor": "Kendama",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts",
+    "SOLD OUT",
+    "SUBCAT_TOYS"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sugoimart-kendama-green",
+   "name": "Kendama (Green)",
+   "merchantDescription": "Test your might with the traditional Japanese kendama!",
+   "vendor": "Kendama",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts",
+    "SOLD OUT",
+    "SUBCAT_TOYS"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sugoimart-kirby-stackable-figures-vol1",
+   "name": "Kirby Stackable Figures Vol 1",
+   "merchantDescription": "This pack comes with 10 Kirby figures (5 different poses) and 1 warp star which you can use to stack into many different patterns.",
+   "vendor": "Kirby",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "060322STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 44.99
+  },
+  {
+   "id": "sugoimart-kirby-stackable-figures-vol2",
+   "name": "Kirby Stackable Figures Vol 2",
+   "merchantDescription": "This pack comes with 1 Kirby, 3 Waddle Dees, 1 Maxim Tomato, 1 Star Rod, 1 Star Block, all of which you can use to stack into many different patterns.",
+   "vendor": "Kirby",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "072722STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-laputa-robot-stackable-figures",
+   "name": "Laputa Robot Stackable Figures",
+   "merchantDescription": "This pack comes with 6 robots from Laputa and more, all of which you can use to stack into many different patterns.",
+   "vendor": "Laputa",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_TOYSGAMES",
+    "data_character_castle_in_the_sky",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_collector",
+    "data_persona_is_otaku"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-pokemon-eevee-stackable-figures",
+   "name": "Pokemon Eevee Stackable Figures",
+   "merchantDescription": "This pack comes with Eevees, all of which you can use to stack into many different patterns.",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "101121STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-snorlax-kigurumi-cap",
+   "name": "Pokemon Snorlax Kigurumi Cap",
+   "merchantDescription": "A warm cap made to look like our favorite sleepy Pokemon Snorlax! Free Size.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "030822STOP",
+    "12302020",
+    "AMAZON",
+    "APPAREL",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-magicarp-kigurumi-cap",
+   "name": "Pokemon Magikarp Kigurumi Cap",
+   "merchantDescription": "A warm cap made to look like our favorite derpy fish Pokemon, Magicarp! Free Size.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "12302020",
+    "AMAZON",
+    "APPAREL",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_POPULAR"
+   ],
+   "price": 75.49
+  },
+  {
+   "id": "sugoimart-dream-tomica-transformers-bumblebee",
+   "name": "Dream Tomica: Transformers Bumblebee (#151)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "data_department_toys_games"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-baby-vegetable-furikake-salmon",
+   "name": "Baby Vegetable Furikake (Salmon)",
+   "merchantDescription": "This special furikake is packed with calcium and iron in addition to its great taste! Recommended for ages 9 months and up.",
+   "vendor": "Pigeon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "DONKIRUN"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wakodo-veggie-furikake-double-set-sardine-bonito",
+   "name": "Wakodo Veggie Furikake Double Set (Sardine/Bonito)",
+   "merchantDescription": "This special furikake is packed with calcium and iron in addition to its great taste! Recommended for ages 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SEASONING"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-nanobeads-24-color-box-set",
+   "name": "Nanobeads 24-Color Box Set",
+   "merchantDescription": "About this set: This box set comes with 24 essential colors for any Nanobeads art projects. Approximately 300 pieces of each color. 7200 in each box. Box volume: 140g How to make: 1. Set the beads onto the pegboard. 2. Place the ironing paper (parchment paper ",
+   "vendor": "Nanobeads",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "08312022J",
+    "AMAZON",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-nanobeads-charmander-fennekin",
+   "name": "Nanobeads Charmander And Fennekin Set",
+   "merchantDescription": "About this set: Nanobeads Pokemon charmander and fennekin set. How to make: 1. Set the beads onto the pegboard. 2. Place the ironing paper (parchment paper also works) on top. 3. Use an iron and gently iron the top of the ironing paper. 4. Carefully turn over ",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "08312022J",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-super-long-sakuru-gummy-muscat",
+   "name": "Super Long Sakeru Gummy: Muscat",
+   "merchantDescription": "Long Sakeru Gummy, from the famous \"Long Long Man\" commercials, is back and has added 10 more cm to the total length of the candy!",
+   "vendor": "Sakeru",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kakigori-and-milk-gummies",
+   "name": "Kakigori And Milk Gummies",
+   "merchantDescription": "These gummies are made to taste like shaved ice, and here we have varieties flavored like mango milk and strawberry milk.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_milk",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-bikkle-soda",
+   "name": "Bikkle Soda",
+   "merchantDescription": "Bikkle is a yogurt drink, but here we add some bubbles to create a unique tasting soda.",
+   "vendor": "Soda",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-knorr-cup-soup-spinach-potage",
+   "name": "Knorr Cup Soup: Spinach Potage",
+   "merchantDescription": "Knorr soup is famous because it's so easy to make. Just pour hot water into a cup, and let it sit for a few minutes, and you're set. Comes with 3 servings.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream",
+    "FOOD & DRINKS",
+    "MARUETSU",
+    "MEGADONKI"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-knorr-cup-soup-potato-potage",
+   "name": "Knorr Cup Soup: Potato Potage",
+   "merchantDescription": "Knorr soup is famous because it's so easy to make. Just pour hot water into a cup, and let it sit for a few minutes, and you're set. Comes with 3 servings.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SOUP"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pokka-sapporo-soup-clam-and-rich-cream",
+   "name": "Pokka Sapporo Soup: Oyster And Rich Cream",
+   "merchantDescription": "Pokka Sapporo soup is famous because it's so easy to make. Just pour hot water into a cup, and let it sit for a few minutes, and you're set. Comes with 3 servings.",
+   "vendor": "Pokka",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream",
+    "F_seafood",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-sb-spaghetti-sauce-tarako",
+   "name": "S&B Spaghetti Sauce: Tarako",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "FOOD & DRINKS",
+    "MARUETSU",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sb-spaghetti-sauce-karashi-mentaiko",
+   "name": "S&B Spaghetti Sauce: Karashi Mentaiko",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "F_spicy",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sb-spaghetti-sauce-peperoncino",
+   "name": "S&B Spaghetti Sauce: Peperoncino",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy",
+    "FOOD & DRINKS",
+    "MEGADONKI",
+    "NEWSKUS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sb-spaghetti-sauce-atlantic-salmon",
+   "name": "S&B Spaghetti Sauce: Atlantic Salmon",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_salt",
+    "F_seafood",
+    "FOOD & DRINKS",
+    "MARUETSU"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kewpie-spaghetti-sauce-tuna-mayo",
+   "name": "Kewpie Spaghetti Sauce: Tuna Mayo",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_egg",
+    "F_seafood",
+    "FOOD & DRINKS",
+    "MARUETSU"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kewpie-spaghetti-sauce-basil",
+   "name": "Kewpie Spaghetti Sauce: Basil",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_salt",
+    "FOOD & DRINKS",
+    "MARUETSU",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kewpie-spaghetti-sauce-mentai-mayo",
+   "name": "Kewpie Spaghetti Sauce: Mentai Mayo",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 2 servings.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "FOOD & DRINKS",
+    "MARUETSU",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-marumiya-okaka-kombu-furikake",
+   "name": "Marumiya Okaka Kombu Soft Furikake",
+   "merchantDescription": "Furikake makes your rice and onigiri less boring. Just sprinkle as much as you need on your rice and you're set. This furikake is made from okaka (bonito) and kombu (kelp).",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "FOOD & DRINKS",
+    "MEGADONKI",
+    "NEWSKUS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-marumiya-chirimen-sansho-furikake",
+   "name": "Marumiya Chirimen Sansho Soft Furikake",
+   "merchantDescription": "Furikake makes your rice and onigiri less boring. Just sprinkle as much as you need on your rice and you're set. This seasoning is made from whitebait and sansho peppers.",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "DONKI SHINJUKU",
+    "F_meat",
+    "FOOD & DRINKS",
+    "MARUETSU"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-marumiya-ground-chicken-and-egg-furikake",
+   "name": "Marumiya Ground Chicken And Egg Soft Furikake",
+   "merchantDescription": "Furikake makes your rice and onigiri less boring. Just sprinkle as much as you need on your rice and you're set. Net weight: 28g",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_egg",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-marumiya-marumiya-tarako-furikake",
+   "name": "Marumiya Tarako Soft Furikake",
+   "merchantDescription": "Furikake makes your rice and onigiri less boring. Just sprinkle as much as you need on your rice and you're set.",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "FOOD & DRINKS",
+    "MEGADONKI",
+    "NEWSKUS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-marumiya-hatougarashi-kombu-furikake",
+   "name": "Marumiya Hatougarashi Kombu Soft Furikake",
+   "merchantDescription": "Furikake makes your rice and onigiri less boring. Just sprinkle as much as you need on your rice and you're set. This seasoning is made from hatougarashi (a form of chili pepper, and kombu (kelp).",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "F_sweet potato",
+    "RICEBALL",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-marumiya-tuna-mayo-furikake",
+   "name": "Marumiya Tuna Mayo Soft Furikake",
+   "merchantDescription": "Furikake makes your rice and onigiri less boring. Just sprinkle as much as you need on your rice and you're set.",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "RICEBALL",
+    "SOLD OUT",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-calorie-mate-jelly-lime-grapefruit",
+   "name": "Calorie Mate Jelly: Lime & Grapefruit",
+   "merchantDescription": "Calorie Mate is a snack that's popular with students because of the calories it provides when doing activities, whether it's studying or playing sports. Now you can get that same kind of nourishment in jelly form.",
+   "vendor": "Calorie Mate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "ENERGY DRINKS",
+    "F_citrus"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pretz-savory-salad",
+   "name": "Pretz: Savory Salad",
+   "merchantDescription": "Pretz is made by Glico, the same folks who make Pocky, and it's a fun and yummy breadstick biscuit snack.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CLASSIC JAPANESE SNACKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_salt"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pretz-ripe-tomato",
+   "name": "Pretz: Ripe Tomato",
+   "merchantDescription": "Pretz is made by Glico, the same folks who make Pocky, and it's a fun and yummy breadstick biscuit snack.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CLASSIC JAPANESE SNACKS",
+    "CLEARANCE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-pretz-fragrant-roast",
+   "name": "Pretz: Fragrant Roast",
+   "merchantDescription": "Pretz is made by Glico, the same folks who make Pocky, and it's a fun and yummy breadstick biscuit snack.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_meat",
+    "PRETZ"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-fran-original-chocolat",
+   "name": "Fran: Original Chocolat",
+   "merchantDescription": "Fran is produced by Meiji and is very similar to Pocky, but with the Meiji-quality chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any tem",
+   "vendor": "Fran",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-fran-double-chocolat",
+   "name": "Fran: Double Chocolat",
+   "merchantDescription": "Fran is produced by Meiji and is very similar to Pocky, but with the Meiji-quality chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any tem",
+   "vendor": "Fran",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "03072024stop",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-chocoball-caramel",
+   "name": "Chocoball: Caramel",
+   "merchantDescription": "Chocoball can be found anywhere in Japan and is popular with people of all ages. Caramel Flavor. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any ",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "CLASSIC JAPANESE SNACKS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wasabeef-magic-trick",
+   "name": "Wasabeef: Magic Trick",
+   "merchantDescription": "Wasabeef is here with a new Halloween-inspired flavor. As the name may hint at, there may be a magical dose of extra wasabi in your chips.",
+   "vendor": "Chips",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_meat",
+    "F_wasabi"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-karamucho-burning-chili",
+   "name": "Karamucho: Burning Chili",
+   "merchantDescription": "Karamucho is a popular spicy potato chip snack, but this variety is said to be even hotter.",
+   "vendor": "Karamucho",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_spicy"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-zebra-midliner-sanrio-3-color-pen-set-gudetama",
+   "name": "Zebra Mildliner Sanrio 3-Color Pen Set (Gudetama)",
+   "merchantDescription": "Zebra has collaborated with Sanrio to produce these pen sets featuring your favorite characters. The colors included here are: mild gold, mild dark gray, mild apricot.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CHARACTER GOODS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-zebra-midliner-sanrio-3-color-pen-set-little-twin-stars",
+   "name": "Zebra Mildliner Sanrio 3-Color Pen Set (Little Twin Stars)",
+   "merchantDescription": "Zebra has collaborated with Sanrio to produce these pen sets featuring your favorite characters. The colors included here are: mild blue green, mild pink, mild orange.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CHARACTER GOODS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-zebra-midliner-sanrio-3-color-pen-set-pompompurin",
+   "name": "Zebra Mildliner Sanrio 3-Color Pen Set (Pompompurin)",
+   "merchantDescription": "Zebra has collaborated with Sanrio to produce these pen sets featuring your favorite characters. The colors included here are: mild yellow, mild marigold, and mild brown.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "060922STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-zebra-midliner-sanrio-3-color-pen-set-hello-kitty",
+   "name": "Zebra Mildliner Sanrio 3-Color Pen Set (Hello Kitty)",
+   "merchantDescription": "Zebra has collaborated with Sanrio to produce these pen sets featuring your favorite characters. The colors included here are: mild red, mild cyan, and mild lemon yellow.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CHARACTER GOODS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-nanoblock-mini-pokemon-blind-pack-vol-1",
+   "name": "Pokemon Nanoblock: Mini Pokemon Blind Pack Vol.1",
+   "merchantDescription": "Nanoblocks are like Legos, but much smaller. Here we have a pack of Nanoblocks which allow you to make a random Pokemon. Which Pokemon will you get?",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "073121STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-nanoblock-mini-pokemon-blind-pack-vol-2",
+   "name": "Pokemon Nanoblock: Mini Pokemon Blind Pack Vol.2",
+   "merchantDescription": "Nanoblocks are like Legos, but much smaller. Here we have a pack of Nanoblocks which allow you to make a random Pokemon. Which Pokemon will you get?",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-nanoblock-mini-pokemon-blind-pack-vol-3",
+   "name": "Pokemon Nanoblock: Mini Pokemon Blind Pack Vol.3",
+   "merchantDescription": "Nanoblocks are like Legos, but much smaller. Here we have a pack of Nanoblocks which allow you to make a random Pokemon. Which Pokemon will you get?",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "053022STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-nanoblock-mini-pokemon-blind-pack-vol-4",
+   "name": "Pokemon Nanoblock: Mini Pokemon Blind Pack Vol.4",
+   "merchantDescription": "Nanoblocks are like Legos, but much smaller. Here we have a pack of Nanoblocks which allow you to make a random Pokemon. Which Pokemon will you get?",
+   "vendor": "Pokémon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "111721STOP",
+    "AMAZON",
+    "BIC CAMERA",
+    "BIC CAMERA SHINJUKU",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-dewott-plush-keychain",
+   "name": "Pokemon Dolls: Dewott Plush Keychain",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-zeraora-plush-keychain",
+   "name": "Pokemon Dolls: Zeraora Plush Keychain",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-charizard-plush-keychain",
+   "name": "Pokemon Dolls: Charizard Plush Keychain",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-venusaur-plushie",
+   "name": "Pokemon Dolls: Venusaur Plushie",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-charizard-plushie",
+   "name": "Pokemon Dolls: Charizard Plushie",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-blastoise-plushie",
+   "name": "Pokemon Dolls: Blastoise Plushie",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-lucario-plushie",
+   "name": "Pokemon Dolls: Lucario Plushie",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-pokemon-dolls-zeraora-plushie",
+   "name": "Pokemon Dolls: Zeraora Plushie",
+   "merchantDescription": "Pokemon Dolls is a limited series of plushies and keychains, with much more kawaii designs of popular Pokemon!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-pokemon-camera-case-pikachu",
+   "name": "Pokemon Camera Case: Pikachu",
+   "merchantDescription": "Store your DSLR camera in style and Pokemon flair! For DSLR cameras approx. W130mm x H100mm x L130mm and under.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 44.99
+  },
+  {
+   "id": "sugoimart-pokemon-camera-case-little-pokemon",
+   "name": "Pokemon Camera Case: Little Pokemon",
+   "merchantDescription": "Store your DSLR camera in style and Pokemon flair! For DSLR cameras approx. W 130mm x H100mm x L130mm and under.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 44.99
+  },
+  {
+   "id": "sugoimart-pikachu-rubber-band-for-camera-lens",
+   "name": "Pikachu Rubber Band For Camera Lens",
+   "merchantDescription": "This rubber band has Pikachu's tail hanging from it, and it's for decorating your camera lens.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "08182021",
+    "08182021D",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-pokemon-camera-strap",
+   "name": "Pokemon Camera Strap",
+   "merchantDescription": "Show off your love of Pokemon and photography with this camera strap!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-pikachu-hood-and-towel",
+   "name": "Pikachu Hood And Towel",
+   "merchantDescription": "This towel has a hood shaped like Pikachu, so even when you're drying yourself you can pretend to be a Pokemon.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "08182021",
+    "08182021D",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-popsicle-maker-set",
+   "name": "Pokemon Gengar Popsicle Maker Set",
+   "merchantDescription": "This fun set includes a tray to pour in your juice into Gengar shapes so you can make Gengar popsicles!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_foodie",
+    "data_persona_is_gamer"
+   ],
+   "price": 33.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-multi-smartphone-case",
+   "name": "Pokemon Gengar Multi Smartphone Case",
+   "merchantDescription": "This smartphone case fits most smartphones. Size approx: 145mm x 70mm x 9mm",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-washi-tape",
+   "name": "Pokemon Gengar Washi Tape",
+   "merchantDescription": "Add a bit of flair to your everyday items with this decorate Pokemon washi tape.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_stationery"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-ring-notebook",
+   "name": "Pokemon Gengar Ring Notebook",
+   "merchantDescription": "A small B6-sized notebook featuring our favorite Ghost type Pokemon. Size approx. 18.2cm x 13.5cm x 1.5cm",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-towel-hood",
+   "name": "Pokemon Gengar Towel Hood",
+   "merchantDescription": "This towel has a hood shaped like Gengar, so even when you're drying yourself you can pretend to be a Pokemon.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-stationery-pouch",
+   "name": "Pokemon Gengar Stationery Pouch",
+   "merchantDescription": "A pouch featuring Gengar to store your stationery and supplies.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-gengar-lunch-bag",
+   "name": "Pokemon Gengar Insulated Lunch Bag",
+   "merchantDescription": "A lunch bag featuring Gengar and all his mischief.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 39.99
+  }
+ ]
+}

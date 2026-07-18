@@ -1,0 +1,1446 @@
+{
+ "source": "sugoimart",
+ "batch": 19,
+ "items": [
+  {
+   "id": "sugoimart-tohato-caramel-corn-salty-pineapple-flavor",
+   "name": "Tohato Caramel Corn Salty Pineapple Flavor",
+   "merchantDescription": "Crunchy, sweet‑and‑salty bliss with a tropical twist! Delight in the airy, melt‑in‑your‑mouth texture of Tohato’s Caramel Corn, now in a limited‑edition Salty Pineapple flavor. Infused with vibrant pineapple juice and a pinch of gourmet Guérande salt, each bit",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250710JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_corn",
+    "F_pineapple"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nestle-japan-kitkat-original-bar",
+   "name": "Nestle Japan KitKat Original Bar",
+   "merchantDescription": "Indulge in Japan’s beloved KitKat experience! This authentic Japanese KitKat bar merges crispy wafer layers with smooth milk chocolate, delivering the perfect balance of crunch and creamy sweetness. Crafted by Nestlé Japan, this single-bar treat is made using ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250711JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate"
+   ],
+   "price": 8.69
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-hooded-neck-pillow-blue",
+   "name": "Ghibli My Neighbor Totoro Hooded Neck Pillow: Blue",
+   "merchantDescription": "Travel in cozy Ghibli style! This adorable Ghibli My Neighbor Totoro Hooded Neck Pillow features Mid-Totoro’s classic blue color, white belly, and iconic facial details. This versatile 2-in-1 plush transforms from a soft Totoro cushion into a comfy U-shaped ne",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250625JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli"
+   ],
+   "price": 70.99
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-hooded-neck-pillow-grey",
+   "name": "Ghibli My Neighbor Totoro Hooded Neck Pillow: Grey",
+   "merchantDescription": "Make every trip a magical one with Totoro! This adorable Ghibli My Neighbor Totoro Hooded Neck Pillow features Totoro’s iconic gray color, white belly, and embroidered facial details. Designed as a versatile 2-in-1 plush cushion and neck pillow, this cozy comp",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250625JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli"
+   ],
+   "price": 70.49
+  },
+  {
+   "id": "sugoimart-ryunosio-kyoto-uji-matcha-salt",
+   "name": "Ryunosio Kyoto Uji Matcha Salt",
+   "merchantDescription": "Bring authentic Japanese flavor to your kitchen! Crafted from premium Uji matcha and Okinawa sea salt, this artisanal seasoning blend enhances your dishes with natural umami, rich green tea aroma, and a hint of ocean minerality. Free from additives and coloran",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250625JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "sugoimart-lotte-sasha-matcha-chocolate-snack",
+   "name": "Lotte Sasha Matcha Chocolate Snack",
+   "merchantDescription": "Indulge in delicate chocolate elegance with Lotte Sasha Matcha Chocolate. Crafted from rich Uji matcha, creamy white chocolate, and smooth milk chocolate, each piece features a unique ribboned texture that melts softly in your mouth. These ultra-thin layers fo",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250625JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_chocolate"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sugoimart-boco-to-deco-ashitaba-leaf-green-juice-powder",
+   "name": "Boco to Deco Ashitaba Leaf Green Juice Powder",
+   "merchantDescription": "Power up your day with Boco to Deco Ashitaba Leaf Green Juice Powder, a premium Japanese supplement made from 100% domestically grown Ashitaba leaves (Angelica keiskei). This refreshing, mild green juice is perfect for anyone looking to boost their daily veget",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250716JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_fruit",
+    "SUBCAT_DRINKS",
+    "SUBCAT_JUICE"
+   ],
+   "price": 125.49
+  },
+  {
+   "id": "sugoimart-bikkura-egg-oshi-no-ko-koron-appu-mascot",
+   "name": "Bikkura Egg Oshi No Ko Koron & Appu Mascot",
+   "merchantDescription": "Inside this round, yellow Bikkura Egg bath ball is a surprise Oshi No Ko Koron Appu Mascot! This bath bomb creates a delightful floral scent and turns the water a fun yellow hue as it dissolves. After a few minutes, a mascot from \"Oshi no Ko\" is unveiled! Each",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250702JB",
+    "AMB25/7/22",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CLEARANCE",
+    "data_department_anime_manga",
+    "data_ip_oshi_no_ko"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-demon-slayer-dydo-ice-latte",
+   "name": "Demon Slayer Dydo Ice Latte",
+   "merchantDescription": "After five long years, Dydo and Demon Slayer have come together to provide another exciting drink collaboration! Enjoy the delicious flavor of an ice latte with each sip while exploring the unique Demon Slayer displayed on the can. This delightful, sweet iced ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250716JB",
+    "AMB25/7/22",
+    "CAT_ANIME",
+    "CAT_FOODDRINKS",
+    "data_character_demon_slayer",
+    "data_department_food_drinks",
+    "data_ip_demon_slayer",
+    "data_persona_is_foodie"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-demon-slayer-dydo-sugar-free-orange-drink",
+   "name": "Demon Slayer Dydo Sugar Free Orange Drink",
+   "merchantDescription": "Hydrate all summer long with this exciting Demon Slayer Dydo Sugar Free Orange Drink! This refreshing beverage features a delightful mandarin orange flavor and aroma, providing a multi-sensory experience. With zero calories and sugar, it's a drink you can feel",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20250703JB",
+    "AMB25/7/22",
+    "CAT_ANIME",
+    "CAT_FOODDRINKS",
+    "data_character_demon_slayer",
+    "data_department_food_drinks",
+    "data_ip_demon_slayer",
+    "data_persona_is_foodie"
+   ],
+   "price": 4.29
+  },
+  {
+   "id": "sugoimart-pokemon-pocket-bonsai-3-blind-box-1",
+   "name": "Pokemon Pocket Bonsai 3 Blind Box",
+   "merchantDescription": "Plant-lovers and Pokemon fans are in for a treat with this Pokemon Pocket Bonsai 3 Blind Box! Each mystery box features one of six miniature scenes featuring a Pokémon character and a mini plant or bonsai. These blind boxes are shipped randomly, making it exci",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250716JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 28.49
+  },
+  {
+   "id": "sugoimart-pokemon-pocket-bonsai-3-full-set",
+   "name": "Pokemon Pocket Bonsai 3 Full Set",
+   "merchantDescription": "With this Pokemon Pocket Bonsai 3 Full Set, you won't have to wait to unveil a mystery box! This set includes all six designs from the Pokemon Pocket Bonsai 3 series. Each scene features a character and a miniature bonsai or plant. This set is perfect for coll",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250716JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon"
+   ],
+   "price": 171.99
+  },
+  {
+   "id": "sugoimart-children-educational-characters-bath-bomb",
+   "name": "Children Educational Characters Bath Bomb",
+   "merchantDescription": "Turn bath time into a fizzy, fragrant adventure! Each Children’s Educational Character Bath Bomb excites kids with vibrant fizz, a hidden endangered animal toy, and a playful natural fruit scent. The 12-pack includes a variety of kid-favorite fragrances like j",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20250618JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 126.99
+  },
+  {
+   "id": "sugoimart-rimtae-carnation-blooming-tea-set-with-infuser-mug",
+   "name": "Rimtae Carnation Blooming Tea Set with Infuser Mug",
+   "merchantDescription": "Experience tea as an art form. This Rimtae Carnation Blooming Tea Set with Infuser Mug transforms your tea time into a peaceful, elegant ritual. Each hand-tied blooming tea ball unfurls into a beautiful flower when steeped in hot water, releasing light floral ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250611JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 183.49
+  },
+  {
+   "id": "sugoimart-pokemon-bikkura-tamago-bath-bomb-salt-collection-13",
+   "name": "Pokemon Bikkura Tamago Bath Bomb Salt Collection 13",
+   "merchantDescription": "Turn bath time into a thrilling Pokémon adventure! The Pokémon Bikkura Tamago Bath Bomb Salt Collection13 transforms your tub into a fizzy, grape-scented splash zone. Shaped like a classic Poké Ball, each bath bomb bubbles in vibrant purple water and reveals a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250711JB",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 19.69
+  },
+  {
+   "id": "sugoimart-kanro-honey-lemon-c-throat-lozenges",
+   "name": "Kanro Honey Lemon C Throat Lozenges",
+   "merchantDescription": "Soothe your throat with a burst of honey and lemon. Kanro Honey Lemon C Throat Lozenges combine real honey, tangy lemon flavor, and a boost of vitamin C in each smooth, long-lasting candy. This convenient 11-piece pack is perfect for dry days, seasonal changes",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250712JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_honey",
+    "F_lemon"
+   ],
+   "price": 3.29
+  },
+  {
+   "id": "sugoimart-shobido-kuromi-heated-eyelash-curler",
+   "name": "Shobido Kuromi Heated Eyelash Curler",
+   "merchantDescription": "Keep eyelashes curled throughout the day with this easy-to-use Shobido Kuromi Heated Eyelash Curler! This eyelash curler uses gentle heat to curl and shape lashes during a makeup routine. With a 45-minute battery life per charge, it's a convenient tool for get",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250615JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 62.49
+  },
+  {
+   "id": "sugoimart-shobido-kuromi-eyelash-combing-tweezers",
+   "name": "Shobido Kuromi Eyelash Combing Tweezers",
+   "merchantDescription": "Mascara applications are even easier with these Shobido Kuromi Eyelash Combing Tweezers. This 3-in-1 eyelash tool features a comb on one end and rounded tweezers on the other. Use this product to separate lashes after mascara, create eyelash bundles, or add fa",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250615JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 28.49
+  },
+  {
+   "id": "sugoimart-shobido-kirby-smooth-bangs-sheet",
+   "name": "Shobido Kirby Smooth Bangs Sheet",
+   "merchantDescription": "This Shobido Kirby Smooth Bangs Sheet pack will easily become your new go-to while getting ready for the day. They help absorb excess oil and sweat without leaving behind residue. Easily reset your hair, even on warmer days, with this 40-pack. With its compact",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250615JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_kirby",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-miffy-nail-clipper",
+   "name": "Miffy Nail Clipper",
+   "merchantDescription": "This Miffy Nail Clipper provides a fun way to cut nails, with a nostalgic twist! These nail clippers include a cute design inspired by the Dutch fictional rabbit, Miffy. They also feature a nail catcher case, which helps prevent a mess while clipping. These cl",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250619JB",
+    "CAT_POPULAR",
+    "data_character_miffy",
+    "data_department_kawaii",
+    "data_ip_miffy",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 39.49
+  },
+  {
+   "id": "sugoimart-happy-popcorn-matcha-latte",
+   "name": "Happy Popcorn Matcha Latte",
+   "merchantDescription": "Satisfy your snack cravings with a unique twist. Happy Popcorn Matcha Latte blends the rich, earthy flavor of Japanese-grown matcha with the smooth creaminess of a latte, coating every piece of light and crunchy popcorn. Each bite offers a harmonious balance o",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250710JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 17.49
+  },
+  {
+   "id": "sugoimart-bourbon-mineral-salt-tablets-for-active",
+   "name": "Bourbon Mineral Salt Tablets for ACTIVE",
+   "merchantDescription": "Stay energized and refreshed during workouts, outdoor activities, and hot days. These Bourbon Mineral Salt Tablets are designed to quickly replenish essential electrolytes like sodium and four key minerals lost through sweat. Each tablet also contains Palatino",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250702JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "Low Stock"
+   ],
+   "price": 7.29
+  },
+  {
+   "id": "sugoimart-kameda-seika-kakinotane-spicy-hot-chili-flavor",
+   "name": "Kameda Seika Kakinotane Spicy Hot Chili Flavor",
+   "merchantDescription": "Turn up the heat with every crunchy bite. Kameda Seika's Kakinotane Spicy Hot Chili Flavor combines classic crescent-shaped rice crackers and crunchy peanuts with bold chili, garlic, and savory umami seasoning. This fiery mix delivers the perfect balance of he",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250710JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_spicy"
+   ],
+   "price": 20.99
+  },
+  {
+   "id": "sugoimart-kanro-shine-muscat-throat-lozenges",
+   "name": "Kanro Shine Muscat Throat Lozenges",
+   "merchantDescription": "Enjoy smooth relief and a burst of luscious grape flavor. Kanro Shine Muscat Throat Lozenges are premium throat candies made with 100% Japanese-grown Shine Muscat grape juice, delivering a naturally sweet and refreshing taste without menthol. Whether you’re so",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250710JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_sweet_snacks",
+    "F_grapes"
+   ],
+   "price": 4.69
+  },
+  {
+   "id": "sugoimart-bakukanto-cool-bath-salt-midsummer-night",
+   "name": "Bakukanto Cool Bath Salt: Midsummer Night",
+   "merchantDescription": "This Bakukanto Cool Bath Salt provides multiple benefits, from relaxation to stress relief. This line is curated to encourage sweating, helping you stay cool during the warmer months. With its delightful Midsummer Night aroma, this bath salt is an excellent ad",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-bakukanto-bath-salt-hinoke",
+   "name": "Bakukanto Bath Salt: Hinoke",
+   "merchantDescription": "De-stress and decompress with this unique Bakukanto Bath Salt. It provides a warming effect intended to promote sweating, offering benefits similar to those of a sauna. This bath salt features a delightful Japanese cypress aroma (Hinoke) that releases upon mix",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-bakukanto-bath-salt-ginger",
+   "name": "Bakukanto Bath Salt: Ginger",
+   "merchantDescription": "This Ginger Bakukanto Bath Salt offers a spicy experience, just like its aroma! With warming ingredients and fizzy carbonation, this bath salt creates an effect similar to that of a hot tub. Enjoy the delicious aroma of ginger as you dive into relaxation and s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 6.69
+  },
+  {
+   "id": "sugoimart-sanrio-rose-scented-hot-eye-mask-kuromi",
+   "name": "Sanrio Rose Scented Hot Eye Mask: Kuromi",
+   "merchantDescription": "No tricks here; this Kuromi Sanrio Rose Scented Hot Eye Mask is pure relaxation! With a warming feel, cute Kuromi design, and delightful rose aroma, this eye mask pack is perfect for unwinding. Each eye mask features cutouts, allowing you to read, watch TV, or",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 27.49
+  },
+  {
+   "id": "sugoimart-bakukanto-bath-salt-moon-aroma",
+   "name": "Bakukanto Bath Salt: Moon Aroma",
+   "merchantDescription": "Crafted to encourage sweating, this Bakukanto Bath Salt offers benefits similar to those of a sauna or hot tub. It includes a fizzy effect to enhance relaxation and rejuvenation. This bath salt features a moon aroma, blending floral, herbal, and ginger notes f",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 7.69
+  },
+  {
+   "id": "sugoimart-liese-forehead-concealing-balm",
+   "name": "Liese Forehead Concealing Balm",
+   "merchantDescription": "Soften the appearance of thinning hairlines with this Liese Forehead Concealing Balm! This balm easily adds color to areas with less hair density, creating the look of thicker hair. Use this balm with various hair styles, from updos to curled hair, to conceal ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 46.99
+  },
+  {
+   "id": "sugoimart-sanrio-character-hot-eye-mask-my-melody",
+   "name": "Sanrio Character Hot Eye Mask: My Melody",
+   "merchantDescription": "Tap into ultimate relaxation with this Sanrio Character Hot Eye Mask pack! This 3-pack features a warming effect and delightful chamomile scent to help de-stress after work or school. Each eye mask includes a super-cute My Melody design, making the experience ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_my_melody",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 23.49
+  },
+  {
+   "id": "sugoimart-kao-megrhythm-refreshing-eye-mask-4-pcs",
+   "name": "Kao MegRhythm Refreshing Eye Mask: 4 pcs",
+   "merchantDescription": "Keep cool on warm days with this Kao MegRhythm Refreshing Eye Mask pack! Each eye mask features a cooling effect that begins immediately once opened. With a delightful eucalyptus scent, these eye masks also aid in relaxation. This pack includes 4 pcs, ensuring",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 12.49
+  },
+  {
+   "id": "sugoimart-health-esthetic-mood-aroma-bath-salts-okinawa",
+   "name": "Health Esthetic Mood Aroma Bath Salts: Okinawa",
+   "merchantDescription": "Indulge in the rich aroma of Okinawan Shikuwasa fruit with these Health Esthetic Mood Aroma Bath Salts. The delightful citrus scent will create a spa-like experience, while the bath salts provide relaxation. These bath salts turn water a lovely yellow color, m",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sanrio-insect-repellent-wrist-band-kuromi",
+   "name": "Sanrio Insect Repellent Wrist Band: Kuromi",
+   "merchantDescription": "Battle insects in style with this Sanrio Insect Repellent Wrist Band featuring a fun Kuromi design in two colors! This 2-pack of wrist bands uses ingredients like eucalyptus oil, lemongrass oil, and citronella oil to keep bugs at bay. Each Kuromi wristband las",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 15.69
+  },
+  {
+   "id": "sugoimart-kiss-me-heated-lash-curler",
+   "name": "Kiss Me Heated Lash Curler",
+   "merchantDescription": "Curl eyelashes with ease with this Kiss Me Heated Lash Curler. It features a rechargeable battery for convenient usage anywhere. This lash curler has three heat settings to ensure you find the perfect temperature each time. This curler also includes a 3-finger",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250703JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 42.99
+  },
+  {
+   "id": "sugoimart-everyyou-foot-callus-pack",
+   "name": "Everyyou Foot Callus Pack",
+   "merchantDescription": "This Everyyou Foot Callus Pack will transform your feet from dry and scaly to moisturized in one step. Made with gentle lactic acid, this foot callus pack helps dead skin peel off in 5-7 days after use, leaving behind soft, healthy skin. They also include hyal",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250703JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-and-honey-deep-moist-hair-oil",
+   "name": "And Honey Deep Moist Hair Oil",
+   "merchantDescription": "Transform dry, frizzy hair with And Honey Deep Moist Hair Oil! Apply a small amount to the ends of your hair, whether it's damp or dry, to moisturize and nourish. This hair oil helps create silky, smooth, and soft locks with each use. It also features a deligh",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250703JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 55.49
+  },
+  {
+   "id": "sugoimart-momoururi-hip-care-soap",
+   "name": "Momoururi Hip Care Soap",
+   "merchantDescription": "This peach-shaped Momoururi Hip Care Soap helps provide self-care for the booty and thighs. With its gentle exfoliants, it targets dry and rough areas for a smoothing effect. It also includes moisturizing ingredients for silky, nourished skin. The delicious pe",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250703JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 18.49
+  },
+  {
+   "id": "sugoimart-sanrio-character-hot-eye-mask-pochacco",
+   "name": "Sanrio Character Hot Eye Mask: Pochacco",
+   "merchantDescription": "This Pochacco Sanrio Character Hot Eye Mask is equally cute and functional! It offers a warming effect for the eye area, providing relaxation after a busy day. These eye masks also feature a chamomile aroma, adding a sense of luxury with each wear. Use this 3-",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_pochacco",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 30.99
+  },
+  {
+   "id": "sugoimart-sanrio-character-hot-eye-mask-pompompurin",
+   "name": "Sanrio Character Hot Eye Mask: Pompompurin",
+   "merchantDescription": "With this Sanrio Character Hot Eye Mask pack, sleeping and relaxing are now luxurious experiences. These eye masks provide a warming effect and a delightful chamomile aroma, creating a spa-like environment. This pack includes three masks, each with a super-cut",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 30.99
+  },
+  {
+   "id": "sugoimart-health-esthetic-mood-aroma-bath-salts-hawaii",
+   "name": "Health Esthetic Mood Aroma Bath Salts: Hawaii",
+   "merchantDescription": "These Health Esthetic Mood Aroma Bath Salts will transport you to a Hawaiian resort! With a delicious citrus and mango aroma, each use will feel like a spa visit. These bath salts turn water a lovely blue hue, reminiscent of Hawaii's oceans. Net Weight: 42g Pl",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sanrio-character-hot-eye-mask-single-cinnamoroll",
+   "name": "Sanrio Character Hot Eye Mask Single: Cinnamoroll",
+   "merchantDescription": "Take relaxation to the next level with this Cinnamoroll Sanrio Character Hot Eye Mask Single! This warming eye mask is perfect for helping you feel refreshed. It features eye cutouts, allowing you to perform tasks like watching TV while you enjoy self-care. Th",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_cinnamoroll",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-nightmin-ear-loosening-time",
+   "name": "Nightmin Ear Loosening Time",
+   "merchantDescription": "Leave stress from the day behind with these Nightmin Ear Loosening Time earplugs. These earplugs help block out sounds that may keep you up at night, making it easier to fall asleep. They also offer a warming effect that lasts approximately 20 minutes, creatin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "sugoimart-health-esthetic-mood-aroma-bath-salts-kyoto",
+   "name": "Health Esthetic Mood Aroma Bath Salts: Kyoto",
+   "merchantDescription": "Elevate bath time with these Kyoto Health Esthetic Mood Aroma Bath Salts! Incorporate these into a self-care routine to help nourish, moisturize, and brighten skin. With their delightful matcha aroma, these bath salts will transport you to a spa-like experienc",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 3.29
+  },
+  {
+   "id": "sugoimart-health-esthetic-mood-aroma-bath-salts-dubai",
+   "name": "Health Esthetic Mood Aroma Bath Salts: Dubai",
+   "merchantDescription": "Incorporate these Dubai Health Esthetic Mood Aroma Bath Salts into your next bath for a relaxing, spa-like experience! With their relaxing tea fragrance, these bath salts will help de-stress and rejuvenate after busy days. They also include collagen to leave y",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-health-esthetic-mood-aroma-bath-salts-bali",
+   "name": "Health Esthetic Mood Aroma Bath Salts: Bali",
+   "merchantDescription": "Travel to a luxurious spa without leaving your home each time you use these Bali Health Esthetic Mood Aroma Bath Salts! With a delightful mandarin orange tea and juniper aroma, every bath will feel lush. These bath salts also feature moisturizing ingredients, ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 3.69
+  },
+  {
+   "id": "sugoimart-sanrio-bath-salt-hello-kitty",
+   "name": "Sanrio Bath Salt: Hello Kitty",
+   "merchantDescription": "A soak with this Hello Kitty Sanrio Bath Salt will leave you feeling refreshed and rejuvenated! With special ingredients that encourage sweating, this bath salt prompts relaxation, just like a sauna. It has a delightful herbal aroma and turns bath water a fun ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_hello_kitty",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 19.69
+  },
+  {
+   "id": "sugoimart-sanrio-bath-salt-cinnamoroll",
+   "name": "Sanrio Bath Salt: Cinnamoroll",
+   "merchantDescription": "This Sanrio Bath Salt will have you feeling like Cinnamoroll on the packaging, relaxed and sleepy. It's created with ingredients that help promote sweating to help boost stress relief, just like a sauna. As the bath salt dissolves, it releases a pretty purple ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_cinnamoroll",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 15.49
+  },
+  {
+   "id": "sugoimart-hello-kitty-print-cookies",
+   "name": "Hello Kitty Print Cookies",
+   "merchantDescription": "These Hello Kitty Print Cookies offer a new way to enjoy the character as a delicious treat! These sweets feature two different Hello Kitty prints, making them a fun treat to eat. They're crunchy and have a delightful sugar cookie taste. Once the cookies are g",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250618JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_hello_kitty",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "sugoimart-doraemon-print-cookies",
+   "name": "Doraemon Print Cookies",
+   "merchantDescription": "These Doraemon Print Cookies are almost too cute to eat! Each cookie includes a fun print of Doraemon with different facial expressions. Indulge in these delightful sugar cookies, then use the matching cookie tin to store keepsakes, jewelry, or other freshly-b",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250618JB",
+    "CANDY & SNACKS",
+    "CAT_ANIME",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_character_doraemon",
+    "data_department_sweets_snacks",
+    "data_ip_doraemon"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "sugoimart-morinaga-hi-chew-mango-okinawa-limited",
+   "name": "Morinaga Hi-Chew Mango Okinawa Limited",
+   "merchantDescription": "Indulge in tropical fruit flavors with this Morinaga Hi-Chew Mango Okinawa Limited candy! Each bite offers a chewy consistency and juicy Okinawan mango taste. It's crafted with yogurt for a creamy taste that perfectly complements the sweet mango flavor. This l",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250620JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_mango",
+    "SUBCAT_CANDY"
+   ],
+   "price": 40.99
+  },
+  {
+   "id": "sugoimart-morinaga-hi-chew-shikuwasa-okinawa-limited",
+   "name": "Morinaga Hi-Chew Shikuwasa Okinawa Limited",
+   "merchantDescription": "This Morinaga Hi-Chew Shikuwasa Okinawa Limited candy offers a unique taste of Japan. Made with real Shikuwasa juice, a sour Japanese citrus fruit, this candy is delightfully tangy. It also features yogurt, helping provide a creamy taste that perfectly complem",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250620JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "SUBCAT_CANDY"
+   ],
+   "price": 26.49
+  },
+  {
+   "id": "sugoimart-7-eleven-premium-chocolate-and-ramune-candy-muscat-grape-fla",
+   "name": "7-Eleven Premium Chocolate and Ramune Candy Muscat Grape Flavor",
+   "merchantDescription": "This 7-Eleven Premium Chocolate and Ramune Candy expertly combines the taste of Muscat grapes and decadent chocolate. With each bite, you'll find a burst of fruity soda and chocolate flavors. This treat makes a fantastic pick-me-up throughout the day. It's als",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250709JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-7-eleven-premium-gummy-chocolate-pineapple-flavor",
+   "name": "7-Eleven Premium Gummy Chocolate Pineapple Flavor",
+   "merchantDescription": "This 7-Eleven Premium Gummy Chocolate Pineapple Flavor is a snack you can feel good about! Crafted with juice from ripe Okinawan pineapples that didn't meet ripeness standards, each package helps reduce food waste. These gummies offer a mouthwatering fruity ta",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250709JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-pop-mart-the-monsters-coca-cola-series",
+   "name": "Pop Mart The Monsters Coca-Cola Series",
+   "merchantDescription": "The Monsters from Pop Mart have gotten hold of Coca-Cola, and they aren't going back! This cute Pop Mart Coca-Cola Series features characters enjoying Coca-Cola in various ways. Some Monsters prefer to wear Coca-Cola apparel, while others sip it while on a sur",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 40.49
+  },
+  {
+   "id": "sugoimart-re-ment-snoopy-peanuts-cafe-tour-blind-box",
+   "name": "Re-ment Snoopy Peanuts Cafe Tour Blind Box",
+   "merchantDescription": "Take a trip to Snoopy's Cafe with this Re-ment Snoopy Peanuts Cafe Tour Blind Box! Each mystery box features a different Snoopy-themed meal. From a foot-long sandwich to a birthday cake, Snoopy's menu has it all! Every mystery box includes additional accessori",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250626JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_snoopy",
+    "data_department_kawaii",
+    "data_ip_peanuts",
+    "data_persona_is_collector"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-pop-mart-the-monsters-playing-games-series-scene-sets",
+   "name": "Pop Mart The Monsters Playing Games Series Scene Sets",
+   "merchantDescription": "Join the Pop Mart craze with these fun The Monsters Playing Games Series Scene Sets! Each set includes a scene with 1-2 monsters playing various games, from climbing to Whack-a-Mole. These cute Pop Mart scene sets are packed randomly, making it exciting to unv",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 42.99
+  },
+  {
+   "id": "sugoimart-pop-mart-the-monsters-labubu-big-into-energy-blind-box",
+   "name": "Pop Mart The Monsters Labubu Big Into Energy Blind Box",
+   "merchantDescription": "This Pop Mart The Monsters Labubu Big Into Energy Blind Box is a must-have for collectors and fans! Each blind box includes a LABUBU character inside a snow globe, each with a unique theme. Enjoy the distinctive look of these crystal balls, featuring themes su",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "Low Stock"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "sugoimart-pop-mart-skullpanda-the-sound-series-iphone-15-pro-max-case",
+   "name": "Pop Mart Skullpanda The Sound Series iPhone 15 Pro Max Case",
+   "merchantDescription": "Show off your love of Pop Mart's Skullpanda with this The Sound Series iPhone 15 Pro Max Case! This case features a unique design with silver accents, complementing the cyborg Skullpanda background image. With a dedicated space for the iPhone 15 Pro Max's back",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 41.49
+  },
+  {
+   "id": "sugoimart-pop-mart-the-monsters-big-into-energy-series-pen-blind-box",
+   "name": "Pop Mart The Monsters Big into Energy Series Pen Blind Box",
+   "merchantDescription": "Pop Mart The Monsters are taking over pens in the Big into Energy series! These pen blind boxes feature various characters from The Monsters, each with a unique color and keychain. Even the top of the pen includes an outline of The Monsters! These pens make ta",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "Low Stock"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "sugoimart-pop-mart-skullpanda-the-sound-series-iphone-14-pro-max-case",
+   "name": "Pop Mart Skullpanda The Sound Series iPhone 14 Pro Max Case",
+   "merchantDescription": "Add a stylish flair to any iPhone Pro Max with this Pop Mart Skullpanda The Sound Series phone Case! It features an image of Skullpanda as a cyborg, complete with silver accents that make the background image pop. This phone case is an excellent gift for Pop M",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories",
+    "Low Stock"
+   ],
+   "price": 73.99
+  },
+  {
+   "id": "sugoimart-hacipupu-rolling-time-machine-series-iphone-15-pro-max-case",
+   "name": "Hacipupu Rolling Time Machine Series iPhone 15 Pro Max Case",
+   "merchantDescription": "This super-cute Hacipupu iPhone 15 Pro Max Case brings the Rolling Time Machine Series to life! It features the Toot-Toot Call character and a matching banana accessory for a whimsical twist! The connected banana accessory is soft and squishy, doubling as a ca",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_ip_hacipupu",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 36.99
+  },
+  {
+   "id": "sugoimart-hacipupu-rolling-time-machine-series-iphone-16-pro-case",
+   "name": "Hacipupu Rolling Time Machine Series iPhone 16 Pro Case",
+   "merchantDescription": "Add whimsy to any outfit with this fun Hacipupu Rolling Time Machine Series iPhone 16 Pro Case! Featuring the Toot-Toot Call character from the Rolling Time Machine Series, this case is a must for fans. Besides a kawaii design, it includes a soft banana access",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_ip_hacipupu",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 36.99
+  },
+  {
+   "id": "sugoimart-hacipupu-rolling-time-machine-series-iphone-16-pro-max-case",
+   "name": "Hacipupu Rolling Time Machine Series iPhone 16 Pro Max Case",
+   "merchantDescription": "Take your Hacipupu collection to the next level with this Hacipupu Rolling Time Machine Series iPhone 16 Pro Max Case! This phone case features a super-cute design inspired by Toot-Toot Call. A matching soft banana accessory is attached, adding a touch of whim",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_ip_hacipupu",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 36.99
+  },
+  {
+   "id": "sugoimart-kao-megrhythm-carbonated-gel-pack-head-neck",
+   "name": "Kao MegRhythm Carbonated Gel Pack Head & Neck",
+   "merchantDescription": "Need a midday reset or post-work unwind? This Kao MegRhythm Carbonated Gel Patch is your go-to cooling fix for head and neck tension. Infused with over 1,000ppm of CO₂ and calming menthol, these gel patches deliver a refreshing, fizzy sensation that lasts for ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250703JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "sugoimart-bakkanto-cool-refreshing-mint-bath-salt-1",
+   "name": "Bakkanto Cool Refreshing Mint Bath Salt",
+   "merchantDescription": "Indulge in a rejuvenating bath each time you use Bakkanto Cool Refreshing Mint Bath Salt. This bath salt has warming ingredients and a fizzy effect, creating a hot tub-like environment. It's crafted to encourage sweating for benefits similar to a sauna visit. ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-bakkanto-burning-hot-osmanthus-scent-bath-salt-1",
+   "name": "Bakkanto Burning Hot Osmanthus Scent Bath Salt",
+   "merchantDescription": "This Bakkanto Burning Hot Osmanthus Scent Bath Salt will transport you to a steamy sauna. Crafted with honey, collagen, and Epsom salts, these bath salts are meant to provide relaxation and hydration. They also help you sweat, which provides similar benefits a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-bakkanto-burning-hot-soda-squash-scent-bath-salt",
+   "name": "Bakkanto Burning Hot Soda Squash Scent Bath Salt",
+   "merchantDescription": "Enhance relaxation and de-stress with this unique Bakkanto Burning Hot Soda Squash Scent Bath Salt! It includes a fruity soda Squash scent to help boost stress relief. Once added to water, this bath salt creates a warming, fizzy effect designed to replicate th",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 8.29
+  },
+  {
+   "id": "sugoimart-bakkanto-burning-hot-yuzu-ginger-scent-bath-salt",
+   "name": "Bakkanto Burning Hot Yuzu Ginger Scent Bath Salt",
+   "merchantDescription": "Take a trip to the sauna or hot tub without leaving your house! This Bakkanto Burning Hot Yuzu Ginger Scent Bath Salt includes warming ingredients to help you sweat during your next bath. Once added to the tub, it turns the water a fun, yellow color and fizzes",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-bakkanto-burning-hot-aroma-scent-bath-salt",
+   "name": "Bakkanto Burning Hot Aroma Scent Bath Salt",
+   "merchantDescription": "This Bakkanto Burning Hot Aroma Scent Bath Salt nourishes the skin while helping to de-stress simultaneously. It's crafted with warming ingredients to encourage sweating, providing similar benefits as a visit to the sauna. It also creates a fizzy effect in the",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250704JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 8.29
+  },
+  {
+   "id": "sugoimart-sanrio-character-hot-eye-mask-hello-kitty",
+   "name": "Sanrio Character Hot Eye Mask: Hello Kitty",
+   "merchantDescription": "Say hello to ultimate relaxation with the Hello Kitty Hot Eye Mask! This adorable self-heating mask gently warms to around 40°C, delivering 20 minutes of cozy steam therapy to soothe tired eyes. Whether you're ending a long workday or indulging in some me-time",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_hello_kitty",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-donki-limited-edition-instant-cooling-pack",
+   "name": "Donki Limited Edition Instant Cooling Pack",
+   "merchantDescription": "Beat the heat this summer with a Donki Limited Edition Instant Cooling Pack! Snap or \"crack\" the pack for an instant cooling effect. Place this pack on your neck, face, or any areas that need a break from the summer heat. This pack is conveniently sized, makin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250703JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "Low Stock",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 4.29
+  },
+  {
+   "id": "sugoimart-kao-megrhythm-cooling-neck-and-shoulder-patch-6-pcs",
+   "name": "Kao MegRhythm Cooling Neck and Shoulder Patch: 6 pcs",
+   "merchantDescription": "Soothe tired neck and shoulder muscles with this Kao MegRhythm Cooling Neck and Shoulder Patch. Each patch provides a refreshing menthol sensation combined with the calming scent of bergamot citrus. Designed to deliver a cooling effect for approximately 3 hour",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250629JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "DBP-25/7/8",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_DONKI"
+   ],
+   "price": 18.99
+  },
+  {
+   "id": "sugoimart-starbucks-reusable-straw-set-and-brush",
+   "name": "Starbucks Reusable Straw Set And Brush",
+   "merchantDescription": "Indulge in Starbucks drinks on the go with this convenient Starbucks Reusable Straw Set and Brush. This set includes a thinner straw and a thicker one, ensuring you're prepared for any drink on the menu. The convenient included brush makes it easy to clean eac",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "ST-25/7/9",
+    "SUBCAT_BAGS&POUCHES",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-starbucks-cold-cup-tumbler-miir-check",
+   "name": "Starbucks Cold Cup Tumbler MiiR Check",
+   "merchantDescription": "This exciting Starbucks Cold Cup Tumbler MiiR Check lets you indulge in your favorite cold drinks while giving back. Each MiiR cup sold uses a portion of the profit to help those in areas where access to clean water and education is challenging. The tracking c",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "ST-25/7/9",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 70.99
+  },
+  {
+   "id": "sugoimart-starbucks-stainless-steel-tumbler-stanley-light-blue",
+   "name": "Starbucks Stainless Steel Tumbler Stanley Light Blue",
+   "merchantDescription": "Sleek and functional, this Light Blue Starbucks and Stanley Stainless Steel Tumbler is perfect for daily use. With its minimalistic design and light blue hue, it's a great addition to summer tumbler collections. It features a double wall, which helps keep hot ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "ST-25/7/9",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 111.99
+  },
+  {
+   "id": "sugoimart-starbucks-stainless-steel-cold-cup-tumbler-miir-white",
+   "name": "Starbucks Stainless Steel Cold Cup Tumbler MiiR White",
+   "merchantDescription": "Stylish and functional, this Starbucks Stainless Steel Cold Cup Tumbler MiiR White makes it easy to stay hydrated all summer long. It features a fun design that makes it appear as if stickers were applied. MiiR uses part of the profit from this tumbler to help",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "ST-25/7/9",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 154.99
+  },
+  {
+   "id": "sugoimart-starbucks-stanley-checked-stainless-steel-bottle-with-cup",
+   "name": "Starbucks Stanley Checked Stainless Steel Bottle With Cup",
+   "merchantDescription": "Show up to picnics and other warm-weather activities in style with this Starbucks Stanley Checked Stainless Steel Bottle with Cup. This bottle includes a double-walled design, ensuring your hot and cold drinks stay at the right temperature for longer. Its fun,",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "ST-25/7/9",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 138.99
+  },
+  {
+   "id": "sugoimart-starbucks-handle-lid-jug-large-tumbler",
+   "name": "Starbucks Handle Lid Jug Large Tumbler",
+   "merchantDescription": "Camping, summer sports, and beach days are no match for this Starbucks Handle Lid Jug Large Tumbler! With its large capacity, convenient handle, and easy-to-use straw lid, it's perfect for longer warm-weather excursions, gym visits, and summertime activities. ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "ST-25/7/9",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 98.99
+  },
+  {
+   "id": "sugoimart-starbucks-handle-lid-jug-tumbler",
+   "name": "Starbucks Handle Lid Jug Tumbler",
+   "merchantDescription": "This mint-colored Starbucks Handle Lid Jug Tumbler will help quench thirst while camping, working out, or participating in outdoor activities. With its convenient handle and straw lid, it's easy to take and use anywhere. The body of this tumbler is made with r",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250702JB",
+    "CAT_POPULAR",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "ST-25/7/9",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 75.49
+  }
+ ]
+}

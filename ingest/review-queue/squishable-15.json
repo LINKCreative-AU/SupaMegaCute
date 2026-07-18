@@ -1,0 +1,731 @@
+{
+ "source": "squishable",
+ "batch": 15,
+ "items": [
+  {
+   "id": "squishable-squishable-tie-dye-reaper",
+   "name": "Squishable Tie Dye Reaper",
+   "merchantDescription": "Who says harbingers of doom can't be cute and cuddly? NOT US! I prefer my agricultural metaphors for the brevity of life in pastels! And grinning! I mean, all skulls are grinning, but this one grins out of love! reaper, tie dye, pastel, goth, cute",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-alligator",
+   "name": "Squishable Alligator",
+   "merchantDescription": "What can one say about this alligator? Well, I could say that it stole my lunch money in 7th grade. I could also say it made up for it by following me all the way to my mom's house and buying me lunch! That was really nice if I don't think about it too hard! Y",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-campfire",
+   "name": "Squishable Campfire",
+   "merchantDescription": "S'mores are good. Fire is good. Camping.....is for people who aren't me but I support you if that's your thing! I'd rather curl up with a nice plush fire to keep me warm, and eat microwave s'mores in the comfort of my bed where only my television can judge me!",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-hen",
+   "name": "Squishable Hen",
+   "merchantDescription": "SHE'S SO BEAUTIFUL 10/10, everyone else can go home. The queen of the coop! Let's thank her properly for her amazing feathery presence! With a nice big celebratory meal! During which we will pay proper tribute to her using our finest culinary skills! I think y",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 56
+  },
+  {
+   "id": "squishable-squishable-queen-bee",
+   "name": "Squishable Queen Bee",
+   "merchantDescription": "According to all known lawsof aviation,there is no way a Squishableshould be able to fly.This is a Queen Squishable though,she can do whatever she wants. squishable, queen, bee",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-lich",
+   "name": "Squishable Lich",
+   "merchantDescription": "Summon the Lich...but beware! One icy touch will seal your doom! And by doom I mean snuggles! And by seal I mean \"you deserve some\"! What I'm trying to say is, Summon the Lich, the cuddliest evil necromancer you've ever met, for some warm hugs! But also, bewar",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 68
+  },
+  {
+   "id": "squishable-squishable-caterpillar",
+   "name": "Squishable Caterpillar",
+   "merchantDescription": "A tiny tube is our Mini Squishable Caterpillar, which means that this regular-sized caterpillar is a BIGGER TUBE! A tube that's squishy and cute and somehow more than the simplicity of its geometric topology. I'm trying to say it's still a long round tube, but",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-blue-whale-ii",
+   "name": "Squishable Blue Whale II",
+   "merchantDescription": "You don't have to travel to the icy depths of Alaska to go whale-watching anymore! Now you can do it from the comfort of your own bed! The majestic Blue Whale will always be ready for you to gaze at its beauty and grace! You can even speak to it! If it starts ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-squishable-oyster",
+   "name": "Squishable Oyster",
+   "merchantDescription": "Don't be shy! I know it's hard to come out of your shell sometimes, it's so warm in there! You gotta pull yourself up by your scuba boot straps and just GO for it! What is it, you ask? That's for you to find out!! I know there's a little pearl locked deeeeeeee",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-flocked-christmas-tree",
+   "name": "Squishable Flocked Christmas Tree",
+   "merchantDescription": "What is flocking exactly, when used as a noun? We're not entirely certain, but it's pretty and fancy and looks great on a Christmas tree...so here is a fancy flocked Christmas tree in bigg full-sized form! Perhaps it's even fancier than its smaller predecessor",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-christmas-tree",
+   "name": "Squishable Christmas Tree",
+   "merchantDescription": "You're probably thinking to yourself, \"A Christmas tree?!? It's not even December yet!\" Unless you're reading this in December, in which case you're thinking, \"A Christmas tree?!? I can't believe it's December already!\" Behold the cyclical cycle of consumerism",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-pumpkin-ii",
+   "name": "Squishable Pumpkin II",
+   "merchantDescription": "It's the Great Squishable Pumpkin everyone! They say once a year on All Hallow's Eve, if you wait in your nearest Squishable pumpkin patch, the GSP will appear! Bring along your friends and make a night out of it if you're feeling brave enough! pumpkin, hallow",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "pre-order"
+   ],
+   "price": 54
+  },
+  {
+   "id": "squishable-squishable-baby-goat",
+   "name": "Squishable Baby Goat",
+   "merchantDescription": "This Baby Goat is vacuous in the most pleasant way possible! There is not a single thought behind those eyes! They don't have to worry about paying rent or making friends or evading the police because of a bank robbery they may or may not have done two years a",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-squishable-hydra",
+   "name": "Squishable Hydra",
+   "merchantDescription": "Hopefully we all went through a Greek Mythology phase in middle/high school. Like, we all pretendeded that Greek Gods were the ultimate personality trait, right?? I always rigged the quizzes in my favor to get either Artemis or Apollo...they're simply too icon",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 68
+  },
+  {
+   "id": "squishable-squishable-cotton-candy-baby-unicorn",
+   "name": "Squishable Cotton Candy Baby Unicorn",
+   "merchantDescription": "Could you use their horn as a stick? Absolutely! Should you?? Maybe! Just make sure she's taken some medicine first and doesn't have a full stomach! Your favorite fairground friend takes the form of the most magical creature known to man! Unicorns may not be r",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-apatosaurus",
+   "name": "Squishable Apatosaurus",
+   "merchantDescription": "I will never make fun of paleontologists again. I was trying to find fun little facts to put in this description, but every word I found was longer and had more vowels than the last...I will never know peace again. I have an English degree and I am ashamed... ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-t-rex-ii",
+   "name": "Squishable T-Rex II",
+   "merchantDescription": "One of my favorite movies of all time is Meet the Robinsons. There is an iconic scene with a T-Rex who's being mind controlled by a robot bowler hat named Doris. Are you still with me? ANYWAY this isn't that T-Rex even though I wish it was! At least they have ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-strawberry-cow",
+   "name": "Squishable Strawberry Cow",
+   "merchantDescription": "What's better than a strawberry cow?! Well, I can think of like three things, but for the sake of this description I'll say-NOTHING! Seriously, this Strawberry Cow brings me such unbridled joy, I'm angry that I can't see her everyday. Wait, why can't I see her",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-king-raven",
+   "name": "Squishable King Raven",
+   "merchantDescription": "Nevermore will you say, \"Gosh, I wish the Mini King Raven came in a bigger size!\" I know you were saying that. I heard you yesterday up on the parapet, pining for your avian monarch to return to his courtly duties in magnificent, giant form. Well this is one r",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-cauldron",
+   "name": "Squishable Cauldron",
+   "merchantDescription": "Got some double bubbles that need toil and troubling? Have we got the cookware for you! It's got everything you might want in a giant hot boiling mystery! That's it, just leaaan in there and check it out. Just a little further... cauldron, witch, spooky, potio",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 65
+  },
+  {
+   "id": "squishable-squishable-rose",
+   "name": "Squishable Rose",
+   "merchantDescription": "Did you know pink roses symbolize the ultimate 'thank you'?! Getting someone a pink rose is like saying, 'Thank you for being cute and spiky!\" or 'Thank you for buying me last minute from the grocery store'! Or, 'thank you for not clipping me off your bushes j",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-sunflower",
+   "name": "Squishable Sunflower",
+   "merchantDescription": "See this sunflower??? We grew it just for you!!! Well actually, they decided to grow and we just kinda let 'em do their thing. By which I mean, they're the boss of us and we jump to their bidding. Must...plant...sunflowers. Must...take over...ecosystem. All...",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-frog",
+   "name": "Squishable Frog",
+   "merchantDescription": "Ahoy, budding herpetologists! Would you believe me that this particular species of frog (i.e frok, vrogge, frugge, froggen) is actually known for its squishiness? Truth! Squashed frog - it's not just a delicacy on an haute cuisine menu anymore! Yum? Yum! frog,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-squishable-witch",
+   "name": "Squishable Witch",
+   "merchantDescription": "Eek! I made an anti-aging potion, and now my testers are all babies! I mean, babies are fine vis-a-vis continuing the human race, but these are babies with responsibilities! They have rent to pay! And jobs to do! Ever see a baby try to work a financial spreads",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-baby-red-panda",
+   "name": "Squishable Baby Red Panda",
+   "merchantDescription": "Red Panda! Are you a panda? A bear? A raccoon? A fox? The internet says you have your own special classification, and I always trust everything the internet has to say. If they think you're an Ailuridae, that's good enough for me!! Red Panda,Stuffed Red Panda,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-succulent",
+   "name": "Squishable Succulent",
+   "merchantDescription": "How was your day? Mine was fine, thanks! That guy Bob across the street is still doing that thing I told you about, but otherwise, it was pretty good! What about you? Watch any decent shows? Also, why are you turning purple? Your leaves to be such a nice shade",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-baby-axolotl",
+   "name": "Squishable Baby Axolotl",
+   "merchantDescription": "Hey Baby Axolotl, teach me how to swim! I only really know how to walk in the water, very slowly. Oh, you too? Hmm, in that case can you teach me how to make cute facial expressions? While walking in the water? Very slowly? axolotl,amphibian,aquatic,pink",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-gargoyle",
+   "name": "Squishable Gargoyle",
+   "merchantDescription": "Squishable Gargoyle, stone protector with granite skin and flinty eye! Except this one, which is super soft and made of fuzz. Master of all it surveys! Except again, for this one. Which isn't. mini, gargoyle, grey, black, fantasy",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 65
+  },
+  {
+   "id": "squishable-squishable-baby-platypus",
+   "name": "Squishable Baby Platypus",
+   "merchantDescription": "Squishable Baby Platypus, you've gotten so big! Why, I haven't seen you since you were just out of your egg, or whatever. So whatcha up to now? Stinging people with your venomous spurs? Sensing your prey using electrolocation? Acting as the sole representative",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-blue-jay",
+   "name": "Squishable Blue Jay",
+   "merchantDescription": "Squishable Blue Jay! How'd you get so blue? Did you eat a lunch of blueberries? Go to a super cool hair stylist? Joined a certain performance group? Oh, it's natural? You mean you didn't sit in a salon for a whole day looking like an alien? Which is what I'm d",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 60
+  },
+  {
+   "id": "squishable-squishable-shadow-dragon",
+   "name": "Squishable Shadow Dragon",
+   "merchantDescription": "Have you heard the legend of Shadow Dragon? Me neither. So let's make one up! Shadow dragons use their shadowy powers to control the world! They rub elbows with royalty! They are champion badminton players! They have amazing crochet skills! They once ate three",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-venus-flytrap",
+   "name": "Squishable Venus Flytrap",
+   "merchantDescription": "Plant children are the best! Case in point, this Venus Flytrap! They're the most superlative carnivorous plant a couple of spooky plague professionals could hope to co-parent. And as an added bonus, they keep everyone's workstations pest free. And who doesn't ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-jellyfish-ii",
+   "name": "Squishable Jellyfish II",
+   "merchantDescription": "Show us who you are deep inside, little jellyfish! That should be easy for you...you're made of translucent goop! Oh wait, you're not made of goop? You're made of fur and fluff? Which isn't known for its photoconductive properties? It's cool, little Jellyfish,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-piggy",
+   "name": "Squishable Piggy",
+   "merchantDescription": "OINK! Oh wow, hello there Squishable Piggy. That is quite an aggressive greeting you have there. Ah! You've been trying to get my attention for 10 minutes now? You were going to share a cupcake but ate it out of frustration instead? You've decided I'm incredib",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-poodle-moth",
+   "name": "Squishable Poodle Moth",
+   "merchantDescription": "Who's a good floofer? The Squishable Poodle Moth is a good floofer! It's like a fluffy and adorable poodle and a super cool and superior moth. Thus the name, \"Poodle Moth\". This isn't a subtle naming convention here, people. We couldn't resist making an even b",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 68
+  },
+  {
+   "id": "squishable-squishable-rosy-maple-moth",
+   "name": "Squishable Rosy Maple Moth",
+   "merchantDescription": "Oh hello there, Squishable Rosy Maple Moth! Looking lovely as always! I just saw you on this month's cover model of Moth Magazine, your wings looked absolutely gorgeous. Did you have work done? You can tell me, I never gossip! Not a hint? Oh well, anyway, you'",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 68
+  },
+  {
+   "id": "squishable-squishable-heart",
+   "name": "Squishable Heart",
+   "merchantDescription": "Love is real! It exists! And it can be whatever love means to you! Soft, floofyness? Yes indeed! Rom-coms? Totally! Horror flicks? Sure, why not. Horrific elder gods from the dawn of time? Ummm...okay! Isn't love great? heart,hearts,love,red,pink,valentine,val",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-reaper",
+   "name": "Squishable Reaper",
+   "merchantDescription": "Contrary to mainstream belief, very few Reapers are \"Grim,\" per se. Sure, there's an amount of spookiness that comes with the job of shepherding souls, but most Reapers have plenty of interests outside of their day jobs! Many enjoy painting, animal husbandry, ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-plague-nurse",
+   "name": "Squishable Plague Nurse",
+   "merchantDescription": "We all need a partner. Sherlock has his Watson, Robin Hood has his Little John. The Plague Doctor has the Plague Nurse. If you were about to do medieval battle against infectious miasmas armed with only a lantern, a rudimentary concept of personal hygiene, and",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-mushroom",
+   "name": "Squishable Mushroom",
+   "merchantDescription": "Whoa! Now that is a big mushroom! We went on a hike looking for the biggest mushrooms we could find. Turns out the biggest one is the Squishable Mushroom! We may not be able to saute it to improve your dinner, but it can definitely make your life better with a",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-spooky-ghost",
+   "name": "Squishable Spooky Ghost",
+   "merchantDescription": "BOO! Aw darn you saw me hiding? Poop, I'm not that good at scaring people. My only two real skills are puns and making a phenomenal breakfast sandwich. It has boo-berries with boo-con in a spirit-ulina flavored boo-guette. It is absolutely to die for! At least",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-luna-moth",
+   "name": "Squishable Luna Moth",
+   "merchantDescription": "How do you feel about moths? Me too! Oh, you feel like they're weird floppy dusty hairy insects? Well then me DON'T! My love for moths is true, passionate, and larger than life. In fact, here's a Luna Moth as big as my love. Which is to say, very very big inde",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 65
+  },
+  {
+   "id": "squishable-squishable-plague-doctor",
+   "name": "Squishable Plague Doctor",
+   "merchantDescription": "We originally intended for this to be a Halloween Squishable, but, well, here we are. When we posted our 7\" version of this dude, the amount of traffic crashed our site. Then we spent 2 days fixing the site. Then you ordered a LOT of them. Then our site crashe",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-baby-corgi",
+   "name": "Squishable Baby Corgi",
+   "merchantDescription": "All hail corgis! Well, I mean, don't hail them, there's no need to freeze them into tiny balls of ice and have them fall through the sky. Although don't get me wrong, I'd love corgis falling from the sky, as long as they were cool with it. What do you say, boy",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-sakura-dragon",
+   "name": "Squishable Sakura Dragon",
+   "merchantDescription": "Hey you! How about we find a festive sakura grove, hang up some paper lanterns, lay out a picnic blanket, and eat a bunch of sakura flower-flavored treats under the cherry blossoms! With a dragon!What's that? You say you were actually planning to organize your",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-mint-octopus",
+   "name": "Squishable Mint Octopus",
+   "merchantDescription": "Sometimes you need the refreshing taste of minty toothpaste to really wake up in the morning. Not working? How about some minty iced coffee, minty cool air, or that hipster down the hall who calls herself Minty instead of Mindy because she's cool like that? Th",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 56
+  },
+  {
+   "id": "squishable-squishable-dachshund-hot-dog",
+   "name": "Squishable Dachshund Hot Dog",
+   "merchantDescription": "Did you know the dachshund was the first dog from the United Kingdom to get cloned? Indeed! We tried it out, but it didn't quite go as planned. Apparently our science was a lot more literal than we expected. At first, we were like, \"yikes, what's up with this,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "pre-order",
+    "Trending"
+   ],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-cute-octopus",
+   "name": "Squishable Cute Octopus",
+   "merchantDescription": "Octopi are the cephalopods of the future! Sure, they have been doing the eight-legged rhumba across the oceans for millions of years, but their predictive abilities are only now being discovered by science! These days, Octopi are predicting soccer matches, pic",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 56
+  },
+  {
+   "id": "squishable-squishable-fluffy-bunny",
+   "name": "Squishable Fluffy Bunny",
+   "merchantDescription": "Alright guys, here's what we're going to do. We're going to take this giant cotton ball. You see it? It's white, round, fluffy, kinda soft, it's a cotton ball. And, bear with me here, we're going to give it a face. Alright, so now it has a face. Okay. Feet. Le",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-rainbow",
+   "name": "Squishable Rainbow",
+   "merchantDescription": "There are many reasons to embrace this Rainbow! It's a spectral phenomenon caused by the refraction and dispersion of light within water droplets! It's a symbol of equality and love! It's a thing you have to go over to get to the Emerald City! So hug a rainbow",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-fuzzy-bumblebee",
+   "name": "Squishable Fuzzy Bumblebee",
+   "merchantDescription": "'Pardon me! I am a bee!'' the Bee said to the flower.\"May I trouble you for a grain or two of pollen at this hour?\"The flower stood invitingly and swayed upon its stalk.But the flower said nothing in response, for flowers cannot talk.\"Hello?\" the Bumblebee re-",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-sea-turtle",
+   "name": "Squishable Sea Turtle",
+   "merchantDescription": "Welcome to the ocean! I'm a Sea Turtle, and I bring the welcome wagon in these parts! Here, pull up an anemone! Let's gab about the current! Have an eclair!Why yes, I AM a very social sea-creature, thank you for noticing! Did you assume all turtles were shrink",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-pug",
+   "name": "Squishable Pug",
+   "merchantDescription": "Pugs! Those bulging eyes! That wrinkly face! The curly tail! Surely there's some socio-cultural reason for why you're so ridiculously adorable? I'm glad you asked! Bear with me here. The word tycoon comes, by way of Japan, from the Chinese word meaning \"Great ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-narwhal",
+   "name": "Squishable Narwhal",
+   "merchantDescription": "Why horses? When we think, \"What kind of animal really needs a horn on its head?\" why do we immediately think \"a horse\"? I mean, the poor thing would develop all kinds of back problems, and each friendly nuzzling would turn the recipient into shishkabobs.Stick",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-great-white-shark",
+   "name": "Squishable Great White Shark",
+   "merchantDescription": "Science tells us that sharks are in a perpetual state of motion, always swimming forward. To be a shark means being permanently on the hunt. We have defied science! Meet chompydon lacksidasius, the Great White Shark who prefers relaxing to attacking! Instead o",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-corgi",
+   "name": "Squishable Corgi",
+   "merchantDescription": "The aristocratic Corgi has ascended the ranks of royalty! It has warmed the laps of the realm's most demure white-gloved hand-wavers! And rightly so! For indeed, they've achieved their exalted status without conquering vast tracts of land! (Although it's aweso",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-cerberus",
+   "name": "Squishable Cerberus",
+   "merchantDescription": "Working dogs are the best! They will happily herd your sheep and then lick your face! They will save Little Timmy, that poor chap always stuck in the wrong end of a well! They can walk on their hind legs in a tutu for your applause and delight!Of these, the mo",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 65
+  },
+  {
+   "id": "squishable-comfort-food-shaped-jigsaw-puzzle",
+   "name": "Comfort Food Shaped Jigsaw Puzzle",
+   "merchantDescription": "Watching anime while eating dinner! Snacking while road tripping! Munching on popcorn while putting together a 300 piece puzzle. Since everything you do involves food anyway, this Comfort Food Shaped Jigsaw Puzzle lets your eyeballs feast on foods too. Sort of",
+   "vendor": "Squishable",
+   "productType": "Puzzle",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-avocado-shaped-jigsaw-puzzle",
+   "name": "Avocado Shaped Jigsaw Puzzle",
+   "merchantDescription": "Avocados are innately puzzling. They are vegetables that spread like butter! They are green, but not leafy! They keep trying to get me to come to their amateur improv shows, and I DON'T KNOW WHY! This Avocado Shaped Jigsaw Puzzle contains 500 pieces and a whol",
+   "vendor": "Squishable",
+   "productType": "Puzzle",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-alter-egos-series-6-plague-doctor-nymph",
+   "name": "Alter Egos Series 6: Plague Doctor Nymph",
+   "merchantDescription": "It's hard to have a conversation with a tree. I've tried. I've been like, \"Hey Oak, who do you think the bad guy is this season on that new crime show?\" and the Oak is all like, \"Whatever\". Not so with this Plague Nymph! Nature spirit! Forest fairy! They have ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-6-plague-doctor-cowboy",
+   "name": "Alter Egos Series 6: Plague Doctor Cowboy",
+   "merchantDescription": "Howdy howdy howdy! I sure do wish I could be playing my 'monica out on the range by the campfire, cooking some vittles! Instead I'm doing math homework. But I could be roundin' up some steers and lassoing 'dem dogies! Except I'm not. I'm doing trigonometry for",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-6-plague-doctor-druid",
+   "name": "Alter Egos Series 6: Plague Doctor Druid",
+   "merchantDescription": "Listen to this Spooky Druid's wisdom. But beware, for this wisdom is cursed! Once you know it, you will never be able to unknow it! Even when you think you've forgotten it, it will still be there, indelibly etched onto the very meat of your brain, just awaitin",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-6-plague-doctor-beast",
+   "name": "Alter Egos Series 6: Plague Doctor Beast",
+   "merchantDescription": "Legend says that on a night such as this, the Great Plague Beast arises in the forest! It growls its growl! It gnashes its teeth! Behold! The Great Plague Beast rides again! And what does it ride? A fancy 10-speed road bike hybrid with flashing lights on its w",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-6-plague-doctor-alien",
+   "name": "Alter Egos Series 6: Plague Doctor Alien",
+   "merchantDescription": "Hey stranger, I'm looking for a farm. You know, the type where you do farm work with your tentac...hands? I'm here to inspect some cows. Just inspect. Definitely not abduct. Yessirree, just a regular human looking for a farm with some cows who are open to inte",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-4-devils-brew",
+   "name": "Alter Egos Series 4: Devil's Brew",
+   "merchantDescription": "You know what I do when I see a demonic entity sworn to the services of a possibly metaphorical underworld? I go up to that servant of darkness and say, \"you're not decaf, are you? Cause I've still got a lot of studying to do tonight.\" And then I drink it. au,",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-alter-egos-series-4-rainbow-coffee",
+   "name": "Alter Egos Series 4: Rainbow Coffee",
+   "merchantDescription": "In another world, coffee looks the way it makes you feel. It's filled with sunshine and rainbows and happiness. It looks like the smell of smiles and magic, and the promise of alertness despite that late night you spent binge watching Doctor Who. This is that ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-alter-egos-series-4-bodega-coffee",
+   "name": "Alter Egos Series 4: Bodega Coffee",
+   "merchantDescription": "What comes with a paper cup, is probably lukewarm and a bit bitter, and contains massive amounts of caffeine? Me! But also this Bodega Coffee! To be clear, the coffee is actually in a paper cup, unlike me. I just carry a paper cup around everywhere for some re",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-alter-egos-series-4-decaf-coffee",
+   "name": "Alter Egos Series 4: Decaf Coffee",
+   "merchantDescription": "There are things we drink because we have to, like water. And there are things we drink for fun, like lemonade! And there are even things we drink for health, like chicken soup, which we also drink because it's delicious. And then there's this guy -- Decaf cof",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-alter-egos-series-4-affogato",
+   "name": "Alter Egos Series 4: Affogato",
+   "merchantDescription": "What's better when you pour espresso over it? Pretty much everything! Vanilla ice cream? Yes! Hot chocolate? The best! This cat? Delicious! More espresso? Absolutely! Wait, don't eat the cat. Stick with the vanilla ice cream. au,alternate universe,coffee,drink",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-alter-egos-series-3-mimic-tree",
+   "name": "Alter Egos Series 3: Mimic Tree",
+   "merchantDescription": "Hey bro, I found the perfect tree! It's got a great smell, nice full branches, and that perfect pine color! And its arms are just the right length- you know how I feel about good arms on a tree! And those sharp pointy teeth, they're just like the teeth we had ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-3-candy-tree",
+   "name": "Alter Egos Series 3: Candy Tree",
+   "merchantDescription": "Candy doesn't grow on trees, you know! It's not like you can just pick them from the delectable frosted boughs, lovingly brushing the powdered sugar from their colorfully shiny stickiness! It isn't as if you could just grab a handful of deliciously sweet sucke",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-3-palm-tree",
+   "name": "Alter Egos Series 3: Palm Tree",
+   "merchantDescription": "It's always \"now\" everywhere! It's now where you are, and it's also now on top of Mt Everest. If you are on top of Mt Everest, then doubly so! Or, for example, you may be experiencing the festive holiday season sitting in a snowstorm in Toledo, but it's also t",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-3-goth-tree",
+   "name": "Alter Egos Series 3: Goth Tree",
+   "merchantDescription": "I have strong feelings about the holidays and their influence in modern culture! And I want to tell you about it! With a heavy base line and loud screaming vocals! Ahhhhhyeah yeah yeah the holidays have created a problematic juxtaposition of legitimate emotion",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-3-ice-tree",
+   "name": "Alter Egos Series 3: Ice Tree",
+   "merchantDescription": "Jeez that's cold. As cold as my ex who made fun of puppies at the shelter over the holidays. Colder than my other ex who refused to share their Christmas cookies. Even colder than that one ex that made cutting remarks about my eggnog habit. I think what I'm sa",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-2-plague-doctor-rainy",
+   "name": "Alter Egos Series 2: Plague Doctor Rainy",
+   "merchantDescription": "Let me tell you of a far-off distant land, a land of wild storms and wind and rain. But it doesn't rain down frogs and jellybeans like it does here, oh no no no! Instead it rains down \"water\"! And when it touches you it clings to your body from flipper to beak",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-2-plague-doctor-jester",
+   "name": "Alter Egos Series 2: Plague Doctor Jester",
+   "merchantDescription": "At the end of a long day at work, I like to pour myself a big glass of milk and lounge around in wild multicolored motley. It doesn't get any better than hanging on the couch with your feet up while rattling off subtle jokes about prominent political figures. ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-2-plague-doctor-fortune-teller",
+   "name": "Alter Egos Series 2: Plague Doctor Fortune Teller",
+   "merchantDescription": "Beware, for I see a vital decision in your near future! One path contains sorrow, one joy! Mere seconds from now, you will finish reading the description of a particularly adorable Squishable! It's a frog? No! A Fortune-Telling Plague Doctor! And when you will",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-2-plague-doctor-demon",
+   "name": "Alter Egos Series 2: Plague Doctor Demon",
+   "merchantDescription": "Do it. Do the thing. You know, that thing you want to do, but know you shouldn't? Well maybe you should. Maybe you should just do that thing right now. You can trust me, I know a thing or two about doing things that everyone else says you shouldn't do, and my ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-2-plague-doctor-barista",
+   "name": "Alter Egos Series 2: Plague Doctor Barista",
+   "merchantDescription": "Life is better with caffeine. By which I mean, caffeine in very specific liquid form, as a byproduct of drinking certain hot beverages, can minorly improve some people's mental-alertness. You can't just carry around a packet of powdered caffeine in your pocket",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-alter-egos-series-1-alien-avocado",
+   "name": "Alter Egos Series 1: Alien Avocado",
+   "merchantDescription": "Usually we try to think up cute names for Alter Ego. This is not one of those times. This is the time to hide in your cellar and remember back to the days before the Alien Avocados arrived, spattering our landscape with delicious butteryness and lowered cardio",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  }
+ ]
+}

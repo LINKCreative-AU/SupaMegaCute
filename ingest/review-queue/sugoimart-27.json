@@ -1,0 +1,1446 @@
+{
+ "source": "sugoimart",
+ "batch": 27,
+ "items": [
+  {
+   "id": "sugoimart-goo-goo-kitchen-hirame-risotto-80g",
+   "name": "Wakodo Kids Fish Risotto Pouch",
+   "merchantDescription": "A cheese-flavored risotto, which is simmered with fish bouillon along with rice. Contains flounder and plenty of vegetables. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_seafood"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-bab-food-retort-pouch-wako-do-goo-gou-kitchen-lever-with-spa",
+   "name": "Wakodo Kids Spaghetti In Meat Sauce With Liver Pouch",
+   "merchantDescription": "A meat sauce with plenty of vegetables. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "DONKIBABY",
+    "F_meat"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-baby-food-retort-pouch-wakodo-goo-gou-kitchen-pumpkin-gratin",
+   "name": "Wakodo Kids Pumpkin Gratin Pouch",
+   "merchantDescription": "Cooked vegetables and macaroni in a sweet pumpkin sauce. Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_pumpkin"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-baby-food-retort-pouch-wakodo-googu-kitchen-tuna-cooked-rice",
+   "name": "Wakodo Kids Tuna And Seasoned Rice Pouch",
+   "merchantDescription": "Tuna, plenty of vegetables and rice, cooked in a bonito radish soup. Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_seafood"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-baby-food-goo-goo-kitchen-risotto-80g",
+   "name": "Wakodo Kids Chicken Risotto Pouch",
+   "merchantDescription": "It is a chicken risotto with a bonito soup stock. Soy sauce used does not contain wheat. Organic vegetables 100% domestic vegetables. Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-baby-food-retort-pouch-wakodo-googu-kitchen-hirame-and-egg-u",
+   "name": "Wakodo Kids Fish And Egg Ojiya Pouch",
+   "merchantDescription": "Hirame and plenty of vegetables, egg yolk simmered in bonito soup with rice.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "101722STOP",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-goo-gou-kitchen-shirasu-and-wakame-seaweed-braised-u",
+   "name": "Wakodo Kids Shirasu And Wakame Udon Pouch",
+   "merchantDescription": "No colorants, preservatives or fragrances are used. Seafood and vegetables are finished in a fragrant bonito soup with Sanuki udon. Fish meat 2%. Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wakodo-goo-goo-kitchen-chicken-and-vegetable-risotto-80g",
+   "name": "Wakodo Kids Chicken And Veggie Risotto Pouch",
+   "merchantDescription": "Chicken risotto with plenty of vegetables are cooked together, and has a subtle flavor of onion and cheese. Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-baby-beverage-wakodo-genkichi-mugi-tea-125-ml",
+   "name": "Wakodo Baby's Barley Tea 3-Pack",
+   "merchantDescription": "Uses richly flavored Rokujo barley. Recommended age: 1 month and up",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-wakodo-genkicchi-aqua-light-apple-125ml",
+   "name": "Wakodo Baby Aqua Light Apple 3-Pack",
+   "merchantDescription": "Use for hydration after acitivities that may cause sweating, after going out or after bathing. Recommended age: 3 months and up",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_fruit",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-wako-do-variety-pack-first-time-rice-cracker-puff-8-packets",
+   "name": "Wakodo Kids First Senbei Crackers Variety Pack",
+   "merchantDescription": "It is a variety pack of Asahi Group Foods Inc. rice crackers and puff rings. You can enjoy three flavors. Recommended age: 7 months and up",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_savory_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-wakodo-baby-snack-plus-calcium-variety-pack-stick-cookies-an",
+   "name": "Wakodo Kids Stick Cookies And Biscuits Variety Pack",
+   "merchantDescription": "It is a variety pack of Asahi Group Foods Inc. cookies and biscuits. You can enjoy three flavors. Recommended age: 9 months and up",
+   "vendor": "Wakodo",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CONBINI",
+    "COOKIES",
+    "data_department_sweets_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-wakodo-babys-nojikan-mugi-tea-500ml",
+   "name": "Wakodo Baby's Barley Tea Bottle",
+   "merchantDescription": "After bathing, outside play, meal time. A flavorful six-row barley. Has an aseptic packaging method and no emulsifier is used. Baby-friendly barley tea that does not contain caffeine and tannins. Recommended age: 1 month and up",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "F_tea",
+    "SOLD OUT",
+    "SUBCAT_BABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wako-do-babys-day-apple-water-500-ml",
+   "name": "Wakodo Baby's Apple Water",
+   "merchantDescription": "Wakodo Baby Date Apple Water 500 ml is not too sweet and easy to drink neatly. Since the osmotic pressure is adjusted, it can be hydrated without burdening the baby's stomach. Colorant, preservative-free. Recommended age: 5 months and up",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DRINKNP",
+    "F_fruit",
+    "SOLD OUT",
+    "SUBCAT_BABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wakodo-follow-up-milk-gum-powder-830-g",
+   "name": "Wakodo Gungun Supplimental Milk",
+   "merchantDescription": "It is important to supplement each nutrient in a well-balanced manner during the growth period of about nine months. In addition to calcium, which tends to run short in baby foods, iron, which is difficult to consume in milk, and nutrients such as DHA, are wel",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_milk",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-wakodo-levens-milk-yes-yes-810g",
+   "name": "Wakodo Haihai Baby Formula",
+   "merchantDescription": "Product is a childcare milk made based on knowledge of long-term breast milk research and infant nutrition so that you can use it at ease when breast milk is lacking or can not be raised. In addition to reducing beta globulin, not contained in breast milk, it ",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-meiji-smile-800-g-regular-type-dry-milk",
+   "name": "Meiji Hohoemi Baby Formula",
+   "merchantDescription": "Reduce 80% of beta lactoglobulin said to be strong in allergenicity by a patent technology only for Meiji Milk Products. Recommended age: 0-1 months",
+   "vendor": "Meiji",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_milk",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 44.99
+  },
+  {
+   "id": "sugoimart-ikureo-follow-up-milk-820g",
+   "name": "Icreo Supplimental Milk",
+   "merchantDescription": "Well-balanced nutritional support. Nutritional support in the weaning period It contains a sufficient amount of iron and vitamins that tend to run short in the weaning period to supplement nutrition in a well-balanced manner. Firmly supplementing iron content-",
+   "vendor": "Icreo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_milk",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "Throne"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-ikureo-balanced-milk-800g",
+   "name": "Icreo Balanced Baby Formula",
+   "merchantDescription": "Milk that is kind to the baby's body. Galactooligosaccharide, nucleotide, ë_-carotene, sodium combination. A substitute for mother's milk when mother's breast milk may be short or not given. From 0 months.",
+   "vendor": "Icreo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_milk",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-morinaga-chiru-mill-large-can-820g",
+   "name": "Morinaga Chirumiru Supplimental Milk",
+   "merchantDescription": "It is a follow-up milk that contains important nutrition in a well-balanced manner in early childhood. Supplements nutrition such as iron which tends to run short with milk and baby food. Ingredients contained in colostrum, protecting your baby from illness. T",
+   "vendor": "Morinaga",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_milk",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "Throne"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-meiji-step-easy-cube-box-448-g",
+   "name": "Meiji Step Cubed Supplimental Milk (448G)",
+   "merchantDescription": "Cube that is convenient for cooking, considering the nutrition that tends to be short of in a 1 to 3 years old .",
+   "vendor": "Meiji",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_milk",
+    "SOLD OUT",
+    "SUBCAT_DRINKS",
+    "Throne"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-meiji-hohoemi-easy-cube-27g",
+   "name": "Meiji Hohoemi Cubed Baby Formula (432G)",
+   "merchantDescription": "Baby food milk 27g x 16 bags. Recommended age: 0-1 years",
+   "vendor": "Meiji",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_fruit",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-one-piece-luffy-help-paper-theater",
+   "name": "One Piece Paper Theater (Luffy...Help!)",
+   "merchantDescription": "The famous One Piece \"Nami\" scene appears as a Paper Theater Series! Finished Size: W100 ÌÑ H80 ÌÑ D42 (mm). Package Size: W120 ÌÑ H192 ÌÑ D5 (mm).",
+   "vendor": "One Piece",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-ens-pt-123-paper-theater-my-hero-academia",
+   "name": "My Hero Academia Paper Theater (Deku And Bakugo)",
+   "merchantDescription": "A paper theatre of \"My Hero Academia\"! The Paper Theater is a paper craft kit that builds up an impressive scene of the characters, by overlaying paper that has been precisely cut. Size: H100 x W80 x D42 mm.",
+   "vendor": "My Hero Academia",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-dragon-ball-z-kamehame-wave-paper-theater",
+   "name": "Dragon Ball Z Paper Theater (Kamehameha)",
+   "merchantDescription": "About H80 x W100 x D42 mm. The world of film movies to enjoy with paper Paper theater is a paper craft kit that makes it possible to create an impressive scene of characters that appear, by superimposing paper that has been precisely cut with a laser. After co",
+   "vendor": "Dragon Ball",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "ANIME",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CHARACETR GOODS TOP BRANDS",
+    "CHARACTER GOODS"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-pokemon-kamex-paper-theater",
+   "name": "Pokemon Paper Theater (Wartortle, Blastoise)",
+   "merchantDescription": "Set contents; kit parts, assembly instructions. Completed size: about W100 ÌÑ H80 ÌÑ D42mm .",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-kirby-of-the-stars-warpstar-paper-theater",
+   "name": "Kirby Paper Theater (Kirby Warp Star)",
+   "merchantDescription": "About H80 x W100 x D42 mm. A paper theater of \"Kirby of the Stars\"! The paper theater is a paper craft kit that builds up an impressive scene of the characters, by overlaying paper that has been precisely cut.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-spirited-away-in-mystery-town-paper-theater",
+   "name": "Ghibli Paper Theater (Spirited Away)",
+   "merchantDescription": "About H80 x W100 x D42 mm. Enjoy the world of film through paper. Paper theater is a paper craft kit that makes it possible to create an impressive scene of characters, by superimposing paper that has been precisely cut.",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-ens-pt-084-paper-theater-secret-feast-my-neighbor-totoro",
+   "name": "Ghibli Paper Theater (Totoros)",
+   "merchantDescription": "Set contents kit parts, assembly instruction. Completed size: about W100 ÌÑ H 80 ÌÑ D 42 mm. Body material: Paper. Paper theatre of 'My Neighbor Totoro'",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-108-piece-jigsaw-puzzle-my-neighbor-totoro-hinata-bokko",
+   "name": "My Neighbor Totoro 108 Piece Jigsaw Puzzle (Hinata Bokko)",
+   "merchantDescription": "About 18 x 25.7 cm (when completed) Packaging size: 5.2 x 12.5 x 12.3 cm. Jigsaw image based on 'My Neighbor Totoro'",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-108-piece-jigsaw-puzzle-my-neighbor-totoro-resound-in-the-sk",
+   "name": "My Neighbor Totoro 108 Piece Jigsaw Puzzle (Shout At The Sky)",
+   "merchantDescription": "About 18 x 25.7 cm (when completed). Individual size: 5.4 x 12.2 x 12.0 cm. Individual packaging weight: 159 g. Jigsaw image based on 'My Neigbor Totoro'",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-ens-108-274-kikis-delivery-service-is-delivery-108-pieces",
+   "name": "Kiki's Delivery Service 108 Piece Jigsaw Puzzle (Special Delivery!)",
+   "merchantDescription": "About 18.2 x 25.7 cm. Completed image; scene from Kiki's delivery service",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "data_character_kikis_delivery_service",
+    "data_department_anime_manga"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-ens-108-401-the-spirited-away-railroad-108-pieces-of-chihiro",
+   "name": "Spirited Away 108 Piece Jigsaw Puzzle (Seaside Railway)",
+   "merchantDescription": "About 18.2 x 25.7 cm. Completed image; scene from Spirited away",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "data_character_spirited_away",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-108-piece-jigsaw-puzzle-my-neighbor-totoro-dream-flight",
+   "name": "My Neighbor Totoro 108 Piece Jigsaw Puzzle (Dream Flight)",
+   "merchantDescription": "About 18.2 x 25.7 cm. completed image; scene from My Neigbor Totoro",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-150-piece-studio-ghibli-my-neighbor-totoro-rainy-bus-stop-bl",
+   "name": "My Neighbor Totoro 150 Piece Mini Jigsaw Puzzle And Frame Set (Rainy Bus Stop)",
+   "merchantDescription": "About 7.6 x 10.2 cm. Completed image; scene from My Neighbor Totoro",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-150-piece-porco-rosso-puzzle-frame-set",
+   "name": "Porco Rosso 150 Piece Mini Jigsaw Puzzle And Frame Set (The Savoia On Water)",
+   "merchantDescription": "About 7.6 x 10.2 cm. Completed image; scene from Porco Rosso.",
+   "vendor": "Jigsaw Puzzle",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_character_porco_rosso",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_gamer"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-150-piece-jigsaw-puzzle-my-neighbor-totoro-walk-day",
+   "name": "My Neighbor Totoro 150 Piece Mini Jigsaw Puzzle And Frame Set (A Perfect Day For A Walk)",
+   "merchantDescription": "About 7.6 x 10.2 cm (when completed). Completed image; scene from My Neighbor Totoro",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sugoimart-ens-150-g02-my-neighbor-totoro-totoro-fly-150-mini-pieces",
+   "name": "My Neighbor Totoro 150 Piece Xs Puzzle (Fly Totoro!)",
+   "merchantDescription": "About 10 x 14.7 cm. My Neighbor Totoro Collage Art Series.",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-ens-150-g58-my-neighbor-totoro-hydrangea-and-cat-bath-150-pi",
+   "name": "My Neighbor Totoro 150 Piece Xs Puzzle (Cat Bus And Flowers)",
+   "merchantDescription": "About 10 x 14.7 cm. This is a mini puzzle using mermaid paper",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-150-piece-jigsaw-puzzle-my-neighbor-totoro-collage-art-serie",
+   "name": "My Neighbor Totoro 150 Piece Xs Puzzle (Totoro And Med-Totoro)",
+   "merchantDescription": "About 10 x 14.7 cm. This is a jigsaw based on My Neighbor Totoro",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-126-piece-jigsaw-puzzle-my-neighbor-totoro-the-master-of-tsu",
+   "name": "My Neighbor Totoro 126 Piece Art Crystal Jigsaw Puzzle (Totoro)",
+   "merchantDescription": "This is a jigsaw based on My Neighbor Totoro, with each jigsaw piece mimicking stained glass, allowing for light to pass through. About 10 x 14.7 cm.",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "sugoimart-126-pieces-jigsaw-puzzle-spirited-away-wonderland-lights",
+   "name": "Spirited Away 126 Piece Art Crystal Jigsaw Puzzle (No Face)",
+   "merchantDescription": "About 10 x 14.7 cm. This is a jigsaw based on Spirited Away, with each jigsaw piece mimicking stained glass, allowing for light to pass through.",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACETR GOODS TOP BRANDS",
+    "CHARACTER GOODS"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-126-piece-jigsaw-puzzle-kikis-delivery-service-jijis-store-n",
+   "name": "Kiki's Delivery Service 126 Piece Art Crystal Jigsaw Puzzle (Jiji)",
+   "merchantDescription": "About 10 x 14.7 cm. This is a jigsaw based on Kiki's delivery service, with each jigsaw piece mimicking stained glass, allowing for light to pass through. .",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "050121STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-126-piece-jigsaw-puzzle-my-neighbor-totoro-surrounded-by-sun",
+   "name": "My Neighbor Totoro 126 Piece Art Crystal Jigsaw Puzzle (Cat Bus)",
+   "merchantDescription": "About 10cm x 14.7cm. This is a jigsaw based on My Neighbor Totoro, with each jigsaw piece mimicking stained glass, allowing for light to pass through.",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "090922STOP",
+    "AMAZON",
+    "CAT",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-jigsaw-puzzle-126-piece-art-crystal-jigsaw-ponyo-on-the-clif",
+   "name": "Ponyo 126 Piece Art Crystal Jigsaw Puzzle (Ponyo)",
+   "merchantDescription": "About 10 x 14.7 cm. This is a jigsaw based on Ponyo, with each jigsaw piece mimicking stained glass, allowing for light to pass through.",
+   "vendor": "Jigsaw Puzzle",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "022123STOP",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "data_character_ponyo",
+    "data_department_anime_manga"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-300-piece-jigsaw-puzzle-my-neighbor-totoro-don",
+   "name": "My Neighbor Totoro 300 Piece Jigsaw Puzzle (Boom!)",
+   "merchantDescription": "About 26 x 38 cm. A Jigsaw based on the movie \"My Neighbor Totoro\"",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "$30-$50",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-500-piece-jigsaw-puzzle-my-neighbor-totoro-hinata-bokko",
+   "name": "My Neighbor Totoro 500 Piece Jigsaw Puzzle (Hinata Bokko)",
+   "merchantDescription": "About 38 x 53 cm. Jigsaw based on the movie \"My Neighbor Totoro\"",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$30-$50",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-ens-500-220-my-neighbor-totoro-art1988-500-pieces",
+   "name": "My Neighbor Totoro 500 Piece Jigsaw Puzzle (Walking Through Grass)",
+   "merchantDescription": "About 38 x 53 cm. Jigsaw based on the movie \"My Neighbor Totoro\"",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$30-$50",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-500-piece-jigsaw-puzzle-my-neighbor-totoro-sanpo",
+   "name": "My Neighbor Totoro 500 Piece Jigsaw Puzzle (Sanpo)",
+   "merchantDescription": "About 38 x 53 cm. Jigsaw based on the movie \"My Neighbor Totoro\"",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$30-$50",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-1000-pieces-jigsaw-puzzle-my-neighbor-totoro-on-a-fine-day-i",
+   "name": "My Neighbor Totoro 1000 Piece Jigsaw Puzzle (A Fine Day In May)",
+   "merchantDescription": "Size box is about 22 ÌÑ 29 ÌÑ 5 cm. Completed size is about 50 x 75 cm. 1000 piece jigsaw based on the movie \"My Neighbor Totoro\"",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$50ORMORE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-1000-pieces-jigsaw-puzzle-my-neighbor-totoro-resound-in-the-",
+   "name": "My Neighbor Totoro 1000 Piece Jigsaw Puzzle (Yell At The Sky)",
+   "merchantDescription": "About 75 x 50 cm. Jigsaw based on the move \"My Neighbor Totoro",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$50ORMORE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-1000-piece-jigsaw-puzzle-my-neighbor-totoro-encounter",
+   "name": "My Neighbor Totoro 1000 Piece Jigsaw Puzzle (Rainy Bus Stop)",
+   "merchantDescription": "About 50 x 75 cm. Jigsaw based on the movie \"My Neighbor Totoro\"",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$50ORMORE",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-41-piece-crystal-gallery-little-twin-stars",
+   "name": "Little Twin Stars 41-Piece Crystal Gallery Puzzle",
+   "merchantDescription": "About 14 ÌÑ 14.5 ÌÑ 4.5 cm. A three-dimensional jigsaw puzzle based on Little Twin Stars.",
+   "vendor": "Cystal Puzzle",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-37-piece-crystal-gallery-my-melody",
+   "name": "My Melody 37-Piece Crystal Gallery Puzzle",
+   "merchantDescription": "About 9.4 ÌÑ 14.5 ÌÑ 4.5 cm.A three-dimensional jigsaw puzzle based on MyMelody",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "$30-$50",
+    "082322STOP",
+    "BIC CAMERA",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-41-piece-crystal-puzzle-rilakkuma",
+   "name": "Rilakkuma 41-Piece Crystal Puzzle",
+   "merchantDescription": "A three-dimensional jigsaw puzzle based on Rilakkuma",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-37-pieces-crystal-puzzle-korilakkuma",
+   "name": "Korilakkuma 37-Pieces Crystal Puzzle",
+   "merchantDescription": "A three-dimensional jigsaw puzzle based on Korilakkuma",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-40-piece-crystal-puzzle-astro-boy",
+   "name": "Astro Boy 40-Piece Crystal Puzzle",
+   "merchantDescription": "A three-dimensional jigsaw puzzle based on Astro Boy",
+   "vendor": "Crystal Puzzle",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "data_department_toys_games",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-40-pieces-crystal-puzzle-mt-fuji",
+   "name": "Mt. Fuji 40-Piece Crystal Puzzle",
+   "merchantDescription": "A three-dimensional jigsaw puzzle based on Mt. Fuji",
+   "vendor": "Crystal Puzzle",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-48-piece-crystal-puzzle-tokyo-tower",
+   "name": "Tokyo Tower 48-Piece Crystal Puzzle",
+   "merchantDescription": "A three-dimensional jigsaw puzzle based on Tokyo Tower",
+   "vendor": "Cystal Puzzle",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$30-$50",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "data_department_toys_games",
+    "data_persona_is_gamer"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-calpis-soda-luxurious-mango",
+   "name": "Calpis Soda: Luxurious Mango",
+   "merchantDescription": "Calpis, or more widely known as Calpico, is a unique drink with a light milky taste to is, and Calpis Soda takes that classic flavor to make one memorable soft drink! This limited flavor is made to taste like mangoes! Drink volume: 500 ml",
+   "vendor": "Calpis",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-fanta-salty-lychee",
+   "name": "Fanta: Salty Lychee",
+   "merchantDescription": "Fanta is back with another limited flavor. Perfect for summer, this salty lychee is as refreshing as it sounds! Volume: 490ml",
+   "vendor": "Fanta",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_salt",
+    "FANTASY LUDA",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-mets-watermelon-soda",
+   "name": "Mets: Watermelon Soda",
+   "merchantDescription": "Mets is a soda that can be found all over Japan, but this watermelon flavor is only here for the summer!Volume: 480ml",
+   "vendor": "Mets",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-giant-pocky-dream-pocky",
+   "name": "Giant Pocky: Dream Pocky",
+   "merchantDescription": "Pocky is one of Japan's most popular chocolate snacks! Here we have a giant variety that includes 20 sticks featuring 5 different flavors: chocolate, matcha, melon, strawberry, and grape.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate",
+    "SOLD OUT"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-cold-stone-creamery-mily-strawberry-creamy-snacks",
+   "name": "Cold Stone Creamery: Milky Strawberry Creamy Snacks",
+   "merchantDescription": "We all know Cold Stone for its ice cream, so here's a snack to enjoy that replicates that deliciousness with this creamy strawberry snack!",
+   "vendor": "Cold Stone Creamery",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_cream",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-peyoung-yakisoba-fried-potato-chips",
+   "name": "Peyoung Yakisoba Fried Potato Chips",
+   "merchantDescription": "Peyoung yakisoba is probably the most well known brand of yakisoba, so here you can enjoy potato chips seasoned to taste like our favorite fried noodles.",
+   "vendor": "Peyoung",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-jagariko-salty-lemon-bits",
+   "name": "Jagariko: Salty Lemon Bits",
+   "merchantDescription": "Jagariko is a popular potato chip snack shaped like sticks, and here we have a variety with smaller sized sticks and flavored like lemon.",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "F_salt"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-mochi-mochi-chocolate-purple-sweet-potato",
+   "name": "Mochi Mochi Chocolate: Purple Sweet Potato",
+   "merchantDescription": "These delicious treats mix the luxurious taste of truffle chocolate with the Japanese taste of mochi, combining into these delectable and rich mini bites! On top of it all, this seasonal purple sweet potato flavor, inspired by Okinawan beni imo, is available o",
+   "vendor": "Mochi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-karamucho-global-thai-hot-chili-flavor",
+   "name": "Karamucho Global: Thai Hot Chili Flavor",
+   "merchantDescription": "Karamucho is a popular spicy potato chip, but with this limited edition you can experience a Japanese take on different flavors from around the world! Here is a hot chili flavored chip inspired by Thailand.",
+   "vendor": "Karamucho",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_corn"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-tapioca-milk-tea-gummies",
+   "name": "Tapioca Milk Tea Gummies",
+   "merchantDescription": "Tapioca is the trending flavor of Japan in summer 2019, so to capitalize on the popularity they crafted these gummies made to taste like tapioca milk tea with each bite!",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "BOBA",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-mentos-mix-on-the-beach",
+   "name": "Mentos: Mix On The Beach",
+   "merchantDescription": "Mentos is a popular candy available all around the world, but Japan of course makes its own flavors, like this one featuring bits with tropical blends like passion fruit mango, banana strawberry, and lemon lime!",
+   "vendor": "Mentos",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "120921STOP",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-hi-chew-premium-double-melon",
+   "name": "Hi-Chew Premium: Double Melon",
+   "merchantDescription": "Hi-Chew Premium is a higher end kind of the classic candy, and here we have a variety that blends orange Furano melons of Hokkaido, and green Andes melons of Ibaraki.",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-hi-chew-kawachi-bankan-pink-grapefruit",
+   "name": "Hi-Chew: Kawachi Bankan & Pink Grapefruit",
+   "merchantDescription": "Hi-Chew is a candy everyone knows and loves, and this limited editon features flavors from two citrus fruits: Kawachi bankan and pink grapefruit!",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pureral-gummy-pineapple",
+   "name": "Pureral Gummy: Pineapple",
+   "merchantDescription": "Pureral gummies are known for its super sweet and luxurious taste. Here we have a limited pineapple flavor - perfect for summer!",
+   "vendor": "Pureral",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kajuu-gummy-shikuwasa",
+   "name": "Kajuu Gummy: Shikuwasa",
+   "merchantDescription": "Kajuu gummies are known for their fun shapes modeled after the fruit they taste like. Here we have a limited flavor straight from Okinawa - the lime-like Shikuwasa!",
+   "vendor": "Kajuu",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "OKINAWA"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-pikachu-strawberry-cream-daifuku-omiyage",
+   "name": "Pikachu Strawberry Cream Daifuku Omiyage",
+   "merchantDescription": "This is a strawberry-flavored cream daifuku featuring Pikachu from Pokemon. Contains 9 pieces.",
+   "vendor": "Pokémon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_sweets_snacks"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-im-doraemon-milk-pie-omiyage",
+   "name": "I'M Doraemon Milk Pie Omiyage",
+   "merchantDescription": "This is a Milk flavored biscuit Omiyage featuring Doraemon and Nobita, which are best friends in the anime series. Contains 10 pieces.",
+   "vendor": "Doraemon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_character_doraemon",
+    "data_department_sweets_snacks",
+    "data_ip_doraemon",
+    "data_persona_is_foodie",
+    "data_persona_is_otaku"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-hello-kitty-printed-cookies-omiyage",
+   "name": "Hello Kitty Printed Cookies Omiyage",
+   "merchantDescription": "This is a cookie Omiyage featuring Hello Kitty's cute pictures on every piece of cookie inside. Contains 15 pieces.",
+   "vendor": "Sanrio",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_hello_kitty"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-hello-kitty-x-crayon-shinchan-strawberry-cookies-omiyage",
+   "name": "Hello Kitty X Crayon Shinchan Strawberry Cookies Omiyage",
+   "merchantDescription": "This strawberry cream flavored cookies Omiyage features two of the most popular characters in Japan, Hello Kitty and Crayon Shinchan. Contains 6 pieces.",
+   "vendor": "Sanrio",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_hello_kitty",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-gudetama-cream-cookies-omiyage",
+   "name": "Gudetama Cream Sandwich Cookies Omiyage",
+   "merchantDescription": "This Omiyage features Gudetama and delicious cream sandwich cookies. Contains 6 pieces.",
+   "vendor": "Gudetama",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_gudetama",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-gudetama-milk-manjuu-omiyage",
+   "name": "Gudetama Milk Manjuu Omiyage",
+   "merchantDescription": "This Omiyage features Gudetama and a milk flavored Manjuu. Contains 6 pieces.",
+   "vendor": "Gudetama",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$10-$20",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_gudetama",
+    "data_department_sweets_snacks"
+   ],
+   "price": 14.99
+  }
+ ]
+}

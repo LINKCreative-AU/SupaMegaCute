@@ -1,0 +1,870 @@
+{
+ "source": "japanla",
+ "batch": 14,
+ "items": [
+  {
+   "id": "japanla-sanrio-hanafuda-cushion",
+   "name": "Sanrio Hanafuda Cushion",
+   "merchantDescription": "Add a unique touch to your collection with the Sanrio Hanafuda Cushions. These decorative cushions complete with tassels feature Hello Kitty, My Melody, and Cinnamoroll on hanafuda cards, traditional Japanese playing cards with natural motifs, on the front. Th",
+   "vendor": "Sanrio",
+   "productType": "Bedroom",
+   "merchantTags": [],
+   "price": 28.5
+  },
+  {
+   "id": "japanla-sanrio-plush-laying-pen-case",
+   "name": "Sanrio Plush Laying Pen Case",
+   "merchantDescription": "Keep your pens, pencils, and tiny trinkets organized adorably with the Sanrio Plush Laying Pen Case. These colorful zipper cases feature plush versions of your favorite Sanrio character lounging all stretched out with cute expressions, dangling limbs, and tail",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "japanla-sanrio-characters-airtag-holder",
+   "name": "Sanrio Characters AirTag Holder",
+   "merchantDescription": "Make your AirTags adorable with these supercute protective keychain cases featuring four favorite Sanrio friends - Hello Kitty, My Melody, Kuromi, and Cinnamoroll! Comes with an aluminum carabiner clip for attaching to purses, bags, backpacks, luggage, pet col",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [
+    "122count"
+   ],
+   "price": 17
+  },
+  {
+   "id": "japanla-my-melody-ice-cream-parlor-plush",
+   "name": "My Melody Ice Cream Parlor Plush",
+   "merchantDescription": "Get ready for the tastiest of treats with the My Melody Ice Cream Parlor Plush! This adorable plush features My Melody in a dessert-inspired outfit and a delicious vanilla ice cream hat. Made with soft and velvety pink plush and charming embroidered details, M",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "japanla-hello-kitty-ice-cream-parlor-plush",
+   "name": "Hello Kitty Ice Cream Parlor Plush",
+   "merchantDescription": "Indulge in a cuteness overload with the Hello Kitty Ice Cream Parlor Plush! Featuring soft white plush and iconic pink bow, Hello Kitty sports a delicious strawberry ice cream swirl with heart sprinkles on her head. Comfortably nestled in a pink gingham waffle",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 30
+  },
+  {
+   "id": "japanla-pusheens-kitchen-fruit-parfait-plush",
+   "name": "Pusheen's Kitchen Fruit Parfait Plush",
+   "merchantDescription": "Indulge in some adorable relaxation with the Pusheen's Kitchen Fruit Parfait Plush! This colorful plush features the famously lazy tabby as a delicious fruit parfait, complete with a hot pink cherry and felt orange slice. Its sturdy base allows for easy displa",
+   "vendor": "Pusheen",
+   "productType": "Plush",
+   "merchantTags": [
+    "FRUITS",
+    "PS"
+   ],
+   "price": 26
+  },
+  {
+   "id": "japanla-pusheens-kitchen-refrigerator-plush",
+   "name": "Pusheen's Kitchen Refrigerator Plush",
+   "merchantDescription": "Add some extra fun to your kitchen with the Pusheen's Kitchen Refrigerator Plush! This large, huggable plush features the famous lazy tabby cat as a white refrigerator with rosy cheeks and a yellow handle. Open the door to reveal a fully stocked fridge filled ",
+   "vendor": "Pusheen",
+   "productType": "Plush",
+   "merchantTags": [
+    "PS"
+   ],
+   "price": 30
+  },
+  {
+   "id": "japanla-hello-kitty-classic-spirit-jersey",
+   "name": "Hello Kitty Classic JapanLA Spirit Jersey",
+   "merchantDescription": "A special collaboration piece between Sanrio, JapanLA, and Spirit Jersey! This Hello Kitty JapanLA Spirit Jersey features Hello Kitty holding an apple on the front of a classic red long sleeve. On the upper back, Hello Kitty is printed across the back in brigh",
+   "vendor": "JapanLA ♡ Sanrio",
+   "productType": "Spirit Jersey",
+   "merchantTags": [
+    "garage",
+    "JLASANRIOLICENSE",
+    "laborday",
+    "wintersale"
+   ],
+   "price": 80
+  },
+  {
+   "id": "japanla-hello-kitty-red-pattern-fluffy-shoulder-bag",
+   "name": "Hello Kitty Red Pattern Fluffy Shoulder Bag",
+   "merchantDescription": "Add some fun and playfulness to your style with the Hello Kitty Red Pattern Fluffy Shoulder Bag! This soft and stylish bag features Hello Kitty, complete with a red grid pattern bow with her and Tiny Chum on it. To top it off, the red adjustable strap adds a t",
+   "vendor": "Sanrio",
+   "productType": "Purses",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 37
+  },
+  {
+   "id": "japanla-hello-kitty-red-pattern-fluffy-handbag",
+   "name": "Hello Kitty Red Pattern Fluffy Handbag",
+   "merchantDescription": "Add some fun and playfulness to your style with the Hello Kitty Red Pattern Fluffy Handbag! This soft and stylish bag features Hello Kitty, complete with a red grid pattern bow with her and Tiny Chum on it. To top it off, the red handles complete the vibrant l",
+   "vendor": "Sanrio",
+   "productType": "Purses",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 30
+  },
+  {
+   "id": "japanla-hello-kitty-red-pattern-backpack",
+   "name": "Hello Kitty Red Pattern Backpack",
+   "merchantDescription": "Get ready to stand out with the Hello Kitty Red Pattern Backpack! With a vibrant and lively design featuring a red grid pattern with Hello Kitty and Tiny Chum, this backpack is a fun and stylish addition to any outfit. The adjustable straps, zipper compartment",
+   "vendor": "Sanrio",
+   "productType": "Backpacks",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-red-pattern-7-plush",
+   "name": "Hello Kitty Red Pattern 7\" Plush",
+   "merchantDescription": "Prepare your collection for the Hello Kitty Red Pattern 7\" Plush! Featuring Hello Kitty in overalls with a red grid pattern of herself and Tiny Chum, along with a matching bow and a pink and white striped shirt. This plush is not just cute, but also soft, play",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 20
+  },
+  {
+   "id": "japanla-hello-kitty-red-pattern-12-plush",
+   "name": "Hello Kitty Red Pattern 12\" Plush",
+   "merchantDescription": "Prepare your collection for the Hello Kitty Red Pattern 12\" Plush! Featuring Hello Kitty in overalls with a red grid pattern of herself and Tiny Chum, along with a matching bow and a pink and white striped shirt. This plush is not just cute, but also soft, pla",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 43
+  },
+  {
+   "id": "japanla-sanrio-soft-touch-8-plush",
+   "name": "Sanrio Soft Touch 8\" Plush",
+   "merchantDescription": "Meet your new best friend with the Sanrio Soft Touch 8\" Plush! Designed to be super soft and huggable, these cute and adorable Sanrio characters are dolled up in spiffy outfits and elegant bows. They're sure to become your favorite cuddle companion! Measures a",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 33
+  },
+  {
+   "id": "japanla-sanrio-soft-touch-15-plush",
+   "name": "Sanrio Soft Touch 15\" Plush",
+   "merchantDescription": "Meet your new best friend with the Sanrio Soft Touch 15\" Plush! Designed to be super soft and huggable, these cute and adorable Sanrio characters are dolled up in spiffy outfits and elegant bows. They're sure to become your favorite cuddle companion! Measures ",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 80
+  },
+  {
+   "id": "japanla-sanrio-lifestyle-clear-file-set",
+   "name": "Sanrio Expressions 3-pc Clear File Folder Set",
+   "merchantDescription": "Organize your papers in kawaii style with the Sanrio Lifestyle Clear File Set. With three cute designs per set and an index spot for labeling, easily sort and locate documents and prints. Make paperwork less boring with this colorful and fun way to stay organi",
+   "vendor": "Sanrio",
+   "productType": "Folder",
+   "merchantTags": [],
+   "price": 8
+  },
+  {
+   "id": "japanla-sanrio-x-chupa-chups-vol-2-mascot-keychain",
+   "name": "Sanrio x Chupa Chups Vol. 2 Mascot Keychain",
+   "merchantDescription": "Add some sweetness to your day with the Sanrio x Chupa Chups Vol. 2 Mascot Keychain! These adorable Sanrio characters are dressed in cute outfits featuring the iconic Chupa Chups logo and lollipops. They even have matching bows and are holding their own Chupa ",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "pompombday"
+   ],
+   "price": 36
+  },
+  {
+   "id": "japanla-sanrio-x-chupa-chups-vol-2-plush",
+   "name": "Sanrio x Chupa Chups Vol. 2 Plush",
+   "merchantDescription": "Add some sweetness to your day with the Sanrio x Chupa Chups Vol. 2 Plush! These adorable Sanrio characters are dressed in cute outfits featuring the iconic Chupa Chups logo and lollipops. They even have matching bows and are holding their own Chupa Chups! It'",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "SPRING"
+   ],
+   "price": 28
+  },
+  {
+   "id": "japanla-sanrio-mini-case-keychain",
+   "name": "Sanrio Mini Case Keychain",
+   "merchantDescription": "Keep your small essentials close and cute with the Sanrio Mini Case Keychains! Featuring adorable character charms and mini zipper cases, this keychain is not only functional but also fun and colorful. Perfect for holding items like medicine, hair ties, candy,",
+   "vendor": "Sanrio",
+   "productType": "Keychains",
+   "merchantTags": [],
+   "price": 12
+  },
+  {
+   "id": "japanla-sanrio-lifestyle-index-sticky-notes",
+   "name": "Sanrio Expressions Index Tab Sticky Notes",
+   "merchantDescription": "Introducing the Sanrio Lifestyle Index Sticky Notes: the fun and practical solution for your studying or work needs! These colorful notes feature your favorite Sanrio characters who will keep you company while helping you stay organized. With tabs for marking ",
+   "vendor": "Sanrio",
+   "productType": "Memo Pads",
+   "merchantTags": [],
+   "price": 8
+  },
+  {
+   "id": "japanla-sanrio-lifestyle-lunch-box",
+   "name": "Sanrio Expressions Bento Box",
+   "merchantDescription": "Lunchtime just got cuter with the Sanrio Lifestyle Lunch Box! This versatile box is perfect for packing your favorite meals, snacks, and even leftovers. With a removable divider and secure lid, you can keep your food organized and fresh. And with its adorable ",
+   "vendor": "Sanrio",
+   "productType": "Kitchen",
+   "merchantTags": [
+    "BF24",
+    "BF25",
+    "DISH25"
+   ],
+   "price": 9
+  },
+  {
+   "id": "japanla-sanrio-cable-storage-holder",
+   "name": "Sanrio Cable Storage Holder",
+   "merchantDescription": "Say hello to the the Sanrio Cable Storage Holder, a fun and easy way to keep your cables organized! Choose from a variety of cute characters and simply wrap your cables around the loop before snapping the case shut. Say goodbye to tangled cables and hello to c",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [],
+   "price": 9
+  },
+  {
+   "id": "japanla-sanrio-slim-usb-hub",
+   "name": "Sanrio Slim USB Hub",
+   "merchantDescription": "Keep your tech cute and functional with the Sanrio Slim USB Hub. Let your favorite characters and their best friends keep you company while adding a pop of colorful fun to your workspace. Get ready to plug in and play with this adorable hub! Measures about 3.6",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [
+    "B2SKOOL"
+   ],
+   "price": 27.3
+  },
+  {
+   "id": "japanla-sanrio-rosette-wand-keychain-with-badge",
+   "name": "Sanrio Rosette Wand Keychain with Badge",
+   "merchantDescription": "Carry a little magic wherever you go with this adorable Sanrio Rosette Wand Keychain! Featuring a rosette ribbon wand with a charming character button in the center complete with ears, this keychain is perfect for adding a touch of cuteness to your keys or bag",
+   "vendor": "Sanrio",
+   "productType": "Keychains",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 23
+  },
+  {
+   "id": "japanla-sanrio-rhinestone-shaker-ponytail-holder",
+   "name": "Sanrio Rhinestone Shaker Ponytail Holder",
+   "merchantDescription": "Add a touch sparkling fun to your hairstyle with the adorable Sanrio Rhinestone Shaker Ponytail Holders. The colorful strawberry and star shapes filled with sparkling rhinestones are sure to make your ponytail stand out. Perfect for anyone who loves cute and k",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [],
+   "price": 9
+  },
+  {
+   "id": "japanla-sanrio-folding-smartphone-stand",
+   "name": "Sanrio Folding Smartphone Stand",
+   "merchantDescription": "Keep your favorite Sanrio character by your side with the Sanrio Folding Smartphone Stand. Colorful and portable, this stand is perfect for propping your phone up for video calls, mobile games, and watching videos. When you're finished using the stand, you can",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [],
+   "price": 10
+  },
+  {
+   "id": "japanla-sanrio-snooze-n-stop-talking-alarm-clock",
+   "name": "Sanrio Snooze-n-Stop Talking Alarm Clock",
+   "merchantDescription": "Start your morning with an adorable Sanrio Snooze-n-Stop Talking Alarm Clock! Featuring Hello Kitty, My Melody, Cinnamoroll, and Kuromi, it's sure to put a smile on your face when you wake up. For your alarm, choose between a bell sound or the character's voic",
+   "vendor": "Sanrio",
+   "productType": "Bedroom",
+   "merchantTags": [],
+   "price": 50
+  },
+  {
+   "id": "japanla-sanrio-heart-ribbon-ponytail-holder",
+   "name": "Sanrio Heart Ribbon Ponytail Holder",
+   "merchantDescription": "Add a touch of adorable elegance to your hairstyle with the Sanrio Heart Ribbon Ponytail Holders! Each organdy ribbon features cute hearts and comes with a charming character charm with a sparkly rhinestone. Perfect for a stylish and playful look! Ribbons meas",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 10
+  },
+  {
+   "id": "japanla-sanrio-quilt-ribbon-hair-clip-set",
+   "name": "Sanrio Quilt Ribbon Hair Clip Set",
+   "merchantDescription": "Add a pop of color and cuteness to your hairstyle with the Sanrio Quilt Ribbon Hair Clip Set. These shiny, fun hair clips feature stylish bows with your favorite characters in the center. A must-have for any fan of Sanrio and a fun way to add a kawaii touch to",
+   "vendor": "Sanrio",
+   "productType": "Hair Goods",
+   "merchantTags": [],
+   "price": 11
+  },
+  {
+   "id": "japanla-sanrio-school-uniform-mascot-clip",
+   "name": "Sanrio School Uniform Mascot Clip",
+   "merchantDescription": "Add some playful charm to your bag with the Sanrio School Uniform Mascot Clip! Featuring your favorite Sanrio characters dressed in colorful uniforms, this clip is the perfect size to accompany you to school or work. Complete with a plaid bow, knit sweater ves",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "last one",
+    "pompombday"
+   ],
+   "price": 17.5
+  },
+  {
+   "id": "japanla-sanrio-school-uniform-8-plush",
+   "name": "Sanrio School Uniform 8\" Plush",
+   "merchantDescription": "Get ready for some adorable school days with the Sanrio School Uniform 8\" Plush! This playful cast of Sanrio Characters is dressed in colorful school uniforms, complete with plaid bows, matching bottoms, and cute embroidered sweater vests. Brighten up your day",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-clear-cute-mini-backpack",
+   "name": "Hello Kitty 50th Anniversary Clear & Cute Mini Backpack",
+   "merchantDescription": "Get ready to party with the Hello Kitty 50th Anniversary Clear Cute Mini Backpack! This pink iridescent bag is full of surprises, including a clear bow filled with heart-shaped confetti, a front pocket with clear PVC material, and white print revealing her fav",
+   "vendor": "Loungefly",
+   "productType": "Backpacks",
+   "merchantTags": [
+    "HK50TH",
+    "wintersale"
+   ],
+   "price": 40
+  },
+  {
+   "id": "japanla-japanla-18th-anniversary-tee-black",
+   "name": "JapanLA 18th Anniversary Tee Black",
+   "merchantDescription": "Celebrate JapanLA's 18 Year Anniversary with a special souvenir tee in collaboration with Sanrio! The front of this black tee features the JapanLA logo with Hello Kitty in a sweet space outfit. The back features an adorable group of colorful Sanrio characters ",
+   "vendor": "JapanLA ♡ Sanrio",
+   "productType": "Tees & Tanks",
+   "merchantTags": [
+    "Cyber25",
+    "JLASANRIOLICENSE",
+    "laborday",
+    "wintersale"
+   ],
+   "price": 17.5
+  },
+  {
+   "id": "japanla-japanla-18th-anniversary-tee-pink",
+   "name": "JapanLA 18th Anniversary Tee Pink",
+   "merchantDescription": "Celebrate JapanLA's 18 Year Anniversary with a special souvenir tee in collaboration with Sanrio! The front of this pink tee features the JapanLA logo with Hello Kitty in a sweet space outfit. The back features an adorable group of colorful Sanrio characters o",
+   "vendor": "JapanLA ♡ Sanrio",
+   "productType": "Tees & Tanks",
+   "merchantTags": [
+    "Cyber25",
+    "JLASANRIOLICENSE",
+    "laborday",
+    "wintersale"
+   ],
+   "price": 17.5
+  },
+  {
+   "id": "japanla-sanrio-crescent-zipper-pouch",
+   "name": "Sanrio Crescent Zipper Pouch",
+   "merchantDescription": "The Sanrio Crescent Zipper Pouch is a must-have for any fun and organized individual. With its adorable dot pattern and character graphic, along with a gold zipper pull and interior pocket, it's perfect for storing all your essentials while on the go. Use it f",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [
+    "greensale",
+    "pompombday"
+   ],
+   "price": 20
+  },
+  {
+   "id": "japanla-sanrio-zipper-laptop-case",
+   "name": "Sanrio Zipper Laptop Case",
+   "merchantDescription": "Add some adorable and fun to your work with the Sanrio Zipper Laptop Case! These colorful cases feature adorable embroidered character faces and quotes, with playful heart-shaped zipper pulls. Keep your laptop safe and stylish with this cozy case, complete wit",
+   "vendor": "Sanrio",
+   "productType": "Tech Accessories",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "japanla-sanrio-stand-pouch",
+   "name": "Sanrio Stand Pouch",
+   "merchantDescription": "Keep your small essentials safe and organized with the adorable Sanrio Stand Pouch! Featuring a charming dot character pattern and fun quotes, this pouch is a playful and practical choice. With gold zipper pulls and two spacious compartments, it's perfect for ",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "japanla-my-melody-white-strawberry-shoulder-pouch",
+   "name": "My Melody White Strawberry Shoulder Pouch",
+   "merchantDescription": "Carry your essentials in style with the My Melody White Strawberry Shoulder Pouch. This elegant pouch features a quilted white strawberry design with a cute bow on top. The pearl zipper pulls and golden chain strap add a touch of luxury, while the pink strawbe",
+   "vendor": "Sanrio",
+   "productType": "Purses",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "japanla-sanrio-petite-frilly-shoulder-pouch",
+   "name": "Sanrio Everyday Ruffled Crossbody Bag",
+   "merchantDescription": "The Sanrio Everyday Ruffled Crossbody Bag is the perfect accessory for any cute and stylish individual. With heart and star zipper pulls, adorable character appliqué, and sweet ruffles, this bag is sure to bring a touch of charm to any outfit. It's a must-have",
+   "vendor": "Sanrio",
+   "productType": "Purses",
+   "merchantTags": [],
+   "price": 45
+  },
+  {
+   "id": "japanla-hello-kitty-50th-tartan-card-case",
+   "name": "Hello Kitty 50th Tartan Card Case",
+   "merchantDescription": "Keep your cards cute and close with the Hello Kitty 50th Tartan Card Case featuring the iconic Hello Kitty Dress Tartan, registered by the Scottish Tartan Registry Office. It includes a key reel for your convenience and has a pink bow appliqué and gold embroid",
+   "vendor": "Sanrio",
+   "productType": "Card Cases",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 30
+  },
+  {
+   "id": "japanla-hello-kitty-50th-tartan-mobile-shoulder-bag",
+   "name": "Hello Kitty 50th Tartan Mobile Shoulder Bag",
+   "merchantDescription": "Show off your style with this Hello Kitty 50th Tartan Mobile Shoulder Bag! This bag showcases the original Hello Kitty Dress Tartan, which is registered by the Scottish Tartan Registry office, providing a unique and one-of-a-kind look. With an adjustable strap",
+   "vendor": "Sanrio",
+   "productType": "Purses",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 51
+  },
+  {
+   "id": "japanla-hello-kitty-50th-tartan-plush",
+   "name": "Hello Kitty 50th Tartan Plush",
+   "merchantDescription": "Celebrate Hello Kitty's 50th anniversary with the Hello Kitty 50th Tartan Plush! Featuring a dress made with the original Hello Kitty Dress Tartan registered by the Scottish Tartan Registry office, complete with a matching bow and fascinator, this plush is bot",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 56
+  },
+  {
+   "id": "japanla-hello-kitty-50th-tartan-tote-bag",
+   "name": "Hello Kitty 50th Tartan Tote Bag",
+   "merchantDescription": "Get ready for cuteness overload with the Hello Kitty 50th Tartan Tote Bag! This fashionable bag features the original Hello Kitty Dress Tartan, registered by the Scottish Tartan Registry office, and is adorned with gold embroidery of Hello Kitty. The snap butt",
+   "vendor": "Sanrio",
+   "productType": "Totebags",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 45
+  },
+  {
+   "id": "japanla-sanrio-dot-compact-mirror",
+   "name": "Sanrio 2-Way Compact Mirror",
+   "merchantDescription": "The Sanrio 2-Way Compact Mirror is the perfect on-the-go companion. It's handy and easy to carry, making it incredibly portable. Plus, it's just too cute to resist! With the option to choose from your favorite Sanrio character, it's not only helpful but also a",
+   "vendor": "Sanrio",
+   "productType": "Beauty Tools",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 9
+  },
+  {
+   "id": "japanla-hello-kitty-50th-tartan-mascot-keychain",
+   "name": "Hello Kitty 50th Tartan Mascot Keychain",
+   "merchantDescription": "Celebrate Hello Kitty's 50th anniversary with the Hello Kitty 50th Tartan Mascot Keychain! Featuring a dress made with the original Hello Kitty Dress Tartan registered by the Scottish Tartan Registry office, complete with a matching bow and fascinator, this ke",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "HK50TH"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-tartan-backpack",
+   "name": "Hello Kitty 50th Tartan Backpack",
+   "merchantDescription": "Carry all your essentials in style with the Hello Kitty 50th Tartan Backpack! This playful backpack showcases the original Hello Kitty Dress Tartan, registered by the Scottish Tartan Registry office and features a main compartment and two zipper pouches. The b",
+   "vendor": "Sanrio",
+   "productType": "Backpacks",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 77
+  },
+  {
+   "id": "japanla-sanrio-decoration-3-sticker-set",
+   "name": "Sanrio Decoration 3 Sticker Set",
+   "merchantDescription": "Add some charm to your surroundings with the Sanrio Decoration 3 Sticker Set! Featuring beloved Sanrio characters and their cute pals, these stickers are perfect for adding a fun, classic touch to any surface. Get creative and let your adorable side shine with",
+   "vendor": "Sanrio",
+   "productType": "Stickers",
+   "merchantTags": [],
+   "price": 8
+  },
+  {
+   "id": "japanla-sanrio-pitatto-friends-mini-clear-case",
+   "name": "Sanrio Mini Companion Case",
+   "merchantDescription": "The Sanrio Mini Companion Case is the perfect travel accessory for your mini figures or mascots. Attach it to your bag and travel in style with this adorable and fun case. The flip-clip closure ensures your companions stay safe and secure. Keep company on your",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [
+    "ITA"
+   ],
+   "price": 14
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-2001-mascot-clip",
+   "name": "Hello Kitty 50th Anniversary 2001 Mascot Clip",
+   "merchantDescription": "Celebrate 50 years of Hello Kitty with the Hello Kitty 50th Anniversary 2001 Mascot Clip! It features a unique design from the special collection featuring iconic Hello Kitty designs from 1972 to 2018, complete with a heart-shaped carabiner. Hello Kitty's colo",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "HK50TH"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-1974-mascot-clip",
+   "name": "Hello Kitty 50th Anniversary 1974 Mascot Clip",
+   "merchantDescription": "Celebrate 50 years of Hello Kitty with the Hello Kitty 50th Anniversary 1974 Mascot Clip! It features a unique design from the special collection featuring iconic Hello Kitty designs from 1972 to 2018, complete with a heart-shaped carabiner. Hello Kitty's clas",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "HK50TH"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-1990-mascot-clip",
+   "name": "Hello Kitty 50th Anniversary 1990 Mascot Clip",
+   "merchantDescription": "Celebrate 50 years of Hello Kitty with the Hello Kitty 50th Anniversary 1990 Mascot Clip! It features a unique design from the special collection featuring iconic Hello Kitty designs from 1972 to 2018, complete with a heart-shaped carabiner. Hello Kitty's red ",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "HK50TH",
+    "Valentines"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-2018-mascot-clip",
+   "name": "Hello Kitty 50th Anniversary 2018 Mascot Clip",
+   "merchantDescription": "Celebrate 50 years of Hello Kitty with the Hello Kitty 50th Anniversary 2018 Mascot Clip! It features a unique design from the special collection featuring iconic Hello Kitty designs from 1972 to 2018, complete with a heart-shaped carabiner. Hello Kitty's red ",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "HK50TH",
+    "Valentines"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-2000-mascot-clip",
+   "name": "Hello Kitty 50th Anniversary 2000 Mascot Clip",
+   "merchantDescription": "Celebrate 50 years of Hello Kitty with the Hello Kitty 50th Anniversary 2000 Mascot Clip! It features a unique design from the special collection featuring iconic Hello Kitty designs from 1972 to 2018, complete with a heart-shaped carabiner. Hello Kitty's flor",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "Easter",
+    "HK50TH",
+    "Valentines"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-anniversary-2006-mascot-clip",
+   "name": "Hello Kitty 50th Anniversary 2006 Mascot Clip",
+   "merchantDescription": "Celebrate 50 years of Hello Kitty with the Hello Kitty 50th Anniversary 2006 Mascot Clip! It features a unique design from the special collection featuring iconic Hello Kitty designs from 1972 to 2018, complete with a heart-shaped carabiner. Hello Kitty's fun ",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "HK50TH"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-cinnamoroll-green-leaf-mascot-keychain",
+   "name": "Cinnamoroll Little Lad Mascot Keychain",
+   "merchantDescription": "Get ready for cuteness overload with the Cinnamoroll Green Leaf Mascot Keychain! This adorable mascot features the lovable Cinnamoroll dressed up in a dapper green hat and cape, sporting a blue bowtie. The embroidered face details and blush add to Cinnamoroll'",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "greensale"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-dress-series-keychain-blind-box",
+   "name": "Hello Kitty 50th Dress Series Keychain Blind Box",
+   "merchantDescription": "Get ready for a fun surprise with the Hello Kitty 50th Dress Series Keychain Blind Box! This special series celebrates Hello Kitty's 50th anniversary with 19 different iconic designs ranging from 1974 to 2018. Which one you get will be an adorable surprise! Se",
+   "vendor": "Sanrio",
+   "productType": "Blind Box",
+   "merchantTags": [
+    "fullset",
+    "HK50TH"
+   ],
+   "price": 14
+  },
+  {
+   "id": "japanla-hello-kitty-50th-dress-series-card-case",
+   "name": "Hello Kitty 50th Dress Series Card Case",
+   "merchantDescription": "Celebrate Hello Kitty's 50th anniversary with the Hello Kitty 50th Dress Series Card Case featuring timeless designs of the iconic Sanrio character from 1974 to 2018. Complete with a red bow button closure and zipper pull, it's compact and stylish. Say hello t",
+   "vendor": "Sanrio",
+   "productType": "Wallets & Coin Bags",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 39
+  },
+  {
+   "id": "japanla-hello-kitty-50th-dress-series-pouch",
+   "name": "Hello Kitty 50th Dress Series Pouch",
+   "merchantDescription": "Show your love for Hello Kitty with the Hello Kitty 50th Dress Series Pouch! Featuring iconic designs from 1974 to 2018, with pink ears and a red bow with a matching zipper pull, this special collection celebrates Hello Kitty's 50th anniversary. Perfect for st",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [
+    "HK50TH"
+   ],
+   "price": 20
+  },
+  {
+   "id": "japanla-japanla-exclusive-pusheen-dumpster-fire",
+   "name": "JapanLA Exclusive Lilac Pusheen Dumpster Fire Figure",
+   "merchantDescription": "Experience chaotic cuteness with the JapanLA Exclusive Pusheen Lilac Dumpster Fire Figure! This flocked vinyl figure features a mint flame and purple toe beans, making it a cute and soft addition to any room. Only available at JapanLA, it's the perfect mix of ",
+   "vendor": "100% Soft",
+   "productType": "Collectible Figures",
+   "merchantTags": [
+    "BF24",
+    "BF25",
+    "PS",
+    "wintersale"
+   ],
+   "price": 30
+  },
+  {
+   "id": "japanla-sanrio-squeezable-12-plush",
+   "name": "Sanrio Squeezable 12\" Plush",
+   "merchantDescription": "Introducing the Sanrio Squeezable 12\" Plush, your new squishy, cuddly companions! Perfectly sized for hugging, these plush have a classic look with a touch of cuteness that will bring joy and fun to all. Get ready to squeeze your troubles away with these adora",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 39
+  },
+  {
+   "id": "japanla-sanrio-frilly-panda-10-plush",
+   "name": "Sanrio Frilly Panda 10\" Plush",
+   "merchantDescription": "Get ready to cuddle up with the cutest pandas ever with the Sanrio Frilly Panda 10\" Plush! Dressed in colorful panda outfits, complete with frilly collars, these fluffy and soft plush are here to add a playful touch to your collection. Adorable and fun, you wo",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 42
+  },
+  {
+   "id": "japanla-sanrio-round-squeezable-plush",
+   "name": "Sanrio Round Squeezable Plush",
+   "merchantDescription": "Introducing the Sanrio Round Squeezable Plush! These plush are perfect for hugging with their round, squishy, and soft design. Their adorable tails adds an extra touch of cuteness. You can even use them as a cushion for your bed or couch. Get ready for the ult",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 69
+  },
+  {
+   "id": "japanla-sanrio-frilly-panda-mascot-clip",
+   "name": "Sanrio Frilly Panda Mascot Clip",
+   "merchantDescription": "Meet your new fun companion - the Sanrio Frilly Panda Mascot Clip! These colorful pandas, with their frilly collars, are simply adorable and incredibly cute. With a fluffy and soft texture, this round plush clip is perfect to spruce up any bag or outfit. A mus",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "pompombday"
+   ],
+   "price": 22
+  },
+  {
+   "id": "japanla-sanrio-frilly-panda-bean-doll",
+   "name": "Sanrio Frilly Panda Bean Doll",
+   "merchantDescription": "Get ready to cuddle up with the cutest pandas ever with the Sanrio Frilly Panda Bean Dolls! Dressed in colorful panda outfits, complete with frilly collars, these fluffy and soft bean dolls are here to add a playful touch to your collection. Adorable and fun, ",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [
+    "pompombday"
+   ],
+   "price": 29
+  },
+  {
+   "id": "japanla-hello-kitty-zodiac-mascot-clip",
+   "name": "Hello Kitty Zodiac Mascot Clip",
+   "merchantDescription": "Get ready to blast off on an adorable adventure with the Hello Kitty Zodiac Mascot Clips! These cute little plush mascots are dressed up as horoscope constellations, complete with bows and star accents. Perfect for any journey, let these stars light your way w",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25"
+   ],
+   "price": 14
+  },
+  {
+   "id": "japanla-my-sweet-piano-pink-rose-mascot-clip",
+   "name": "My Sweet Piano Pink Rose Mascot Clip",
+   "merchantDescription": "Add a fluffy and adorable touch to your everyday with the My Sweet Piano Pink Rose Mascot Clip! My Sweet Piano is sporting a cute pink cape with lace trim, fastened by a pom pom bow, and a pink ribbon adorned with pearls and a rose. Her embroidered teal gradie",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25"
+   ],
+   "price": 23
+  },
+  {
+   "id": "japanla-my-sweet-piano-pink-rose-9-plush",
+   "name": "My Sweet Piano Pink Rose 9\" Plush",
+   "merchantDescription": "Add a fluffy and adorable touch to your everyday with the My Sweet Piano Pink Rose 9\" Plush! My Sweet Piano is sporting a cute pink cape with lace trim, fastened with a pom pom bow, and a pink ribbon adorned with pearls and a rose. Her embroidered teal gradien",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 33
+  },
+  {
+   "id": "japanla-sanrio-double-sided-pencil-case",
+   "name": "Sanrio 2-Way Pencil Case",
+   "merchantDescription": "Keep your stationery safe and organized with our Sanrio 2-Way Pencil Case! These adorable cases features two compartments to store all your writing essentials, as well as a built-in pencil sharpener. With their vibrant colors and playful Sanrio character desig",
+   "vendor": "Sanrio",
+   "productType": "Pouches",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "japanla-sanrio-tokimeki-sweet-party-brooch",
+   "name": "Sanrio Tokimeki Sweet Party Brooch",
+   "merchantDescription": "Say hello to the Sanrio Tokimeki Sweet Party Brooches! Add a touch of adorable style to any outfit with these Sanrio character plush brooches featuring frilly polka dot outfits, embroidered face details, and bows. These spiffy friends will keep you company and",
+   "vendor": "Sanrio",
+   "productType": "Pins",
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "japanla-sanrio-tokimeki-sweet-party-mascot-keychain",
+   "name": "Sanrio Tokimeki Sweet Party Mascot Keychain",
+   "merchantDescription": "The Sanrio Tokimeki Sweet Party Mascot Keychains are here to party! Add some adorable fun to your day with these plush mascots featuring your favorite Sanrio characters wearing frilly polka dot outfits, embroidered face details, and bows. These spiffy friends ",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25"
+   ],
+   "price": 36
+  },
+  {
+   "id": "japanla-sanrio-tokimeki-sweet-party-plush",
+   "name": "Sanrio Tokimeki Sweet Party Plush",
+   "merchantDescription": "The Sanrio Tokimeki Sweet Party Plush are here to party! Add some adorable fun to your home with these plush mascots featuring your favorite Sanrio characters wearing frilly polka dot outfits, blushing cheeks, and bows. With these spiffy friends to keep you co",
+   "vendor": "Sanrio",
+   "productType": "Plush",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "japanla-sanrio-maipachirun-card-case",
+   "name": "Sanrio Customizable Name Card Case",
+   "merchantDescription": "Keep your photo cards safe while showing them off with the Sanrio Maipachirun Customizable Card Case! The heart-shaped clip adds a touch of cuteness, while the dots on the bottom allow for customization with letters and symbols (sold separately). You can also ",
+   "vendor": "Sanrio",
+   "productType": "Card Cases",
+   "merchantTags": [
+    "pompombday",
+    "Valentines"
+   ],
+   "price": 12
+  },
+  {
+   "id": "japanla-sanrio-enjoy-idols-ticket-file-folder",
+   "name": "Sanrio Enjoy Idols Pocket File Folder",
+   "merchantDescription": "Protect your tickets, photo booth strips, bookmarks, photo cards, and other goodies in style with the Sanrio Enjoy Idols Pocket File Folder. With 40 pockets and memo sheets, you can easily cherish your memories and relive your experiences. Plus, with a spot to",
+   "vendor": "Sanrio",
+   "productType": "Folder",
+   "merchantTags": [
+    "B2SKOOL",
+    "greensale",
+    "pompombday",
+    "Valentines"
+   ],
+   "price": 11.2
+  },
+  {
+   "id": "japanla-sanrio-enjoy-idols-a4-clear-file-folder",
+   "name": "Sanrio Enjoy Idols A4 Clear File Folder",
+   "merchantDescription": "Show off your adoration for your favorite idols and characters with Sanrio Enjoy Idols A4 Clear File Folder. This folder allows you to keep your precious photos, autographs, and magazine pages secure in style. The front clear frame and back cover heart window ",
+   "vendor": "Sanrio",
+   "productType": "Folder",
+   "merchantTags": [
+    "B2SKOOL",
+    "greensale",
+    "pompombday"
+   ],
+   "price": 11.9
+  },
+  {
+   "id": "japanla-sanrio-forever-fashionable-necklace-earrings-set",
+   "name": "Sanrio Retro Necklace & Earrings Set",
+   "merchantDescription": "This Sanrio necklace and earrings set is the perfect addition to any outfit! Featuring a cute character pendant and matching clip-on earrings, this set is both adorable and fashionable. Complete up any look with this pretty and classy set! Necklace is made of ",
+   "vendor": "Sanrio",
+   "productType": "Jewelry",
+   "merchantTags": [
+    "Valentines"
+   ],
+   "price": 20
+  },
+  {
+   "id": "japanla-sanrio-forever-fashionable-cotton-box",
+   "name": "Sanrio Retro Cotton Box",
+   "merchantDescription": "Stay fashionable and organized with the Sanrio Forever Fashionable Cotton Box. This cute container features an adorable all-over print of your favorite character, a glittery lid topped with a bow, and can fit all sorts of small trinkets. Perfect for adding a f",
+   "vendor": "Sanrio",
+   "productType": "Bathroom",
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "japanla-little-twin-stars-fluffy-fancy-clock",
+   "name": "Little Twin Stars Fluffy Fancy Clock",
+   "merchantDescription": "Make staying on time fun and kawaii with the Little Twin Stars Fluffy Fancy Clock. This star-shaped pink and blue gradient clock is adorned with the adorable designs of Kiki and Lala floating on clouds with their fluffy friends. Not only is this clock practica",
+   "vendor": "Sanrio",
+   "productType": "Bedroom",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "japanla-sanrio-gold-star-hair-clip-blind-box",
+   "name": "Sanrio Gold Star Hair Clip Blind Box",
+   "merchantDescription": "Add some sparkle to your hair with Sanrio's Gold Star Hair Clip Blind Box! Each surprise flocked character hair clip comes dressed in stylish white with a cute gold star bow. Perfect for adding a touch of fun to any outfit. Grab one and see who joins your fash",
+   "vendor": "Sanrio",
+   "productType": "Blind Box",
+   "merchantTags": [
+    "fullset",
+    "pompombday"
+   ],
+   "price": 13
+  },
+  {
+   "id": "japanla-sanrio-forever-fashionable-mini-stand-mirror",
+   "name": "Sanrio Retro Mini Stand Mirror",
+   "merchantDescription": "Get ready in style with the Sanrio Forever Fashionable Mini Stand Mirror! Featuring your favorite Sanrio characters, this adorable stand mirror is perfect for catching your best angle. The built-in drawer also allows you to store small accessories or cosmetics",
+   "vendor": "Sanrio",
+   "productType": "Bedroom",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "japanla-sanrio-gold-star-mascot-keychain",
+   "name": "Sanrio Gold Star Mascot Keychain",
+   "merchantDescription": "Add some charm to your keys or bag with a Sanrio Gold Star Mascot Keychain! Featuring bright and fluffy cream fur, these plush mascots also have bows with shiny gold stars and matching stars on their feet. With a playful cast of Sanrio characters, and a conven",
+   "vendor": "Sanrio",
+   "productType": "Plush Mascots",
+   "merchantTags": [
+    "BOGO25",
+    "pompombday"
+   ],
+   "price": 33
+  }
+ ]
+}

@@ -1,0 +1,1442 @@
+{
+ "source": "sugoimart",
+ "batch": 28,
+ "items": [
+  {
+   "id": "sugoimart-gudetama-cream-roll-omiyage",
+   "name": "Shibuya Gudetama Cream Roll Omiyage",
+   "merchantDescription": "This Omiyage features Gudetama from Shibuya and contains delicious cream cake rolls. Contains 12 pieces.",
+   "vendor": "Gudetama",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$10-$20",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_gudetama",
+    "data_department_sweets_snacks"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-hello-kitty-x-hachiko-cookies-omiyage",
+   "name": "Hello Kitty X Hachiko Cookies Omiyage",
+   "merchantDescription": "This Shibuya-limited Omiyage features Hello Kitty and Hachiko, which is the mascot for Shibuya. This contains 12 pieces of cookies.",
+   "vendor": "Sanrio",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$10-$20",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_hello_kitty",
+    "data_department_sweets_snacks"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-hello-kitty-miso-soup-omiyage",
+   "name": "Hello Kitty Miso Soup Omiyage",
+   "merchantDescription": "This Omiyage contains miso soup packs featuring Hello Kitty. Contains 12 packs.",
+   "vendor": "Sanrio",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$20-$30",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_hello_kitty",
+    "data_department_sweets_snacks"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-shimichoco-match-milk",
+   "name": "Shimichoco Matcha Milk",
+   "merchantDescription": "Shimichoco, a fan favorite snack, now in a new limited flavor! These star-shaped cookies are made with Uji matcha and white chocolate, a popular bittersweet flavor combo in Japan.",
+   "vendor": "Matcha",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-aobe-gum",
+   "name": "Aobe Gum",
+   "merchantDescription": "This is no ordinary gum! Chew on the soda flavor for a while and stick out your tongue. What's new? Or was your tongue always like that?",
+   "vendor": "Gum",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-kajiriccho-grape-soda",
+   "name": "Kajiriccho Grape & Soda",
+   "merchantDescription": "Why have one flavor when you can have two? This candy is double-layered with grape on the outside and soda on the inside!",
+   "vendor": "Soda",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "F_soda"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-mikan-mochi",
+   "name": "Mikan Mochi",
+   "merchantDescription": "Kick it old-school with this classic sweet! It's mikan mochi, also known as tangerine, mochi candy",
+   "vendor": "Mikan",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-kings-melon-bread",
+   "name": "King's Melon Bread",
+   "merchantDescription": "Melon bread is just about everywhere in Japan! Now it's your turn to try it with these melon bread cookies. They're sweet and crunchy with chocolate cream filling.",
+   "vendor": "Cookies",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-warugaki-beer-candy",
+   "name": "Warugaki Beer Candy DIY",
+   "merchantDescription": "Beer for children! Yes, you read that correctly. Make your own glass of ice cold beer with this \"Bad Kids Beer\" DIY. Don't worry, it's no actually beer but it sure does look like it. 1. Pour the powder into a cup. 2. Add cold water. 3. Stir up the mixture.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-donguri-apple-candy",
+   "name": "Donguri Apple Candy",
+   "merchantDescription": "Sweet green apple flavored hard candy. Get to the center to uncover the chewing gum hiding inside!",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-buntan-candy",
+   "name": "Buntan Candy",
+   "merchantDescription": "A traditional candy started in the 1970's, it is buntan flavor, a citrus also known as pomelo, which has a sweet and sour flavor. Each chewy piece is wrapped in rice paper that will melt in your mouth!",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-mini-bottle-candy",
+   "name": "Mini Bottle Candy",
+   "merchantDescription": "Pop open one of these mini bottles to sip on the powder flavored candy! Receive one of three flavors: cider, strawberry, lemon.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-ginza-rusk-brown-chocolate",
+   "name": "Ginza Rusk Brown Chocolate",
+   "merchantDescription": "Chocolate on chocolate! These dense chocolate rusks (crispy, sweet pieces of dried toast) are baked with rich chocolate and coated with cocoa powder to seriously curb your chocolate craving. Please Note: If temperatures in your location are above 28°C (82°F), ",
+   "vendor": "Chocolate",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_brown sugar",
+    "F_chocolate"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fruits-jelly-beans",
+   "name": "Fruits Jelly Beans",
+   "merchantDescription": "Give me fruits! Strawberry, orange, grape...Just to name a few of the assorted fruit flavors of these colorful and chewy jelly beans.",
+   "vendor": "Jelly",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-purumochi-grape-gummy",
+   "name": "Purumochi Grape Gummy",
+   "merchantDescription": "These grape gummies are squishy like mochi! They also use Japanese grape juice as a recipe for the strong and tasty flavor.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fruit-gummy-can",
+   "name": "Fruit Gummy Can",
+   "merchantDescription": "Mikan slices in a can just like you can buy in the Japanese supermarket except they're even better because these are cute slices of chewy and juicy mikan gummy.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-furukawa-grape-gum",
+   "name": "Furukawa Grape Gum",
+   "merchantDescription": "Each piece of this original gum looks like a little grape. Tastes like one too!",
+   "vendor": "Gum",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-pukupukutai-mint-flavor",
+   "name": "Pukupukutai Mint Flavor",
+   "merchantDescription": "Stay cool with this refreshing taiyaki! It's airy mint flavor is perfect for summer.",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_mint",
+    "SOLD OUT"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-afternoon-tea-cheese-milk-flavor",
+   "name": "Afternoon Tea: Cheese Milk Flavor",
+   "merchantDescription": "Cheese tea is very trendy in Japan! Afternoon Tea made their own cheese milk tea tasting like mascarpone. Each exclusive bottle design pays tribute to the youths of the Hesei era.",
+   "vendor": "Afternoon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "F_cheese",
+    "F_milk",
+    "SOLD OUT"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-shiso-furikake",
+   "name": "Shiso Furikake",
+   "merchantDescription": "Brighten up your rice in flavor and color! This furikake is made from 100% Japanese red shiso and packs a refreshing herby taste. Sprinkle it on cold or warm rice for a tasty twist on your bento. Try it with: pickled plum, rice, mixed vegetable Directions: 1. ",
+   "vendor": "Furikake",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SEASONING"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-hakata-animal-free-ramen",
+   "name": "Hakata Animal Free Ramen",
+   "merchantDescription": "Hakata is an area in Japan famous for tonkotsu ramen. Hakata style ramen has a rich white pork bone base and hard noodles. Make your own smooth and flavorful bowl of Hakata ramen! Try it with: soft boiled egg, sesame seeds, pickled ginger DIRECTIONS: 1. Boil 4",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-itsukian-tempura-soba",
+   "name": "Itsukian Tempura Soba",
+   "merchantDescription": "There's a saying in Japan that long noodles are good luck for a long life! These soba (buckwheat) noodles are extra long for that reason! They also come with tasty crispy tempura balls, seaweed, and crunchy shrimp. Try it with: green onions, mushrooms, and fis",
+   "vendor": "Soba",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_SOBA"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-crab-power-miso-soup",
+   "name": "Crab Power Miso Soup",
+   "merchantDescription": "Enjoy traditional miso soup this summer with an added twist of yummy crab! It's the perfect item to add to any meal or even as a quick lunch as it can be made in just a few minutes. Try it with: tofu, sliced green onions DIRECTIONS: 1. Add the seasoning miso a",
+   "vendor": "Miso Soup",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_miso",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SOUP"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-oden-seasoning",
+   "name": "Oden Seasoning",
+   "merchantDescription": "Oden is a beloved comfort food in Japan. It's a warm soy sauce and dashi soup that cooks with a variety of ingredients. Choose your favorite add-ins and make your own special oden! Try it with: hard boiled eggs, daikon, tofu, konjac, fish cake DIRECTIONS: 1. P",
+   "vendor": "Oden",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SEASONING"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-chinese-miso-soup",
+   "name": "Chinese Miso Soba",
+   "merchantDescription": "Chinese Miso Soba from Japan! This bowl was made for miso lovers. It's flavored with rich and aromatic miso and combined soba noodles, corn, and cabbage. Enjoy this when you're craving a hearty meal. Try it with: fried tofu, sliced carrots, and mushrooms DIREC",
+   "vendor": "Soba",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_miso",
+    "FOOD & DRINKS",
+    "MARCH 2020 CRATES",
+    "NOODLES"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-mocchi-zuu-shiba-plush",
+   "name": "Mocchi-Zuu Shiba Plush",
+   "merchantDescription": "It wouldn't be a puppy party without a precious puppy plush to cuddle! The shiba is a national icon in Japan that is often associated with loyalty and steadfast companionship. Keep this perfectly huggable dog close and they are sure to be your best friend.",
+   "vendor": "Shiba Inu",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles",
+    "DOGDAY2022"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-pochacco-purse",
+   "name": "Pochacco Purse",
+   "merchantDescription": "The sporty pup Pochacco is faithfully here to help you keep your everyday necessities at hand and in style. Adjustable straps and clips make it easy to use in the way you like best! Fit the strap to your body or unclip it to double as a wallet.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "data_character_pochacco",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_gamer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dog-sticky-notes",
+   "name": "Dog Sticky Notes",
+   "merchantDescription": "These doggies will help you remember your to-dos! Stick them on your notes, fridge, or puppy's treats (to remind you to give them one for being extra good)",
+   "vendor": "Shiba Inu",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_stationery",
+    "DOGDAY2022",
+    "SOLD OUT"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-shiba-stickers",
+   "name": "Shiba Stickers",
+   "merchantDescription": "You can never have too many shibas! Decorate your laptop, planner, scrapbook, and more with these playful pups. They are sure to cheer you up every time you see them.",
+   "vendor": "Shiba Inu",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles",
+    "SOLD OUT",
+    "SUBCAT_COLLECTIBLES"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-sunaoshi-spicy-ramen-2",
+   "name": "Sunaoshi Spicy Ramen",
+   "merchantDescription": "Can you handle these noodles? This ramen is as spicy as its red broth boasts. The soy sauce and hot pepper soup base is paired with accents of green onions, leek, and chili peppers. Try it with: White rice and cheese (add these to the remaining soup after fini",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-kit-kat-setouchi-salty-lemon-mini",
+   "name": "Kit Kat: Setouchi Salty Lemon (Mini)",
+   "merchantDescription": "Japanese Kit Kats are famous for being so unique and different. Here is a Kit Kat made to taste like lemons from the Setouchi region. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. W",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_citrus",
+    "F_salt"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kit-kat-sweet-potato",
+   "name": "Kit Kat Japan Sweet Potato",
+   "merchantDescription": "Experience the unique fusion of smooth chocolate and rich sweet potato flavors with this autumn and Halloween special Kit Kats from Japan! Includes: 10 mini bars Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may ge",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AUTUMNGOODS",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-hi-chew-hello-kitty-apple",
+   "name": "Hi Chew: Hello Kitty Apple",
+   "merchantDescription": "Hi-Chews are a staple chewy candy from Japan. Here we have a strawberry flavor that helps mark Hello Kitty's anniversary.",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_hello_kitty",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pokemon-sleepy-cable-hugger-blind-box-vol1",
+   "name": "Pokemon Sleepy Cable Hugger Blind Box Vol.1",
+   "merchantDescription": "There's nothing more cute than sleeping Pokemon hugging and decorating your iPhone's cable. Here you can get 1 of a possible 5 different Pokemon.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-pokemon-sleepy-cable-hugger-blind-box-vol2",
+   "name": "Pokemon Sleepy Cable Hugger Blind Box Vol.2",
+   "merchantDescription": "There's nothing more cute than sleeping Pokemon hugging and decorating your iPhone's cable. Here you can get 1 of a possible 5 different Pokemon.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-pokemon-sleepy-cable-hugger-blind-box-vol3",
+   "name": "Pokemon Sleepy Cable Hugger Blind Box Vol.3",
+   "merchantDescription": "There's nothing more cute than sleeping Pokemon hugging and decorating your iPhone's cable. Here you can get 1 of a possible 5 different Pokemon.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "072722STOP",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-pokemon-sleepy-cable-hugger-blind-box-vol4",
+   "name": "Pokemon Sleepy Cable Hugger Blind Box Vol.4",
+   "merchantDescription": "There's nothing more cute than sleeping Pokemon hugging and decorating your iPhone's cable. Here you can get 1 of a possible 5 different Pokemon.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-gyukaku-gyukarubi-yakisoba",
+   "name": "Gyukaku: Gyukarubi Yakisoba",
+   "merchantDescription": "Gyukaku is one of Japan's prime yakiniku restaurants. You can experience the flavors of grilled meat with this unique yakisoba.",
+   "vendor": "Gyukaku",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_YAKISOBA"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-cells-at-work-kesshoban-nendoroid-figure",
+   "name": "Cells At Work! Kesshoban Nendoroid Figure",
+   "merchantDescription": "This is the cute Kesshoban figure from the anime 'Cells At Work!' .",
+   "vendor": "Cells At Work!",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "SOLD OUT",
+    "SUBCAT_COLLECTIBLES",
+    "SUBCAT_FIGURES"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "sugoimart-one-piece-mouse-pad",
+   "name": "One Piece Boa Hancock Mouse Pad",
+   "merchantDescription": "This is the mouse pad featuring Boa Hancock from the anime 'One Piece'. This features an elevated area which can help relax your wrist as you use your mouse.",
+   "vendor": "One Piece",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_VIDEOGAMES",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece",
+    "data_persona_is_gamer",
+    "data_persona_is_otaku"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-hatsune-miku-wallet",
+   "name": "Hatsune Miku Wallet",
+   "merchantDescription": "Hatsune Miku is a very famous character in Japan and even around the globe. This is a wallet featuring Hatsune Miku.",
+   "vendor": "Hatsune Miku",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_hatsune_miku",
+    "data_department_anime_manga",
+    "data_ip_vocaloid",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "sugoimart-love-live-cleaner-cloth",
+   "name": "Love Live! Cleaner Cloth",
+   "merchantDescription": "This is a cleaner cloth featuring the famous anime and game, 'Love Live!'. You can clean your phone and glasses using this cleaner cloth.",
+   "vendor": "Love Live!",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "data_department_kawaii",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles",
+    "SOLD OUT"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-cute-anime-girls-phone-case-1",
+   "name": "Cute Anime Girls Group Photo Iphone X Case",
+   "merchantDescription": "This is an iPhone case that can accompany you when you are lonely.",
+   "vendor": "Iphone Case",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "data_department_kawaii",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories",
+    "SOLD OUT",
+    "SUBCAT_ANIME",
+    "Throne"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "sugoimart-cute-anime-girls-phone-case-2",
+   "name": "Dreamy Anime Girl Iphone X Case",
+   "merchantDescription": "This is an iPhone X case that can accompany you when you are lonely.",
+   "vendor": "Iphone Case",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "data_department_kawaii",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories",
+    "SOLD OUT",
+    "SUBCAT_ANIME",
+    "Throne"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-canned-horse-meat-whale-flavor",
+   "name": "Canned Horse Meat (Whale Flavor)",
+   "merchantDescription": "This is a canned horse meat with a whale flavor, which is a unique food in Japan. Can is approximately 270g.",
+   "vendor": "Meat",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$10-$20",
+    "032422STOP",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-transforming-ditto-poilole-plushie",
+   "name": "Pokemon Transforming Ditto: Poipole Plushie",
+   "merchantDescription": "Ditto does it again! Here he transforms into this Poipole plushie! Size: appro 16.5cm x 12cm x 12cm",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-tamagogani-crab-snack",
+   "name": "Tamagogani Crab Snack",
+   "merchantDescription": "Do you like crabs? Well, here's a snack for you! You can enjoy crunchy dried crabs in this savory snack, and it actually goes well with alcoholic drinks like beer.",
+   "vendor": "Snack",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "$10-$20",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "DRIED FOODS"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-ottotto-usushio-flavor",
+   "name": "Ottotto: Usushio Flavor",
+   "merchantDescription": "Ottotto is a popular cracker shaped like fish and other sea creatures! This variety is usushio flavor, or lightly salted.",
+   "vendor": "Ottotto",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_salt"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-luxury-canned-crab",
+   "name": "Luxury Canned Crab",
+   "merchantDescription": "Japan is famous for its seafood, so feel free to dive into a bit of luxury with this canned crab!",
+   "vendor": "Sauce",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$20-$30",
+    "$30-$50",
+    "092822STOP",
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-remote-control-crab",
+   "name": "Remote Control Crab",
+   "merchantDescription": "It looks like the real thing! Surprise your friends with this realistic looking remote control crab. Requires 3 AA batteries (not included)",
+   "vendor": "Toy",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts",
+    "SOLD OUT",
+    "SUBCAT_TOYS"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-pretz-osatsu",
+   "name": "Pretz: Osatsu",
+   "merchantDescription": "Pretz is a popular biscuit snack from the makers of Pocky. Here we have a limited edtion sweet potato version.",
+   "vendor": "Pretz",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CLASSIC JAPANESE SNACKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-nissin-cup-noodles-tom-yam-seafood-potato-chips",
+   "name": "Nissin Cup Noodles: Tom Yum Seafood Potato Chips",
+   "merchantDescription": "The famous Nissin Cup Noodles is now in Potato Chips! A must try for exotic flavor fan or for Thai's cuisine lovers!",
+   "vendor": "Nissin",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_character_cup_noodle",
+    "data_department_sweets_snacks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-tohato-caramel-corn-sweet-potato",
+   "name": "Tohato Caramel Corn: Candied Sweet Potato",
+   "merchantDescription": "Caramel corn is renowned for its airy and crispy puffed corn plus, infused with the delicious taste of daigaku imo, or candied sweet potatoes, creating a unique treat!",
+   "vendor": "Tohato",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_caramel"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pie-no-mi-cream-brulee",
+   "name": "Pie No Mi: Cream Brulee",
+   "merchantDescription": "Pie no Mi is one of the favorites of every ages in Japan. Feauturing rich flavor of cream brulee in a flaky and crispy bites!",
+   "vendor": "Pie No Mi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cream",
+    "SOLD OUT"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-angel-pie-sweet-potato",
+   "name": "Angel Pie: Sweet Potato",
+   "merchantDescription": "Angel Pie has been loved by many customers for its exquisite combination of marshmallows, biscuits and chocolate. Now with their limited edition Sweet Potato flavor so you can eat it happily and fill your stomach. Comes with 8 pieces.",
+   "vendor": "Angel Pie",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_sweet potato",
+    "SOLD OUT"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-hi-chew-yellow-peach",
+   "name": "Hi-Chew: Yellow Peach",
+   "merchantDescription": "Hi-chew is a famous candy for its puree. This limited edition flavor expresses the rich sweetness of yellow peach!",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-kajuu-gummy-pear",
+   "name": "Kajuu Gummy: Pear",
+   "merchantDescription": "From the famous Meiji brand, this gummy is rich of pear flavor and fragrance.",
+   "vendor": "Kajuu",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-hi-chew-premium-lemon-lime",
+   "name": "Hi-Chew Premium: Lemon Lime",
+   "merchantDescription": "Hi-Chew is here with its Premium series, which features a more 'mochi mochi' texture and more fruit flavor. Here is their lemon and lime flavor.",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-hi-chew-premium-yogurt",
+   "name": "Hi-Chew Premium: Yogurt",
+   "merchantDescription": "Hi-Chew is here with its Premium series, which features a more 'mochi mochi' texture and more flavor. Here is their unique yogurt flavor.",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "20240229DM",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.29
+  },
+  {
+   "id": "sugoimart-fruit-juice-gummy-lemon-peel",
+   "name": "Kajuu Gummy: Lemon Peel",
+   "merchantDescription": "From the famous Meiji brand, this gummy is rich of lemon flavor and fragrance.",
+   "vendor": "Meiji",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-yamanashi-pione-gummy",
+   "name": "Yamanashi Pione Gummy",
+   "merchantDescription": "This gummy used a high-quality red grape called 'Pione' from Yamanashi Prefecture and has a good balance between sweetness and sourness that completes the elegant flavor.",
+   "vendor": "Yamanashi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-yamanashi-cherry-gummy",
+   "name": "Yamagata Cherry Gummy",
+   "merchantDescription": "This gummy used a high-quality cherries from Yamanashi Prefecture and has a good balance between sweetness and sourness that completes the elegant flavor.",
+   "vendor": "Yamanashi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fanta-golden-grape-soda",
+   "name": "Fanta: Golden Grape",
+   "merchantDescription": "Fanta has been famous for its various flavors. This newest flavor, Golden Grape will change your taste buds!",
+   "vendor": "Fanta",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_fruit",
+    "FANTASY LUDA",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-suntory-ume-salty-water",
+   "name": "Suntory Ume Salty Water",
+   "merchantDescription": "Suntory water is famous for its flavored water. This plum extract and sea salt infused water is perfect for any season and best taken straight out from the fridge!",
+   "vendor": "Suntory",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_salt",
+    "F_ume",
+    "SOLD OUT"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pikachu-kitchen-blind-box",
+   "name": "Pikachu Kitchen: Enjoy Cooking Blind Box",
+   "merchantDescription": "There's nothing more cute than a Pokemon collectibles! Here you can get 1 of a possible 8 different Pokemon kitchen and food-inspired toys.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-sours-gummy-melon",
+   "name": "Sours Gummy: Hokkaido Melon",
+   "merchantDescription": "It is the tart 'suppai' (sour) powder coating that sets these gummy candies apart from their competition. Here we have a flavor inspired by the melons of Hokkaido.",
+   "vendor": "Sours",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-ufo-yakisoba-gomoku-ankake-style",
+   "name": "Ufo Yakisoba Gomoku Ankake Style",
+   "merchantDescription": "Nissin never fail to introduce a very tasteful noodles. This medium thin noodles with the flavor of seafood and the taste of vegetables is tangled and delicious!",
+   "vendor": "Ufo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-cup-noodle-rich-suppon-soup-flavor",
+   "name": "Cup Noodle Rich Suppon Soup Flavor",
+   "merchantDescription": "Popular instant ramen maker Nissin is here with its latest creation - a flavor made to taste like suppon, or softshell turtle.",
+   "vendor": "Nissin",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_character_cup_noodle",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-fast-and-furious-skyline-gtr",
+   "name": "Dream Tomica: Fast And Furious Skyline (#150) Gt-R",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "061022STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-woody-and-rv",
+   "name": "Dream Tomica: Woody And Rv",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-alien-and-space-crane",
+   "name": "Dream Tomica: Alien And Space Crane",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-buzz-lightyear-and-spaceship",
+   "name": "Dream Tomica: Buzz Lightyear And Spaceship (#Ts-03)",
+   "merchantDescription": "Tomica is Japan's brand of high quality miniature toy cars, like Hot Wheels, and this series lets you collect die cast vehicles inspired by your favorite characters! This one includes a die cast Buzz Lightyear figure and rocket ship shaped box",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-army-men-and-military-truck",
+   "name": "Dream Tomica: Army Men And Military Truck (#Ts-07)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-bullseye-cart",
+   "name": "Dream Tomica: Bullseye Cart (Ts-06)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-doraemon-car",
+   "name": "Dream Tomica: Doraemon Car (#143)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters! This one features Doraemon, a famous cartoon character in Japan!",
+   "vendor": "Doraemon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-snoopy-car",
+   "name": "Dream Tomica: Snoopy Car (#153)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters! This adorable car is shaped just like Snoopy complete with ears blowing in the wind. This item is only available wi",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-pikachu-and-pokeball-car",
+   "name": "Dream Tomica: Pikachu And Pokeball Car (#R10)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters! This one features a Pokeball complete with Pikachu so he can steer you straight into Pallet Town!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "092622STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-doraemon-and-time-machine",
+   "name": "Dream Tomica: Doraemon And Time Machine (#R-04)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Doraemon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-crayon-shin-chan-and-buriburizaemon-car",
+   "name": "Dream Tomica: Crayon Shin-Chan And Buri Buri Zaemon Car (#R-06)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "Dream Tomica",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "110722STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-dream-tomica-sumikko-gurashi-penguin",
+   "name": "Dream Tomica: Sumikko Gurashi Penguin (#149)",
+   "merchantDescription": "Tomica is Japan's brand of miniature toy cars, like Hot Wheels, and this series let's you collect vehicles inspired by your favorite characters!",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 11.99
+  }
+ ]
+}

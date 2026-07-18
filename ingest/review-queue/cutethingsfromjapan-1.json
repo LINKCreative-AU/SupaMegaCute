@@ -3,130 +3,924 @@
  "batch": 1,
  "items": [
   {
-   "id": "cutethingsfromjapan-retro-japan-flake-stickers",
-   "name": "Retro Japan Flake Stickers",
-   "merchantDescription": "These 20 sticker flakes from Japan Retro series are perfect for any craft project or embellishment, made with high-quality Japanese Mino washi paper. * Package Size: 8cm x 7.5cm (3.1\" x 2.9\") * Quantity: 20 stickers * 5 designs, 4 stickers per design * More Fu",
-   "vendor": "Furukawa Paper",
+   "id": "cutethingsfromjapan-lcn-flake-stickers-copy",
+   "name": "Lin Chia Ning / Flake Stickers - Antique Stationery",
+   "merchantDescription": "A pack of beautiful antique stationery theme flake stickers designed by Taiwanese artist Lin Chia Ning for your planner and journal decoration! 9 designs, 6 stickers each, 54 in total. * 9 designs, 6 pieces each * 54 stickers in total * More Lin Chia Ning Item",
+   "vendor": "Papier Platz",
    "productType": "Flake Stickers",
-   "merchantTags": [],
+   "merchantTags": [
+    "Flake Stickers",
+    "Lin Chia Ning",
+    "Other International Creators",
+    "stationery"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-nature",
+   "name": "Mind Wave / Drop Stickers - Nature",
+   "merchantDescription": "Drop stickers inspired by handmade-style brooches. Finished with gold foil accents that catch the light, adding a warm and charming touch to your planner, journal, or craft projects. Size: 17.5 x 9.0cm (6.9 x 3.5 in) Material: drop sticker with gold foil accen",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Flower",
+    "Mind Wave",
+    "Sticker Sheets",
+    "Stickers"
+   ],
    "price": 3.5
   },
   {
-   "id": "cutethingsfromjapan-summer-limited-planner-stickers-summer-holiday",
-   "name": "Summer Limited Planner Stickers - Summer Holiday",
-   "merchantDescription": "Make your planner and journal even cuter with these cute summer stickers! * Sheet Size: 8cm x 14cm (3.1\" x 5.5\") * Made in Japan * Limited Edition / No Restock * More Furukawa Paper Items HERE",
-   "vendor": "Furukawa Paper",
-   "productType": "Planner Stickers",
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-flower",
+   "name": "Mind Wave / Drop Stickers - Flower",
+   "merchantDescription": "Drop stickers inspired by handmade-style brooches. Finished with gold foil accents that catch the light, adding a warm and charming touch to your planner, journal, or craft projects. Size: 17.5 x 9.0cm (6.9 x 3.5 in) Material: drop sticker with gold foil accen",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
    "merchantTags": [
-    "Summer Limited"
+    "Flower",
+    "Mind Wave",
+    "Sticker Sheets",
+    "Stickers"
    ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-retro-japan-flake-stickers-1",
-   "name": "Retro Japan Flake Stickers",
-   "merchantDescription": "Spruce up your craft projects with these 20 adorable sticker flakes from Retro Japan collection. Made from high-quality Japanese Mino washi paper, they are perfect for adding a touch of flair and charm to your creations! * Package Size: 8cm x 7.5cm (3.1\" x 2.9",
-   "vendor": "Furukawa Paper",
-   "productType": "Flake Stickers",
-   "merchantTags": [],
    "price": 3.5
   },
   {
-   "id": "cutethingsfromjapan-peppoko-washi-tape-my-happy-days",
-   "name": "Peppoko / Washi Tape - My Happy Days",
-   "merchantDescription": "Cute washi tape designed by Japanese illustrator Peppoko perfect for planners and journalsdecoration. Details 2cm x 10m (0.8\" x 11 yards) Designed by Peppoko Made in Japan Who is Peppoko? Peppoko is a Japanese illustrator known for soft, playful artwork featur",
-   "vendor": "Peppoko",
-   "productType": "Washi Tape",
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-coffee",
+   "name": "Mind Wave / Drop Stickers - Coffee",
+   "merchantDescription": "Drop stickers inspired by handmade-style brooches. Finished with gold foil accents that catch the light, adding a warm and charming touch to your planner, journal, or craft projects. Size: 17.5 x 9.0cm (6.9 x 3.5 in) Material: drop sticker with gold foil accen",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
    "merchantTags": [
-    "Bear",
-    "girls",
-    "Peppoko",
-    "Washi Tape"
+    "cafe",
+    "Coffee",
+    "Mind Wave",
+    "Sticker Sheets",
+    "Stickers"
    ],
-   "price": 6
+   "price": 3.5
   },
   {
-   "id": "cutethingsfromjapan-peppoko-mini-rubber-stamp-meow",
-   "name": "Peppoko / Mini Rubber Stamp - Meow",
-   "merchantDescription": "A cute “Tired” rubber stamp designed by Japanese illustrator Peppoko perfect for decorating your planner, journal, and notes with a soft and playful touch. Details Ideal for planners, journals, and decoration Made in Japan Size 1.2cm x 1.2cm (0.5\" x 0.5\") Who ",
-   "vendor": "Peppoko",
-   "productType": "Planner Stamp",
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-life",
+   "name": "Mind Wave / Drop Stickers - Life",
+   "merchantDescription": "Drop stickers inspired by handmade-style brooches. Finished with gold foil accents that catch the light, adding a warm and charming touch to your planner, journal, or craft projects. Size: 17.5 x 9.0cm (6.9 x 3.5 in) Material: drop sticker with gold foil accen",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
    "merchantTags": [
-    "Cat",
-    "Peppoko",
-    "Planner Stamp",
-    "Rubber Stamp"
+    "Mind Wave",
+    "Sticker Sheets",
+    "Stickers"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-sweets",
+   "name": "Mind Wave / Drop Stickers - Sweets",
+   "merchantDescription": "Drop stickers inspired by handmade-style brooches. Finished with gold foil accents that catch the light, adding a warm and charming touch to your planner, journal, or craft projects. Size: 17.5 x 9.0cm (6.9 x 3.5 in) Material: drop sticker with gold foil accen",
+   "vendor": "Mind Wave",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Mind Wave",
+    "Sticker Sheets",
+    "Stickers"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-kiwi",
+   "name": "Sleepy Animal Sticky Note Set - Kiwi",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "animal",
+    "Sticky Notes"
    ],
    "price": 5
   },
   {
-   "id": "cutethingsfromjapan-hankodori-rubber-stamp-black-cat-with-bird",
-   "name": "Hankodori / Rubber Stamp - Black Cat with Bird",
-   "merchantDescription": "Cute rubber stamp designed by a Japanese artist Hankodori great for your planner and journal decoration! [Who is Hankodori?] Hankodori is a Japanese artist who brings everyday joys to life through hand-carved eraser stamps. From these charming designs, she cre",
-   "vendor": "Hankodori",
-   "productType": "Rubber Stamp",
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-shiba",
+   "name": "Sleepy Animal Sticky Note Set - Shiba",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
    "merchantTags": [
+    "animal",
+    "Dog",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-cat-1",
+   "name": "Sleepy Animal Sticky Note Set - Cat",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "animal",
     "Cat",
-    "Hankodori",
-    "Rubber Stamp"
+    "Sticky Notes"
    ],
-   "price": 10
+   "price": 5
   },
   {
-   "id": "cutethingsfromjapan-hankodori-rubber-stamp-22",
-   "name": "Hankodori / Rubber Stamp - Japanese Lunch",
-   "merchantDescription": "Cute rubber stamp designed by a Japanese artist Hankodori great for your planner and journal decoration! [Who is Hankodori?] Hankodori is a Japanese artist who brings everyday joys to life through hand-carved eraser stamps. From these charming designs, she cre",
-   "vendor": "Hankodori",
-   "productType": "Rubber Stamp",
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-dog",
+   "name": "Sleepy Animal Sticky Note Set - Dog",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
    "merchantTags": [
-    "Hankodori",
-    "Rubber Stamp"
+    "animal",
+    "Dog",
+    "Sticky Notes"
    ],
-   "price": 10
+   "price": 5
   },
   {
-   "id": "cutethingsfromjapan-hankodori-mini-rubber-stamp-2",
-   "name": "Hankodori / Mini Rubber Stamp - Daruma",
-   "merchantDescription": "Cute rubber stamp designed by a Japanese artist Hankodori great for your planner and journal decoration! In Japan, a Daruma is a traditional Japanese doll, usually red, with blank white eyes. People make a wish and color in one eye. When the wish comes true, t",
-   "vendor": "Hankodori",
-   "productType": "Rubber Stamp",
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-polar-bear",
+   "name": "Sleepy Animal Sticky Note Set - Polar Bear",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
    "merchantTags": [
-    "Hankodori",
-    "Mini",
-    "Rubber Stamp"
+    "animal",
+    "Bear",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-cat",
+   "name": "Sleepy Animal Sticky Note Set - Cat",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "animal",
+    "Cat",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-long-tailed-tit",
+   "name": "Sleepy Animal Sticky Note Set - Long-tailed tit",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "animal",
+    "Bird",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-panda",
+   "name": "Sleepy Animal Sticky Note Set - Panda",
+   "merchantDescription": "A die-cut sticky note set featuring adorable sleepy animals. Two charming designs, a small animal-shaped note for quick reminders and a larger dreamy-shaped note for messages perfect for brightening up your desk and daily notes. Animal note size: 4.7 x 6.7cm (",
+   "vendor": "Kutsuwa",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "animal",
+    "Panda",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-heisuke-kitazawa-sarasa-nano-pen-set-color-b",
+   "name": "Limited Edition / Heisuke Kitazawa / SARASA NANO Pen (color: black / 0.38mm)",
+   "merchantDescription": "A special limited edition of Heisuke Kitazawa design SARASA NANO gel ink ballpoint pens with black ink. Available in 4 cute designs or set of all designs. ZEBRA's ultra-fine 0.38mm tip features a spring-cushioned mechanism that moves with your writing pressure",
+   "vendor": "Heisuke Kitazawa",
+   "productType": "Writing Tool",
+   "merchantTags": [
+    "Gel Ink Ball-point Pen",
+    "Heisuke Kitazawa"
+   ],
+   "price": 3
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-heisuke-kitazawa-sarasa-grand-my-little-joy",
+   "name": "Limited Edition / Heisuke Kitazawa / SARASA Grand (0.5mm) - My Little Joy",
+   "merchantDescription": "A special limited edition SARASA Grand Vintage pen collection featuring Japanese artist Heisuke Kitazawa's charming designs on a beautiful body. The satisfying weight makes for a comfortable and enjoyable writing experience. Available in 4 colors: Sepia Black,",
+   "vendor": "Heisuke Kitazawa",
+   "productType": "Writing Tool",
+   "merchantTags": [
+    "Gel Ink Ball-point Pen",
+    "Gel-ink Pens",
+    "Heisuke Kitazawa"
+   ],
+   "price": 18
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-the-hattifatteners-cookie",
+   "name": "Limited Edition / Paper Clip - The Hattifatteners Cookie",
+   "merchantDescription": "A cute The Hattifatteners cookie-shaped clip perfect for keeping your papers, prints, and memos neatly together. Size: 4.5 x 4.5cm (1.8 x 1.8 in) Material: PVC, ABS More Moomin Items HERE About Moomin Moomin is the beloved creation of Finnish author and illust",
+   "vendor": "Sun Star Stationery",
+   "productType": "Paper Clip",
+   "merchantTags": [
+    "Moomin",
+    "Paper Clip"
    ],
    "price": 6
   },
   {
-   "id": "cutethingsfromjapan-hankodori-mini-rubber-stamp-1",
-   "name": "Hankodori / Mini Rubber Stamp - Sushi",
-   "merchantDescription": "Cute rubber stamp designed by a Japanese artist Hankodori great for your planner and journal decoration! [Who is Hankodori?] Hankodori is a Japanese artist who brings everyday joys to life through hand-carved eraser stamps. From these charming designs, she cre",
-   "vendor": "Hankodori",
-   "productType": "Rubber Stamp",
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-snufkin-cookie",
+   "name": "Limited Edition / Paper Clip - Snufkin Cookie",
+   "merchantDescription": "A cute Snufkin cookie-shaped clip perfect for keeping your papers, prints, and memos neatly together. Size: 4.5 x 4.5cm (1.8 x 1.8 in) Material: PVC, ABS More Moomin Items HERE About Moomin Moomin is the beloved creation of Finnish author and illustrator Tove ",
+   "vendor": "Sun Star Stationery",
+   "productType": "Paper Clip",
    "merchantTags": [
-    "Hankodori",
-    "Mini",
-    "Rubber Stamp",
-    "Sushi"
+    "Little My",
+    "Moomin",
+    "Paper Clip"
    ],
    "price": 6
   },
   {
-   "id": "cutethingsfromjapan-hankodori-rubber-stamp-4",
-   "name": "Hankodori / Rubber Stamp - Olive",
-   "merchantDescription": "Cute rubber stamp designed by a Japanese artist Hankodori great for your planner and journal decoration! [Who is Hankodori?] Hankodori is a Japanese artist who brings everyday joys to life through hand-carved eraser stamps. From these charming designs, she cre",
-   "vendor": "Hankodori",
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-little-my-cookie",
+   "name": "Limited Edition / Paper Clip - Little My Cookie",
+   "merchantDescription": "A cute Little My cookie-shaped clip perfect for keeping your papers, prints, and memos neatly together. Size: 4.5 x 4.5cm (1.8 x 1.8 in) Material: PVC, ABS More Moomin Items HERE About Moomin Moomin is the beloved creation of Finnish author and illustrator Tov",
+   "vendor": "Sun Star Stationery",
+   "productType": "Paper Clip",
+   "merchantTags": [
+    "Little My",
+    "Moomin",
+    "Paper Clip"
+   ],
+   "price": 6
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-moomin-cookie",
+   "name": "Limited Edition / Paper Clip - Moomin Cookie",
+   "merchantDescription": "A cute Moomin cookie-shaped clip perfect for keeping your papers, prints, and memos neatly together. Size: 4.5 x 4.5cm (1.8 x 1.8 in) Material: PVC, ABS More Moomin Items HERE About Moomin Moomin is the beloved creation of Finnish author and illustrator Tove J",
+   "vendor": "Sun Star Stationery",
+   "productType": "Paper Clip",
+   "merchantTags": [
+    "Moomin",
+    "Paper Clip"
+   ],
+   "price": 6
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-little-my-puffy-stickers",
+   "name": "Limited Edition / Little My Puffy Stickers",
+   "merchantDescription": "Enjoy your planner and journal decoration with these cute puffy stickers! Size: 8cm x 8cm (3.1 x 3.1 in) Material: PVC More Moomin Items HERE About Moomin Moomin is the beloved creation of Finnish author and illustrator Tove Jansson, first introduced in 1945. ",
+   "vendor": "Sun Star Stationery",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "Moomin",
+    "Stickers"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-moomin-memo-pad",
+   "name": "Limited Edition / Moomin Memo Pad",
+   "merchantDescription": "A square Moomin design memo pad featuring four cute designs - 20 sheets per design, 80 sheets in total. Plenty of space for notes, reminders, and little messages. Size: 9.5 x 9.5cm (3.7 x 3.7 in) Material: paper Contents: 4 designs 20 sheets each (80 sheets to",
+   "vendor": "Sun Star Stationery",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "Memo pad",
+    "Moomin"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-hello",
+   "name": "Aiko Fukawa / Rubber Stamp - Hello",
+   "merchantDescription": "A rubber stamp illustrated by Japanese illustrator Aiko Fukawa, featuring an adorable cat hugging a fluffy stuffed animal. Perfect for adding a charming, playful touch to cards, notebooks, and letters. The compact wooden body is easy to grip, and the white rub",
+   "vendor": "cozyca products",
    "productType": "Rubber Stamp",
    "merchantTags": [
-    "Botanical",
-    "Hankodori",
+    "Aiko Fukawa",
+    "animal",
+    "Bunny",
+    "cozyca products",
     "Rubber Stamp"
    ],
    "price": 8
   },
   {
-   "id": "cutethingsfromjapan-shoichiro-tobimatsu-flake-stickers-sweets",
-   "name": "[Limited Edition] Shoichiro Tobimatsu / Flake Stickers - Sweets",
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-thank-you",
+   "name": "Aiko Fukawa / Rubber Stamp - Thank You",
+   "merchantDescription": "A rubber stamp illustrated by Japanese illustrator Aiko Fukawa, featuring two bears in matching outfits, holding a \"THANK YOU!\" card. Perfect for thank-you notes and gift cards, or adding a charming, playful touch to notebooks and letters. The compact wooden b",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Aiko Fukawa",
+    "animal",
+    "Bunny",
+    "cozyca products",
+    "Rubber Stamp",
+    "Thank you"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-happy",
+   "name": "Aiko Fukawa / Rubber Stamp - Happy",
+   "merchantDescription": "A rubber stamp illustrated by Japanese illustrator Aiko Fukawa, featuring two cats in matching party hats, each hugging a heart. Perfect for adding a charming, playful touch to gift cards, happy diary entries, notebooks, and letters. The compact wooden body is",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Aiko Fukawa",
+    "animal",
+    "Bunny",
+    "cozyca products",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-miracle",
+   "name": "Aiko Fukawa / Rubber Stamp - Miracle",
+   "merchantDescription": "A rubber stamp illustrated by Japanese illustrator Aiko Fukawa, featuring a sweet rabbit fairy holding a balloon. Perfect for adding a charming, playful touch to cards, notebooks, and letters. The compact wooden body is easy to grip, and the white rubber surfa",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Aiko Fukawa",
+    "animal",
+    "Bunny",
+    "cozyca products",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-a6-stamp-notebook-collect-your-joy",
+   "name": "Aiko Fukawa / A6 Stamp Notebook - Collect your Joy",
+   "merchantDescription": "An A6 size notebook featuring adorable animals dressed in cute outfits, illustrated by Japanese illustrator Aiko Fukawa. Made with drawing paper that takes stamps cleanly. Easy to carry anywhere. A6 size (105mm × 148mm) 32 pages, full-color cover with matte PP",
+   "vendor": "cozyca products",
+   "productType": "Notebook",
+   "merchantTags": [
+    "A6",
+    "Aiko Fukawa",
+    "cozyca products",
+    "Handy Notebook",
+    "Notebook"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-signboard",
+   "name": "Midori Asano / Rubber Stamp - Signboard",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Midori Asano. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Midori Asano",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-what-time",
+   "name": "Midori Asano / Rubber Stamp - What Time?",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Midori Asano. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Midori Asano",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-meow",
+   "name": "Midori Asano / Rubber Stamp - Meow",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Midori Asano. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Midori Asano",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-hello",
+   "name": "Midori Asano / Rubber Stamp - Hello!",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Midori Asano. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Midori Asano",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-chill",
+   "name": "Subikiawa / Rubber Stamp - chill",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Subikiawa. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: woo",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Rubber Stamp",
+    "Subikiawa"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-birdplane",
+   "name": "Subikiawa / Rubber Stamp - birdplane",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Subikiawa. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: woo",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Bird",
+    "cozyca products",
+    "Rubber Stamp",
+    "Subikiawa"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-float",
+   "name": "Subikiawa / Rubber Stamp - float",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Subikiawa. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: woo",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Penguin",
+    "Rubber Stamp",
+    "Subikiawa"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-bring",
+   "name": "Subikiawa / Rubber Stamp - bring",
+   "merchantDescription": "A rubber stamp featuring cute illustration by Japanese artist Subikiawa. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: woo",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Penguin",
+    "Rubber Stamp",
+    "Subikiawa"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-a6-stamp-notebook-life-objects",
+   "name": "Subikiawa / A6 Stamp Notebook - Life Objects",
+   "merchantDescription": "An A6 size notebook featuring colorful, playful motifs by Japanese artist Subikiawa - vegetables, animals, and unexpected everyday objects, all lined up across the cover in their signature pop style. Made with drawing paper that takes stamps cleanly. Easy to c",
+   "vendor": "cozyca products",
+   "productType": "Notebook",
+   "merchantTags": [
+    "A6",
+    "cozyca products",
+    "Handy Notebook",
+    "Notebook",
+    "Subikiawa"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-tree",
+   "name": "Nishi Shuku / Rubber Stamp - tree",
+   "merchantDescription": "A rubber stamp featuring a tree motif by Japanese illustrator Shuku Nishi. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Material: w",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Nishi Shuku",
+    "Rubber Stamp",
+    "tree"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-squirrel",
+   "name": "Nishi Shuku / Rubber Stamp - squirrel",
+   "merchantDescription": "A rubber stamp featuring a squirrel motif by Japanese illustrator Shuku Nishi. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x 3 x 2.2cm (1.2 x 1.2 x 0.9 in) Materia",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "animal",
+    "cozyca products",
+    "Nishi Shuku",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-apple",
+   "name": "Nishi Shuku / Rubber Stamp - apple",
+   "merchantDescription": "A rubber stamp featuring a girl with an apple balanced on her head, illustrated by Japanese illustrator Shuku Nishi. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters. Size: 3 x ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "animal",
+    "cozyca products",
+    "Nishi Shuku",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-swan",
+   "name": "Nishi Shuku / Rubber Stamp - swan",
+   "merchantDescription": "A rubber stamp featuring a swan motif by Japanese illustrator Shuku Nishi, with a silhouette-like design reminiscent of shadow art or woodblock prints. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "animal",
+    "cozyca products",
+    "Nishi Shuku",
+    "Rubber Stamp",
+    "Swan"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-a6-stamp-notebook-swan-forest",
+   "name": "Nishi Shuku / A6 Stamp Notebook - swan forest",
+   "merchantDescription": "An A6 size notebook featuring an illustration of a swan-filled forest with shimmering stars by Japanese illustrator Shuku Nishi. The cover design links with her stamp series, making them a lovely pair to use together or give as a gift. Made with drawing paper ",
+   "vendor": "cozyca products",
+   "productType": "Notebook",
+   "merchantTags": [
+    "A6",
+    "cozyca products",
+    "Handy Notebook",
+    "Nishi Shuku",
+    "Notebook"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-good",
+   "name": "Mariko Fukuoka / Rubber Stamp - GOOD!",
+   "merchantDescription": "A rubber stamp featuring a charming bear with a pencil tucked behind its ear, giving a big GOOD! - illustrated by Japanese illustrator Mariko Fukuoka. Stamp it for yourself on a good day, for someone who worked hard, or just because. Compact and easy to grip, ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "animal",
+    "cozyca products",
+    "Mariko Fukuoka",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-ska-vi-fika",
+   "name": "Mariko Fukuoka / Rubber Stamp - Ska vi fika？",
+   "merchantDescription": "A rubber stamp featuring a round little seal inviting you for tea, illustrated by Japanese illustrator Mariko Fukuoka. The stamp reads \"Ska vi fika?\" - Swedish for \"Shall we have tea?\" Compact and easy to grip, with a white rubber surface that makes it easy to",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "animal",
+    "cozyca products",
+    "Mariko Fukuoka",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-take-a-walk",
+   "name": "Mariko Fukuoka / Rubber Stamp - Take a Walk",
+   "merchantDescription": "A rubber stamp featuring a little dog out for a stroll with a small bag, illustrated by Japanese illustrator Mariko Fukuoka. Try adding a speech bubble for an extra touch of fun. Compact and easy to grip, with a white rubber surface that makes it easy to see t",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cozyca products",
+    "Dog",
+    "Mariko Fukuoka",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-hmm",
+   "name": "Mariko Fukuoka / Rubber Stamp - Hmm",
+   "merchantDescription": "A rubber stamp featuring a bear deeply absorbed in a book, illustrated by Japanese illustrator Mariko Fukuoka. Try adding a speech bubble for an extra touch of fun. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Bear",
+    "cozyca products",
+    "Mariko Fukuoka",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-a6-stamp-notebook-tiny-note",
+   "name": "Mariko Fukuoka / A6 Stamp Notebook - tiny note",
+   "merchantDescription": "An A6 size notebook featuring illustrations by Japanese illustrator Mariko Fukuoka. Small, cute motifs arranged across the cover make it a lovely place to collect travel stamps, scenic postmarks, or simply use as an everyday notebook. Made with drawing paper t",
+   "vendor": "cozyca products",
+   "productType": "Notebook",
+   "merchantTags": [
+    "A6",
+    "cozyca products",
+    "Handy Notebook",
+    "Mariko Fukuoka",
+    "Notebook"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-nap-time",
+   "name": "Kuroneko Design / Rubber Stamp - Nap Time",
+   "merchantDescription": "A rubber stamp featuring Robin-chan, the black cat character by Kuroneko Design, curled up and fast asleep in a rose-patterned teacup. That blissfully cozy expression is simply irresistible. Compact and easy to grip, with a white rubber surface that makes it e",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Cat",
+    "cozyca products",
+    "Handy Notebook",
+    "Kuroneko Design",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-my-little-robin",
+   "name": "Kuroneko Design / Rubber Stamp - My Little Robin",
+   "merchantDescription": "A rubber stamp featuring Robin-chan, the black cat character by Kuroneko Design, head tilted with a prim little pose as if she has something important to tell you. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great f",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Cat",
+    "cozyca products",
+    "Handy Notebook",
+    "Kuroneko Design",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-day-out",
+   "name": "Kuroneko Design / Rubber Stamp - Day Out",
+   "merchantDescription": "A rubber stamp featuring Robin-chan, the black cat character by Kuroneko Design, dressed up and ready for a day out with her bag. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letter",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Cat",
+    "cozyca products",
+    "Handy Notebook",
+    "Kuroneko Design",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-rolling",
+   "name": "Kuroneko Design / Rubber Stamp - Rolling",
+   "merchantDescription": "A rubber stamp featuring Robin-chan, the black cat character by Kuroneko Design, caught in a lively, rounded pose. Compact and easy to grip, with a white rubber surface that makes it easy to see the ink. Great for notebooks, planners, and letters or use it as ",
+   "vendor": "cozyca products",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Cat",
+    "cozyca products",
+    "Handy Notebook",
+    "Kuroneko Design",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-a6-stamp-notebook-kuroneko-notebook",
+   "name": "Kuroneko Design / A6 Stamp Notebook - KURONEKO NOTEBOOK",
+   "merchantDescription": "An A6 size notebook featuring Kuroneko Design's signature character Robin-chan - a black cat with a dip pen - on the cover. Made with drawing paper that takes stamps cleanly, it's designed to be used freely as a stamp book, a place to collect tickets and cards",
+   "vendor": "cozyca products",
+   "productType": "Notebook",
+   "merchantTags": [
+    "A6",
+    "Cat",
+    "cozyca products",
+    "Handy Notebook",
+    "Kuroneko Design",
+    "Notebook"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-memo-pad-sweets",
+   "name": "Mariko Fukuoka / Memo Pad - Sweets",
+   "merchantDescription": "An \"ippitsu sen\" memo pad made with high-quality Mino washi paper, featuring illustrations by Japanese illustrator Mariko Fukuoka. \"Ippitsu sen\" - meaning \"one stroke writing paper\" in Japanese - is sized just right for a short message, a quick note, or a than",
+   "vendor": "cozyca products",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "cozyca products",
+    "Mariko Fukuoka",
+    "Memo pad",
+    "Sweets"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-memo-pad-cozy-time",
+   "name": "Mariko Fukuoka / Memo Pad - Cozy Time",
+   "merchantDescription": "An \"ippitsu sen\" memo pad made with high-quality Mino washi paper, featuring illustrations by Japanese illustrator Mariko Fukuoka. \"Ippitsu sen\" - meaning \"one stroke writing paper\" in Japanese - is sized just right for a short message, a quick note, or a than",
+   "vendor": "cozyca products",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "cozyca products",
+    "Mariko Fukuoka",
+    "Memo pad"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "cutethingsfromjapan-tadashi-nishiwaki-memo-pad-bread",
+   "name": "Tadashi Nishiwaki / Memo Pad - Bread",
+   "merchantDescription": "An \"ippitsu sen\" memo pad made with high-quality Mino washi paper, featuring illustrations by Japanese illustrator Tadashi Nishiwaki. \"Ippitsu sen\" - meaning \"one stroke writing paper\" in Japanese - is sized just right for a short message, a quick note, or a t",
+   "vendor": "cozyca products",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "Bread",
+    "cozyca products",
+    "Memo pad",
+    "Tadashi Nishiwaki"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "cutethingsfromjapan-tadashi-nishiwaki-memo-pad-cozy-time-with-my-dog",
+   "name": "Tadashi Nishiwaki / Memo Pad - Cozy Time with My Dog",
+   "merchantDescription": "An \"ippitsu sen\" memo pad made with high-quality Mino washi paper, featuring illustrations by Japanese illustrator Tadashi Nishiwaki. \"Ippitsu sen\" - meaning \"one stroke writing paper\" in Japanese - is sized just right for a short message, a quick note, or a t",
+   "vendor": "cozyca products",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "cozyca products",
+    "Dog",
+    "Memo pad",
+    "Tadashi Nishiwaki"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "cutethingsfromjapan-reiko-tada-memo-pad-c-is-for-cat",
+   "name": "Reiko Tada / Memo Pad - C IS FOR CAT",
+   "merchantDescription": "An \"ippitsu sen\" memo pad made with high-quality Mino washi paper, featuring illustrations by Japanese illustrator Reiko Tada. \"Ippitsu sen\" - meaning \"one stroke writing paper\" in Japanese - is sized just right for a short message, a quick note, or a thank yo",
+   "vendor": "cozyca products",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "Cat",
+    "cozyca products",
+    "Memo pad",
+    "Reiko Tada"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "cutethingsfromjapan-reiko-tada-memo-pad-the-good-dogs",
+   "name": "Reiko Tada / Memo Pad - THE GOOD DOGS",
+   "merchantDescription": "An \"ippitsu sen\" memo pad made with high-quality Mino washi paper, featuring illustrations by Japanese illustrator Reiko Tada. \"Ippitsu sen\" - meaning \"one stroke writing paper\" in Japanese - is sized just right for a short message, a quick note, or a thank yo",
+   "vendor": "cozyca products",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "cozyca products",
+    "Memo pad",
+    "Reiko Tada"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-shoichiro-tobimatsu-petit-origami-memo-pad-s",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Petit Origami Memo Pad Set - Lemon Sweets",
+   "merchantDescription": "An origami memo pad set featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu, made with Mino washi paper for a soft, cozy texture. Great for notes and everyday decoration. 100 sheets total (10 designs, 10 sheets each) Size: 70mm ",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Memo pad",
+    "Origami",
+    "Shoichiro Tobimatsu",
+    "Sweets"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-shoichiro-tobimatsu-petit-origami-memo-pad-s-2",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Petit Origami Memo Pad Set - Macaron",
+   "merchantDescription": "An origami memo pad set featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu, made with Mino washi paper for a soft, cozy texture. Great for notes and everyday decoration. 100 sheets total (10 designs, 10 sheets each) Size: 70mm ",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Memo pad",
+    "Origami",
+    "Shoichiro Tobimatsu",
+    "Sweets"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-shoichiro-tobimatsu-origami-memo-pad-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Petit Origami Memo Pad Set - Sweets",
+   "merchantDescription": "An origami memo pad set featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu, made with Mino washi paper for a soft, cozy texture. Great for notes and everyday decoration. 100 sheets total (10 designs, 10 sheets each) Size: 70mm ",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Memo pad",
+    "Origami",
+    "Shoichiro Tobimatsu",
+    "Sweets"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-stickers-lemon-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Stickers - Lemon Sweets",
+   "merchantDescription": "A washi paper sticker sheet featuring sweets illustrations by Japanese illustrator Shoichiro Tobimatsu, finished with foil stamping. Perfect for decorating your planner or notebook. 3 designs (lemon sweets, macaron, strawberry sweets) Material: Washi paper, fo",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sticker Sheets",
+    "Stickers",
+    "Sweets"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-stickers-macaron",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Stickers - Macaron",
+   "merchantDescription": "A washi paper sticker sheet featuring sweets illustrations by Japanese illustrator Shoichiro Tobimatsu, finished with foil stamping. Perfect for decorating your planner or notebook. 3 designs (lemon sweets, macaron, strawberry sweets) Material: Washi paper, fo",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sticker Sheets",
+    "Stickers",
+    "Sweets"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-stickers-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Stickers - Sweets",
+   "merchantDescription": "A washi paper sticker sheet featuring sweets illustrations by Japanese illustrator Shoichiro Tobimatsu, finished with foil stamping. Perfect for decorating your planner or notebook. 3 designs (lemon sweets, macaron, strawberry sweets) Material: Washi paper, fo",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Sticker Sheet",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sticker Sheets",
+    "Stickers",
+    "Sweets"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-memo-pad-lemon-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Memo Pad - Lemon Sweets",
+   "merchantDescription": "A memo pad featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu. With 100 sheets across 4 designs, perfect for quick notes and everyday messages. 100 sheets total (4 designs, 25 sheets each) Size: 90mm × 80mm (3.5\" × 3.1\") Materi",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Memo pad",
+    "Shoichiro Tobimatsu",
+    "Sweets"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-memo-pad-macaron",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Memo Pad - Macaron",
+   "merchantDescription": "A memo pad featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu. With 100 sheets across 4 designs, perfect for quick notes and everyday messages. 100 sheets total (4 designs, 25 sheets each) Size: 90mm × 80mm (3.5\" × 3.1\") Materi",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Memo pad",
+    "Shoichiro Tobimatsu",
+    "Sweets"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-memo-pad-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Memo Pad - Sweets",
+   "merchantDescription": "A memo pad featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu. With 100 sheets across 4 designs, perfect for quick notes and everyday messages. 100 sheets total (4 designs, 25 sheets each) Size: 90mm × 80mm (3.5\" × 3.1\") Materi",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "animal",
+    "Memo pad",
+    "Shoichiro Tobimatsu",
+    "Sweets"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-flake-stickers-lemon-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Flake Stickers - Lemon Sweets",
    "merchantDescription": "A flake sticker set featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu. The set includes two sizes perfect for planner and journal decoration. 14 stickers total (7 designs, 2 sheets each) 3 large designs, 4 small designs Packag",
    "vendor": "Shoichiro Tobimatsu",
    "productType": "Flake Stickers",
@@ -139,522 +933,183 @@
    "price": 3.5
   },
   {
-   "id": "cutethingsfromjapan-obi1-shiny-die-cut-postcard-1",
-   "name": "Obi1 / Shiny Postcard - Caramel",
-   "merchantDescription": "This postcard showcases an adorable retro design created by Japanese artist Obi1 (Obi-Wan), recognized for his delightful vintage-inspired art. It includes a hot-stamped detail that gleams when it catches the light. * Size: 10cm x 14.8cm (3.9\" x 5.8\") * Made i",
-   "vendor": "Obi1",
-   "productType": "Postcard",
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-flake-stickers-macaron",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Flake Stickers - Macaron",
+   "merchantDescription": "A flake sticker set featuring cats and sweets illustrations by Japanese illustrator Shoichiro Tobimatsu. The set includes two sizes perfect for planner and journal decoration. 14 stickers total (7 designs, 2 sheets each) 3 large designs, 4 small designs Packag",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Flake Stickers",
    "merchantTags": [
-    "Obi1",
-    "Postcard"
+    "animal",
+    "Flake Stickers",
+    "Shoichiro Tobimatsu",
+    "Sweets"
    ],
-   "price": 3
+   "price": 3.5
   },
   {
-   "id": "cutethingsfromjapan-obi1-acrylic-stand-pre-inked-stamp-retro-post",
-   "name": "Obi1 / Acrylic Stand Pre-inked Stamp - Retro Post",
-   "merchantDescription": "This adorable pre-inked stamp showcases an adorable retro post design created by Japanese artist Obi1 (Obi-Wan), recognized for his delightful vintage-inspired art great for decorating you planners and mail art. * Size: 3.5cm x 3.5cm x 4cm (1.3\" x 1.3\" x 1.5\")",
-   "vendor": "Obi1",
-   "productType": "Rubber Stamp",
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-sticky-notes-lemon-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Sticky Notes - Lemon Sweets",
+   "merchantDescription": "A cute double sticky note sheets featuring cat illustrations by Japanese illustrator Shoichiro Tobimatsu. With 2 designs to choose from, it's a fun and practical addition to your planner or notebook for everyday notes and reminders. 2 designs, 20 sheets each S",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Sticky Note",
    "merchantTags": [
-    "Obi1",
-    "Rubber Stamp"
-   ],
-   "price": 9
-  },
-  {
-   "id": "cutethingsfromjapan-obi1-a5-slim-notebook-have-a-nice-trip",
-   "name": "Obi1 / A5 Slim Notebook - Have a nice Trip!",
-   "merchantDescription": "This adorable A5 slim notebook features a traveling bear designed by Japanese artist Obi1 (Obi-Wan), known for his charming vintage-inspired artwork. The front and back covers showcase beautiful letterpress craftsmanship, with sections hot-stamped to catch the",
-   "vendor": "Obi1",
-   "productType": "Notebook",
-   "merchantTags": [
-    "Bear",
-    "Notebook",
-    "Obi1",
-    "Traveler's Notebook"
-   ],
-   "price": 10
-  },
-  {
-   "id": "cutethingsfromjapan-obi1-postcard-bar-bon-bori",
-   "name": "Obi1 / Postcard - Bar Bon Bori",
-   "merchantDescription": "This postcard showcases an adorable retro design created by Japanese artist Obi1 (Obi-Wan), recognized for his delightful vintage-inspired art. Bon bori is a Japanese paper lantern used in festivals. * Size: 10cm x 14.8cm (3.9\" x 5.8\") * Made in Japan * More O",
-   "vendor": "Obi1",
-   "productType": "Postcard",
-   "merchantTags": [
-    "Obi1",
-    "Postcard"
-   ],
-   "price": 2.5
-  },
-  {
-   "id": "cutethingsfromjapan-obi1-postcard-amaoto-soda",
-   "name": "Obi1 / Postcard - Amaoto Soda",
-   "merchantDescription": "This postcard showcases an adorable retro design created by Japanese artist Obi1 (Obi-Wan), recognized for his delightful vintage-inspired art. * Size: 10cm x 14.8cm (3.9\" x 5.8\") * Made in Japan * More Obi1 items HERE Who is Obi1? Obi1 (ob1toy) is a Japanese ",
-   "vendor": "Obi1",
-   "productType": "Postcard",
-   "merchantTags": [
-    "Obi1",
-    "Postcard"
-   ],
-   "price": 2.5
-  },
-  {
-   "id": "cutethingsfromjapan-obi1-wrapping-paper-set-have-a-nice-trip-a5-size",
-   "name": "Obi1 / Wrapping Paper Set - Have a nice Trip! (A5 Size / 10 Sheets)",
-   "merchantDescription": "This is a set of cute wrapping paper designed by Japanese artist Obi1 (Obi-Wan), recognized for his delightful vintage-inspired art perfect addition to your gift wrapping and crafting supplies. The set comes with 10 sheets of cute traveling bear designs in A5 ",
-   "vendor": "Obi1",
-   "productType": "Wrapping Paper",
-   "merchantTags": [
-    "A5",
-    "Bear",
-    "Obi1",
-    "Wrapping Paper"
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sticky Notes",
+    "Sweets"
    ],
    "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-necktie-foil-stamped-washi-tape-floating-through-the-sky",
-   "name": "Necktie / Foil-Stamped Washi Tape - Floating through the Sky",
-   "merchantDescription": "Beautiful washi tape designed by Necktie, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) * More Nec",
-   "vendor": "Necktie",
-   "productType": "Washi Tape",
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-sticky-notes-macaron",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Sticky Notes - Macaron",
+   "merchantDescription": "A cute double sticky note sheets featuring cat illustrations by Japanese illustrator Shoichiro Tobimatsu. With 2 designs to choose from, it's a fun and practical addition to your planner or notebook for everyday notes and reminders. 2 designs, 20 sheets each S",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Sticky Note",
    "merchantTags": [
-    "cozyca products",
-    "Necktie",
-    "Washi Tape"
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sticky Notes",
+    "Sweets"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-sticky-notes-strawberry-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Sticky Notes - Strawberry Sweets",
+   "merchantDescription": "A cute double sticky note sheets featuring cat illustrations by Japanese illustrator Shoichiro Tobimatsu. With 2 designs to choose from, it's a fun and practical addition to your planner or notebook for everyday notes and reminders. 2 designs, 20 sheets each S",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sticky Notes",
+    "Strawberry",
+    "Sweets"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-letter-set-lemon-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Letter Set (落水紙) - Lemon Sweets",
+   "merchantDescription": "A letter set made with Rakusui-shi (落水紙), a high-quality Japanese Mino washi paper with a soft, cozy texture. Featuring designs by Japanese illustrator Shoichiro Tobimatsu, whose whimsical illustrations of animals and everyday scenes add a quiet, unhurried cha",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Letter Set",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sweets",
+    "Washi Paper"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-letter-set-macaron",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Letter Set (落水紙) - Macaron",
+   "merchantDescription": "A letter set made with Rakusui-shi (落水紙), a high-quality Japanese Mino washi paper with a soft, cozy texture. Featuring designs by Japanese illustrator Shoichiro Tobimatsu, whose whimsical illustrations of animals and everyday scenes add a quiet, unhurried cha",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Letter Set",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sweets",
+    "Washi Paper"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-letter-set-strawberry-sweets",
+   "name": "[Limited Edition] Shoichiro Tobimatsu / Letter Set (落水紙) - Strawberry Sweets",
+   "merchantDescription": "A letter set made with Rakusui-shi (落水紙), a high-quality Japanese Mino washi paper with a soft, cozy texture. Featuring designs by Japanese illustrator Shoichiro Tobimatsu, whose whimsical illustrations of animals and everyday scenes add a quiet, unhurried cha",
+   "vendor": "Shoichiro Tobimatsu",
+   "productType": "Letter Set",
+   "merchantTags": [
+    "animal",
+    "Shoichiro Tobimatsu",
+    "Sweets",
+    "Washi Paper"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "cutethingsfromjapan-greetng-card-for-you",
+   "name": "[Last Stock] Rei Kurahashi / Greetng Card - For You",
+   "merchantDescription": "A greeting card featuring illustrations by Japanese artist Rei Kurahashi — with another illustration waiting inside when you open it. Card: 15cm × 10cm (5.9\" × 3.9\") Envelope: 16.5cm × 11.5cm (6.4\" × 4.5\") Made in Japan * More Cards HERE [Who is Rei Kurahashi?",
+   "vendor": "Rei Kurahashi",
+   "productType": "Cards + Postcards",
+   "merchantTags": [
+    "Card",
+    "For you",
+    "Rei Kurahashi"
    ],
    "price": 5
   },
   {
-   "id": "cutethingsfromjapan-traveling-cat-postcard-autumn-2",
-   "name": "Toshinori Mori / Traveling Cat Postcard - Autumn / See You!",
-   "merchantDescription": "Welcome to the \"Tabi Neko\" (\"Traveling Cat\" in Japanese) postcard series by Japanese illustrator Toshinori Mori. These charming traveling cats invite you on a journey through the changing seasons of Japan. * Size: 10cm x 14.8cm (3.9\" x 5.8\") * Illustrator: Tos",
-   "vendor": "Toshinori Mori",
-   "productType": "Postcard",
+   "id": "cutethingsfromjapan-mind-wave-slim-clear-tape-hello-cat",
+   "name": "Mind Wave / Slim Clear Tape - Hello Cat",
+   "merchantDescription": "Slim clear tape with a cute pop cat designs perfect for decorating planners and journals with a touch of sparkle. * Size: 0.7cm x 5m (0.27\" x 5.4 yards) * Material: clear PET tape * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Slim Clear Tape",
    "merchantTags": [
-    "Autumn Limited",
-    "Cat",
-    "Japan",
-    "Postcard"
+    "animal",
+    "Clear Tape",
+    "Mind Wave",
+    "Slim Tape"
    ],
    "price": 2.5
   },
   {
-   "id": "cutethingsfromjapan-eric-pocket-notebook-2-designs",
-   "name": "eric Pocket Notebook (2 designs)",
-   "merchantDescription": "Introducing the new Pocket Notebook, featuring 2 creative designs by talented Japanese artist eric. This pocket-sized notebook comes with a clear pocket and high-quality \"Seibundo original planner paper\" known for its soft, smooth, and slightly moist texture. ",
-   "vendor": "eric",
-   "productType": "Notebook",
+   "id": "cutethingsfromjapan-mind-wave-slim-clear-tape-colorful-cat",
+   "name": "Mind Wave / Slim Clear Tape - Colorful Cats",
+   "merchantDescription": "Slim clear tape with a cute pop colorful cat design perfect for decorating planners and journals with a touch of sparkle. * Size: 0.7cm x 5m (0.27\" x 5.4 yards) * Material: clear PET tape * More Mind Wave Items HERE",
+   "vendor": "Mind Wave",
+   "productType": "Slim Clear Tape",
    "merchantTags": [
-    "eric",
-    "Notebooks",
-    "Pocket Notebook"
-   ],
-   "price": 9.5
-  },
-  {
-   "id": "cutethingsfromjapan-limited-edition-sarasa-clip-pen-moomin",
-   "name": "Limited Edition SARASA CLIP Pen - Moomin (color: black)",
-   "merchantDescription": "Special limited edition of Moomin design SARASA CLIP gel ink ball-point pens are here! The ZEBRA's high quality water-based pigment gel ink writes very smooth in crisp lines. The ink is water-resistant and has lightfastness. The pen has a functional clip and a",
-   "vendor": "ZEBRA",
-   "productType": "Writing Tool",
-   "merchantTags": [
-    "Gel Ink Ball-point Pen",
-    "Moomin",
-    "ZEBRA"
+    "Cat",
+    "Clear Tape",
+    "Mind Wave",
+    "Slim Tape"
    ],
    "price": 2.5
   },
   {
-   "id": "cutethingsfromjapan-eric-washi-tape-writing-tools",
-   "name": "eric / Washi Tape - Writing Tools",
-   "merchantDescription": "Cute washi tape designed by Japanese eraser stamp artist eric, known for her fun and charming illustrations, perfect for decorating your planner or journal! Parts of the tape are hot-stamped, giving them a beautiful shine when they catch the light. * Size: 2cm",
-   "vendor": "eric",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "eric",
-    "Papier Platz",
-    "Washi Tape"
-   ],
-   "price": 4.5
-  },
-  {
-   "id": "cutethingsfromjapan-eric-washi-tape-my-favorite-things",
-   "name": "eric / Washi Tape - Favorite Place",
-   "merchantDescription": "Cute washi tape designed by Japanese eraser stamp artist eric, known for her fun and charming illustrations, perfect for decorating your planner or journal! Parts of the tape are hot-stamped, giving them a beautiful shine when they catch the light. * Size: 2cm",
-   "vendor": "eric",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "eric",
-    "Papier Platz",
-    "Washi Tape"
-   ],
-   "price": 4.5
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-stickers-happy-people",
-   "name": "Mind Wave / Stickers - Happy People",
-   "merchantDescription": "Enjoy your planner and journal decoration with cute and colorful stickers. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "Mind Wave",
-    "People",
-    "Stickers"
-   ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-stickers-happy-panda",
-   "name": "Mind Wave / Stickers - Happy Panda",
-   "merchantDescription": "Enjoy your planner and journal decoration with cute and colorful stickers. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "Mind Wave",
-    "People",
-    "Stickers"
-   ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-stickers-happy-dog",
-   "name": "Mind Wave / Stickers - Happy Dog",
-   "merchantDescription": "Enjoy your planner and journal decoration with cute and colorful stickers. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Dog",
-    "Mind Wave",
-    "Stickers"
-   ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-stickers-happy-cat",
-   "name": "Mind Wave / Stickers - Happy Cat",
-   "merchantDescription": "Enjoy your planner and journal decoration with cute and colorful stickers. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Mind Wave",
-    "Stickers"
-   ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-stickers-happy-bunny",
-   "name": "Mind Wave / Stickers - Happy Bunny",
-   "merchantDescription": "Enjoy your planner and journal decoration with cute and colorful stickers. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Bunny",
-    "Mind Wave",
-    "Stickers"
-   ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-stickers-happy-bears",
-   "name": "Mind Wave / Stickers - Happy Bears",
-   "merchantDescription": "Enjoy your planner and journal decoration with cute and colorful stickers. * Size: 17.5cm x 9cm (6.8\" x 3.5\") * Made in Japan * More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Bear",
-    "Mind Wave",
-    "Stickers"
-   ],
-   "price": 2.9
-  },
-  {
-   "id": "cutethingsfromjapan-limited-edition-eric-memo-paper-set",
-   "name": "[Limited Edition] eric / Memo Paper Set",
-   "merchantDescription": "A limited edition mini paper set designed exclusively by Japanese eraser stamp artist eric for her exhibition. The set includes 100 sheets of mini paper in 4 charming designs, presented in a letterpress paper box. Limited quantity. * Box size: 7 × 7 cm (2.8\" ×",
-   "vendor": "eric x Cute Things from Japan",
+   "id": "cutethingsfromjapan-kano-hirabayashi-square-memo-pad-kitchen-tool",
+   "name": "Kano Hirabayashi / Square Memo Pad - Kitchen Tool",
+   "merchantDescription": "A cozy memo pad illustrated by Japanese artist Kano Hirabayashi, featuring softly drawn kitchen tools and everyday scenes in colored pencil, perfect for your notes and small messages. Details 4 different designs (30 sheets each, 120 sheets total) Thick paper t",
+   "vendor": "cozyca products",
    "productType": "Memo Pad",
    "merchantTags": [
-    "CTFJ Original",
-    "eric",
-    "Limited Edition",
+    "cozyca products",
+    "Kano Hirabayashi",
     "Memo pad"
    ],
-   "price": 8
+   "price": 6.5
   },
   {
-   "id": "cutethingsfromjapan-the-superior-labor-all-leather-engineer-key-case-3-colors",
-   "name": "The Superior Labor / all leather engineer key case (3 Colors)",
-   "merchantDescription": "Handcrafted by The Superior Labor, this is the engineer bag - in miniature key case form. Previously made with the same canvas as the engineer bag, it returns in an all-leather version that is built to last even longer. About the leather - Japanese Globe Leath",
-   "vendor": "The Superior Labor",
-   "productType": "Pouch",
-   "merchantTags": [
-    "Key Case",
-    "Leather",
-    "Pouch",
-    "The Superior Labor",
-    "TSL"
-   ],
-   "price": 110
-  },
-  {
-   "id": "cutethingsfromjapan-the-superior-labor-all-leather-engineer-pouch-3-colors",
-   "name": "The Superior Labor / all leather engineer pouch (3 Colors)",
-   "merchantDescription": "Handcrafted by The Superior Labor, this started as a miniature version of the engineer bag - and accidentally grew into something bigger. The result is a chubby, satisfyingly plump leather pouch that's simply fun to hold. Roomy enough to fit a paperback or an ",
-   "vendor": "The Superior Labor",
-   "productType": "Pouch",
-   "merchantTags": [
-    "Leather",
-    "Pouch",
-    "The Superior Labor",
-    "TSL"
-   ],
-   "price": 125
-  },
-  {
-   "id": "cutethingsfromjapan-yuki-itoi-sticky-notes-c-is-for-cat-the-good-dogs",
-   "name": "Reiko Tada / Sticky Notes - C IS FOR CAT & THE GOOD DOGS",
-   "merchantDescription": "Sticky notes featuring the illustrations of Reiko Tada. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the origina",
-   "vendor": "Reiko Tada",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Reiko Tada",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-yuki-itoi-sticky-notes-usagi-neko",
-   "name": "Yuki Itoi / Sticky Notes - USAGI & NEKO",
-   "merchantDescription": "Sticky notes featuring the illustrations of Itoi Yuki. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the original",
-   "vendor": "Yuki Itoi",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Sticky Notes",
-    "Yuki Itoi"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-sayuri-fujimaki-sticky-notes-journey-life",
-   "name": "Sayuri Fujimaki / Sticky Notes - Journey & Life",
-   "merchantDescription": "Sticky notes featuring the illustrations of Sayuri Fujimaki. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the or",
-   "vendor": "Sayuri Fujimaki",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Sayuri Fujimaki",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-masao-takahata-sticky-notes-bear-beckoning-cat",
-   "name": "Masao Takahata / Sticky Notes - Bear & Beckoning Cat",
-   "merchantDescription": "Sticky notes featuring the illustrations of Masao Takahata. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the ori",
-   "vendor": "Masao Takahata",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Masao Takahata",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-mariko-fukuoka-sticky-notes-seasonal-jar-hoshikuma",
-   "name": "Mariko Fukuoka / Sticky Notes - SEASONAL JAR / HOSHIKUMA",
-   "merchantDescription": "Sticky notes featuring the illustrations of Mariko Fukuoka. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the ori",
-   "vendor": "Mariko Fukuoka",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Mariko Fukuoka",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-necktie-sticky-notes-flowers",
-   "name": "Necktie / Sticky Notes - Flowers",
-   "merchantDescription": "Sticky notes featuring the illustrations of Necktie. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the original m",
-   "vendor": "Necktie",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Necktie",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-midori-asano-sticky-notes-my-favorite-mugs-three-oclock",
-   "name": "Midori Asano / Sticky Notes - MY FAVORITE MUGS・three o'clock",
-   "merchantDescription": "Sticky notes featuring the illustrations of Midori Asano. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the origi",
-   "vendor": "Midori Asano",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "cozyca products",
-    "Midori Asano",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-aiko-fukawa-sticky-notes-jardin-happiness",
-   "name": "Aiko Fukawa / Sticky Notes - Jardin・Happiness",
-   "merchantDescription": "Sticky notes featuring the illustrations of Aiko Fukawa. The beloved designs from cozyca products' popular ippitsusen memo pads are now available in a miniature size! This set includes two palm-sized booklets, with covers made from the same paper as the origin",
-   "vendor": "Aiko Fukawa",
-   "productType": "Sticky Note",
-   "merchantTags": [
-    "Aiko Fukawa",
-    "cozyca products",
-    "Sticky Notes"
-   ],
-   "price": 5.5
-  },
-  {
-   "id": "cutethingsfromjapan-tadashi-nishiwaki-square-memo-pad-sleepy",
-   "name": "Tadashi Nishiwaki / Square Memo Pad - Sleepy",
-   "merchantDescription": "A square memo pad designed by Tadashi Nishiwaki. With 4 designs and thick paper that prevents ink from bleeding through, it's a reliable companion for everyday notes and small messages. * 120 sheets total (4 designs, 30 sheets each) * Size: 10.0 × 9.0 cm (3.9\"",
-   "vendor": "Tadashi Nishiwaki",
+   "id": "cutethingsfromjapan-kano-hirabayashi-square-memo-pad-japanese-food",
+   "name": "Kano Hirabayashi / Square Memo Pad - Japanese Food",
+   "merchantDescription": "A cozy memo pad illustrated by Japanese artist Kano Hirabayashi, featuring gently drawn everyday Japanese dishes in colored pencil, perfect for your notes and small messages. Details 4 different designs (30 sheets each, 120 sheets total) Thick paper that preve",
+   "vendor": "cozyca products",
    "productType": "Memo Pad",
    "merchantTags": [
     "cozyca products",
-    "Memo pad",
-    "Tadashi Nishiwaki"
+    "Japan",
+    "Kano Hirabayashi",
+    "Memo pad"
    ],
    "price": 6.5
   },
   {
-   "id": "cutethingsfromjapan-tadashi-nishiwaki-square-memo-pad-bread",
-   "name": "Tadashi Nishiwaki / Square Memo Pad - Bread",
-   "merchantDescription": "A square memo pad designed by Tadashi Nishiwaki. With 4 designs and thick paper that prevents ink from bleeding through, it's a reliable companion for everyday notes and small messages. * 120 sheets total (4 designs, 30 sheets each) * Size: 10.0 × 9.0 cm (3.9\"",
-   "vendor": "Tadashi Nishiwaki",
-   "productType": "Memo Pad",
-   "merchantTags": [
-    "Bread",
-    "cozyca products",
-    "Memo pad",
-    "Tadashi Nishiwaki"
-   ],
-   "price": 6.5
-  },
-  {
-   "id": "cutethingsfromjapan-reiko-tada-square-memo-pad-dog-year",
-   "name": "Reiko Tada / Square Memo Pad - DOG YEAR",
-   "merchantDescription": "A square memo pad designed by Reiko Tada. With 4 designs and thick paper that prevents ink from bleeding through, it's a reliable companion for everyday notes and small messages. * 120 sheets total (4 designs, 30 sheets each) * Size: 10 × 9 cm (3.9\" × 3.5\") * ",
-   "vendor": "Reiko Tada",
-   "productType": "Memo Pad",
+   "id": "cutethingsfromjapan-narumi-suzuki-stickers-in-town-a5-size",
+   "name": "Narumi Suzuki / Stickers - In Town (A5 size)",
+   "merchantDescription": "A lively sticker sheet illustrated by Japanese artist Narumi Suzuki, featuring a colorful city scene viewed from above, perfect for your planner and journal decoration. Details Assorted sizes for versatile use Great for planners, journals, and decoration Clear",
+   "vendor": "cozyca products",
+   "productType": "Large Stickers",
    "merchantTags": [
     "cozyca products",
-    "Dog",
-    "Memo pad",
-    "Reiko Tada"
-   ],
-   "price": 6.5
-  },
-  {
-   "id": "cutethingsfromjapan-reiko-tada-square-memo-pad-cats-life",
-   "name": "Reiko Tada / Square Memo Pad - Cat's Life",
-   "merchantDescription": "A square memo pad designed by Reiko Tada. With 4 designs and thick paper that prevents ink from bleeding through, it's a reliable companion for everyday notes and small messages. * 120 sheets total (4 designs, 30 sheets each) * Size: 10 × 9 cm (3.9\" × 3.5\") * ",
-   "vendor": "Reiko Tada",
-   "productType": "Memo Pad",
-   "merchantTags": [
-    "cozyca products",
-    "Memo pad",
-    "Reiko Tada"
-   ],
-   "price": 6.5
-  },
-  {
-   "id": "cutethingsfromjapan-reiko-tada-foil-stamped-washi-tape-doggie-parade",
-   "name": "Reiko Tada / Foil-Stamped Washi Tape - DOGGIE PARADE",
-   "merchantDescription": "Beautiful washi tape designed by Reiko Tada, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) Who is ",
-   "vendor": "Reiko Tada",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "cozyca products",
-    "Dog",
-    "Reiko Tada",
-    "Washi Tape"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-reiko-tada-foil-stamped-washi-tape-cat-walk",
-   "name": "Reiko Tada / Foil-Stamped Washi Tape - CAT WALK",
-   "merchantDescription": "Beautiful washi tape designed by Reiko Tada, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) Who is ",
-   "vendor": "Reiko Tada",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "Cat",
-    "cozyca products",
-    "Reiko Tada",
-    "Washi Tape"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-heisuke-kitazawa-foil-stamped-washi-tape-fruits",
-   "name": "Heisuke Kitazawa / Foil-Stamped Washi Tape - Fruits",
-   "merchantDescription": "Beautiful washi tape designed by Heisuke Kitazawa, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) W",
-   "vendor": "Heisuke Kitazawa",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "cozyca products",
-    "Heisuke Kitazawa",
-    "Washi Tape"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-heisuke-kitazawa-foil-stamped-washi-tape-spring-wind",
-   "name": "Heisuke Kitazawa / Foil-Stamped Washi Tape - Spring Wind",
-   "merchantDescription": "Beautiful washi tape designed by Heisuke Kitazawa, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) W",
-   "vendor": "Heisuke Kitazawa",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "cozyca products",
-    "Heisuke Kitazawa",
-    "Washi Tape"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-kuroneko-design-foil-stamped-washi-tape-my-little-teo-friend",
-   "name": "Kuroneko Design / Foil-Stamped Washi Tape - MY LITTLE TEO & FRIENDS",
-   "merchantDescription": "Beautiful washi tape designed by Kuroneko Design, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) Wh",
-   "vendor": "Kuroneko Design",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "Cat",
-    "cozyca products",
-    "Kuroneko Design",
-    "Washi Tape"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-kuroneko-design-foil-stamped-washi-tape-robins-bookstore",
-   "name": "Kuroneko Design / Foil-Stamped Washi Tape - ROBIN'S BOOKSTORE",
-   "merchantDescription": "Beautiful washi tape designed by Kuroneko Design, great for your planner and journal decoration. Subtle touches of gold foil add a sparkling accent, making it perfect for decorating journals, letters, and special gifts. * Size: 2 cm × 5 m (0.7\" × 5.4 yards) Wh",
-   "vendor": "Kuroneko Design",
-   "productType": "Washi Tape",
-   "merchantTags": [
-    "Cat",
-    "cozyca products",
-    "Kuroneko Design",
-    "Washi Tape"
+    "Narumi Suzuki",
+    "Sticker Sheets",
+    "Stickers"
    ],
    "price": 5
   }

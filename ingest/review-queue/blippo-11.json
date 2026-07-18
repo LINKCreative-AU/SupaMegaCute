@@ -1,0 +1,1013 @@
+{
+ "source": "blippo",
+ "batch": 11,
+ "items": [
+  {
+   "id": "blippo-coris-lifeguard-ramune-tablet-candy",
+   "name": "Coris Lifeguard Ramune Tablet Candy",
+   "merchantDescription": "Lifeguard is a popular Japanese energy soda. Enjoy this pack of tablet candies that taste like a ramune-flavored Lifeguard energy drink! A pack of tablet candy flavored like ramune Lifeguard energy soda Made in Japan by Coris",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Ramune Candy",
+   "merchantTags": [
+    "On Sale",
+    "Ramune Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 2.8
+  },
+  {
+   "id": "blippo-bourbon-fettuccine-gummy-pink-lemonade",
+   "name": "Bourbon Fettuccine Gummies - Pink Lemonade",
+   "merchantDescription": "These gummy candies are shaped like al dente fettuccine noodles! Enjoy the sweet and tart taste of these pink lemonade-flavored candies. They come in a resealable pouch. A pack of fettuccine noodle-shaped gummy candies with a pink lemonade flavor Resealable pa",
+   "vendor": "TBD",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-morinaga-montblanc-chestnut-caramel-candy",
+   "name": "Morinaga Montblanc Chestnut Caramel Candy",
+   "merchantDescription": "Enjoy the flavor of chestnut-flavored Montblanc when you eat these yummy caramel candies! These tasty limited-edition sweets are the perfect treat. A pack of chestnut Montblanc-flavored caramel candies Made in Japan by Morinaga",
+   "vendor": "TBD",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-coris-lifeguard-soft-candy",
+   "name": "Coris Lifeguard Soft Candy",
+   "merchantDescription": "Yummy, soft and chewy! This candy rope shaped candy has the flavor of the famous energy drink, Lifeguard, by Coris! The famous drink has been available for two decades and is described as \"bionic drink.\" Now you can eat a piece of energy and get energized on t",
+   "vendor": "JP / Mizota",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-amos-4d-juicy-rush-gummy",
+   "name": "Amos 4D Juicy Rush Gummy",
+   "merchantDescription": "Enjoy munching on this super juicy gummy candy! It's shaped like real grapes and features two grape flavors  Mugyutto red grape and white grape.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "Kawaii Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-bourbon-petit-jacuzzi-yuzu-rice-snackers",
+   "name": "Bourbon Petit Jacuzzi Yuzu Rice Crackers",
+   "merchantDescription": "Enjoy munching on these petite-sized rice crackers! These crispy round treats are generously flavored with citrusy yuzu and spicy Japanese pepper. They come in a slim pack which you can easily slip inside your pocket. A pack of bite-sized round rice crackers f",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Senbei",
+   "merchantTags": [
+    "Senbei",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-lotte-xylitol-bubble-gum-pack-mixed-berries",
+   "name": "Lotte Xylitol Bubble Gum Pack - Mixed Berries",
+   "merchantDescription": "Enjoy the fruity flavor of mixed berries in this pack of chewing gum! These yummy treats come in resealable packaging and contain xylitol which helps prevent dental cavities. A resealable pack of xylitol gum flavored with mixed berries Made in Japan by Lotte",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "blippo-tohato-osatsu-non-fried-sweet-potato-chips",
+   "name": "Tohato Osatsu Non-Fried Sweet Potato Chips",
+   "merchantDescription": "These baked chips are made of sweet potatoes that are specially harvested from Satsuma Province. Have fun munching on these fragrantly sweet crispy snacks. A bag of baked sweet potato chips Made in Japan by Tohato",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-kasugai-tsubu-lactic-acid-bacteria-gummy-candy-yogurt",
+   "name": "Kasugain Tsubu Lactic Acid Bacteria Gummy Candy - Yogurt",
+   "merchantDescription": "These gummies have lactic acid bacteria in them which are great for your stomach! Enjoy the yogurt, strawberry yogurt, mandarin orange yogurt, pink grapefruit yogurt, and aloe yogurt flavors. It comes in a resealable pack so you can keep them nice and fresh! A",
+   "vendor": "JP / Tajimaya",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-kanro-mochi-strawberry-candy",
+   "name": "Kanro Mochi Strawberry Candy",
+   "merchantDescription": "This delicious candy has two different layers to it - an outer juice strawberry candy layer and an inner layer that's as soft and as chewy as mochi. Indulge in this pack of tasty treats! A pack of strawberry mochi candy with two different layers Made in Japan ",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Mochi Candy",
+   "merchantTags": [
+    "Mochi Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-marukawa-witch-color-change-gum-cola",
+   "name": "Marukawa Witch Color Change Gum - Cola",
+   "merchantDescription": "Marukawa has a long tradition of making very tasty and special chewing gums which are very famous in Japan! This package features a trickster ghost with a dyed tongue... The chewing gum actually dyes your tongue to red or to black when chewing the gum! Perfect",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "Halloween"
+   ],
+   "price": 1
+  },
+  {
+   "id": "blippo-amanoya-hitokuchi-kabuki-rice-cracker-fried-mayo-chicken",
+   "name": "Amanoya Hitokuchi Kabuki Rice Cracker - Fried Mayo Chicken",
+   "merchantDescription": "Enjoy this limited-edition pack of rice crackers! Each piece has a combination of sweet and savory flavors. Savor the taste of teriyaki chicken and rich mayonnaise in every bite! A pack of teriyaki chicken and mayonnaise-flavored rice crackers Made in Japan by",
+   "vendor": "JP / Tajimaya",
+   "productType": "Senbei",
+   "merchantTags": [
+    "Senbei",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-uha-mikatuto-ninja-chelow-gummy-candy-ramune",
+   "name": "UHA Mikatuto Ninja Chelow Gummy Candy - Ramune",
+   "merchantDescription": "Enjoy trying out these gummies that have a harder chewy texture than normal soft candies! Each piece has a crisp outer sugar coating and is bursting with a refreshing ramune flavor! Bring these treats everywhere you go as they come in a handy resealable pouch!",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "On Sale"
+   ],
+   "price": 2.32
+  },
+  {
+   "id": "blippo-koikeya-spicy-fries-set-4-pcs",
+   "name": "Koikeya Spicy Fries Set - 4 pcs",
+   "merchantDescription": "Japanese manufacturer Koikeya has made its famous snacks since 1977, and now you too have an opportunity to taste their original chips all the way from Japan! Have a hot chili party in your mouth anytime you want with these delicious potato snacks! The stick-s",
+   "vendor": "JP / Festival Plaza",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "On Sale",
+    "Savory Snacks"
+   ],
+   "price": 3.43
+  },
+  {
+   "id": "blippo-black-thunder-mini-chocolate-bar-fragrant-blanc",
+   "name": "Black Thunder Mini Chocolate Bar - Fragrant Blanc",
+   "merchantDescription": "Take this mini chocolate bar as an emergency snack! It's made with crunchy whole wheat, bran biscuits, plain biscuits, cocoa cookies, and coffee powder.",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 7.12
+  },
+  {
+   "id": "blippo-shoei-delicy-choco-jiro-biscuits-banana",
+   "name": "Shoei Delicy Choco Jiro Biscuits - Banana",
+   "merchantDescription": "Enjoy the taste of milk chocolate and sweetened ripe bananas as you munch on these biscuits! Each piece is shaped like a coin and is filled with the delicious banana-flavored chocolate, Includes: 5 x mini bags inside",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "On Sale",
+    "summer",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.32
+  },
+  {
+   "id": "blippo-senjaku-hiyashuwa-energy-drink-candy",
+   "name": "Senjaku Hiyashuwa Energy Drink Candy",
+   "merchantDescription": "This pack of candy is the perfect pick-me-up treat to get you energized. Enjoy the three different types of energy drink flavors in the pack - hiyahiya energy drink, shuwashuwa energy drink , and tsubu-tsubu energy drink. You can also find one big large cola-f",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "blippo-senjaku-resca-lemon-squash-candy",
+   "name": "Senjaku Resca Lemon Squash Candy",
+   "merchantDescription": "Add this pack of yummy lozenges to your candy jar. These candies were made to replicate the taste of Resca's lemon squash-flavored drink made with Mediterranean lemon juice. Each piece contains foaming granules to add to that refreshing lemon flavor!",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "On Sale"
+   ],
+   "price": 2.25
+  },
+  {
+   "id": "blippo-black-thunder-mini-bars-pack-granola",
+   "name": "Black Thunder Mini Bars Pack - Granola",
+   "merchantDescription": "Looking for a snack that’s a little more filling? These granola chocolate bars combine oats, grains, and bits of fruit with a light chocolate coating. You get a mix of textures in every bite, from crunchy granola to chewy fruit pieces like strawberry and raisi",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "New",
+    "On Sale"
+   ],
+   "price": 10.85
+  },
+  {
+   "id": "blippo-bourbon-fettuccine-gummy-italian-lemon",
+   "name": "Bourbon Fettuccine Gummy - Italian Lemon",
+   "merchantDescription": "Treat yourself to this resealable pack of gummy candy! Each piece tastes like zesty Italian lemons. These gummies are shaped like fun fettuccine pasta. Have fun eating these stringy gummy treats! A resealable pack of Italian lemon-flavored gummy candy shaped l",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "On Sale"
+   ],
+   "price": 2.73
+  },
+  {
+   "id": "blippo-oyatsu-maro-puff-snacks-curry",
+   "name": "Oyatsu Maro Puff Snacks - Curry",
+   "merchantDescription": "This pack of yummy puff snacks has a crispy and pleasant texture that melts in your mouth. Enjoy the delicious curry flavor of these tasty treats! A pack of curry-flavored puff snacks Made in Japan by Oyatsu",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "On Sale",
+    "Savory Snacks"
+   ],
+   "price": 3.85
+  },
+  {
+   "id": "blippo-pure-gummy-strawberry",
+   "name": "Pure Gummy - Strawberry",
+   "merchantDescription": "Enjoy the double strawberry flavor of this pack of gummy treats! On one side of the gummy candy, you can taste \"sweet and ripe\" strawberries while the other side has a \"fresh strawberry\" flavor. Each piece of candy is coated with sour sugar that complements it",
+   "vendor": "TBD",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "Sour Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-ybc-chip-star-scented-grilled-chicken-chips",
+   "name": "Chip Star Potato Chips - Grilled Chicken",
+   "merchantDescription": "Enjoy the taste of grilled chicken when you snack on this tube of potato chips! Each piece is seasoned with a powder made of soya sauce, grilled chicken, and a mix of spices. A tube of grilled chicken-flavored potato chips Made in Japan by YBC",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "blippo-lotte-cool-mint-gum",
+   "name": "Lotte Cool Mint Gum",
+   "merchantDescription": "Keep your mouth fresh on the go with this pack of peppermint-flavored gum! It comes with nine pieces of gum that can give you a refreshing and cool feeling! A pack of peppermint-flavored gum Total of 9 pieces Made in Japan by Lotte",
+   "vendor": "JP / Kokubu",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-kyoshin-fruit-mix-mochi-candy-set",
+   "name": "Kyoshin Fruit Mix Mochi Candy Set",
+   "merchantDescription": "The colorful and charming packaging on this fruity candy set from the Japanese manufacturer Kyoshin is just irresistible! The candies have a soft texture - similar to Mochi rice cakes - so if you are Mochi lover, this one is a must-try for you! The sweet fruit",
+   "vendor": "JP / Mikami Online Shop",
+   "productType": "Mochi Candy",
+   "merchantTags": [
+    "Mochi Candy"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-nobel-sours-gummies-grape",
+   "name": "Nobel Sours Gummies - Grape",
+   "merchantDescription": "Munch on these turtle-shaped gummy candies that come in a resealable pouch. These grape-flavored treats are generously coated with a sour powder that will make your lips purse! A pack of sour grape-flavored chewy candies shaped like turtles Comes in a resealab",
+   "vendor": "JP / Tajimaya",
+   "productType": "Sour Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "Sour Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-combi-teteo-oral-balance-tablet-candy-orange",
+   "name": "Combi Teteo Oral Balance Tablet Candy - Orange",
+   "merchantDescription": "Have fun trying out these orange-flavored tablets that contain both xylitol and ovopron DC which helps prevent plaque growth! The candies are recommended for children and pregnant women as well who have a hard time brushing their teeth. You can bring these sug",
+   "vendor": "JP / Kaneishi",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-asahi-umeboshi-tablet-candy",
+   "name": "Asahi Umeboshi Tablet Candy",
+   "merchantDescription": "Umeboshi are pickled ume or plums in Japan. Have a taste of umeboshi by eating these yummy tablet candies! These freeze-dried treats are made with actual shiso umeboshi without any preservatives and colorings. A pack of tablet candies made of freeze-dried umeb",
+   "vendor": "JP / Kaneishi",
+   "productType": "Sour Candy",
+   "merchantTags": [
+    "New Arrival",
+    "On Sale",
+    "Sour Candy"
+   ],
+   "price": 2.73
+  },
+  {
+   "id": "blippo-bourbon-mini-sylvaine-halloween-choco-cake-sandwich-snack-pa",
+   "name": "Bourbon Mini Sylvaine Halloween Choco Cake Sandwich Snack Pack",
+   "merchantDescription": "Add these mini cake sandwich snacks to your spooky party favors! Each individually wrapped piece looks like a small cake slice that is generously coated with chocolate and is filled with vanilla cream! The packaging comes with boo-tiful prints of Halloween cha",
+   "vendor": "JP / Morichu",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 8.5
+  },
+  {
+   "id": "blippo-combi-teteo-oral-balance-tablet-candy-lemon",
+   "name": "Combi Teteo Oral Balance Tablet Candy - Lemon",
+   "merchantDescription": "Savor the tangy taste of lemons with these tablet-shaped treats! Each sugarless piece is packed with xylitol and ovopron DC that creates a good oral environment! These candies can also be given to both pregnant women and children who cannot brush their teeth. ",
+   "vendor": "JP / Kaneishi",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-poteco-christmas-potato-ring-snacks-umashio-potato",
+   "name": "Poteco Christmas Potato Ring Snacks - Umashio Potato",
+   "merchantDescription": "Share this Christmas-edition pack of tasty potato rings! Each delicious piece has a delightful potato flavor. This pack of tasty treats also has a smartphone photo frame that can be used on SNS and a digital message card. A Christmas-edition pack of potato rin",
+   "vendor": "JP / Maruchiu Corporation",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-nissin-choco-flakes-white-on-white",
+   "name": "Nissin Choco Flakes - White On White",
+   "merchantDescription": "Indulge in this limited-edition pack of cornflakes! Each piece is coated in smooth white chocolate and finished with a sprinkling of condensed milk powder. Pair it with your favorite cup of hot cocoa or coffee!",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "On Sale",
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.72
+  },
+  {
+   "id": "blippo-nobel-super-soda-sour-candy",
+   "name": "Nobel Super Soda Candy",
+   "merchantDescription": "Have a blast trying out these soda-flavored candies that have a fizzing sensation when eaten! Each piece is also coated with sour powder for that extra kick! These treats come in a unique pop-art newspaper print packaging. A pack of soda-flavored candies coate",
+   "vendor": "JP / Mizota",
+   "productType": "Sour Candy",
+   "merchantTags": [
+    "Sour Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-baby-star-ramen-halloween-chicken-noodle-snacks",
+   "name": "Baby Star Ramen Halloween Chicken Noodle Snacks",
+   "merchantDescription": "This large Halloween-themed bag of chicken noodle snacks is the perfect treat for All Hallow's Eve! It has six mini packs inside that you can share with your family and friends. It also has a dice game inside that you can play during Halloween! A Halloween-the",
+   "vendor": "JP / Morichu",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 8.5
+  },
+  {
+   "id": "blippo-halls-honey-lemon-candy",
+   "name": "Halls Honey Lemon Candy",
+   "merchantDescription": "This pack of candy is perfect for giving you the sugar boost you need for the day! Each piece has a refreshing honey lemon flavor mixed with mild menthol. A pack of honey lemon-flavored candy with mild menthol Total of 12 pieces in the pack Made in Japan by Mo",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-dark-ippei-chan-big-pork-green-onion-soba-noodles",
+   "name": "Dark! Ippei Chan Big Pork Green Onion Soba Noodles",
+   "merchantDescription": "Fill up your tummy with this big cup of soba noodles. Enjoy the yummy taste of green onion soba noodles mixed with delicious soup stock made with rich pork and bonito. A big cup of green onion soba noodles with a delicious soup stock made of pork and bonito Ma",
+   "vendor": "JP / Kokubu",
+   "productType": "Ramen",
+   "merchantTags": [
+    "Food",
+    "Ramen",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-pure-premium-gummy-golden-pineapple",
+   "name": "Kanro Pure Premium Gummy - Golden Pineapple",
+   "merchantDescription": "Taste the mix of tart and sweet flavors from the real golden pineapple juice and sour coating! Enjoy munching on these heart-shaped gummies that come in a handy resealable bag so you can eat them on the go. A large bag of sour powder-coated heart ring gummies ",
+   "vendor": "TBD",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "Sour Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "blippo-ribon-amebow-candy-lollipops",
+   "name": "Ribon AMEBOW Candy Lollipops",
+   "merchantDescription": "Enjoying these delicious lollipops is like fruits bursting in your mouth! The bag has plenty of lollipops for everyone, and for every taste! Strawberry, lemon, cola, orange or green apple? And extra added fibers and vitamin C! The lollipop bag has enough to sh",
+   "vendor": "TBD",
+   "productType": "Dagashi",
+   "merchantTags": [
+    "Dagashi",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 13.9
+  },
+  {
+   "id": "blippo-poteco-christmas-potato-ring-snacks-pizza",
+   "name": "Poteco Christmas Potato Ring Snacks - Pizza",
+   "merchantDescription": "Enjoy these crunchy potato snacks that come in jolly, holly packaging! Each ring-shaped piece is coated with pizza flavor seasoning. A bag of ring-shaped potato snacks with a pizza flavor Comes in Christmas packaging Made in Japan by Tohato",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-pigeon-tooth-care-tablet-u-candy-grape",
+   "name": "Pigeon Tooth Care Tablet U Candy - Grape",
+   "merchantDescription": "Take care of your teeth with this resealable pack of grape-flavored candy. Each piece is enhanced with xylitol and fluoride extracted from green tea leaves. These candies are also great for children thanks to their shape which makes them safe for swallowing. N",
+   "vendor": "JP / Kaneishi",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-kogumi-koripuni-gummy-peach-grape",
+   "name": "Kogumi Koripuni Gummy - Peach & Grape",
+   "merchantDescription": "Enjoy the combination of sweet and sour as you try these unique gummies with a crispy powder coating! These candies come in both grape and peach flavors. Take these treats with you as they come in a convenient resealable bag! A bag of peach and grape-flavored ",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-natori-rich-cheese-snacks",
+   "name": "Natori Rich Cheese Snacks",
+   "merchantDescription": "Snack on this resealable pack of cheese snacks! These tasty treats are made using a heat puff manufacturing method which gives each piece a soft, light, and moist texture. You can eat as many as you can without staining your hands! A resealable pack of soft an",
+   "vendor": "JP / Kokubu",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-yaokin-sweet-sour-paper-candy-peach",
+   "name": "Yaokin Sweet & Sour Paper Candy - Peach",
+   "merchantDescription": "Bite into these sour candies that will make your face twitch! These peach-flavored treats are paper-thin and coated with sugar. A pack of sour peach-flavored thin candies coated with sugar Made in Japan by Yaokin",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Sour Candy",
+   "merchantTags": [
+    "Dagashi",
+    "Sour Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 1.5
+  },
+  {
+   "id": "blippo-kabaya-pureral-gummy-cantaloupe",
+   "name": "Kabaya Pureral Gummy - Cantaloupe",
+   "merchantDescription": "Have a taste of the fall season in Japan by snacking on this resealable pack of gummy candies! These autumn-limited treats have a delightful cantaloupe flavor. Enjoy the soft and chewy juiciness of these yummy treats! A resealable pack of autumn-limited gummy ",
+   "vendor": "TBD",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "blippo-kabaya-pureral-gummy-apple-1",
+   "name": "Kabaya Pureral Gummy - Apple",
+   "merchantDescription": "Kabaya is well known for funny and exciting gummy candies, and they sure have done it again! These incredible, soft gummies are made from real apple juice, and smell like a fresh Fuji apple straight from the orchard! Oh, my! This cube-shaped and juicy gummy ha",
+   "vendor": "JP / Kokubu",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-kabaya-pureral-gummy-amaou-strawberry",
+   "name": "Kabaya Pureral Gummy - Amaou Strawberry",
+   "merchantDescription": "Experience the rich aroma and sweet taste of Amaou strawberries with these soft gummies! Amaou strawberries are very special and are grown in the Fukuoka Prefecture in Japan. These limited edition jiggly cubes come in a handy resealable pouch. A pack of limite",
+   "vendor": "TBD",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-meigum-fluffy-bomber-fusen-gum-lemon-soda",
+   "name": "Meigum Fluffy Bomber Fusen Gum - Lemon Soda",
+   "merchantDescription": "Get instantly refreshed as you chew on this citrus gum! Each piece is bursting with lemon soda flavor and is generously coated with powder as well. A pack of lemon soda-flavored bubble gum Contains 3 pieces Made in Japan by Meigum",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-kato-potato-snacks-corn-potage",
+   "name": "Kato Potato Snacks - Corn Potage",
+   "merchantDescription": "Enjoy munching on these tasty potato snacks! They're made to taste like savory corn potage. A pack of corn potage-flavored potato snacks Total of 3 pcs of potato snacks in the pack Made in Japan by Kato Seika",
+   "vendor": "JP / Mizota",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-frito-lay-cheetos-barbecue",
+   "name": "Frito-Lay Cheetos - Barbecue",
+   "merchantDescription": "Open this Japanese-limited bag of cheese-flavored corn puff snacks during Netflix and chill night. It has a delicious barbecue flavor! A Japanese-limited bag of barbecue cheese corn puff snacks Made in Japan by Frito-Lay",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "On Sale",
+    "Savory Snacks"
+   ],
+   "price": 4.72
+  },
+  {
+   "id": "blippo-amanoya-hitokuchi-kabukiage-snacks-meita-mayo-wasabi-mayo",
+   "name": "Amanoya Hitokuchi Kabukiage Snacks - Meita Mayo & Wasabi Mayo",
+   "merchantDescription": "Have a blast as you try these textured rice cracker treats! Each fried senbei is made with Uruchi rice and flavored with either two types of mayonnaise: wasabi-spiked mayo or meita or mayo with mentaiko. A pack of textured rice crackers snacks that are flavore",
+   "vendor": "JP / Tajimaya",
+   "productType": "Senbei",
+   "merchantTags": [
+    "Senbei",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "blippo-aerial-corn-snacks-wagyu-yakiniku",
+   "name": "Aerial Corn Snacks - Wagyu Yakiniku",
+   "merchantDescription": "These yummy corn snacks have four layers for you to sink your teeth through. Enjoy the rich meaty wagyu yakiniku flavor which blends sweet and spicy together. A pack of four-layered corn snacks with a delicious meaty wagyu yakiniku flavor Made in Japan by YBC",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-soyjoy-snack-bar-plain-scorn",
+   "name": "SOYJOY Snack Bar - Plain Scorn",
+   "merchantDescription": "This snack bar is the perfect health-conscious treat because it's made of soybeans! Enjoy the light and mellow flavor of this yummy and healthy snack. A soybean-based snack bar with a light and mellow flavor High-quality product made in Japan by Otsuka Pharmac",
+   "vendor": "JP / Kokubu",
+   "productType": "Food",
+   "merchantTags": [
+    "Food",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-kororo-minute-maid-gummy",
+   "name": "Kororo Minute Maid Gummy - Orange Blend",
+   "merchantDescription": "This pack of soft gummies was made in collaboration with Minute Maid. Enjoy the refreshing taste of orange blend in this resealable bag of tasty treats! Each piece is bursting with the flavor of mixed fruits like orange, grapes, and apple. A resealable pack of",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-kanro-throat-candy-whole-squeezed-yuzu-mikan",
+   "name": "Kanro Throat Candy - Whole Squeezed Yuzu & Mikan",
+   "merchantDescription": "These lozenges taste like the popular Japanese citrus fruits mikan and yuzu! Get your throat instantly refreshed with these relaxing fruity candies that are perfect for the cold season. A stick of throat lozenges with mikan and yuzu flavors Total of 11 pieces ",
+   "vendor": "TBD",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-kanro-melty-honey-apple-candy",
+   "name": "Kanro Melty Honey Apple Candy",
+   "merchantDescription": "Treat yourself to this bag of hard candies! It combines the flavor of baked apple, melted butter, and honey. The candies are individually wrapped so you can take as many as you'd like when you're on the go. A bag of individually wrapped hard candies with a fla",
+   "vendor": "JP / Kokubu",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-kanro-marosh-marshmallow-new-lemon-squash-38486",
+   "name": "Kanro Marosh Marshmallow - Lemon Squash",
+   "merchantDescription": "This resealable pack of super chewy marshmallows is the perfect treat for snack time! Each piece has a refreshing lemon squash flavor. Share some with your family and friends! A resealable pack of lemon squash-flavored marshmallows Made in Japan by Kanro",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-kanro-marosh-marshmallow-apple-soda",
+   "name": "Kanro Marosh Marshmallow - Apple Soda",
+   "merchantDescription": "This resealable pack of marshmallow treats is great for snacking! Each piece tastes like sweet apple soda. Make sure to close the pack to keep the marshmallows nice and fresh. A resealable pack of apple soda-flavored marshmallows Made in Japan by Kanro",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-kanro-sugarless-matcha-tea-house-candy-assorted",
+   "name": "Kanro Sugarless Matcha Tea House Candy - Assorted",
+   "merchantDescription": "Treat yourself to this resealable bag of sugarless matcha candies! It has two flavors to choose from - matcha milk and Uji matcha. Each candy is individually wrapped so you can take as many as you want on the go! A resealable bag of individually wrapped sugarl",
+   "vendor": "TBD",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-clorets-xp-gum-grapefruit-mint",
+   "name": "Clorets XP Gum - Grapefruit Mint",
+   "merchantDescription": "Take this stick pack of gum wherever you go! These yummy treats are flavored with both cooling mint and refreshing grapefruit! A stick pack of grapefruit and mint-flavored gum Total of 14 tablets Made in Japan by Mondelez",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-tohato-tyrant-habanero-w-bigger-potato-rings",
+   "name": "Tohato Tyrant Habanero W Bigger Potato Rings",
+   "merchantDescription": "Celebrate Bokun Habanero's 20th Anniversary with these extra spicy potato rings! These tasty treats have twice as much powder as the usual Tyrant Habanero. Each piece is also twice as large as normal!",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-asahi-mintia-mints-lemonade",
+   "name": "Asahi Mintia Mints - Lemonade",
+   "merchantDescription": "Freshen your breath with these cool lemonade mints! This slim and handy mint pack contains 50 refreshing sugar-free candies. A pack of sugarless lemonade-flavored candies Contains 50 pcs of mints Made in Japan by Asahi",
+   "vendor": "TBD",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-nobel-sours-gummies-cola",
+   "name": "Nobel Sours Gummies - Cola",
+   "merchantDescription": "Delight your taste buds with this resealable bag of sour turtle-shaped gummy candies! These cola-flavored gummies are coated in a sour powder that makes your lips pucker with every bite. A resealable bag of turtle-shaped gummies flavored with cola and coated i",
+   "vendor": "TBD",
+   "productType": "Sour Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "Sour Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-yotchan-foods-dried-squid-somen-snacks",
+   "name": "Yotchan Foods Dried Squid Somen Snacks",
+   "merchantDescription": "Enjoy trying out this dried version of ika somen or squid sashimi that is cut as thinly as wheat somen noodles! These treats have a mix of sweet and salty flavors and come in a sealed pack. A pack of dried squid snacks that look like squid noodle sashimi Mad",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Dagashi",
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-baby-star-ramen-maru-coco-ichibanya-cheese-curry-snacks-6-pc",
+   "name": "Baby Star Ramen Maru Coco Ichibanya Cheese Curry Snacks - 6 pcs",
+   "merchantDescription": "Famous snack brand Baby Star and popular curry house Coco Ichibanya collaborated to make these mini round-shaped noodle bites! Taste the sweet and spicy pork curry flavor combined with rich cheese flakes. The bag has six handy snack packs inside. A bag of roun",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-premium-chip-star-potato-chips-shrimp-yuzu-pepper",
+   "name": "Premium Chip Star Potato Chips - Shrimp Yuzu Pepper",
+   "merchantDescription": "Savor the combination of sweet and savory shrimp, tangy yuzu extract, and a spicy kick of pepper as you munch on these premium potato chips! These delicious and crispy chips come in a handy tube.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-koikeya-potato-stick-snacks-mini-pack-light-salt-4-pcs",
+   "name": "Koikeya Potato Stick Snacks Mini Pack - Light Salt - 4 pcs",
+   "merchantDescription": "Have fun sharing these mini packs of potato sticks with your pals! Each small pouch contains crispy stick snacks that are lightly salted. A set of lightly-salted potato stick snacks Includes 4 mini packs Made in Japan by Koikeya",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-jim-john-kj-kashira-health-soft-candy",
+   "name": "Jim John KJ Kashira Health Soft Candy",
+   "merchantDescription": "These soft treats are made with a combination of soybeans and black and white sesame seeds! Underground natural mineral water sourced from the riverside town of Gujo Hachiman in Gifu Prefecture was added to create these unique candies that are beneficial for b",
+   "vendor": "JP / Kaneishi",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-pringles-potato-chips-sour-cream-onion",
+   "name": "Pringles Potato Chips - Sour Cream & Onion",
+   "merchantDescription": "Savor the combination of tangy sour cream and strong onion flavors when you munch on these stacked potato chips! This popular Pringles variant comes in a single serving size tube container. A personal serving size tube of onion and sour cream-flavored stacked ",
+   "vendor": "JP / Kokubu",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-poteco-christmas-potato-ring-snacks-nori",
+   "name": "Poteco Christmas Potato Ring Snacks - Nori",
+   "merchantDescription": "Enjoy snacking on this Christmas-limited pack of potato rings! These nori-flavored treats are perfect for your Yuletide movie marathons. It's packaging comes with a smartphone photo frame that can be used on SNS and it also comes with a digital message card. A",
+   "vendor": "JP / Morichu",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-asahi-mintia-breeze-mints-clear-plus-sharp",
+   "name": "Asahi Mintia Breeze Mints - Clear Plus Sharp",
+   "merchantDescription": "Get your breath smelling instantly fresh with these sugar-free mints! Each candy is made with a triple combination of green tea polyphenols, eucalyptus, and menthol flavors which gives off a strong cooling effect! You can slip these treats inside your bag as t",
+   "vendor": "JP / Kokubu",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-lotte-koume-heart-ramune-candy",
+   "name": "Lotte Koume Ramune Candy",
+   "merchantDescription": "Ramune is a Japanese carbonated soft drink that's been popular since its release in 1884. Have a taste of ramune with this resealable pack of heart-shaped candies! They're flavored like koume or Japanese plums. A resealable pack of heart-shaped ramune candies ",
+   "vendor": "TBD",
+   "productType": "Ramune Candy",
+   "merchantTags": [
+    "Ramune Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-sakuma-confectionery-ohana-throat-candy",
+   "name": "Sakuma Confectionery Ohana Throat Candy",
+   "merchantDescription": "This pack of throat candy features a print of a cute baby animal! Each soothing lozenge mixes the gentle taste of milk and soft menthol. Not only that, but these tasty treats have collagen, lactic acid bacteria, and 21 kinds of herbal extracts. You don't have ",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-kracie-fuwarinka-beauty-candy-rose",
+   "name": "Kracie Fuwarinka Beauty Candy - Rose",
+   "merchantDescription": "Have fun trying out these soft candies with a fragrant rose scent and a fruity flavor! Each piece has a thin crispy coating and contains both geraniol which gives off the floral fragrance and beneficial vitamin C. These treats also have hyaluronic acid and col",
+   "vendor": "JP / Kokubu",
+   "productType": "Kinosei Candy",
+   "merchantTags": [
+    "Kinosei Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-hi-chew-chewy-candy-condensed-milk-banana-strawberry",
+   "name": "Hi-Chew Chewy Candy - Condensed Milk Banana & Strawberry",
+   "merchantDescription": "This pack of individually wrapped candy is made with delicious Morinaga Condensed Milk. Enjoy the delicious milky banana and strawberry flavor of these chewy treats! A pack of individually wrapped chewy candy made with Morinaga Condensed Milk Flavors: milky ba",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-sanko-seika-parinko-rice-crackers-lightly-salted-cheese",
+   "name": "Sanko Seika Parinko Rice Crackers - Lightly Salted & Cheese",
+   "merchantDescription": "Share this bag of rice crackers with your friends! It has mini-packs with two different flavors for you and your buddies to enjoy - lightly salted rice crackers and cheese. Each mini-pack has two pieces for you to munch on. A bag of rice crackers with lightly ",
+   "vendor": "JP / Tajimaya",
+   "productType": "Senbei",
+   "merchantTags": [
+    "Senbei",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-meiji-poifull-gummies-mixed-drinks",
+   "name": "Meiji Poifull Gummies - Mixed Drinks",
+   "merchantDescription": "This pouch of drink-flavored gummy candies is the perfect treat! Enjoy tasting the soda, raspberry juice, grape soda, and lemon squash flavors in this resealable pack of gummies. A resealable pack of gummies with soda, raspberry juice, grape soda, and lemon sq",
+   "vendor": "JP / Kokubu",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-tohato-beano-vino-umashi-edamame-snacks-4-pcs",
+   "name": "Tohato Beano Vino Umashi Edamame Snacks - 4 pcs",
+   "merchantDescription": "These tasty bite-sized edamame treats are easy for children to eat! Each non-fried piece is made of dough with 100% all-natural peas. Share these snack packs with your family and friends! A tasty pack of bite-sized edamame treats Total of 4 packs in the set Ma",
+   "vendor": "JP / Tajimaya",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-hamaotome-mixed-devil-rice-seasoning-mix",
+   "name": "Hamaotome Mixed Devil Rice Seasoning Mix",
+   "merchantDescription": "Have fun making wickedly delicious onigiri with this seasoning mix! This packet is filled with delicious tenkasu or crumbled tempura batter bits, green laver, tentsuyu or tempura dipping sauce powder, and green perilla  which when combined can be so addicting",
+   "vendor": "JP / Kokubu Shutoken",
+   "productType": "Food",
+   "merchantTags": [
+    "Food",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-kameda-kaki-no-tane-senbei-joy-pack-plum-shiso",
+   "name": "Kameda Kaki No Tane Senbei Joy Pack - Plum Shiso",
+   "merchantDescription": "Binge on your favorite series while you snack on these persimmon seed-shaped crackers or kaki no tane that comes in a resealable pouch! These treats mixed with savory peanuts that come in a larger single serving size are generously flavored with a combination ",
+   "vendor": "JP / Tajimaya",
+   "productType": "Senbei",
+   "merchantTags": [
+    "Senbei",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-nozaki-seika-long-gum-lemon",
+   "name": "Nozaki Seika Long Gum - Lemon",
+   "merchantDescription": "Have fun trying out this extra-long chewing gum! Its made with refreshing lemon juice for that sweet and sour fruity flavor. You can also tear it up and share it with your friends!",
+   "vendor": "JP / 3ji no oyatsu",
+   "productType": "Gum & Mints",
+   "merchantTags": [
+    "Gum & Mints",
+    "On Sale"
+   ],
+   "price": 2.73
+  }
+ ]
+}

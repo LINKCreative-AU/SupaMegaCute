@@ -150,12 +150,13 @@
     const chips = (product.aesthetics || []).slice(0, 2)
       .map((a) => `<span class="chip chip-soft">${esc(SMC.facet("aesthetic", a).name)}</span>`)
       .join("");
+    const pdp = `${BASE}/p/${esc(product.id)}`;
     return `
     <article class="product-card smc-card" data-id="${esc(product.id)}">
-      <div class="product-art" style="background:${bg}">${art}</div>
+      <a class="product-link" href="${pdp}"><div class="product-art" style="background:${bg}">${art}</div></a>
       <div class="product-body">
         <p class="product-brand">${esc(SMC.brand(product.brand).name)}</p>
-        <h3 class="product-name">${esc(product.name)}</h3>
+        <h3 class="product-name"><a href="${pdp}">${esc(product.name)}</a></h3>
         <p class="product-blurb">${esc(product.blurb)}</p>
         <div class="product-chips">${chips}</div>
         <div class="product-foot">
@@ -215,10 +216,14 @@
       </div>`;
     }
     if (footer) {
+      const collectionLinks = SMC.collections
+        .map((c) => `<a href="${BASE}/c/${esc(c.slug)}">${esc(c.name)}</a>`)
+        .join(" · ");
       footer.innerHTML = `
       <div class="footer-inner">
         <img src="${BASE}/assets/brand/submarks/smc-monogram-circle.svg" alt="" width="64" height="64">
         <p class="footer-mission">We help you discover cute things that make you smile.</p>
+        <p class="footer-collections">${collectionLinks}</p>
         <p class="footer-disclosure">SuperMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
         <p class="footer-copy">© 2026 SuperMegaCute.com</p>
       </div>`;

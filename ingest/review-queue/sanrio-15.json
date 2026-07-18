@@ -1,0 +1,1446 @@
+{
+ "source": "sanrio",
+ "batch": 15,
+ "items": [
+  {
+   "id": "sanrio-hello-kitty-x-fender-white-stratocaster-guitar",
+   "name": "Hello Kitty x Fender White Stratocaster Guitar",
+   "merchantDescription": "Say hello to the vibrant world of Hello Kitty with the Fender x Hello Kitty collection, celebrating an iconic collaboration that transcends generations. This collection merges the bold and colorful aesthetic of Hello Kitty with the road-reliable excellence of ",
+   "vendor": "FENDER",
+   "productType": "Home",
+   "merchantTags": [
+    "2per",
+    "Best Seller",
+    "BFCM25-40",
+    "Brand:Fender",
+    "Character:Hello Kitty",
+    "Electric Guitars",
+    "Home",
+    "Home Decor"
+   ],
+   "price": 579.99
+  },
+  {
+   "id": "sanrio-hello-kitty-gingham-imabari-bath-towel",
+   "name": "Hello Kitty Gingham Imabari Bath Towel",
+   "merchantDescription": "Plush and fast-drying, these fluffy Imbari bath towels add a spa-like feel to your bath or shower routine. Use this soft, cotton towel to add a bit of color and brighten up any bathroom space! ♡ 100% cotton ♡ Gingham check pattern details ♡ Embroidered charact",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bath Towels",
+    "Bathroom",
+    "Beauty",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty"
+   ],
+   "price": 32.2
+  },
+  {
+   "id": "sanrio-cinnamoroll-gingham-imabari-wash-towel",
+   "name": "Cinnamoroll Gingham Imabari Wash Towel",
+   "merchantDescription": "Compact and fast-drying, these fluffy Imbari wash towels are great for makeup removal or any other skincare needs! Use this soft, cotton towel to add a bit of color and brighten up any bathroom space! ♡ 100% cotton ♡ Gingham check pattern details ♡ Embroidered",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bathroom",
+    "Beauty",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "EVAL101525"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-hello-kitty-gingham-imabari-hand-towel",
+   "name": "Hello Kitty Gingham Imabari Hand Towel",
+   "merchantDescription": "Compact and fast-drying, these fluffy Imbari hand towels are great for makeup removal or any other skincare needs! Use this soft, cotton towel to add a bit of color and brighten up any bathroom space! ♡ 100% cotton ♡ Gingham check pattern details ♡ Embroidered",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bathroom",
+    "Beauty",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "EVAL101525"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sanrio-charmmy-kitty-mini-bling-brush-charm",
+   "name": "Charmmy Kitty Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Charmmy Kitty",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 9.59
+  },
+  {
+   "id": "sanrio-pochacco-mini-bling-brush-charm",
+   "name": "Pochacco Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-70",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Other",
+    "Character:Pochacco",
+    "Charms"
+   ],
+   "price": 6
+  },
+  {
+   "id": "sanrio-cinnamoroll-mini-bling-brush-charm",
+   "name": "Cinnamoroll Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-70",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 6
+  },
+  {
+   "id": "sanrio-pompompurin-mini-bling-brush-charm",
+   "name": "Pompompurin Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Other",
+    "Character:Pompompurin",
+    "Charms"
+   ],
+   "price": 6
+  },
+  {
+   "id": "sanrio-hangyodon-mini-bling-mirror-charm",
+   "name": "Hangyodon Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hangyodon",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "sanrio-cinnamoroll-mini-bling-mirror-charm",
+   "name": "Cinnamoroll Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-70",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "sanrio-my-melody-mini-bling-mirror-charm",
+   "name": "My Melody Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 8.79
+  },
+  {
+   "id": "sanrio-hangyodon-mini-bling-brush-charm",
+   "name": "Hangyodon Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hangyodon",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 7.19
+  },
+  {
+   "id": "sanrio-kuromi-mini-bling-brush-charm",
+   "name": "Kuromi Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 7.19
+  },
+  {
+   "id": "sanrio-my-melody-mini-bling-brush-charm",
+   "name": "My Melody Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 7.19
+  },
+  {
+   "id": "sanrio-hello-kitty-mini-bling-brush-charm",
+   "name": "Hello Kitty Mini Bling Brush Charm",
+   "merchantDescription": "This adorable mini brush charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun! ",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 6
+  },
+  {
+   "id": "sanrio-charmmy-kitty-mini-bling-mirror-charm",
+   "name": "Charmmy Kitty Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Charmmy Kitty",
+    "Character:Other",
+    "Charms"
+   ],
+   "price": 6.59
+  },
+  {
+   "id": "sanrio-pochacco-mini-bling-mirror-charm",
+   "name": "Pochacco Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-70",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Pochacco",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "sanrio-kuromi-mini-bling-mirror-charm",
+   "name": "Kuromi Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "sanrio-pompompurin-mini-bling-mirror-charm",
+   "name": "Pompompurin Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-70",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Pompompurin",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "sanrio-hello-kitty-mini-bling-mirror-charm",
+   "name": "Hello Kitty Mini Bling Mirror Charm",
+   "merchantDescription": "This adorable mini mirror charm features a dazzling face of your favorite Sanrio Character that's sure to capture anyone’s heart! Its pocket-sized cuteness makes it the perfect sparkly accessory to jazz up bags, pouches, or any place that needs a touch of fun!",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-snack-shop-cookie-cutters-set-of-4",
+   "name": "Hello Kitty and Friends Snack Shop Cookie Cutters (Set of 4)",
+   "merchantDescription": "Let Hello Kitty, Kuromi, Cinnamoroll and My Melody inspire cookie baking fun for sweet treats that spread the sunshine everywhere you go! Handstand Kitchen is a woman owned, and women run small business that has been inspiring creativity in the kitchen and bey",
+   "vendor": "Handstand Kitchen",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "BFCM25-35",
+    "Brand:Handstand Kitchen",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi",
+    "Character:Kuromi",
+    "Character:My Melody"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-stoney-clover-lane-classic-fanny-p",
+   "name": "Hello Kitty and Friends x Stoney Clover Lane Classic Fanny Pack (Hello Kitty & Friends)",
+   "merchantDescription": "Give your outfit a bit of unmistakable personality with Hello Kitty and Friends! A fashion-forward must-have, our Fanny Pack is one of our favorite hands-free accessories. Wear it around the waist for ease or crossbody to make your outfit pop. Created by siste",
+   "vendor": "STONEY CLOVER LANE",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-55",
+    "Brand:STONEY CLOVER LANE",
+    "Character:Badtz-maru",
+    "Character:Chococat",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends"
+   ],
+   "price": 102.99
+  },
+  {
+   "id": "sanrio-hello-kitty-x-stoney-clover-lane-clear-front-large-pouch-hel",
+   "name": "Hello Kitty x Stoney Clover Lane Clear Front Large Pouch (Hello Kitty Ribbon Stripe)",
+   "merchantDescription": "Bring on the playful spirit with Hello Kitty! Big enough for all the things: hair tools, first aid, meds, or even more Pouches (hot tip: 2 small pouches fit inside a large, we use ours to organize makeup skincare). The Large Pouch is your ultimate BFF for stay",
+   "vendor": "STONEY CLOVER LANE",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-35",
+    "Brand:STONEY CLOVER LANE",
+    "Character:Hello Kitty",
+    "NA-101725",
+    "PO:L370",
+    "Pouches",
+    "prodavail"
+   ],
+   "price": 81.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-2-pc-travel-pouch-set",
+   "name": "Cinnamoroll 2-pc Travel Pouch Set",
+   "merchantDescription": "Start your trip with a smile using this delightful 2-piece travel pouch set featuring your favorite Sanrio Character! Designed to help you sort and stash your belongings just right, it’s super light and includes a handy handle for easy on-the-go fun. Packing h",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-55",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "EVAL121625",
+    "Home Goods",
+    "MEM-ORIG-ON-40"
+   ],
+   "price": 16.8
+  },
+  {
+   "id": "sanrio-hello-kitty-2-pc-travel-pouch-set",
+   "name": "Hello Kitty 2-pc Travel Pouch Set",
+   "merchantDescription": "Start your trip with a smile using this delightful 2-piece travel pouch set featuring your favorite Sanrio Character! Designed to help you sort and stash your belongings just right, it’s super light and includes a handy handle for easy on-the-go fun. Packing h",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "EVAL121625",
+    "Home Goods",
+    "NA-101725"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sanrio-kuromi-2-pc-travel-pouch-set",
+   "name": "Kuromi 2-pc Travel Pouch Set",
+   "merchantDescription": "Start your trip with a smile using this delightful 2-piece travel pouch set featuring your favorite Sanrio Character! Designed to help you sort and stash your belongings just right, it’s super light and includes a handy handle for easy on-the-go fun. Packing h",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-40",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "EVAL121625",
+    "Home Goods",
+    "NA-101725"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sanrio-my-melody-2-pc-travel-pouch-set",
+   "name": "My Melody 2-pc Travel Pouch Set",
+   "merchantDescription": "Start your trip with a smile using this delightful 2-piece travel pouch set featuring your favorite Sanrio Character! Designed to help you sort and stash your belongings just right, it’s super light and includes a handy handle for easy on-the-go fun. Packing h",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "EVAL121625",
+    "Home Goods",
+    "MEM-ORIG-ON-30"
+   ],
+   "price": 19.6
+  },
+  {
+   "id": "sanrio-cinnamoroll-classic-mascot-ballpoint-pen",
+   "name": "Cinnamoroll Classic Mascot Ballpoint Pen",
+   "merchantDescription": "Oh, what to write? Home, office, or school, this character mascot pen is a trusty friend and confidant for your everyday writing needs! ♡ Ink Color: Black ♡ Japan Original ♡ Measures approx. 6\"",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "BTS-STATIONERY",
+    "Character:Cinnamoroll",
+    "NA-101725",
+    "Pens"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-hanamaruobake-classic-mascot-ballpoint-pen",
+   "name": "Hanamaruobake Classic Mascot Ballpoint Pen",
+   "merchantDescription": "Oh, what to write? Home, office, or school, this character mascot pen is a trusty friend and confidant for your everyday writing needs! ♡ Ink Color: Black ♡ Japan Original ♡ Measures approx. 6\"",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "BTS-2026",
+    "BTS-STATIONERY",
+    "Character:Hanamaruobake",
+    "NA-101725",
+    "Pens"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-hello-kitty-charming-mascot-clip-many-moods-series",
+   "name": "Hello Kitty Charming Mascot Clip (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-40",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Keychains",
+    "Mascots",
+    "NA-101725"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-hello-kitty-lovestruck-coin-purse-many-moods-series",
+   "name": "Hello Kitty Lovestruck Coin Purse (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Bags",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "BFCM25-40",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Coin Purses",
+    "NA-101725"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sanrio-hello-kitty-joy-coin-purse-many-moods-series",
+   "name": "Hello Kitty Joy Coin Purse (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Bags",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "BFCM25-35",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Coin Purses",
+    "MEM-NON-ON-40"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-hello-kitty-charming-coin-purse-many-moods-series",
+   "name": "Hello Kitty Charming Coin Purse (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Bags",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "BFCM25-55",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Coin Purses",
+    "MEM-NON-ON-40"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-hello-kitty-joy-mascot-clip-many-moods-series",
+   "name": "Hello Kitty Joy Mascot Clip (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-35",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Keychains",
+    "Mascots",
+    "MEM-NO-20"
+   ],
+   "price": 18
+  },
+  {
+   "id": "sanrio-hello-kitty-10-joy-plush-many-moods-series",
+   "name": "Hello Kitty 10\" Joy Plush (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "BFCM25-40",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "NA-101725",
+    "Plush",
+    "PO:Npjul25",
+    "prodavail",
+    "Sale"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sanrio-hello-kitty-10-charming-plush-many-moods-series",
+   "name": "Hello Kitty 10\" Charming Plush (Many Moods Series)",
+   "merchantDescription": "Hello Kitty is a sweet friend to all and as she always says, “You can never have too many friends!\" Get ready for an adorable dose of cuteness, showcasing her lovable expressions in different poses and moods through plush toys, mascots, and even coin purses! ♡",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "BFCM25-50",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "NA-101725",
+    "Plush",
+    "PO:Npjul25",
+    "prodavail",
+    "Sale"
+   ],
+   "price": 30.99
+  },
+  {
+   "id": "sanrio-hello-kitty-gingham-imabari-wash-towel",
+   "name": "Hello Kitty Gingham Imabari Wash Towel",
+   "merchantDescription": "Compact and fast-drying, these fluffy Imbari wash towels are great for makeup removal or any other skincare needs! Use this soft, cotton towel to add a bit of color and brighten up any bathroom space! ♡ 100% cotton ♡ Gingham check pattern details ♡ Embroidered",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bathroom",
+    "Beauty",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Hello Kitty",
+    "EVAL101525"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-kuromi-gingham-imabari-hand-towel",
+   "name": "Kuromi Gingham Imabari Hand Towel",
+   "merchantDescription": "Compact and fast-drying, these fluffy Imbari hand towels are great for makeup removal or any other skincare needs! Use this soft, cotton towel to add a bit of color and brighten up any bathroom space! ♡ 100% cotton ♡ Gingham check pattern details ♡ Embroidered",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bathroom",
+    "Beauty",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Kuromi",
+    "EVAL101525"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-gingham-imabari-hand-towel",
+   "name": "Cinnamoroll Gingham Imabari Hand Towel",
+   "merchantDescription": "Compact and fast-drying, these fluffy Imbari hand towels are great for makeup removal or any other skincare needs! Use this soft, cotton towel to add a bit of color and brighten up any bathroom space! ♡ 100% cotton ♡ Gingham check pattern details ♡ Embroidered",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Bath",
+    "Bathroom",
+    "Beauty",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Brand:Sanrio Original",
+    "Character:Cinnamoroll",
+    "EVAL101525"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sanrio-hello-kitty-tote-bag-retro-quilt-series",
+   "name": "Hello Kitty Tote Bag (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Poly, cotton, material ♡ One internal slip pocket ♡ Quilted details, all-over print ♡ Approx",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:Hello Kitty",
+    "MEM-ORIG-ON-20",
+    "NA-101025",
+    "PO:Pjun25",
+    "prodavail"
+   ],
+   "price": 14.4
+  },
+  {
+   "id": "sanrio-cinnamoroll-tote-bag-retro-quilt-series",
+   "name": "Cinnamoroll Tote Bag (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Poly, cotton, material ♡ One internal slip pocket ♡ Quilted details, all-over print ♡ Approx",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:Cinnamoroll",
+    "NA-101025",
+    "PO:Pjun25",
+    "prodavail",
+    "Sale"
+   ],
+   "price": 12.99
+  },
+  {
+   "id": "sanrio-my-melody-tote-bag-retro-quilt-series",
+   "name": "My Melody Tote Bag (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Poly, cotton, material ♡ One internal slip pocket ♡ Quilted details, all-over print ♡ Approx",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Bags",
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:My Melody",
+    "MEM-ORIG-ON-30",
+    "NA-101025",
+    "PO:Pjun25",
+    "prodavail"
+   ],
+   "price": 12.6
+  },
+  {
+   "id": "sanrio-cinnamoroll-mirror-charm-retro-quilt-series",
+   "name": "Cinnamoroll Mirror Charm (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Applique details ♡ Lobster clasp closure ♡ Poly, cotton, steel, glass material ♡ Approx. 2.7",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Beauty",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Character:Cinnamoroll",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-plush-mascot-keychain-retro-quilt-series",
+   "name": "Cinnamoroll Plush Mascot Keychain (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Push clasp closure ♡ Embroidered and applique details ♡ Coordinating carabiner, quilted dres",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Character:Cinnamoroll",
+    "Keychains",
+    "NA-101025",
+    "PO:Pjun25"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-girls-striped-rugby-dress",
+   "name": "Hello Kitty and Friends Girls Striped Rugby Dress",
+   "merchantDescription": "Add sporty flair to your wardrobe with the Hello Kitty and Friends Striped Rugby Dress! Featuring bold horizontal stripes and adorable Hello Kitty and Friends graphics, this dress brings a fun twist to classic rugby style. Made from soft, lightweight jersey fa",
+   "vendor": "Mad Engine Global LLC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BFCM25-40",
+    "Brand:Mad Engine Global Llc",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi",
+    "Character:Kuromi",
+    "Character:My Melody"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-girls-dream-big-long-sleeve-rugby-sh",
+   "name": "Hello Kitty and Friends Girls Dream Big Long Sleeve Rugby Shirt",
+   "merchantDescription": "Step out in looking adorable with the Hello Kitty and Friends Rugby Shirt. Featuring bold, cute artwork of iconic Hello Kitty and Friends, this shirt brings a sweet style to your everyday look. Made from lightweight jersey fabric, it offers a soft, breathable ",
+   "vendor": "Mad Engine Global LLC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BFCM25-40",
+    "Brand:Mad Engine Global Llc",
+    "Character:Hello Kitty & Friends",
+    "Kids",
+    "NA-101025",
+    "PO:L466",
+    "prodavail"
+   ],
+   "price": 12.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-girls-better-together-varsity-jacket",
+   "name": "Hello Kitty and Friends Girls Better Together Varsity Jacket",
+   "merchantDescription": "Layer up your outfit in style with the Hello Kitty Friends Better Together Varsity Jacket! Crafted from cozy midweight fleece, this jacket features a classic varsity-inspired silhouette with bold red accents and adorable Hello Kitty Friends graphics for a fun,",
+   "vendor": "Mad Engine Global LLC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BFCM25-40",
+    "Brand:Mad Engine Global Llc",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Kuromi",
+    "Character:My Melody",
+    "Kids"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sanrio-hello-kitty-girls-floral-patch-fleece-sweater",
+   "name": "Hello Kitty Girls Floral Patch Fleece Sweater",
+   "merchantDescription": "Step out in style with the Hello Kitty Floral Patch Sweater. This playful sweater features a charming Hello Kitty graphic with sweet floral chenille patch, blending cozy comfort with cute personality. Made from midweight fleece, it offers warmth without the bu",
+   "vendor": "Mad Engine Global LLC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BFCM25-40",
+    "Brand:Mad Engine Global Llc",
+    "Character:Hello Kitty",
+    "Fall Feels",
+    "Kids",
+    "NA-101025",
+    "PO:L466"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-hello-kitty-girls-quarter-zip-fleece-varsity-sweatshirt",
+   "name": "Hello Kitty Girls Quarter-Zip Fleece Varsity Sweatshirt",
+   "merchantDescription": "Add a dash of cozy charm to your outfit with the Hello Kitty Quarter-Zip Fleece Sweatshirt. Made from soft midweight fleece, it showcases bright and playful Hello Kitty graphics that bring a cheerful vibe to your casual look. The regular fit, crewneck design a",
+   "vendor": "Mad Engine Global LLC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BFCM25-40",
+    "Brand:Mad Engine Global Llc",
+    "Character:Hello Kitty",
+    "Fall Feels",
+    "Kids",
+    "NA-101025",
+    "PO:L466"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-girls-chenille-patch-fleece-cardigan",
+   "name": "Hello Kitty and Friends Girls Chenille Patch Fleece Cardigan",
+   "merchantDescription": "Add cozy charm and cuteness to your wardrobe with the Hello Kitty and Friends Chenille Patch Fleece Cardigan. This midweight fleece cardigan features a soft chenille patch, adding a fun playful touch to cooler-weather outfits. Designed with a regular fit, long",
+   "vendor": "Mad Engine Global LLC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "Apparel",
+    "BFCM25-40",
+    "Brand:Mad Engine Global Llc",
+    "Cardigans",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Kuromi",
+    "Character:My Melody"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sanrio-hello-kitty-mascot-clip-retro-denim-series",
+   "name": "Hello Kitty Mascot Clip (Retro Denim Series)",
+   "merchantDescription": "Your favorite Sanrio Characters know how to have fun! Returning to the retro stylings of 70s denim, accented with candy-hued poms, stripes, and gingham, these plushies and matching mascots are a cheerful way to add pops of color to any bag or decor space! ♡ Cl",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-55",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Keychains",
+    "Mascots",
+    "MEM-NON-ON-50"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sanrio-kuromi-mascot-clip-retro-denim-series",
+   "name": "Kuromi Mascot Clip (Retro Denim Series)",
+   "merchantDescription": "Your favorite Sanrio Characters know how to have fun! Returning to the retro stylings of 70s denim, accented with candy-hued poms, stripes, and gingham, these plushies and matching mascots are a cheerful way to add pops of color to any bag or decor space! ♡ Cl",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-55",
+    "Brand:Nakajima Corporation",
+    "Character:Kuromi",
+    "Keychains",
+    "Mascots",
+    "MEM-NON-ON-50"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sanrio-my-melody-mascot-clip-retro-denim-series",
+   "name": "My Melody Mascot Clip (Retro Denim Series)",
+   "merchantDescription": "Your favorite Sanrio Characters know how to have fun! Returning to the retro stylings of 70s denim, accented with candy-hued poms, stripes, and gingham, these plushies and matching mascots are a cheerful way to add pops of color to any bag or decor space! ♡ Cl",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-55",
+    "Brand:Nakajima Corporation",
+    "Character:My Melody",
+    "Keychains",
+    "Mascots",
+    "MEM-NON-ON-50"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-mini-accessory-cart",
+   "name": "Cinnamoroll Mini Accessory Cart",
+   "merchantDescription": "This adorable mini storage cart, featuring your favorite Sanrio Character, encourages you to stay organized! Its embossed design adds a charming detail, and its compact size fits neatly on a desk or in small areas, serving as a delightful decorative accent. ♡ ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:Cinnamoroll",
+    "Home Decor",
+    "Home Goods",
+    "MEM-ORIG-ON-40",
+    "NA-101025",
+    "PO:Psep25"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sanrio-hello-kitty-mini-accessory-cart",
+   "name": "Hello Kitty Mini Accessory Cart",
+   "merchantDescription": "This adorable mini storage cart, featuring your favorite Sanrio Character, encourages you to stay organized! Its embossed design adds a charming detail, and its compact size fits neatly on a desk or in small areas, serving as a delightful decorative accent. ♡ ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "BFCM25-60",
+    "Brand:Japan Original",
+    "Character:Hello Kitty",
+    "Home Decor",
+    "Home Goods",
+    "MEM-ORIG-ON-20",
+    "NA-101025",
+    "PO:Psep25"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-sanrio-characters-mini-whistle-charm-blind-box-summer-festiv",
+   "name": "Sanrio Characters Mini Whistle Charm Blind Box (Summer Festival Series)",
+   "merchantDescription": "Everyone loves the thrill of a fun blind box, especially when the surprise is met with a mini photo charm featuring your favorite Sanrio Character! These adorable mini whistle charms are sure to bring joy to your keys, bags, or anywhere your heart desires! ♡ 1",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "best",
+    "Best Seller",
+    "BFCM25-60",
+    "Blind Box",
+    "Blind Boxes",
+    "Blindbox"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-kuromi-mini-accessory-cart",
+   "name": "Kuromi Mini Accessory Cart",
+   "merchantDescription": "This adorable mini storage cart, featuring your favorite Sanrio Character, encourages you to stay organized! Its embossed design adds a charming detail, and its compact size fits neatly on a desk or in small areas, serving as a delightful decorative accent. ♡ ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Character:Kuromi",
+    "Home Decor",
+    "Home Goods",
+    "MEM-ORIG-ON-40",
+    "NA-101025",
+    "PO:Psep25"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-ceramic-grid-teapot",
+   "name": "Hello Kitty and Friends Ceramic Grid Teapot",
+   "merchantDescription": "Carefully crafted and decorated with the iconic charm of Hello Kitty, Pompompurin, and My Melody, this teapot is more than just a vessel—it’s a delightful celebration of tea time! The pastel grid design captures the whimsical spirit of Hello Kitty and Friends,",
+   "vendor": "Blue Sky Clayworks",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025BLUESKYCERAMICS",
+    "BFCM25-55",
+    "Brand:Blue Sky Clayworks",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:My Melody",
+    "Character:Pompompurin",
+    "Fall Feels"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "sanrio-hello-kitty-mermaid-wind-chime",
+   "name": "Hello Kitty Mermaid Wind Chime",
+   "merchantDescription": "Make a splash in your space! This delightful Hello Kitty wind chime features her dressed as a charming mermaid, complete with a shimmering blue tail, pink seashell top, and starfish accent. Dangling below, playful sea friends — a dolphin, seahorse, and star — ",
+   "vendor": "Blue Sky Clayworks",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025BLUESKYCERAMICS",
+    "BFCM25-50",
+    "Brand:Blue Sky Clayworks",
+    "Character:Hello Kitty",
+    "Décor",
+    "Home Decor",
+    "Home Goods",
+    "NA-101025"
+   ],
+   "price": 25.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-ceramic-mushroom-teapot",
+   "name": "Hello Kitty and Friends Ceramic Mushroom Teapot",
+   "merchantDescription": "Carefully crafted and decorated with the iconic charm of Hello Kitty, Cinnamoroll, Keroppi, and My Melody, this teapot is more than just a vessel—it’s a delightful celebration of tea time! The detailed design captures the whimsical spirit of Hello Kitty and Fr",
+   "vendor": "Blue Sky Clayworks",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025BLUESKYCERAMICS",
+    "BFCM25-50",
+    "Brand:Blue Sky Clayworks",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Keroppi",
+    "Character:My Melody"
+   ],
+   "price": 57.99
+  },
+  {
+   "id": "sanrio-kuromi-mascot-clip-baby-kitten-series",
+   "name": "Kuromi Mascot Clip (Baby Kitten Series)",
+   "merchantDescription": "So undeniably purr-fect! A baby kitten series featuring Kuromi dressed in the fluffiest fur costume. Pointed ears, contrasting poms, and a ruffled bonnet makes this collection one for the kitty cat lovers out there! ♡ Clip attachment ♡ \"Sparkling\" accented eye",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "BFCM25-50",
+    "Brand:Nakajima Corporation",
+    "Character:Kuromi",
+    "Keychains",
+    "Mascots",
+    "MEM-NON-ON-40"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sanrio-kuromi-9-plush-baby-kitten-series",
+   "name": "Kuromi 9\" Plush (Baby Kitten Series)",
+   "merchantDescription": "So undeniably purr-fect! A baby kitten series featuring Kuromi dressed in the fluffiest fur costume. Pointed ears, contrasting poms, and a ruffled bonnet makes this collection one for the kitty cat lovers out there! ♡ \"Sparkling\" accented eyes, ♡ Rosy nose and",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "BFCM25-55",
+    "Brand:Nakajima Corporation",
+    "Character:Kuromi",
+    "MEM-NON-ON-50",
+    "NA-101025",
+    "Plush",
+    "PO:Npjul25",
+    "prodavail"
+   ],
+   "price": 27.99
+  },
+  {
+   "id": "sanrio-my-melody-mirror-charm-retro-quilt-series",
+   "name": "My Melody Mirror Charm (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Applique details ♡ Lobster clasp closure ♡ Poly, cotton, steel, glass material ♡ Approx. 2.7",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Beauty",
+    "BFCM25-65",
+    "Brand:Japan Original",
+    "Character:My Melody",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-hello-kitty-mirror-charm-retro-quilt-series",
+   "name": "Hello Kitty Mirror Charm (Retro Quilt Series)",
+   "merchantDescription": "A nostalgic feel of quilted goods featuring your favorite Sanrio Characters! These supercute quilted bags and charms are the sweetest addition to your everyday wear! ♡ Applique details ♡ Lobster clasp closure ♡ Poly, cotton, steel, glass material ♡ Approx. 2.7",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Beauty",
+    "BFCM25-50",
+    "Brand:Japan Original",
+    "Character:Hello Kitty",
+    "Charms",
+    "Keychains"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-my-melody-coin-case-a-pretty-melody-series",
+   "name": "My Melody Coin Case (A Pretty Melody Series)",
+   "merchantDescription": "Ruffles, ribbons, frills, and lace? You can never have too much when it’s My Melody! This pastel-pink series features our sweet Sanrio friend in a dazzling array of plush and small accessories—perfect for fans of her soft pink colorway! ♡ Poly material ♡ One e",
+   "vendor": "Global Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "BFCM25-55",
+    "Brand:Global Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "Coin Purses"
+   ],
+   "price": 19.2
+  },
+  {
+   "id": "sanrio-my-melody-8-plush-a-pretty-melody-series",
+   "name": "My Melody 8\" Plush (A Pretty Melody Series)",
+   "merchantDescription": "Ruffles, ribbons, frills, and lace? You can never have too much when it’s My Melody! This pastel-pink series features our sweet Sanrio friend in a dazzling array of plush and small accessories—perfect for fans of her soft pink colorway! ♡ Sitting position ♡ Ex",
+   "vendor": "Global Original",
+   "productType": "Plush",
+   "merchantTags": [
+    "BFCM25-50",
+    "Brand:Global Original",
+    "Brand:Sanrio Original",
+    "Character:My Melody",
+    "MEM-ORIG-ON-30",
+    "NA-101025",
+    "Plush",
+    "PO:H1184"
+   ],
+   "price": 23.8
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-baggu-go-pouch-set-western",
+   "name": "Hello Kitty and Friends x Baggu Go Pouch Set (Western)",
+   "merchantDescription": "Our Go Pouch Set makes it easy to keep your bag neatly packed and organized. Whatever you're toting—coins, cords, or an extra pair of shoes—this set of three all purpose pouches keeps it together. They expand to hold your essentials and lay flat when not in us",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Chococat"
+   ],
+   "price": 40
+  },
+  {
+   "id": "sanrio-hello-kitty-x-baggu-baby-baggu-western",
+   "name": "Hello Kitty x Baggu Baby Baggu (Western)",
+   "merchantDescription": "A smaller version of our original reusable shopping bag. Perfect for your lunch, a six pack, extra shoes, or a trip to the corner store. Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These include a lot of bags — but they lik",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Hello Kitty"
+   ],
+   "price": 12
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-baggu-3-pc-zipper-pouch-set-wester",
+   "name": "Hello Kitty and Friends x Baggu 3-pc Zipper Pouch Set (Western)",
+   "merchantDescription": "A set of three zippered pouches for travel and organization, with loops for carrying and hanging on the go. Perfect for packing, organizing your bag, or home tidying. Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These includ",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Hello Kitty & Friends"
+   ],
+   "price": 36
+  },
+  {
+   "id": "sanrio-hello-kitty-x-baggu-standard-baggu-western",
+   "name": "Hello Kitty x Baggu Standard Baggu (Western)",
+   "merchantDescription": "Baggu's best selling reusable bag isn't just for the grocery store, it goes everywhere and hauls almost anything. Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These include a lot of bags — but they like to make other things ",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Hello Kitty"
+   ],
+   "price": 14
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-baggu-3-pc-flat-pouch-set-western",
+   "name": "Hello Kitty and Friends x Baggu 3-pc Flat Pouch Set (Western)",
+   "merchantDescription": "Stay effortlessly organized with this set of three versatile flat zip pouches. Designed to keep your essentials neatly in place, they’re the perfect companion for managing your belongings wherever life takes you. Based in San Francisco, BAGGU makes simple, int",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Hello Kitty & Friends"
+   ],
+   "price": 36
+  },
+  {
+   "id": "sanrio-chococat-x-baggu-standard-baggu-western",
+   "name": "Chococat x Baggu Standard Baggu (Western)",
+   "merchantDescription": "Baggu's best selling reusable bag isn't just for the grocery store, it goes everywhere and hauls almost anything. Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These include a lot of bags — but they like to make other things ",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Chococat",
+    "NA-100725"
+   ],
+   "price": 14
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-baggu-standard-baggu-western",
+   "name": "Hello Kitty and Friends x Baggu Standard Baggu (Western)",
+   "merchantDescription": "Baggu's best selling reusable bag isn't just for the grocery store, it goes everywhere and hauls almost anything. Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These include a lot of bags — but they like to make other things ",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Chococat"
+   ],
+   "price": 14
+  },
+  {
+   "id": "sanrio-hello-kitty-x-baggu-dopp-kit-western",
+   "name": "Hello Kitty x Baggu Dopp Kit (Western)",
+   "merchantDescription": "Peace of mind comes from knowing where you packed your toothbrush. Travel's stressful as it is, so keep your essentials organized with this cute dopp kit! Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These include a lot of b",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Beauty",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-baggu-standard-bags-3-pc-set-weste",
+   "name": "Hello Kitty and Friends x Baggu Standard Bags 3-pc Set (Western)",
+   "merchantDescription": "Baggu's best selling reusable bag isn't just for the grocery store, it goes everywhere and hauls almost anything. This special set of 3, includes a reusable drawstring pouch featuring Hello Kitty's Icons print. Based in San Francisco, BAGGU makes simple, inten",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Chococat"
+   ],
+   "price": 42
+  },
+  {
+   "id": "sanrio-hello-kitty-x-baggu-large-cosmetic-case-western",
+   "name": "Hello Kitty x Baggu Large Cosmetic Case (Western)",
+   "merchantDescription": "A roomy cosmetic case designed to make packing easier. A cute print, handy top handle, and countless room for all of your beauty and self-care essentials. Based in San Francisco, BAGGU makes simple, intentional things for everyday use. These include a lot of b",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Beauty",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation"
+   ],
+   "price": 42
+  },
+  {
+   "id": "sanrio-hello-kitty-x-baggu-16-puffy-laptop-sleeve-western",
+   "name": "Hello Kitty x Baggu 16\" Puffy Laptop Sleeve (Western)",
+   "merchantDescription": "Your laptop does so much for you. Doesn’t it deserve a cozy place to live? Baggu's puffy laptop sleeve is quilted and stuffed to provide your 13\" or 16\" laptop or tablet with just enough padding for comfortable rides. Based in San Francisco, BAGGU makes simple",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Baggu Holiday 2025",
+    "Bags",
+    "Best Seller",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation",
+    "Character:Hello Kitty"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-hello-kitty-cowgirl-ceramic-bank",
+   "name": "Hello Kitty Cowgirl Ceramic Bank",
+   "merchantDescription": "Saddle up for cuteness with the Hello Kitty Cowgirl Bank by Blue Sky Clayworks! This limited-edition collectible features Hello Kitty in an adorable pink cowboy hat and boots, ready to lasso your savings. Hand-sculpted and hand-painted with intricate details, ",
+   "vendor": "Blue Sky Clayworks",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025BLUESKYCERAMICS",
+    "BFCM25-50",
+    "Brand:Blue Sky Clayworks",
+    "Character:Hello Kitty",
+    "Home Decor",
+    "Home Goods",
+    "MEM-NON-ON-40",
+    "NA-100725"
+   ],
+   "price": 28.99
+  },
+  {
+   "id": "sanrio-hello-kitty-lone-star-ceramic-mug-gift-set-set-of-2",
+   "name": "Hello Kitty Lone Star Ceramic Mug Gift Set (Set of 2)",
+   "merchantDescription": "Saddle up for sweetness with this western-inspired Hello Kitty mug set! Enjoy your favorite drink from these fun and cheerful mugs, perfect for any Hello Kitty fan wanting to add a touch of Western fun to their everyday routine. For over 20 years Blue Sky has ",
+   "vendor": "Blue Sky Clayworks",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025BLUESKYCERAMICS",
+    "BFCM25-40",
+    "Brand:Blue Sky Clayworks",
+    "Character:Hello Kitty",
+    "Fall Feels",
+    "Home Decor",
+    "Home Goods",
+    "Kitchen"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sanrio-hello-kitty-cowgirl-ceramic-wind-chime",
+   "name": "Hello Kitty Cowgirl Ceramic Wind Chime",
+   "merchantDescription": "Yeehaw, Hello Kitty fans! Say hello to the cutest Hello Kitty cowgirl wind chime—a rootin'-tootin' treasure that blends western charm with Sanrio sweetness. Hand-painted with love, this limited-edition piece captures Hello Kitty in her cowgirl best, ready to b",
+   "vendor": "Blue Sky Clayworks",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "2025BLUESKYCERAMICS",
+    "BFCM25-50",
+    "Brand:Blue Sky Clayworks",
+    "Character:Hello Kitty",
+    "Décor",
+    "Home Decor",
+    "Home Goods",
+    "MEM-NON-ON-30"
+   ],
+   "price": 24.99
+  }
+ ]
+}

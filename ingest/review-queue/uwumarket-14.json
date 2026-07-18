@@ -1,0 +1,1330 @@
+{
+ "source": "uwumarket",
+ "batch": 14,
+ "items": [
+  {
+   "id": "uwumarket-raespark-welcome-to-the-starnival-sweatpants",
+   "name": "Raespark Welcome to the Starnival Sweatpants",
+   "merchantDescription": "Raespark x UwU Collab Raespark Welcome to the Starnival Sweatpants Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-raespark-welcome-to-the-starnival-shirt",
+   "name": "Raespark Welcome to the Starnival Shirt",
+   "merchantDescription": "Raespark x UwU Collab Raespark Welcome to the Starnival Shirt Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-raespark-welcome-to-the-starnival-crewneck",
+   "name": "Raespark Welcome to the Starnival Crewneck",
+   "merchantDescription": "Raespark x UwU Collab Raespark Welcome to the Starnival Crewneck Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-raespark-welcome-to-the-starnival-hoodie",
+   "name": "Raespark Welcome to the Starnival Hoodie",
+   "merchantDescription": "Raespark x UwU Collab Raespark Welcome to the Starnival Hoodie Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-tabithash-mug",
+   "name": "Tabithash Mug",
+   "merchantDescription": "Tabithash x UwU Collab Tabithash Mug Designed By: Inthasapen",
+   "vendor": "UwU Market",
+   "productType": "MGS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mug",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mug"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "uwumarket-tabithash-sticker",
+   "name": "Tabithash Sticker",
+   "merchantDescription": "Tabithash x UwU Collab Tabithash Sticker Designed By: Inthasapen",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-tabithash-keychain",
+   "name": "Tabithash Keychain",
+   "merchantDescription": "Tabithash x UwU Collab Tabithash Keychain Designed By: Inthasapen",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-hemifuu-plushie-pillow-campaign",
+   "name": "Hemifuu Plushie Pillow Campaign",
+   "merchantDescription": "Hemifuu x UwU Collab LIMITED TIME ONLY! Pre Orders close on 07/17/26 - 12:00 am CST! Hemifuu Plushie Pillow Campaign Products Expected To Ship By December 2026 Size: Comes in approximately 12\" by 12\" 19\" by 19\"! Material: Premium Plush Fabrics. Seal the deal a",
+   "vendor": "UwU Market",
+   "productType": "PLP01",
+   "merchantTags": [
+    "anime merch",
+    "anime plushie",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 34.98
+  },
+  {
+   "id": "uwumarket-dalekmusical-sakura-standee",
+   "name": "DalekMusical Sakura Standee",
+   "merchantDescription": "DalekMusical x UwU Collab DalekMusical Sakura Standee Designed By: Ryza",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-dalekmusical-sakura-xxl-mousepad",
+   "name": "DalekMusical Sakura XXL Mousepad",
+   "merchantDescription": "DalekMusical x UwU Collab DalekMusical Sakura XXL Mousepad Designed By: Ryza",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-dalekmusical-sakura-xl-mousepad",
+   "name": "DalekMusical Sakura XL Mousepad",
+   "merchantDescription": "DalekMusical x UwU Collab DalekMusical Sakura XL Mousepad Designed By: Ryza",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "rgb mousepad",
+    "vtuber"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-dalekmusical-sakura-poster",
+   "name": "DalekMusical Sakura Poster",
+   "merchantDescription": "DalekMusical x UwU Collab DalekMusical Sakura Poster Designed By: Ryza",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-dalekmusical-sakura-wall-scroll",
+   "name": "DalekMusical Sakura Wall Scroll",
+   "merchantDescription": "DalekMusical x UwU Collab DalekMusical Sakura Wall Scroll Designed By: Ryza",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-zerosocean-standee",
+   "name": "ZerosOcean Standee",
+   "merchantDescription": "ZerosOcean x UwU Collab ZerosOcean Standee Designed By: Hamcheeseand",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-zerosocean-led-lamp",
+   "name": "ZerosOcean LED LAMP",
+   "merchantDescription": "ZerosOcean x UwU Collab ZerosOcean LED LAMP Designed By: Hamcheeseand",
+   "vendor": "UwU Market",
+   "productType": "DKL01",
+   "merchantTags": [
+    "anime desk lamp",
+    "anime merch",
+    "LED Desk lamp",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-lore-plushie-campaign",
+   "name": "Lore Plushie Campaign",
+   "merchantDescription": "Lore x UwU Collab LIMITED TIME ONLY! Pre Orders close on 07/16/26 - 12:00 am CST! Lore Plushie Campaign Products Expected To Ship By December 2026 Size: Approximately 8\" (20cm). Material: Premium Plush Fabrics. Heed the call of the Fae and get your very own Lo",
+   "vendor": "UwU Market",
+   "productType": "PLSH1",
+   "merchantTags": [
+    "anime merch",
+    "anime plushie",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 34.98
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-hoodie",
+   "name": "Lore \"Fae Moth\" Hoodie",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" Hoodie Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-crewneck",
+   "name": "Lore \"Fae Moth\" Crewneck",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" Crewneck Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-t-shirt",
+   "name": "Lore \"Fae Moth\" T-Shirt",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" T-Shirt Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-sweatpants",
+   "name": "Lore \"Fae Moth\" Sweatpants",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" Sweatpants Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-mug",
+   "name": "Lore \"Fae Moth\" Mug",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" Mug Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "MGS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mug",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mug"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-keychain",
+   "name": "Lore \"Fae Moth\" Keychain",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" Keychain Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-lore-fae-moth-sticker",
+   "name": "Lore \"Fae Moth\" Sticker",
+   "merchantDescription": "Lore x UwU Collab Lore \"Fae Moth\" Sticker Designed By: VelantArt",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-lore-nature-lover-xxl-mousepad",
+   "name": "Lore \"Nature Lover\" XXL Mousepad",
+   "merchantDescription": "Lore x UwU Collab Lore \"Nature Lover\" XXL Mousepad Designed By: Lunifura",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-lore-nature-lover-xl-mousepad",
+   "name": "Lore \"Nature Lover\" XL Mousepad",
+   "merchantDescription": "Lore x UwU Collab Lore \"Nature Lover\" XL Mousepad Designed By: Lunifura",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "rgb mousepad",
+    "vtuber"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-lore-nature-lover-mousepad",
+   "name": "Lore \"Nature Lover\" Mousepad",
+   "merchantDescription": "Lore x UwU Collab Lore \"Nature Lover\" Mousepad Designed By: Lunifura",
+   "vendor": "UwU Market",
+   "productType": "MPS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mouse pad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mouse pad"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-lore-nature-lover-poster",
+   "name": "Lore \"Nature Lover\" Poster",
+   "merchantDescription": "Lore x UwU Collab Lore \"Nature Lover\" Poster Designed By: Lunifura",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-soullesswillo-bedside-tanuki-daki-keychain",
+   "name": "SoullessWillo \"Bedside Tanuki\" Daki Keychain",
+   "merchantDescription": "SoullessWillo x UwU Collab SoullessWillo \"Bedside Tanuki\" Daki Keychain Designed By: Fearsense",
+   "vendor": "UwU Market",
+   "productType": "DKC01",
+   "merchantTags": [
+    "Anime Keychain",
+    "anime merch",
+    "daki",
+    "daki keychain",
+    "dakimakura",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-soullesswillo-bedside-tanuki-dakimakura",
+   "name": "SoullessWillo \"Bedside Tanuki\" Dakimakura",
+   "merchantDescription": "SoullessWillo x UwU Collab SoullessWillo \"Bedside Tanuki\" Dakimakura Designed By: Fearsense",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "vtuber",
+    "vtuber body pillow",
+    "vtuber daki",
+    "vtuber merch"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-chibi-sticker",
+   "name": "mochii_momo Chibi Sticker",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Chibi Sticker Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-square-sticker",
+   "name": "mochii_momo Square Sticker",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Square Sticker Designed By: cuiikoo",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-chibi-keychain",
+   "name": "mochii_momo Chibi Keychain",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Chibi Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-mochii-momo-square-keychain",
+   "name": "mochii_momo Square Keychain",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Square Keychain Designed By: cuiikoo",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-mochii-momo-chibi-mini-standee",
+   "name": "mochii_momo Chibi Mini Standee",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Chibi Mini Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "MSD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 15.95
+  },
+  {
+   "id": "uwumarket-mochii-momo-xl-mousepad",
+   "name": "mochii_momo XL Mousepad",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo XL Mousepad Designed By: cuiikoo",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "rgb mousepad",
+    "vtuber"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-cozy-poster",
+   "name": "mochii_momo Cozy Poster",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Cozy Poster Designed By: cuiikoo",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-poster",
+   "name": "mochii_momo Poster",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Poster Designed By: bwnilly",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-alt-jet-tag",
+   "name": "mochii_momo Alt  Jet Tag",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Alt Jet Tag Designed By: cuiikoo",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-mochii-momo-jet-tag",
+   "name": "mochii_momo  Jet Tag",
+   "merchantDescription": "mochii_momo x UwU Collab mochii_momo Jet Tag Designed By: cuiikoo",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-numi-in-the-gym-t-shirt",
+   "name": "Numi in the Gym Oversized T-Shirt",
+   "merchantDescription": "Numi x UwU Collab LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59PM CST! Shirt Is Oversized, Size Down If You Want A More Regular Fit. SIZE CHART: Size | Length | Chest | Shoulder Width S | 70 cm | 56 cm | 55 cm M | 73 cm | 59 cm | 57 cm L | 76 cm | 62",
+   "vendor": "UwU Market",
+   "productType": "AWA01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 40.99
+  },
+  {
+   "id": "uwumarket-numi-in-the-gym-cutoff-tank",
+   "name": "Numi in the Gym Cutoff Tank",
+   "merchantDescription": "Numi x UwU Collab LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59PM CST! SIZE CHART: Size | Length | Bust | Shoulder Width S | 67 cm | 53 cm | 43 cm M | 70 cm | 56 cm | 46 cm L | 73 cm | 59 cm | 49 cm XL | 76 cm | 62 cm | 52 cm 2XL | 79 cm | 65 cm | 55",
+   "vendor": "UwU Market",
+   "productType": "AWT01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 40.99
+  },
+  {
+   "id": "uwumarket-neutral-front-signed-square-poster-signed-by-numi",
+   "name": "Neutral Front Signed Poster (Signed by Numi)",
+   "merchantDescription": "WHILE SUPPLIES LAST - ONLY 100 SIGNED POSTERS AVAILABLE This limited edition poster is signed by Numi. Please allow for an additional 7-14 days for the signing of the posters. Neutral Front Poster Designed By: Stella Park",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 35
+  },
+  {
+   "id": "uwumarket-neutral-front-square-poster",
+   "name": "Neutral Front Poster",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! Neutral Front Poster Designed By: Stella Park",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-neutral-front-t-shirt-yellow",
+   "name": "Neutral Front T-Shirt (Yellow)",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! Neutral Front T-Shirt Designed By: Stella Park",
+   "vendor": "UwU Market",
+   "productType": "TSY01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-neutral-front-t-shirt-pink",
+   "name": "Neutral Front T-Shirt (Pink)",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! Neutral Front T-Shirt Designed By: Stella Park",
+   "vendor": "UwU Market",
+   "productType": "TSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-neutral-front-signed-album-signed-by-numi-photocard",
+   "name": "Neutral Front Signed Album (Signed by Numi) + Photocard",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! This limited edition album is signed by Numi. Please allow for an additional 7-14 days for the signing of the albums. *Your order will ship once all pre-order products complete production in your o",
+   "vendor": "UwU Market",
+   "productType": "ALB01",
+   "merchantTags": [
+    "PREORDER"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "uwumarket-neutral-front-album-photocard",
+   "name": "Neutral Front Album + Photocard",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! *Your order will ship once all pre-order products complete production in your order.* \"Neutral Front\" Physical CD Album by Akuma Nihmune. 1x \"Neutral Front\" Album 1x Randomized Holographic Photo (1",
+   "vendor": "UwU Market",
+   "productType": "ALB01",
+   "merchantTags": [
+    "PREORDER"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "uwumarket-neutral-front-album-bundle-yellow",
+   "name": "Neutral Front Album Bundle (Yellow)",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! *Your order will ship once all pre-order products complete production in your order.* Neutral Front CD Album by Akuma Nihmune. 1x T-Shirt 1x \"Neutral Front\" Album 1x Randomized Holographic Photocar",
+   "vendor": "UwU Market",
+   "productType": "ABN01",
+   "merchantTags": [
+    "PREORDER",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 47.99
+  },
+  {
+   "id": "uwumarket-neutral-front-album-bundle-pink",
+   "name": "Neutral Front Album Bundle (Pink)",
+   "merchantDescription": "LIMITED TIME ONLY! Pre Orders close on 07/14/26 - 11:59pm CST! *Your order will ship once all pre-order products complete production in your order.* Neutral Front CD Album by Akuma Nihmune. 1x T-Shirt 1x \"Neutral Front\" Album 1x Randomized Holographic Photocar",
+   "vendor": "UwU Market",
+   "productType": "ABN01",
+   "merchantTags": [
+    "PREORDER",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 47.99
+  },
+  {
+   "id": "uwumarket-xanapumpkinqueen-jet-tag",
+   "name": "XanaPumpkinQueen Jet Tag",
+   "merchantDescription": "XanaPumpkinQueen x UwU Collab XanaPumpkinQueen Jet Tag Designed By: XanaPumpkinQueen",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-xanapumpkinqueen-hoodie",
+   "name": "XanaPumpkinQueen Hoodie",
+   "merchantDescription": "XanaPumpkinQueen x UwU Collab XanaPumpkinQueen Hoodie Designed By: XanaPumpkinQueen",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "PLEDGE",
+    "PLEDGE-END",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-blanket",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Blanket",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Blanket Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "BLK01",
+   "merchantTags": [
+    "anime blanket",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber blanket",
+    "vtuber merch"
+   ],
+   "price": 61.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-poster",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Poster",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Poster Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-wall-scroll",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Wall Scroll",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Wall Scroll Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-jet-tag",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Jet Tag",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Jet Tag Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-sweatpants",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Sweatpants",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Sweatpants Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-t-shirt",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" T-Shirt",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" T-Shirt Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-crewneck",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Crewneck",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Crewneck Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-your-favourite-snow-leopard-hoodie",
+   "name": "Miyra Mirage \"Your Favourite Snow Leopard\" Hoodie",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Your Favourite Snow Leopard\" Hoodie Designed By: NekkuTow",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-leopards-lingerie-daki-keychain",
+   "name": "Miyra Mirage \"Leopard's Lingerie\" Daki Keychain",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Leopard's Lingerie\" Daki Keychain Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "DKC01",
+   "merchantTags": [
+    "Anime Keychain",
+    "anime merch",
+    "daki",
+    "daki keychain",
+    "dakimakura",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-leopards-lingerie-dakimakura",
+   "name": "Miyra Mirage \"Leopard's Lingerie\" Dakimakura",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Leopard's Lingerie\" Dakimakura Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber body pillow",
+    "vtuber daki"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-snow-spice-daki-keychain",
+   "name": "Miyra Mirage \"Snow & Spice\" Daki Keychain",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Snow Spice\" Daki Keychain Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "DKC01",
+   "merchantTags": [
+    "Anime Keychain",
+    "anime merch",
+    "daki",
+    "daki keychain",
+    "dakimakura",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-snow-spice-dakimakura",
+   "name": "Miyra Mirage \"Snow & Spice\" Dakimakura",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Snow Spice\" Dakimakura Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber body pillow",
+    "vtuber daki"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-chibi-keychain",
+   "name": "Miyra Mirage \"Chibi\" Keychain",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Chibi\" Keychain Designed By: VelvetteTea",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-miyra-mirage-chibi-standee",
+   "name": "Miyra Mirage \"Chibi\" Standee",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Chibi\" Standee Designed By: VelvetteTea",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-miyra-mirage-leopards-lingerie-3d-mousepad",
+   "name": "Miyra Mirage \"Leopard's Lingerie\" 3D Mousepad",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Leopard's Lingerie\" 3D Mousepad Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-leopards-lingerie-xl-3d-mousepad",
+   "name": "Miyra Mirage \"Leopard's Lingerie\" XL 3D Mousepad",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Leopard's Lingerie\" XL 3D Mousepad Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "XBM01",
+   "merchantTags": [
+    "anime booba mousepad",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch",
+    "xl booba mousepad"
+   ],
+   "price": 64.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-snow-spice-3d-mousepad",
+   "name": "Miyra Mirage \"Snow & Spice\" 3D Mousepad",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Snow Spice\" 3D Mousepad Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-miyra-mirage-snow-spice-xl-3d-mousepad",
+   "name": "Miyra Mirage \"Snow & Spice\" XL 3D Mousepad",
+   "merchantDescription": "Miyra Mirage x UwU Collab Miyra Mirage \"Snow Spice\" XL 3D Mousepad Designed By: Targoesh",
+   "vendor": "UwU Market",
+   "productType": "XBM01",
+   "merchantTags": [
+    "anime booba mousepad",
+    "anime merch",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch",
+    "xl booba mousepad"
+   ],
+   "price": 64.99
+  },
+  {
+   "id": "uwumarket-misskitsuri-chibi-kitsuri-sticker",
+   "name": "MissKitsuri \"Chibi Kitsuri\" Sticker",
+   "merchantDescription": "MissKitsuri x UwU Collab MissKitsuri \"Chibi Kitsuri\" Sticker Designed By: mic_rabbit",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-misskitsuri-handheld-gamer-goddess-keychain",
+   "name": "MissKitsuri \"Handheld Gamer Goddess\" Keychain",
+   "merchantDescription": "MissKitsuri x UwU Collab MissKitsuri \"Handheld Gamer Goddess\" Keychain Designed By: crxztal",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-misskitsuri-kitsune-gamer-goddess-xl-mousepad",
+   "name": "MissKitsuri \"Kitsune Gamer Goddess\" XL Mousepad",
+   "merchantDescription": "MissKitsuri x UwU Collab MissKitsuri \"Kitsune Gamer Goddess\" XL Mousepad Designed By: n_yoharu",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-misskitsuri-kitsune-gamer-goddess-jet-tag",
+   "name": "MissKitsuri \"Kitsune Gamer Goddess\" Jet Tag",
+   "merchantDescription": "MissKitsuri x UwU Collab MissKitsuri \"Kitsune Gamer Goddess\" Jet Tag Designed By: n_yoharu",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-misskitsuri-kitsune-gamer-goddess-t-shirt",
+   "name": "MissKitsuri \"Kitsune Gamer Goddess\" T-Shirt",
+   "merchantDescription": "MissKitsuri x UwU Collab MissKitsuri \"Kitsune Gamer Goddess\" T-Shirt Designed By: n_yoharu",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-endo-sniffa-keychain",
+   "name": "Endo Sniffa Keychain",
+   "merchantDescription": "Endo x UwU Collab Endo Sniffa Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-endo-sniffa-sticker",
+   "name": "Endo Sniffa Sticker",
+   "merchantDescription": "Endo x UwU Collab Endo Sniffa Sticker Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-endo-sniffa-socks",
+   "name": "Endo Sniffa Socks",
+   "merchantDescription": "Endo x UwU Collab Endo Sniffa Socks Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "SCW01",
+   "merchantTags": [
+    "anime merch",
+    "anime socks",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber socks"
+   ],
+   "price": 14.95
+  },
+  {
+   "id": "uwumarket-honeybvg-honey-loading-hoodie-1",
+   "name": "HoneyBvg \"Honey Loading\" Hoodie",
+   "merchantDescription": "HoneyBvg x UwU Collab HoneyBvg \"Honey Loading\" Hoodie Designed By: HoneyBvg",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-lemon-773-chibi-sticker-pack",
+   "name": "Lemon_773 Chibi Sticker Pack",
+   "merchantDescription": "Lemon_773 x UwU Collab Lemon_773 Chibi Sticker Pack Designed By: Noy Ururuka",
+   "vendor": "UwU Market",
+   "productType": "SVS01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 19.95
+  },
+  {
+   "id": "uwumarket-lemon-773-chibi-acrylic-keychain",
+   "name": "Lemon_773 Chibi Acrylic Keychain",
+   "merchantDescription": "Lemon_773 x UwU Collab Lemon_773 Chibi Acrylic Keychain Designed By: Noy Ururuka",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  }
+ ]
+}

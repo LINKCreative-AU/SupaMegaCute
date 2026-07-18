@@ -1,0 +1,1445 @@
+{
+ "source": "sugoimart",
+ "batch": 34,
+ "items": [
+  {
+   "id": "sugoimart-akakara-ramen",
+   "name": "Akakara Ramen",
+   "merchantDescription": "A taste of Kumamoto, Japan! This spicy Kumamoto ramen has smooth but slightly hard noodles mixed with a strong chili pepper flavored broth. Can you handle the heat? Try it with: garlic, soft boiled egg Directions: 1. Boil 500ml of water in a pot. 2. Cook the n",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_red bean",
+    "F_spicy",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-sesame-sauce-for-udon-contains-peanuts",
+   "name": "Sesame Sauce For Udon (Contains Peanuts)",
+   "merchantDescription": "Sesame sauce is very popular in Japan! It‰۪s often used to season noodles, salad, tofu, etc. This flavorful and creamy sauce of golden sesame and peanuts perfectly compliments cold udon noodles. Try it with: this month‰۪s Mendokoro Zaru Udon Directions: 1. Ope",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_ip_peanuts",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_instant_noodles_ramen",
+    "F_black sesame",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pokemon-topping",
+   "name": "Pokemon Topping",
+   "merchantDescription": "Pikachu is hanging out in your bowl of tasty noodles! These Pokemon fish cakes are a fun addition to any bowl of hot noodles. It's a tasty blend of fish cake, corn, and seaweed. Directions: 1. Open packet. 2. Sprinkle to liking on hot noodles.",
+   "vendor": "Pokémon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "051921STOP",
+    "AMAZON",
+    "BENTO MAKING",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-nagomian-kitsune-udon-sep",
+   "name": "Nagomian Kitsune Udon",
+   "merchantDescription": "Slurp up these mouth watering udon noodles! This kitsune udon comes with a big piece of fried tofu that soaks in a kelp and simmered soy sauce based broth. Try it with: tempura balls, extra green onions Directions: 1. Peel cover halfway. 2. Remove seasoning pa",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_UDON"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-japanese-chestnut-mont-blanc-caramel-corn",
+   "name": "Japanese Chestnut Mont Blanc Caramel Corn",
+   "merchantDescription": "Caramel Corn is a JC Family favorite! A popular Japanese snack known for its sweet airy crispiness. This special seasonal flavor is Mont Blanc with Japanese Chestnut. The perfect autumn snack since chestnuts are one of Japan's most popular fall treats.",
+   "vendor": "Caramel Corn",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AUTUMNGOODS",
+    "CANDY & SNACKS",
+    "CARAMEL",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-takenoko-no-sato-strawberry-shortcake",
+   "name": "Takenoko No Sato Strawberry Shortcake",
+   "merchantDescription": "\"Takenoko no sato\" in Japanese means \"bamboo shoot village\" and that's exactly what's inside the box! Each chocolate biscuit is a baby bamboo shoot except way tastier because they're strawberry shortcake flavor. Enjoy these creamy and strawberry covered cookie",
+   "vendor": "Cake",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-apple-pie-kit-kat",
+   "name": "Kit Kat Japan Sweetness For Adults (Apple Pie Flavor)",
+   "merchantDescription": "Celebrate Halloween with a seasonal treat—our Apple Pie KitKat, specially crafted in Japan. This dessert-inspired KitKat features crispy wafer layers enveloped in apple pie-flavored white chocolate, offering a balanced blend of sweetness and tartness. The refr",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "Arrives by Christmas",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 12.29
+  },
+  {
+   "id": "sugoimart-lipton-caramel-milk-tea",
+   "name": "Lipton Caramel Milk Tea",
+   "merchantDescription": "Refresh yourself with this limited edition Lipton Caramel Milk Tea after a long night of trick or treating and Halloween festivities! Volume: 450ml",
+   "vendor": "Lipton",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "012822STOP",
+    "CARAMEL",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-sumikko-gurashi-gum-oct",
+   "name": "Sumikko Gurashi Gum",
+   "merchantDescription": "Trick or treat at the home of the Sumikko Gurashi cuties! They're giving you this yogurt flavored gum for Halloween.",
+   "vendor": "San-X",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_sumikko_gurashi",
+    "data_department_sweets_snacks",
+    "data_ip_san_x"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-hello-kitty-meat-puzzle-blind-box",
+   "name": "Hello Kitty Meat Puzzle Blind Box",
+   "merchantDescription": "Kaitai Fantasy is here with a special and unique Hello Kitty puzzle! You can either get a puzzle that displays Hello Kitty's skeleton, or one that displays here muscle. Either way, it's a new way to look at the beloved Sanrio character! NOTE: There are 2 possi",
+   "vendor": "Sanrio",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS",
+    "COLLECTIBLES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-my-melody-meat-puzzle-blind-box",
+   "name": "My Melody Meat Puzzle Blind Box",
+   "merchantDescription": "Kaitai Fantasy is here with a special and unique My Melody puzzle! You can either get a puzzle that displays My Melody's skeleton, or one that displays here muscle. Either way, it's a new way to look at the beloved Sanrio character! NOTE: There are 2 possibili",
+   "vendor": "Sanrio",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "data_character_my_melody",
+    "data_department_kawaii",
+    "data_ip_sanrio"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-ichiwagai-meat-puzzle-black-chicken",
+   "name": "Ichiwagai Meat Puzzle: Black Chicken",
+   "merchantDescription": "Learn about the different cuts and parts of a chicken through this interesting 3D puzzle!",
+   "vendor": "Puzzle",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "$20-$30",
+    "102821STOP",
+    "3DMEATPUZZLE",
+    "AMAZON",
+    "BIC CAMERA",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-calbee-rich-cheese-potato-chips",
+   "name": "Calbee Rich Cheese Potato Chips",
+   "merchantDescription": "What's better than having a rich cheese snack in the Winter? This potato chip from Calbee brings you a rich cheese flavor.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_cheese"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-calbee-nori-shio-w-punch-potato-chips",
+   "name": "Calbee Nori Shio Double Punch Potato Chips",
+   "merchantDescription": "Nori Shio refers to Seaweed and Salt in Japanese. This potato chips feature a double punch of the flavor, making sure that everyone can feel the strong savoury taste.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-miso-cream-soup-potato-chips",
+   "name": "Calbee Onion Miso Cream Soup Potato Chips",
+   "merchantDescription": "Onion Miso Cream Soup is a famous product produced by Marukome, a famous miso manufacturer in Japan. Calbee collaborated with Marukome, just to bring you the fantastic taste of potato chips and the Onion Miso Cream Soup flavor for the Winter.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_cream"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-chip-star-asparagus-and-bacon",
+   "name": "Chip Star Asparagus And Bacon Flavor",
+   "merchantDescription": "Chip Star is a specialist in Potato Chips. This features a mixed flavor of Asparagus and Bacon.",
+   "vendor": "Chip Star",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_meat",
+    "JPCH"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-chip-star-tomato-and-olive-oil",
+   "name": "Chip Star Tomato And Olive Oil Flavor",
+   "merchantDescription": "Chip Star is a specialist in Potato Chips. This features a mixed flavor of Tomato and Olive Oil.",
+   "vendor": "Chip Star",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-jagariko-bits-consomme",
+   "name": "Jagariko Bits: Consomme Flavor",
+   "merchantDescription": "Jagariko is a famous snack under Calbee. This features a limited Consomme flavor.",
+   "vendor": "Jagariko",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-satsumariko-grilled-sweet-potato-snack",
+   "name": "Satsumariko Bits: Sweet Potato Flavor",
+   "merchantDescription": "Satsumariko is another snack under Calbee. This features a grilled sweet potato taste, which is super great for Winter and Autumn times.",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-fettuccine-strawberry-soda",
+   "name": "Fettuccine Gummy Strawberry Soda",
+   "merchantDescription": "These sweet strips of gummy are well liked for their sweet and sour taste! This particular flavor is Strawberry Soda! Yum!",
+   "vendor": "Fettuccine",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-pokemon-graffiti-art-pins-collection-blind-box",
+   "name": "Pokemon Graffiti Art Pins Collection Blind Box",
+   "merchantDescription": "To celebrate the opening of the new Pokemon Center in Shibuya, Pokemon launched a series of new goods featuring a pokemon graffiti design! This is their pins collection blind box, getŒæ1 out of the 5 different variations.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-pokemon-graffiti-art-3-sticker-set-pikachu",
+   "name": "Pokemon Graffiti Art 3-Sticker Set (Pikachu)",
+   "merchantDescription": "To celebrate the opening of the new Pokemon Center in Shibuya, Pokemon launched a series of new goods featuring a pokemon graffiti design! This set contains three stickers featuring Pikachu.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-pokemon-graffiti-art-3-sticker-set-rayquaza",
+   "name": "Pokemon Graffiti Art 3-Sticker Set (Rayquaza)",
+   "merchantDescription": "To celebrate the opening of the new Pokemon Center in Shibuya, Pokemon launched a series of new goods featuring a pokemon graffiti design! This set contains three stickers featuring Rayquaza.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-pokemon-graffiti-art-3-sticker-set-charizard",
+   "name": "Pokemon Graffiti Art 3-Sticker Set (Charizard)",
+   "merchantDescription": "To celebrate the opening of the new Pokemon Center in Shibuya, Pokemon launched a series of new goods featuring a pokemon graffiti design! This set contains three stickers featuring Charizard)",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-pokemon-charmander-cable-bite",
+   "name": "Pokemon Charmander Cable Bite",
+   "merchantDescription": "Protect and accessorize your iPhone Lightning cables with these cable bites! Here we have the cute Kanto starter Pokemon Charmander.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-pokemon-squirtle-cable-bite",
+   "name": "Pokemon Squirtle Cable Bite",
+   "merchantDescription": "Protect and accessorize your iPhone Lightning cables with these cable bites! Here we have the cute Kanto starter Pokemon Squirtle.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-pokemon-sword-shield-bath-bomb",
+   "name": "Pokemon Sword And Shield Bath Bomb",
+   "merchantDescription": "Here we have a fun bath bomb to celebrate the release of Pokemon Sword and Shield! Drop one of these into your bath, and you have the chance to get a figurine of Pikachu, Grookey, Sobble, or Scorbunny!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "BATH",
+    "BATH BOMBS",
+    "BATHBOMB",
+    "BIC CAMERA",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-pokemon-terrarium-collection-blind-box-vol-6",
+   "name": "Pokemon Terrarium Collection Blind Box Vol. 6",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have terrariums featuring famous Pokemon like Pikachu and Bellossom. Get 1 out of 6.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "122122STOP",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-terrarium-collection-blind-box-vol-7",
+   "name": "Pokemon Terrarium Collection Blind Box Vol. 7",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have terrariums featuring famous Pokemon like Pikachu and Growlithe. Get 1 out of 6.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "122122STOP",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-pokemon-snorlax-rubber-clip-keychain",
+   "name": "Pokemon Snorlax Rubber Clip Keychain",
+   "merchantDescription": "Pokemon are here to make your day to day easier! This clip-on keychain features the lovable Snorlax.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-black-thunder-banana-choco",
+   "name": "Black Thunder: Banana Choco",
+   "merchantDescription": "Black Thunder is one of the mainstay chocolate bars in Japan. This variety has the taste of banana and chocolate mixed in! Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be",
+   "vendor": "Black Thunder",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "BLACK THUNDER",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "DAGASHI"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-pretz-crispy-chicken-flavor",
+   "name": "Pretz: Crispy Chicken Flavor",
+   "merchantDescription": "Pretz is a breadstick snack from Glico, the makers of Pocky. This variety is made to taste like yummy savory chicken!",
+   "vendor": "Pretz",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "03122021EY",
+    "081121STOP",
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CLASSIC JAPANESE SNACKS",
+    "data_department_sweets_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pringles-beef-bowl-flavor",
+   "name": "Pringles: Beef Bowl Flavor",
+   "merchantDescription": "Pringles, one of the world's famous potato chip brands, combines with beef bowls (gyudon) for one of the most unique and delicious flavors ever!",
+   "vendor": "Pringles",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "03092021",
+    "031621STOP",
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "data_department_sweets_snacks"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-hi-chew-fresh-acerola",
+   "name": "Hi-Chew Fresh: Acerola",
+   "merchantDescription": "Japanese Hi-Chew is always coming out with limited flavors! This Hi-Chew is even fruitier than a typical Hi-Chew, and is flavored like the berry acerola.",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-oh-sushi-game",
+   "name": "Sushi Jenga By Iup Oh!",
+   "merchantDescription": "It doesn't get more Japanese than this: 10 different games all using a set of pieces shaped like nigiri sushi! This Sushi Jenga game will help you build your chopstick skills which will prove very handy during your next trip to Japan. Your chopsticks skills wi",
+   "vendor": "Jenga",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "07132021AD",
+    "AMAZON",
+    "BGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "data_department_toys_games",
+    "data_persona_is_collector"
+   ],
+   "price": 44.99
+  },
+  {
+   "id": "sugoimart-pikachu-and-eevee-putitto-blind-box",
+   "name": "Pikachu And Eevee Putitto Blind Box",
+   "merchantDescription": "Putitto is a Japanese toy that you mount on the edge of a cup or glass! It's a blind box so it's a surprise which fun figure you will get! This Eevee and Pikachu blind box putitto has 6 varieties.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-butata-putitto-blind-box",
+   "name": "Butata Putitto Blind Box",
+   "merchantDescription": "Putitto is a Japanese toy that you mount on the edge of a cup or glass! It's a blind box so it's a surprise which fun figure you will get! This cute and funny pig blid box putitto has 6 varieties.",
+   "vendor": "Blind Box",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES",
+    "data_department_kawaii",
+    "data_persona_is_collector"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-cheetos-happiness-honey-cheese",
+   "name": "Cheetos: Happiness Honey Cheese",
+   "merchantDescription": "This fall limited edition release of Cheetos in Japan features FOUR different kinds of cheeses including camembert, cheddar, mozzarella, and cream cheese with a touch of honey. The sweet cheesy flavors will leave you wanting more!",
+   "vendor": "Cheetos",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHEETOS",
+    "CHEETOSJP",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-chicochan-fusen-gum",
+   "name": "Chico-Chan Fusen Gum",
+   "merchantDescription": "Enjoy the flavor of cider while out and about with this gum - easy to take along and pop into your mouth when you‰۪re in the need of a refresh!",
+   "vendor": "Gum",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-sour-cola-gummy",
+   "name": "Sour Cola Gummy",
+   "merchantDescription": "Pop, pour, fizzle with this sour cola gummy treat to satisfy a sweets craving in a jiffy.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_citrus",
+    "F_soda"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-tsumu-gummy",
+   "name": "Tsumu Gummy",
+   "merchantDescription": "Play your own game of tetris with these gummies! Their fun block shapes make for a fun and tasty game with flavors including strawberry, grape, muscat, and tangerine.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-sonomanma-soda-gum",
+   "name": "Sonomanma Soda Gum",
+   "merchantDescription": "Made by Coris, this Sonomanma ramune gum contains three round- shaped gumballs! One of the three is sour, but it can only be revealed when tasting and chewing. Test your luck with some friends to see who‰۪s the unlucky one.",
+   "vendor": "Coris",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-pudding-flavored-jelly",
+   "name": "Pudding Flavored Jelly",
+   "merchantDescription": "Slurp up this pudding flavored jelly treat that‰۪s creamy and delicious when you‰۪re in need of something quick and sweet.",
+   "vendor": "Pudding",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_caramel",
+    "F_milk"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-angel-pie-mini-annoimo-nov",
+   "name": "Angel Pie: Mini Annoimo",
+   "merchantDescription": "Fall into fall flavor with these annou sweet potato sandwich biscuits! Their fluffy and delicious sandwich biscuits are filled with a luscious marshmallow cream.",
+   "vendor": "Angel Pie",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_hojicha",
+    "F_miso"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-chocolate-melon-bread",
+   "name": "Bourbon Chocolate Melon Bread",
+   "merchantDescription": "These small melon bun cookies are filled with melon-flavored chocolate cream for delicious melon flavor in every bite! Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be hel",
+   "vendor": "Bourbon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "SOLD OUT"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-vivits-hokkaido-melon-mix-soda",
+   "name": "Vivits Hokkaido Melon Mix Soda",
+   "merchantDescription": "This month's drink features a carbonated drink with the flavors of Hokkaido red melon juice - enjoy the sweetness and richness of red melon and its delicious aroma.",
+   "vendor": "Vivits",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_fruit",
+    "F_soda"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-petanto-rabbit-plush",
+   "name": "Petanto Rabbit Plush",
+   "merchantDescription": "This pink bunny will capture your heart. Its fluffy pink fur is soft to the touch and nice to cuddle. It has a chain, making it easy to take on the go and kawaii-fy your life!",
+   "vendor": "Petanto",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles",
+    "SOLD OUT"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-japanese-style-butter-soy-sauce-spaghetti",
+   "name": "Japanese Style Butter Soy Sauce Spaghetti",
+   "merchantDescription": "Now you can make your own Japanese style spaghetti! Butter and soy sauce is a popular Japanese flavor combo that is the perfect balance of a bit of sweet and salty. Try it and fall in love with the deliciousness for yourself. Try it with: bacon, mushrooms, spi",
+   "vendor": "Sauce",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_butter",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_MEALKIT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-seafood-vermicelli-noodles",
+   "name": "Seafood Vermicelli Noodles",
+   "merchantDescription": "Japan is all about seafood! Cook up some of your own seafood vermicelli noodles flavored with oyster and garlic. Just add your favorite seafood additions for a hearty meal. Try it with: shrimp, scallops, squid, carrot, onion, green pepper Directions: 1. Heat o",
+   "vendor": "Noodle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_seafood",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-one-piece-spangled-charm-luffy",
+   "name": "One Piece Spangled Charm (Luffy)",
+   "merchantDescription": "One Piece is one of Japan's most loved anime and manga series! Here we have a charm inspired by the pirate logo of Luffy.",
+   "vendor": "One Piece",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "111722STOP",
+    "AMAZON",
+    "ANIME",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES",
+    "data_character_one_piece"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-one-piece-spangled-charm-chopper",
+   "name": "One Piece Spangled Charm (Chopper)",
+   "merchantDescription": "One Piece is one of Japan's most loved anime and manga series! Here we have a charm inspired by the pirate logo of Chopper.",
+   "vendor": "One Piece",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "093021STOP",
+    "ANIME",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES",
+    "data_character_one_piece",
+    "data_department_anime_manga"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-one-piece-chokorin-mascot-blind-box",
+   "name": "One Piece Chokorin Mascot Blind Box",
+   "merchantDescription": "One Piece is one of Japan's most loved anime and manga series! Here we have a blind box featuring cute 50mm figurines of One Piece characters. Get 1 of a possible 6!",
+   "vendor": "One Piece",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "03052021STOP",
+    "ANIME",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CHARACTER GOODS",
+    "data_character_one_piece"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-blendy-hojicha-au-lait-7-sticks",
+   "name": "Blendy Stick Hojicha Au Lait (7 Sticks)",
+   "merchantDescription": "Blendy is known for having instant teas that are easy to make (just pour in your hot water, stir, and you're all set). Here we have Hojicha (tea made from roasted green tea leaves) in 7 sticks.",
+   "vendor": "Blendy",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "F_hojicha",
+    "F_milk",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-blendy-hojicha-au-lait-21-sticks",
+   "name": "Blendy Stick Hojicha Au Lait (21 Sticks)",
+   "merchantDescription": "Blendy is known foråÊtheir each,åÊinstant teas that areåÊquick to make (just pour in your hot water, stir, and you're all set). Here we have Hojicha (tea made from roasted green tea leaves) in 21 sticks.",
+   "vendor": "Blendy",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKS",
+    "F_hojicha",
+    "F_milk"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-tsujiri-hojicha-milk-tea-powder",
+   "name": "Tsujiri Hojicha Milk (Tea Powder)",
+   "merchantDescription": "Tsujiri is a popular tea maker known for their easy-to-make teas. Here we have a hojicha milk tea powder which contains some chocolat in the mix. To make, just put 4 teaspons (20g) of powder into a cup. Add 120ml of hot water and stir well. Contains 180g of po",
+   "vendor": "Tsujiri",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKS",
+    "F_hojicha",
+    "F_milk",
+    "FOOD & DRINKS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-nittoh-fruit-sangria-tea",
+   "name": "Nittoh Fruit Sangria Tea (10 Sticks)",
+   "merchantDescription": "Nittoh is here with a new fruity tea. Here we have a (non-alcoholic) sangria tea packed with vitamin C. You can enjoy this either hot or iced. Add 1 stick to 150ml of water and you're set. Contains 10 sticks.",
+   "vendor": "Nittoh",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINK",
+    "DRINKS",
+    "F_fruit",
+    "FOOD & DRINKS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-tsujiri-kyo-latte-brown-sugar-matcha-milk-and-hojicha-milk",
+   "name": "Tsujiri Kyo Latte (Brown Sugar Matcha Milk And Hojicha Milk)",
+   "merchantDescription": "Tsujiri is a popular tea maker known for their easy-to-make teas, and here we have one of their lattes. Here we have a mix of unique lattes - brown sugar matcha milk latte and hojicha milk latte. To enjoy hot, add one stick into a cup and add 140ml of hot wate",
+   "vendor": "Tsujiri",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_brown sugar",
+    "F_hojicha",
+    "F_matcha"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-tsujiri-uji-matcha-pudding-mix",
+   "name": "Tsujiri Uji Matcha Pudding Mix (5 Sticks)",
+   "merchantDescription": "Tsujiri is a popular tea maker known for their easy-to-make teas. Here we have a special treat for matcha loves - pudding! To make, just add 1 stick into a container and mix 70ml of hot water (70 degrees Celcius or hotter), and mix for 1 minute. Let it chill i",
+   "vendor": "Tsujiri",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-afternoon-tea-peach-and-pear-tea-soda",
+   "name": "Afternoon Tea: Peach And Pear Tea Soda",
+   "merchantDescription": "Afternoon Tea is known for, well, its teas! Here we have a peach and pear flavored tea that's also a soda! Contains 430ml.",
+   "vendor": "Afternoon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP",
+    "F_fruit",
+    "F_soda",
+    "F_tea"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kit-kat-yuzu-matcha-flavor",
+   "name": "Kit Kat: Yuzu Matcha Flavor",
+   "merchantDescription": "These Kit Kats matches Yuzu, Japan's famous citrus fruit with Matcha, Japan's original tea together, bringing you the most traditional flavor from Japan. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat d",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-melty-kiss-premium-dark",
+   "name": "Melty Kiss: Premium Dark",
+   "merchantDescription": "Melty Kiss is a popular mini, bite sized chocolate snack in Japan, especially around seasonal holidays! This is their Premium Dark version, giving you the best flavor from the best selection of cocoa. Please Note: If temperatures in your location are above 28°",
+   "vendor": "Melty Kiss",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pie-no-mi-kiri-cheesecake",
+   "name": "Pie No Mi: Kiri Cheesecake",
+   "merchantDescription": "Pie no Mi is a small, layered snack that is made to be bite-sized pies! This cheesecake flavor is collaborated with Kiri, one of the best-selling global cheese brand.",
+   "vendor": "Pie No Mi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-chocorooms-mega-gift-pack",
+   "name": "Chocorooms: Mega Gift Pack",
+   "merchantDescription": "Chocorooms, or Kinoko no Yama, is a loved chocolate snack in the cute shape of mushrooms! This comes into a mega size, giving you more of that amazing taste. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get he",
+   "vendor": "Chocorooms",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-dars-premium-white-and-ruby",
+   "name": "Dars Premium White And Ruby",
+   "merchantDescription": "Dars is a chocolate brand created by Morinaga, a famous food manufacturer in Japan. This is their premium white and ruby flavor, giving you the most luxurious taste. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product ma",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-lotte-cherry-brandy-chocolate",
+   "name": "Lotte Cherry Brandy Chocolate",
+   "merchantDescription": "This chocolate by Lotte is filled with the wonderful cherry brandy aroma and flavor. NOTE: This chocolate contains 0.8% alcohol. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We can",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-crayon-shin-chan-chocolate",
+   "name": "Crayon Shin-Chan Crayon Chocolate Gift Pack",
+   "merchantDescription": "Crayon Shin-chan is a famous character in Japan. This chocolate features the shape of his crayons! Contains 4 crayon chocos, and 2 heart-shaped chocos. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat dam",
+   "vendor": "Crayon Shin-Chan",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_character_crayon_shin_chan",
+    "data_department_sweets_snacks",
+    "data_ip_crayon_shin_chan",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-mini-angel-pie-strawberry-daifuku",
+   "name": "Mini Angel Pie: Strawberry Daifuku",
+   "merchantDescription": "This mini choco pie snack by Morinaga features a Strawberry Daifuku flavor, which is a famous snack in Japan. Try the best strawberry daifuku filling from this snack.",
+   "vendor": "Morinaga",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-pocky-sweet-potato-floating-in-the-pool",
+   "name": "Pocky: Sweet Potato Floating In The Pool",
+   "merchantDescription": "Pocky is back with a super trendy design with even more amazing flavors! This features a sweet potato flavor with a simplistic design.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pocky-grapes-at-midnight",
+   "name": "Pocky: Grapes At Midnight",
+   "merchantDescription": "Pocky is back with a super trendy design with even more amazing flavors! This features a grape flavor with a simplistic design.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pocky-matcha-against-the-forest",
+   "name": "Pocky: Matcha Against The Forest",
+   "merchantDescription": "Pocky is back with a super trendy design with even more amazing flavors! This features a matcha flavor with a simplistic design.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pocky-melon-shines-on-a-frosty-morning",
+   "name": "Pocky: Melon Shines On A Frosty Morning",
+   "merchantDescription": "Pocky is back with a super trendy design with even more amazing flavors! This features a melon flavor with a simplistic design.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pocky-berry-rolling-in-a-daydream",
+   "name": "Pocky: Berry Rolling In A Daydream",
+   "merchantDescription": "Pocky is back with a super trendy design with even more amazing flavors! This features a berry flavor with a simplistic design.",
+   "vendor": "Pocky",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-ghana-pink-chocolate-strawberry",
+   "name": "Ghana Pink Chocolate Strawberry",
+   "merchantDescription": "Ghana launches a new pink chocolate to celebrate Valentine's Day with a strawberry flavor. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any temper",
+   "vendor": "Ghana",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-sakeru-gummy-apple-riddle",
+   "name": "Sakeru Gummy: Apple Riddle",
+   "merchantDescription": "You might have seen this gummy in those viral \"Long Long Man\" commercials online. We introduce to you Sakeru Gummy. These gummy are unique in that they are almost cheesestring-like! Just pull strips off and nibble these sweet gummies to your hearts content! Th",
+   "vendor": "Sakeru",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-caplico-mini-strawberry-bouquet-gift-pack",
+   "name": "Caplico Mini: Strawberry Bouquet Gift Pack",
+   "merchantDescription": "Caplico is a famous snack in Japan created by Glico. This is Caplico mini featuring a strawberry flavor that allows you to make a bouquet with the snack itself! Includes 9 bouquets",
+   "vendor": "Glico",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHOCOLATES",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-meiji-big-marble-chocolate-gift-pack",
+   "name": "Meiji Marble Chocolate Xl Gift Pack",
+   "merchantDescription": "Meiji Marble Chocolate is a well-known chocolate snack in Japan with different colors. This one comes in a mega size which will be even more enjoyable. Contains 64 (larger than usual) pieces. Please Note: If temperatures in your location are above 28°C (82°F),",
+   "vendor": "Meiji",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "SOLD OUT"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-rilakkuma-mini-chocolate-gift-pack",
+   "name": "Rilakkuma Mini Chocolate Gift Pack",
+   "merchantDescription": "This 4-variation chocolate features Rilakkuma, everyone's favorite lazy bear! Includes 4-pieces of Rilakkuma-approved chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We can",
+   "vendor": "San-X",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_rilakkuma",
+    "data_department_sweets_snacks",
+    "data_ip_san_x"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-chococones-double-berry-cake-flavor",
+   "name": "Chococones: Double Berry Cake Flavor",
+   "merchantDescription": "These chococones, or Takenoko no Sato, is a delicious chocolate snack in the shape of bamboo shoots! This limited flavor is made to taste like double berry cake.",
+   "vendor": "Chococones",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-lotte-bacchus-chocolate",
+   "name": "Lotte Bacchus Chocolate",
+   "merchantDescription": "This chocolate by Lotte features a cognac filling which is rich and luxurious. Note: Contains 3.2% alcohol. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsib",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "072722STOP",
+    "091421STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-lotte-rummy-chocolate",
+   "name": "Lotte Rummy Chocolate",
+   "merchantDescription": "This chocolate by Lotte features a rum raisin filling which is rich and classic. Note: Contains 3.7% alcohol. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held respons",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "070621STOP",
+    "090822STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI"
+   ],
+   "price": 4.99
+  }
+ ]
+}

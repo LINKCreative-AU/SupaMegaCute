@@ -3,31 +3,54 @@
  "batch": 3,
  "items": [
   {
-   "id": "squishable-squish-dreams-snacker-cozy-banana",
-   "name": "Squish Dreams: Snacker Cozy Banana",
-   "merchantDescription": "I'll be the first to admit I do NOT like bananas! They overpower anything you put them in, and I just don't like the texture! HOWEVER, I make two exceptions; those little banana shaped hard candies, and this cozy little baby nana! This Squish is one of the ver",
+   "id": "squishable-mini-squishable-dark-forest-mothman",
+   "name": "Mini Squishable Dark Forest Mothman",
+   "merchantDescription": "This Dark Forest Mothman isn’t your average cryptid-on-the-run. They’re giving serious rainy day brooding energy. Less Point Pleasant, more Forks, Washington. The type to whisper cryptic poetry in a meadow, then sparkle in the daylight... after playing thunder",
    "vendor": "Squishable",
-   "productType": "Snacker",
-   "merchantTags": [
-    "retired"
-   ],
-   "price": 25
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
   },
   {
-   "id": "squishable-squishable-sakura-mothman",
-   "name": "Squishable Sakura Mothman",
-   "merchantDescription": "Ah, spring. A time for renewal, fresh air, and cryptids covered in cherry blossoms? Yep, this Sakura Mothman is making her debut, looking both enchanting and otherworldly! Many report feeling calmer in her presence. So, go on! Take a deep breath - she insists!",
+   "id": "squishable-micro-flocked-christmas-tree",
+   "name": "Micro Flocked Christmas Tree",
+   "merchantDescription": "What is flocking, technically speaking? A mystery for the ages. All we know is it’s soft, it’s velvety, and it makes a Christmas tree look like it wandered out of a snow globe wearing couture. So here you go: a Micro Flocked Christmas tree! Tiny. Regal. Possib",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-micro-comfort-food-christmas-tree-cookie",
+   "name": "Micro Christmas Tree Cookie",
+   "merchantDescription": "Careful now! Too much cocoa and holiday ham, and you’ll miss the main event : teeny tiny cookies demanding your attention (and possibly your lap). Feeling too full to snack? No problem! Just give it a good Squish instead! (Disclaimer: do not attempt to Squish ",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-mini-squishable-white-rat",
+   "name": "Mini Squishable White Rat",
+   "merchantDescription": "Were you forced to read Flowers for Algernon in school? Well DON'T! Because it's SAD! But if you have to, please read it while cuddling this little white rat, who will immediately remind you that life is totally fine, and not full of heavy-handed plot devices ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-squishable-blue-d20-dice",
+   "name": "Squishable Blue D20 Dice",
+   "merchantDescription": "Roll for cuddles! Whether you're deep in a dungeon crawl or just rooting through the couch cushions for snacks, this D20 is here to boost morale. Critical hits? Sure. Critical naps? Even better. Just don't ask it to track initiative... it’s mostly here for emo",
    "vendor": "Squishable",
    "productType": "Big",
-   "merchantTags": [
-    "Trending"
-   ],
-   "price": 65
+   "merchantTags": [],
+   "price": 49
   },
   {
-   "id": "squishable-mini-squishable-alien-mothman",
-   "name": "Mini Squishable Alien Mothman",
-   "merchantDescription": "It’s a bird, it’s a plane! Nope, that's definitely an Alien Mothman! No need to storm Area 51 to catch sight of this cutie. Just stand in an open field and wait patiently... If you’re lucky, you’ll be the one getting abducted! mothman, baby mothman, alien, blu",
+   "id": "squishable-mini-squishable-rainbow-trout",
+   "name": "Mini Squishable Rainbow Trout",
+   "merchantDescription": "She’s a Trout. She’s a rainbow. She’s booked and busy. This plush Trout has things to do, places to be, and a shimmer level that’s frankly disruptive to aquatic ecosystems. Yes, she’s iconic! No, she will not be explaining herself. fish, bass, rainbow, colorfu",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [
@@ -36,450 +59,731 @@
    "price": 35
   },
   {
-   "id": "squishable-alter-egos-series-19-ghoulish-moth",
-   "name": "Alter Egos Series 19: Ghoulish Moth",
-   "merchantDescription": "You know we had to add another spooky fella in here! This moth is ready to break it's unearthly chains and cause mischief and mayhem wherever they fly! Don't believe me? Get one for yourself and keep track of all your lightbulbs... moth, bug, insect, punk, roc",
+   "id": "squishable-squishable-oarfish",
+   "name": "Squishable Oarfish",
+   "merchantDescription": "",
    "vendor": "Squishable",
-   "productType": "Snacker",
+   "productType": "Big",
+   "merchantTags": [
+    "approved"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-praying-mantis",
+   "name": "Mini Squishable Praying Mantis",
+   "merchantDescription": "",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "approved"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-tie-dye-bunny-3d-slipper",
+   "name": "Tie Dye Bunny 3D Slipper",
+   "merchantDescription": "Youth: Ages 5-8 Adult XS/S: Women's Size 5-7 or Men's Size 3-5 Adult M/L: Women's Size 8-10 or Men's Size 6-8 tie, dye, bunny, slippers, feet, kawaii, cute, soft",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 40
+  },
+  {
+   "id": "squishable-doctor-plague-3d-slipper",
+   "name": "Doctor Plague 3D Slipper",
+   "merchantDescription": "Youth: Ages 5-8 Adult XS/S: Women's Size 5-7 or Men's Size 3-5 Adult M/L: Women's Size 8-10 or Men's Size 6-8 plague, doctor, slipper, feet",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 40
+  },
+  {
+   "id": "squishable-plague-nurse-slide-slipper",
+   "name": "Plague Nurse Slide Slipper",
+   "merchantDescription": "Youth: Ages 5-8 Adult XS/S: Women's Size 5-7 or Men's Size 3-5 Adult M/L: Women's Size 8-10 or Men's Size 6-8 plague, nurse, slipper, feet",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-doctor-plague-slide-slipper",
+   "name": "Doctor Plague Slide Slipper",
+   "merchantDescription": "Youth: Ages 5-8 Adult XS/S: Women's Size 5-7 or Men's Size 3-5 Adult M/L: Women's Size 8-10 or Men's Size 6-8 plague, doctor, slipper, feet",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-festive-plague-doctor-3d-slipper",
+   "name": "Festive Plague Doctor 3D Slipper",
+   "merchantDescription": "Adult XS/S: Women's Size 5-7 or Men's Size 3-5 Adult M/L: Women's Size 8-10 or Men's Size 6-8 plague, doctor, slipper, feet",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 40
+  },
+  {
+   "id": "squishable-frog-3d-slipper",
+   "name": "Frog 3D Slipper",
+   "merchantDescription": "Listen, we all know frogs aren't fuzzy, we also know you can't stick your foot in them and walk around in a comfortable manner. Nothing makes sense here! Youth: Ages 5-8 Adult XS/S: Women's Size 5-7 or Men's Size 3-5 Adult M/L: Women's Size 8-10 or Men's Size ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [
+    "collectors-guide"
+   ],
+   "price": 40
+  },
+  {
+   "id": "squishable-mini-comfort-food-peach",
+   "name": "Mini Comfort Food Peach",
+   "merchantDescription": "\"You're a peach!\" That means you're great! No other piece of produce so encapsulates how I feel about YOU, you, the person looking at this page right now! I've admired you for years, too shy to make myself known. There was only one thing to do: go to school fo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-corndog",
+   "name": "Mini Comfort Food Corndog",
+   "merchantDescription": "Is a corndog a corn that wishes to be a dog? Or a dog that wishes to be corn? Or a moment of stolen glee at a state fair? Or an ephemeral smell of fried fun wafting on the summer breeze? Well, depending on which corndog you mean, the answer is none of those. A",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-comfort-food-loaf-of-bread",
+   "name": "Mini Comfort Food Loaf of Bread",
+   "merchantDescription": "All around the world, people get together to break bread! They do not break sea bass fillets, nor do they break pomegranates, however wonderfully messy that would be! That's because Bread is the friendliest food there is!Bread says \"welcome on board!\" to any s",
+   "vendor": "Squishable",
+   "productType": "Mini",
    "merchantTags": [],
    "price": 24
   },
   {
-   "id": "squishable-alter-egos-series-19-bog-moth",
-   "name": "Alter Egos Series 19: Bog Moth",
-   "merchantDescription": "Finally it's time for the bog girlies to riiiiise! The time of cottages and rainbows is over! Get your affairs in order because you belong to the bog now! moth, bug, insect, magic, forest, bog, swamp, ogre, green, moss",
-   "vendor": "Squishable",
-   "productType": "Snacker",
-   "merchantTags": [],
-   "price": 24
-  },
-  {
-   "id": "squishable-alter-egos-series-19-fairy-moth",
-   "name": "Alter Egos Series 19: Fairy Moth",
-   "merchantDescription": "She was a fairy! Surrounded by nature and covered in fairy dust, this magical moth is ready to make all your chaotic dreams come true! Just don't get on her bad side, fairies are notoriously tricky! moth, bug, insect, fairies, pixies, pixie, magic, fantasy, po",
-   "vendor": "Squishable",
-   "productType": "Snacker",
-   "merchantTags": [],
-   "price": 24
-  },
-  {
-   "id": "squishable-alter-egos-series-19-clown-moth",
-   "name": "Alter Egos Series 19: Clown Moth",
-   "merchantDescription": "Honk honk! Do you think this moth is drawn to a boring old flames?! NOPE! This guy yearns for applause! The laughter of the audience! POPCORN! This isn't a scary clown, this is a cooool clown! Honk! moth, bug, insect, clown, joker, jokester, circus, laugh, fun",
-   "vendor": "Squishable",
-   "productType": "Snacker",
-   "merchantTags": [],
-   "price": 24
-  },
-  {
-   "id": "squishable-alter-egos-series-19-ocean-moth",
-   "name": "Alter Egos Series 19: Ocean Moth",
-   "merchantDescription": "This moth is on an aquatic mission of epic proportion! It aims to heal any and all coral reefs it comes across! Why? Well, they understand the importance of a thriving ecosystem! They also just think they're neat. moth, bug, insect, ocean, water, beach, waves,",
-   "vendor": "Squishable",
-   "productType": "Snacker",
-   "merchantTags": [],
-   "price": 24
-  },
-  {
-   "id": "squishable-squishable-mega-rainbow-trout",
-   "name": "Mega Squishable Rainbow Trout",
-   "merchantDescription": "You know trout. You’ve seen trout. But have you emotionally prepared yourself for a Mega Rainbow Trout? This is not your average stream-side sighting: it’s bigger, brighter, and far too full of himself! With all that rainbow flair, this trout will have a whole",
+   "id": "squishable-mega-squishable-avocado",
+   "name": "Mega Squishable Avocado",
+   "merchantDescription": "Your favorite mega millennial deserves a Mega Avocado for their toast! They also deserve fair housing prices, reasonable tuition repayment terms, and parents who don't assume the economy hasn't changed since 1972, but this is what we've got for 'em. Standard G",
    "vendor": "Squishable",
    "productType": "Mega",
    "merchantTags": [],
    "price": 135
   },
   {
-   "id": "squishable-doctor-plague-baseball-hat",
-   "name": "Doctor Plague Baseball Hat",
-   "merchantDescription": "Wear your Squishable pride on your noggin with this adorable Plague Doctor hat! Swag, hat, baseball, cap, sun, black, plague, spooky",
+   "id": "squishable-mini-comfort-food-toaster",
+   "name": "Mini Comfort Food Toaster",
+   "merchantDescription": "Who doesn't love a warm, crisp, not-at-all burnt piece of toast in the morning!? Probably me, but pretty much everything I make is charcoal. That wouldn't be a problem with this little guy! He can't burn your toast. He can't actually burn anything! toast, toas",
    "vendor": "Squishable",
-   "productType": "Hat",
+   "productType": "Mini",
    "merchantTags": [],
-   "price": 25
+   "price": 34
   },
   {
-   "id": "squishable-plague-nurse-baseball-hat",
-   "name": "Plague Nurse Baseball Hat",
-   "merchantDescription": "Wear your Squishable pride on your noggin with this adorable Plague Nurse hat! Swag, hat, baseball, cap, sun, black, plague, spooky",
+   "id": "squishable-mini-comfort-food-hero-sandwich",
+   "name": "Mini Comfort Food Hero Sandwich",
+   "merchantDescription": "I am loyal to one sandwich chain only! It gets my ham, my cheese, my ham AND cheese... until now! Move over Mike's, I'm having my sub the Squish way! sandwich, which, sammy, sub, hero, bread, toast, hoagie, roll, loaf, subway, brown, beige,",
    "vendor": "Squishable",
-   "productType": "Hat",
+   "productType": "Mini",
    "merchantTags": [],
-   "price": 25
+   "price": 32
   },
   {
-   "id": "squishable-squishable-flatwoods-monster",
-   "name": "Squishable Flatwoods Monster",
-   "merchantDescription": "Oh, you’ve heard of Mothman but not the Flatwoods Monster? Classic. Well, she’s been lurking in the forests of West Virginia this whole time while that winged guy steals the spotlight! Pfft! Now she’s here to reclaim her rightful cryptid fame. Go on...admire h",
+   "id": "squishable-party-snacker-pastel-smore",
+   "name": "Party Snacker Pastel S'more",
+   "merchantDescription": "This pastel treat traded its usual campfire vibes for something a little more... dreamy. Pink, purple, it’s basically a dessert that lives inside a sunset. fruit, straw, berry, bink, pink, purple, snackers, small, pastel, camp, campfire, toasting, smore, smore",
    "vendor": "Squishable",
-   "productType": "Big",
+   "productType": "Snacker",
    "merchantTags": [],
-   "price": 48
+   "price": 17
   },
   {
-   "id": "squishable-squishable-corgi-bubble-tea",
-   "name": "Squishable Corgi Bubble Tea",
-   "merchantDescription": "One of our favorite SquishHQ traditions is the official Walkies For Snacks. When the craving strikes, we march ourselves straight to the nearest bubble tea shop with great determination! This Corgi Bubble Tea now comes along as our official 'Squish Tea Ambassa",
+   "id": "squishable-mini-comfort-food-honey-jar",
+   "name": "Mini Comfort Food Honey Jar",
+   "merchantDescription": "Bees made it. Bears want it. Toast loves it. And now it’s completely incapable of getting stuck to your fingers! This Mini Honey Jar contains approximately zero actual honey, but 100% cozy, golden, slightly sticky vibes! Honey, pot, jar, pooh, bear, golden, be",
    "vendor": "Squishable",
-   "productType": "Big",
+   "productType": "Mini",
    "merchantTags": [],
-   "price": 56
+   "price": 32
   },
   {
-   "id": "squishable-mini-comfort-food-brie",
-   "name": "Mini Comfort Food Brie",
-   "merchantDescription": "",
+   "id": "squishable-squish-gardens-snacker-marmalade",
+   "name": "Squish Gardens: Snacker Marmalade",
+   "merchantDescription": "Hey, sister! Soul sister! Have tried THIS marmalade, lady?! This is your chance! This Squish is one of the very final items from the Spring 2025 in-stores-only Squish Gardens capsule collection, making a rare temporary online appearance! We'll ship it to you d",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "squishable-squish-gardens-micro-ladybug",
+   "name": "Squish Gardens: Micro Ladybug",
+   "merchantDescription": "A Ladybug brings good luck! Multiple Ladybugs bring multiple luck! Thousands of Ladybugs are terrifying, but I'm game to try it if you are! This Squish is one of the very final items from the Spring 2025 in-stores-only Squish Gardens capsule collection, making",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 14
+  },
+  {
+   "id": "squishable-squish-gardens-snacker-gnome",
+   "name": "Squish Gardens: Snacker Gnome",
+   "merchantDescription": "Garden gnomes as a concept are so strange. Like, what do you mean he's a little guy who just sits in your garden and guards it from threats? While looking whimsical? No joke here, just commenting. This Squish is one of the very final items from the Spring 2025",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 16.99
+  },
+  {
+   "id": "squishable-squish-gardens-mini-squishable-inchworm",
+   "name": "Squish Gardens: Mini Squishable Inchworm",
+   "merchantDescription": "You're working in your garden, not a care in the world. Just watering your begonias and roses. Then, out of the corner of your eye, you see it. Something crawling. Inching. BOOM! Inch worm. Your world is never the same again. This Squish is one of the very fin",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [
-    "approved"
+    "retired"
    ],
-   "price": 36
+   "price": 34
   },
   {
-   "id": "squishable-mini-squishable-baby-monkey",
-   "name": "Mini Squishable Baby Monkey",
-   "merchantDescription": "",
+   "id": "squishable-squish-gardens-mini-squishable-plague-doctor",
+   "name": "Squish Gardens: Mini Squishable Plague Doctor",
+   "merchantDescription": "Accidents can happen anywhere at any time! In the greenhouse! By the flower patch! Near the herbs! In the Orchard! By the ancient summoning circle we don't talk about ever! This Plague Doctor can help. This Squish is one of the very final items from the Spring",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [
-    "approved"
+    "retired"
    ],
-   "price": 36
+   "price": 35
   },
   {
-   "id": "squishable-mini-squishable-anglerfish",
-   "name": "Mini Squishable Anglerfish",
-   "merchantDescription": "This Mini Anglerfish is your light in the darkness! I mean, how can anyone stay mad when they look at this face?! Scared? Maybe. But not mad ! sea devils, monkfish, goosefish, ocean, fish, aquatic, sea, blue, navy",
+   "id": "squishable-squish-gardens-mini-squishable-mantis",
+   "name": "Squish Gardens: Mini Squishable Mantis",
+   "merchantDescription": "This beautiful bug isn't afraid to get her forelegs dirty! She gardens by herself! She gardens with a friend! Now she's by herself again. Because she ate them. This Squish is one of the very final items from the Spring 2025 in-stores-only Squish Gardens capsul",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 34
+  },
+  {
+   "id": "squishable-squish-gardens-mini-squishable-reaper",
+   "name": "Squish Gardens: Mini Squishable Reaper",
+   "merchantDescription": "Can a harbinger of death bring life to a wilting garden?! Of course they can! A green thumb is a green thumb even if said thumb is hidden underneath a robe made of shadows and souls! This Squish is one of the very final items from the Spring 2025 in-stores-onl",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-pygmy-hippo",
+   "name": "Mini Squishable Pygmy Hippo",
+   "merchantDescription": "DANG! Other Pygmy Hippos better MOOooove over, a new top dog is in town!! If at this point in time you don't get that reference, you either use a flip phone or live under a rock. hippo, moo, dang, deng, moo deng, hippopotamus, purple, pink, blurple",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-lemon-shark",
+   "name": "Mini Squishable Lemon Shark",
+   "merchantDescription": "If you came across an unexpected shark, you'd be a little sour! A shark coming across an unexpected human would also be a little sour! Or maybe hungry. Either way, this Lemon Shark has the right idea! lemon, sour, fruit, sharks, fish, fin, jaws, jaw, synthisqu",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [
     "pre-order",
     "Trending"
    ],
-   "price": 36
+   "price": 34
   },
   {
-   "id": "squishable-mini-squishable-betta-fish",
-   "name": "Mini Squishable Betta Fish",
-   "merchantDescription": "I want to make an anime reference so badly right now. Just imagine this betta as pure black or pure white, while a certain light-haired and dark-haired duo spiral into existential despair over their clashing destinies. The tension. The symbolism! Or you could ",
+   "id": "squishable-mini-squishable-baby-hummingbird",
+   "name": "Mini Squishable Baby Hummingbird",
+   "merchantDescription": "What a charming little hum! Like a flower daydreaming. So soothing! So peaceful! So...loud? Has it changed keys? Is it harmonizing with itself? Why can I still hear it when it’s not in the room? Why is it in my thoughts? WHAT DOES IT WANT?! bird,small,birb,fly",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
    "price": 32
   },
   {
-   "id": "squishable-mini-squishable-bone-fish",
-   "name": "Mini Squishable Bone Fish",
-   "merchantDescription": "So you're telling me, this fish is made out of bones?! As in calcium rich material?! Ha! Does it swim in milk too?! BOOOOONES?! dead, undead, spooky, skeleton, ghost, zombie, cemetery, fish, ocean, synthisquish, hybrid, black, white",
+   "id": "squishable-mini-squishable-pirate-plague-doctor",
+   "name": "Mini Squishable Pirate Plague Doctor",
+   "merchantDescription": "Ahoy matey! Get ready to hoist anchor and set sail on the most medically equipped ship in all the seven seas! Captain Plague is ready to lead their crew to treasure, victory, and regularly scheduled check-ups. Whether it's scurvy, sea monsters, or just trying ",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
-   "price": 32
+   "price": 39
   },
   {
-   "id": "squishable-toobling-strawberry-sandwich-bunny",
-   "name": "Toobling Strawberry Sandwich Bunny",
-   "merchantDescription": "This just be the most perfect springtime plush...in Toob form! What says spring more than strawberries, bunnies, and picnic sandwiches? Maybe slightly warmer weather, but that's it! icecream, sando, sandwich, sandwhich, cream, berry, berries, fruit, white, bei",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-toobling-pastry-dog",
-   "name": "Toobling Pastry Dog",
-   "merchantDescription": "You've heard of pup cups, now get ready for pastry dogs! Okay, it definitely doesn't roll of the tongue as well, but I do think this is a pastry dogs and humans alike will LOVE since neither can eat it! Now in Toob form! cannolli, cannoli, donut, cream, desser",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-toobling-pancake-cat",
-   "name": "Toobling Pancake Cat",
-   "merchantDescription": "This buttery soft toobular cat is pancaked! Although I don't know what sort of pan would give you a cake like THIS! breakfast, dessert, treat, waffle, butter, brunch, beige, golden, bronze, cat, kitty, cats, kitten",
+   "id": "squishable-mini-squishable-dark-forest-fae",
+   "name": "Mini Squishable Dark Forest Fae",
+   "merchantDescription": "I was meant to be some sort of forest fairy creature. The smell of dirt and moss on a rainy day! The sound of a secret magical babbling brook! The light bouncing off that same brook as it turns me into a tree! Forever! Even as I sit at this desk, writing this ",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
    "price": 35
   },
   {
-   "id": "squishable-toobling-haunted-dragon",
-   "name": "Toobling Haunted Dragon",
-   "merchantDescription": "This Tooby Dragon laughs at heroic speeches. It snorts at knights. It giggles uncontrollably at princesses with elaborate rescue plans. You’ll find it back at the castle, draped dramatically between cobwebs and portraits whose eyes absolutely follow you. Coinc",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-toobling-witchy-cat",
-   "name": "Toobling Witchy Cat",
-   "merchantDescription": "Every good witch knows you are nothing without your familiar! Now, your familiar is also a Toob-shaped witch! witch, magic, fantasy, spooky, magical, cauldron, purple, cat, kitty, cats, kitten",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-toobling-devil-dog",
-   "name": "Toobling Devil Dog",
-   "merchantDescription": "Who's been a bad dog? You have! You have! Yes you have! Whooosabadboythen? Definitely this devilishly Toobular cutie! devils, devilish, heck, fire, damnation, demon, black, flames, doggie, dogs, pup, puppy, puppies",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-toobling-cosmic-dragon",
-   "name": "Toobling Cosmic Dragon",
-   "merchantDescription": "A dragon that DOESN'T breathe fire? More common than you'd think! This dragon is able to fire blast stardust and comets in all it's Toobular glory! How does that work? I don't know! I'm not a scientist! stars, moon, celestial, cosmos, astrology, astrological, ",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-toobling-sakura-bunny",
-   "name": "Toobling Sakura Bunny",
-   "merchantDescription": "Imagine you're sitting underneath a billowing sakura tree surrounded by dozens of fluffy rabbit friends! Except they're shaped like toobs! Petals drift. The world is calm. Your lumbar support has never been this poetic. petals, flowers, cherry, blossoms, bloss",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 35
-  },
-  {
-   "id": "squishable-mini-squishable-birthday-mimic-gift",
-   "name": "Mini Squishable Birthday Mimic Gift",
-   "merchantDescription": "Birthdays are funny little things. One year you’re blowing out candles and feeling like the star of the show! The next year, you’re staring into the distance thinking about time. Either way, this is the perfect present to hold while you process it all! birthda",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [],
-   "price": 36
-  },
-  {
-   "id": "squishable-mini-squishable-imp",
-   "name": "Mini Squishable Imp",
-   "merchantDescription": "This may be the most mischievous Squish yet! It is sIMPly IMPossible to not love them! I mean, just look at their little eyes - not a single thought behind them. Well... besides chaos and catastrophe! demon, mischief, fiend, sprite, gremlin, urchin, spooky, fa",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [],
-   "price": 17.99
-  },
-  {
-   "id": "squishable-mini-squishable-fairy-mothman",
-   "name": "Mini Squishable Fairy Mothman",
-   "merchantDescription": "I do believe in Fairy Mothmen! I do, I do! If you get that reference, congratulations you have unbelievably good taste! If you don't get that reference, I'm sorry to say you're not sitting at the lost boys table! moth,mothman,west virginia,cryptid,lamp,spooky,",
+   "id": "squishable-mini-squishable-prism-moth",
+   "name": "Mini Squishable Prism Moth",
+   "merchantDescription": "\"Hey little Prism Moth, how do these pastel rainbow colors make you feel?? Pretty? Proud? P-hilanthropic?\" This little moth is here to refract it's colorful light all over the world and into your heart! Which I think is Perfect (Personally!)! Designed for Prid",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [
     "Trending"
    ],
-   "price": 35
+   "price": 39
   },
   {
-   "id": "squishable-squishable-fruit-bat",
-   "name": "Squishable Fruit Bat",
-   "merchantDescription": "I wonder who saw a bowl of fruit and said to themselves, \"Ah yes, this looks like a salad!\" Maybe it was the same person who thought to make a bat out of fruit? Hmm... intrigue! bat, orange, fruit, hybrid, summer, juice, fruity, synthisquish",
+   "id": "squishable-mini-squishable-steampunk-plague-nurse",
+   "name": "Mini Squishable Steampunk Plague Nurse",
+   "merchantDescription": "Hey Nurse B, I don't want to distract you while you're in the middle of repelling sky pirates from your airship, but let me just say, you've got this! Yes, your fuel rations are down to fumes, there's a rogue gear jammed in the altimeter, a mechanical flying o",
    "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 65
-  },
-  {
-   "id": "squishable-massive-squishable-pigeon",
-   "name": "Massive Squishable Pigeon",
-   "merchantDescription": "We don’t usually name our Squishables, but exceptions must be made. This is Midge. Midge the Pidge. Icon. Legend. Star. She brings prosperity, joy, and strong city energy. Please leave offerings of day-old bagels and pizza crusts at her feet. This is not optio",
-   "vendor": "Squishable",
-   "productType": "Massive",
+   "productType": "Mini",
    "merchantTags": [
     "Trending"
    ],
-   "price": 275
+   "price": 38
   },
   {
-   "id": "squishable-mini-squishable-sakura-plague-nurse",
-   "name": "Mini Squishable Sakura Plague Nurse",
-   "merchantDescription": "This Plague Nurse is perfectly proportioned with precious pink petals! Please prepare yourselves for preposterous premeditated puns! plague doctor, plague, plague nurse, sakura, cherry blossom, pink, spring, summer, floral, spring, spooky, cute, kawaii",
+   "id": "squishable-mini-squishable-pumpkin-ghost",
+   "name": "Mini Squishable Pumpkin Ghost",
+   "merchantDescription": "Ready to make a pumpkin pie? Great! Step 1: Pick out the pumpkin! Step 2: Check your pumpkin for ghosts! Seriously, don't forget that step unless you want haunted pie. Of course, if you DO want haunted pie, then you're set either way! pumpkin, ghostie, ghosts,",
    "vendor": "Squishable",
    "productType": "Mini",
-   "merchantTags": [],
-   "price": 36
-  },
-  {
-   "id": "squishable-mini-squishable-sakura-plague-doctor",
-   "name": "Mini Squishable Sakura Plague Doctor",
-   "merchantDescription": "If you've never had the opportunity to see cherry blossoms in real life before, hopefully this Plague can hold you over until you do!! Inspired by Japanese sakura flowers, this doc knows just the remedy to get you ready for spring! plague doctor, plague, plagu",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [],
-   "price": 36
-  },
-  {
-   "id": "squishable-mini-squishable-sakura-plague-doctor-nurse-set",
-   "name": "Mini Squishable Sakura Plague Doctor & Nurse Set",
-   "merchantDescription": "These plagues are not scented. They simply transcend scent entirely. They don’t smell like cherry blossoms...they are the cherry blossoms. Blooming year-round with zero seasonal commitment, they’ll never wilt, sweat, or give you winter blues. Also sold as indi",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [],
-   "price": 70
-  },
-  {
-   "id": "squishable-squishable-tree-stump",
-   "name": "Squishable Tree Stump",
-   "merchantDescription": "Unironically, I'm stumped trying to come up with a fun and silly description for this guy! For the Mini we went the \"you're traveling through the forest\" route. Here, I think I'll go the, \"who else would make a tree stump plush besides us\" route! tree, stump, ",
-   "vendor": "Squishable",
-   "productType": "Big",
-   "merchantTags": [],
-   "price": 49
-  },
-  {
-   "id": "squishable-mini-squishable-smore-kitty",
-   "name": "Mini Squishable S'more Kitty",
-   "merchantDescription": "Ah yes, the purrfect recipe for a s'more; two perfectly symmetrical graham crackers, ONE piece of chocolate, a marshmallow just this side of burnt, and....A CAT?!?! I think something's a little off here..... kitty, marshmallow, s'more, s'mores, smore, smores, ",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [],
+   "merchantTags": [
+    "pre-order"
+   ],
    "price": 32
   },
   {
-   "id": "squishable-mini-comfort-food-chicago-dog",
-   "name": "Mini Comfort Food Chicago Dog",
-   "merchantDescription": "What's your preferred way to have a hot dog?! I gotta say, I'm a good ol' chili cheese dog enjoyer myself!!! However, a Chicago dog has definitely grown on me!!! Chicago pizza on the other hand...we're still working things out in therapy. hot dog, food, comfor",
+   "id": "squishable-mini-squishable-leafy-fox",
+   "name": "Mini Squishable Leafy Fox",
+   "merchantDescription": "Foxes are orange - not a traditional forest color! Plan to hide out with your fox in the nearest deep woods? Try this more camouflage-friendly woodland version, and you'll be golden! By which I mean, green. fox, leaf, tree, nature, green, animal, forest, small",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-squishable-capybara",
+   "name": "Squishable Capybara",
+   "merchantDescription": "An important part of becoming an adult is in admitting our mistakes. For example! We made a Capybara. We made it a Mini. It was too small. Do you have any idea how big those things are? BIG! Anyway, this big honking full-sized guy right here is ready to rectif",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 54
+  },
+  {
+   "id": "squishable-mini-banana-slug",
+   "name": "Mini Squishable Banana Slug",
+   "merchantDescription": "Start spelling the word 'banana' and you may never be able to stop. Start hanging out with this particular terrestrial gastropod found in America's West Coast and you may never be able to go! Anywhere! At all! Slugs are slow, is what I'm trying to say. Banana ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-ghost-pepper",
+   "name": "Mini Squishable Ghost Pepper",
+   "merchantDescription": "Ever eaten something so unbearably hot you thought you could've died!? Well, what if, instead, the pepper died? And became a ghost. And haunted you every time you ate something bland forever! The answer is this Ghost Pepper, that's what. synthisquish, hybrid, ",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
    "price": 29
   },
   {
-   "id": "squishable-squishable-triceratops",
-   "name": "Squishable Triceratops",
-   "merchantDescription": "There's magic in the number 3! Three weird sisters, three wishes, Three's Company (thats a U.S. tv show based on a British show that aired starting in...1973!) Also the three horns of a Triceratops! Do you think the triceratops knows it's magic? I hope so. Eit",
+   "id": "squishable-mini-squishable-tree-stump",
+   "name": "Mini Squishable Tree Stump",
+   "merchantDescription": "You're taking a late night stroll in the woods! Do you turn left at the meadow, or right at the bog? If only there was someone to ask for directions! Just then, you trip over a wisened tree stump! He's more than willing to show you the way! Metaphorically, of ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-goblin",
+   "name": "Mini Squishable Goblin",
+   "merchantDescription": "There's a famous unnamed movie from the 80's, starring a famous unnamed man playing the Goblin King. Famously, that character fails to turn someone into a goblin. But if he succeeded, they'd probably look like this. For which they'd be famous, obviously. gobli",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-fruit-bat",
+   "name": "Mini Squishable Fruit Bat",
+   "merchantDescription": "Fruit salad is delicious! Fruit salad that's also a bat is...more problematic from a culinary viewpoint! Is he for eating? Is he for cuddling? Is he for making us wonder if pun-based plush opens existential debates we aren't totally comfortable with? Yes to al",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-orb-weaver-spider",
+   "name": "Mini Squishable Orb Weaver Spider",
+   "merchantDescription": "Orb Weaver Spiders make perfectly round webs using math! Their work is admired by scientists, architects, and the occasional moth with bad depth perception. Eight legs, excellent spatial reasoning, and a surprisingly strong sense of interior design. spider, lo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 38
+  },
+  {
+   "id": "squishable-squishable-rainbow-trout",
+   "name": "Squishable Rainbow Trout",
+   "merchantDescription": "Men showing off a fresh-caught fish in a dating app profile! It's a great way say, \"I'm a great hunter-gatherer, and also sometimes I might smell like fish!\" If that's the subliminal message YOU would like to tell prospective mates, then this is the Squishable",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 54
+  },
+  {
+   "id": "squishable-mini-squishable-mimic-gift",
+   "name": "Mini Squishable Mimic Gift",
+   "merchantDescription": "Don’t bite the hand that feeds you! Also, don’t look a gift horse in the mouth. And definitely don't bite your gift in the mouth, or anywhere else. Now in this case, if your gift bites you, you're on your own. present, gifts, christmas, holiday, spooky, festiv",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-mushroom-cow",
+   "name": "Mini Squishable Mushroom Cow",
+   "merchantDescription": "If a cow eats too many strawberries, it becomes a strawberry cow. If a cow eats too much chocolate, it becomes a chocolate cow. So, if a cow eats too many mushrooms it becomes a... Mushroom Cow! And that's a true science fact. You are now a cow scientist. cow,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-squishable-horseshoe-crab",
+   "name": "Squishable Horseshoe Crab",
+   "merchantDescription": "Does this plush bring back memories of going to the aquarium and poking at the horseshoe crab in the petting tanks? And then fishing it out and taking it home as a pet? And then going on a wild bank robbing spree together, jumping the border, and living the re",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "pre-order"
+   ],
+   "price": 52
+  },
+  {
+   "id": "squishable-mini-squishable-mermaid-plague-nurse",
+   "name": "Mini Squishable Mermaid Plague Nurse",
+   "merchantDescription": "Coral cut? Deep sea dislocation? Lured onto sharp jagged rocks and then eaten by a Siren? This Mermaid Plague Nurse is well equipped for all these aquatic medical messes! Tail, arms, random seashells... she has the tools to fix you up both above and below the ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-squishable-kitty",
+   "name": "Squishable Kitty",
+   "merchantDescription": "True story! I found my cat at a bus stop on Labor Day! We searched the entire flipping city for an open vet or shelter, but alas! Closed! So I did the only logical thing and adopted him forever. I have no regrets, but this plush version is a lot less drama. Ju",
    "vendor": "Squishable",
    "productType": "Big",
    "merchantTags": [],
-   "price": 49
+   "price": 54
   },
   {
-   "id": "squishable-mini-squishable-fluffy-flamingo",
-   "name": "Mini Squishable Fluffy Flamingo",
-   "merchantDescription": "Flamingos: You'll find them in mangroves, in Vegas, on your neighbor's lawn, in your cocktail...there's really no escaping this flamboyantly festive bird! With long legs like those, the flamingo can sure get around. What's the anatomical trick to her leggy loc",
+   "id": "squishable-mini-squishable-ant",
+   "name": "Mini Squishable Ant",
+   "merchantDescription": "Tiny. Tireless. Terrifying (in large numbers). But this Ant? This one’s just here to vibe. It may not be able to carry 50 times its weight, but it can carry the emotional weight of your entire week. Which, you know, ain't light. insect, bug, bugs, insects, red",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
-   "price": 26
+   "price": 32
   },
   {
-   "id": "squishable-mini-squishable-ufo",
-   "name": "Mini Squishable UFO",
-   "merchantDescription": "UFOs...are they real? Glowing lights flickering in deserts of Nevada... Mysterious radio signals whispering to us from light years away... Visions of otherworldly crafts, hovering above Earth... Well, speculate no longer! Yep, they're totally real, and super c",
+   "id": "squishable-snacker-fly",
+   "name": "Snacker Fly",
+   "merchantDescription": "\"Shoo Fly, Don't Bother Me!\" \"There Was an Old Lady Who Swallowed a Fly!\" \"Will you walk into my parlor?\" said the Spider to the Fly. Children’s rhymes are really fly-obsessed. We should probably just be glad Old MacDonald didn’t farm them. fly, bug, insect, h",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 17
+  },
+  {
+   "id": "squishable-mini-squishable-kiwi-kiwi",
+   "name": "Mini Squishable Kiwi Kiwi",
+   "merchantDescription": "Kiwi! It's a little green fruit covered in fur! And a little flightless bird...also with fur! And also might refer to citizens of New Zealand, who may or may not be furry at all, that's entirely their own business! The Kiwi Kiwi is a mix of these. Take him to ",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
-   "price": 28
+   "price": 36
   },
   {
-   "id": "squishable-mini-comfort-food-coconut",
-   "name": "Mini Comfort Food Coconut",
-   "merchantDescription": "Welcome to our Luau! I'm glad you could join 1000 of your closest friends already hanging out on this tropical Hawaiian beach! Watch some hula performances! Eat some roasted animals or non-animal alternatives! Debate exactly what's in this coconut drink! Do I ",
+   "id": "squishable-diy-tan-drawstring-dust-bag-large",
+   "name": "DIY Tan Drawstring Dust Bag - Large",
+   "merchantDescription": "You asked, and we listened! \"Round\" is a surprisingly impossible shape to wrap—we've tried. If you're ordering your Squish as a gift, do your future self a favor and add this silky reusable bag to instantly transform it into a gift wrapped for an enchanted for",
    "vendor": "Squishable",
-   "productType": null,
+   "productType": "Tote",
    "merchantTags": [],
+   "price": 7
+  },
+  {
+   "id": "squishable-diy-tan-drawstring-dust-bag-small",
+   "name": "DIY Tan Drawstring Dust Bag - Small",
+   "merchantDescription": "You asked, and we listened! \"Round\" is a surprisingly impossible shape to wrap—we've tried. If you're ordering your Squish as a gift, do your future self a favor and add this silky reusable bag to instantly transform it into a gift wrapped for an enchanted for",
+   "vendor": "Squishable",
+   "productType": "Tote",
+   "merchantTags": [],
+   "price": 6
+  },
+  {
+   "id": "squishable-diy-doctor-plague-drawstring-gift-bag-large",
+   "name": "DIY Doctor Plague Drawstring Gift Bag - Large",
+   "merchantDescription": "You asked, and we listened! \"Round\" is a surprisingly impossible shape to wrap—we've tried. If you're ordering your Squish as a gift, do your future self a favor and add this silky reusable bag to instantly transform it into a gift wrapped for an enchanted for",
+   "vendor": "Squishable",
+   "productType": "Tote",
+   "merchantTags": [
+    "plague_stuff"
+   ],
+   "price": 7
+  },
+  {
+   "id": "squishable-diy-doctor-plague-drawstring-gift-bag-small",
+   "name": "DIY Doctor Plague Drawstring Gift Bag - Small",
+   "merchantDescription": "You asked, and we listened! \"Round\" is a surprisingly impossible shape to wrap—we've tried. If you're ordering your Squish as a gift, do your future self a favor and add this silky reusable bag to instantly transform it into a gift wrapped for an enchanted for",
+   "vendor": "Squishable",
+   "productType": "Tote",
+   "merchantTags": [
+    "plague_stuff"
+   ],
+   "price": 6
+  },
+  {
+   "id": "squishable-blue-drawstring-gift-bag-large",
+   "name": "DIY Blue Drawstring Gift Bag - Large",
+   "merchantDescription": "You asked, and we listened! \"Round\" is a surprisingly impossible shape to wrap—we've tried. If you're ordering your Squish as a gift, do your future self a favor and add this silky reusable bag to instantly transform it into a gift wrapped for an enchanted for",
+   "vendor": "Squishable",
+   "productType": "Tote",
+   "merchantTags": [],
+   "price": 7
+  },
+  {
+   "id": "squishable-diy-blue-drawstring-gift-bag-small",
+   "name": "DIY Blue Drawstring Gift Bag - Small",
+   "merchantDescription": "You asked, and we listened! \"Round\" is a surprisingly impossible shape to wrap—we've tried. If you're ordering your Squish as a gift, do your future self a favor and add this silky reusable bag to instantly transform it into a gift wrapped for an enchanted for",
+   "vendor": "Squishable",
+   "productType": "Tote",
+   "merchantTags": [],
+   "price": 6
+  },
+  {
+   "id": "squishable-mini-squishable-steampunk-plague-doctor",
+   "name": "Mini Squishable Steampunk Plague Doctor",
+   "merchantDescription": "Plague Doctors are powered by a blatant disregard for the boundaries of standard chemistry and physics. Steampunk Plague Doctors are powered by...coal. Also clockwork, gears, and probably, like, some kind of retrofuturistic-sounding dynamo thing. Plague, nurse",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 38
+  },
+  {
+   "id": "squishable-mini-squishable-wraith",
+   "name": "Mini Squishable Wraith",
+   "merchantDescription": "",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "approved"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-potion-bottle",
+   "name": "Mini Squishable Potion Bottle",
+   "merchantDescription": "",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "approved"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-baby-bearded-dragon",
+   "name": "Mini Squishable Baby Bearded Dragon",
+   "merchantDescription": "",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "approved"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-party-snacker-lilac-luna-moth",
+   "name": "Party Snacker Lilac Luna Moth",
+   "merchantDescription": "Soft as moonlight, mysterious as a late-night snack craving, and prettier than your third-favorite dream—this Lilac Luna Moth is here to vibe. Unlike regular moths who fling themselves into porch lights with zero chill, this one prefers lavender breezes, shimm",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "Trending"
+   ],
    "price": 22
   },
   {
-   "id": "squishable-mini-squishable-rhinoceros-beetle",
-   "name": "Mini Squishable Rhinoceros Beetle",
-   "merchantDescription": "I imagine that animal names were decided by vibes alone. One person said, “That bug reminds me of a rhinoceros,” and everyone else said, “Say less.” Paperwork was filed. History was made. And they never looked back. beetle, bug, insect, exoskeleton, brownish, ",
+   "id": "squishable-party-snacker-mint-baby-axolotl",
+   "name": "Party Snacker Mint Baby Axolotl",
+   "merchantDescription": "I'm not a fan of mint! Which is why I'm in a permanent state of war with my office mate about the validity of mint chocolate chip as an ice cream flavor (it's NOT, Rachel!). This Minty Axolotl is my peace offering. Mint may not be a real flavor (SERIOUSLY, RAC",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-mini-squishable-penguin-1",
+   "name": "Mini Squishable Penguin",
+   "merchantDescription": "",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "approved"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-mini-squishable-pink-baby-mothman",
+   "name": "Mini Squishable Pink Baby Mothman",
+   "merchantDescription": "They glow. They flutter. They're pink. This Mothman didn’t come to warn you of impending doom, they've got bigger fish to fry and lips to gloss. Less 'harbinger of disaster,' more 'floating through the mall food court with a mysterious past and a soft pretzel.",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 36
+  },
+  {
+   "id": "squishable-alter-egos-series-14-rosy-maple-mothman",
+   "name": "Alter Egos Series 14: Rosy Maple Mothman",
+   "merchantDescription": "It's a Moth, and it is also a Man. Usually that's as far we'd go in clarifying the species of this particular cryptid, but now we can be more specific! It's not an Atlas Mothman, Peppered Mothman, or a Domestic Silk Mothman of any type! It's a Rosy Maple Mothm",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 23
+  },
+  {
+   "id": "squishable-snacker-baby-red-panda",
+   "name": "Snacker Baby Red Panda",
+   "merchantDescription": "They may be tiny, but the red panda sure is mighty! Did you know that they can eat up to 30% of their entire body weight in bamboo and leaves in a DAY?!?!? I thought my eating habits were bad..... panda.china,nepal,endangered,pabu,red,orange",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-mini-squishable-sleepy-sloth",
+   "name": "Mini Squishable Sleepy Sloth",
+   "merchantDescription": "Shhhh, don't wake him up! This Sloth works hard to maintain an optimal sleep cycle. And that hard work makes him sleep more! It's a sleep cycle....cycle. tired, sleep, sleepy, sloths, rainforest, brown, beige,",
    "vendor": "Squishable",
    "productType": "Mini",
    "merchantTags": [],
-   "price": 35
+   "price": 32
   },
   {
-   "id": "squishable-squishable-sunfish",
-   "name": "Squishable Sunfish",
-   "merchantDescription": "Ever since we leaked this baby, we've been SWAMPED with comments about when it would be dropping, and how many first borns it would take to release it early!! Well, it's not early, BUT IT'S HERE! fish, blue, purple, ocean, trout, river, water, mola, moonfish, ",
+   "id": "squishable-mini-squishable-void-bunny",
+   "name": "Mini Squishable Void Bunny",
+   "merchantDescription": "First there was the void. And then, into that void hopped... a Bunny. A Bunny so adorable, it absorbed all the surrounding matter and energy surrounding it, thus creating a vortex of unquantifiable cuteness. So, from an external observer, according to physics,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-alter-egos-series-14-rainy-day-mothman",
+   "name": "Alter Egos Series 14: Rainy Day Mothman",
+   "merchantDescription": "The serendipity of it being a super rainy NYC day as I write this description: that's the power of the Mothman, people! Unlike this adorable Mothman, I don't sprout rainbows under my arms. I also don't own rain boots, but I could fix that. I should fix that. m",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 23
+  },
+  {
+   "id": "squishable-alter-egos-series-14-professor-mothman",
+   "name": "Alter Egos Series 14: Professor Mothman",
+   "merchantDescription": "Ok, I may be speaking to my own experience BUT, did anyone else have a 'dark academia' phase because they grew up on tumblr and saw a bunch of edits using English Literature and you thought to yourself, \"this is CULTURE!\" I was convinced I was going to go live",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 23
+  },
+  {
+   "id": "squishable-alter-egos-series-14-fiery-mothman",
+   "name": "Alter Egos Series 14: Fiery Mothman",
+   "merchantDescription": "Some Mothmen are drawn to the glow of streetlights. This one? Wildfire. Lava flow. The eternal flame of your deepest, most chaotic impulses. He doesn’t flap toward the flame—he is the flame. Cozy him at your own risk. moth, mothman, west, virginia, cryptid, la",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 23
+  },
+  {
+   "id": "squishable-alter-egos-series-14-ectoplasm-mothman",
+   "name": "Alter Egos Series 14: Ectoplasm Mothman",
+   "merchantDescription": "If we broke down our individual atoms and swished them around a bit, would we turn into ectoplasm? Probably not, because we're made of human. But this Mothman certainly would! We know, because he did! And here he is! moth, mothman, west, virginia, cryptid, lam",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 23
+  },
+  {
+   "id": "squishable-squishable-baby-kitsune",
+   "name": "Squishable Baby Kitsune",
+   "merchantDescription": "This furry folklore fox is looking to snuggle. In fox form. Not human form. It would be a bit weird to wake up in the middle of the night snuggling with a strange human. Or maybe not? Who am I to judge! red, dragon, cat, white, magic",
    "vendor": "Squishable",
    "productType": "Big",
    "merchantTags": [
     "Trending"
    ],
-   "price": 49
+   "price": 54
   },
   {
-   "id": "squishable-mini-squishable-citrus-capybara",
-   "name": "Mini Squishable Citrus Capybara",
-   "merchantDescription": "Yes, yes, we saw the comments. “Add an orange to the Capybara!” A classic move. A predictable move. But we asked ourselves, what if… this Capybara was the orange? So we did that. Innovation. Science. Vitamin C. capybara, capy, orange, synthisquish, hybrid, ora",
+   "id": "squishable-mini-squishable-red-riding-hood-wolf-plague-doctor-nurse-set",
+   "name": "Mini Squishable Red Riding Hood & Wolf Plague Set",
+   "merchantDescription": "My oh my, what big eyes you have! And what big ears you have! And what big white pointy teeth you have! Also, I notice that you're hanging out with a wolf, but that's clearly not the most dangerous creature in this situation. Plague, nurse, doctor, love, red, ",
    "vendor": "Squishable",
    "productType": "Mini",
-   "merchantTags": [
-    "Trending"
-   ],
-   "price": 35
-  },
-  {
-   "id": "squishable-mini-comfort-food-mango",
-   "name": "Mini Comfort Food Mango",
-   "merchantDescription": "",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [
-    "approved"
-   ],
-   "price": 36
-  },
-  {
-   "id": "squishable-mini-comfort-food-fruit-tart",
-   "name": "Mini Comfort Food Fruit Tart",
-   "merchantDescription": "",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [
-    "approved"
-   ],
-   "price": 36
-  },
-  {
-   "id": "squishable-mini-comfort-food-chocolate-swiss-roll",
-   "name": "Mini Comfort Food Chocolate Swiss Roll",
-   "merchantDescription": "",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [
-    "approved"
-   ],
-   "price": 36
-  },
-  {
-   "id": "squishable-mini-comfort-food-tomato",
-   "name": "Mini Comfort Food Tomato",
-   "merchantDescription": "",
-   "vendor": "Squishable",
-   "productType": "Mini",
-   "merchantTags": [
-    "approved"
-   ],
-   "price": 36
-  },
-  {
-   "id": "squishable-alter-egos-series-18-cat-burglar-kitty",
-   "name": "Alter Egos Series 18: Cat Burglar Kitty",
-   "merchantDescription": "We couldn’t make an Alter Ego Kitty line without a Cat Burglar. What is this, amateur hour? This little menace specializes in shiny objects, unattended snacks, and your entire heart. Keep an eye on your valuables. He’s already casing the place. alter egos, ego",
-   "vendor": "Squishable",
-   "productType": "Snacker",
    "merchantTags": [],
-   "price": 24
+   "price": 70
   },
   {
-   "id": "squishable-alter-egos-series-18-cotton-candy-kitty",
-   "name": "Alter Egos Series 18: Cotton Candy Kitty",
-   "merchantDescription": "You may not know this, but all kitties start out as cotton candy. How else do you explain the sweetness? This one simply hasn’t finished its transformation yet. It’s still very fluffy. And that’s perfectly okay. alter egos, ego, ago, cat, kawaii, kitten, kitty",
+   "id": "squishable-mini-squishable-robin",
+   "name": "Mini Squishable Robin",
+   "merchantDescription": "When there is no caped crusader to be seen, this Robin is ready for action! Prepared to fight crime, eat a bunch of seeds, hunt worms... you know, the important stuff! This robin is a bird wonder! bird, birb,birds, chick, brown, orange, egg, sparrow, pigeon, h",
    "vendor": "Squishable",
-   "productType": "Snacker",
+   "productType": "Mini",
    "merchantTags": [],
-   "price": 24
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-kappa-1",
+   "name": "Mini Squishable Kappa",
+   "merchantDescription": "Some creatures get a regrettable reputation through no fault of their own. Sharks are actually vital to the ecosystem. Wolves have complex and loving pack cultures. My cousin Fred is actually a really nice guy despite his weird hair thing. But then there's the",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "pre-order"
+   ],
+   "price": 34
   }
  ]
 }

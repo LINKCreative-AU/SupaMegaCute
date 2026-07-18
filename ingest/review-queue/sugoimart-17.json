@@ -1,0 +1,1442 @@
+{
+ "source": "sugoimart",
+ "batch": 17,
+ "items": [
+  {
+   "id": "sugoimart-cocovege-sweet-potato-snack",
+   "name": "Cocovege Sweet Potato Snack",
+   "merchantDescription": "Crafted with simple ingredients like coconut oil, pumpkin, and sweet potato, this Cocovege Sweet Potato Snack is a feel-good treat. Enjoy a delicious mixture of potatoes and sweet potatoes in every bite. This snack is delightful on its own or combined with a s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_potato",
+    "SUBCAT_CANDY"
+   ],
+   "price": 52.49
+  },
+  {
+   "id": "sugoimart-natural-life-japanese-sweet-potato-natto-snack",
+   "name": "Natural Life Japanese Sweet Potato Natto Snack",
+   "merchantDescription": "Expand your palate with this delicious Natural Life Japanese Sweet Potato Natto Snack! Japanese sweet potato is cubed and cooked with molasses to create a sweet natto treat. Enjoy the chewy texture and sweet, lightly tangy taste of each bite. This snack is del",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_potato 20250717JB",
+    "Low Stock",
+    "SUBCAT_CANDY"
+   ],
+   "price": 26.99
+  },
+  {
+   "id": "sugoimart-soyjoy-sweet-potato-energy-bar",
+   "name": "SoyJoy Sweet Potato Energy Bar",
+   "merchantDescription": "Fuel outdoor activities all summer long with this SoyJoy Sweet Potato Energy Bar! Made with soy flour and sweet potato flour, each bite offers a delicious flavor. This energy bar has a delightfully soft consistency, so it feels like a decadent dessert (with fe",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_potato 20250717JB",
+    "SUBCAT_CANDY",
+    "SUBCAT_SNACKS"
+   ],
+   "price": 5.29
+  },
+  {
+   "id": "sugoimart-glico-cream-collon-sweet-potato",
+   "name": "Glico Cream Collon Sweet Potato",
+   "merchantDescription": "Dig into these Glico Cream Collon Sweet Potato rolls for a delightful sweet treat. Each crispy biscuit roll is filled with a delicious sweet potato filling. They even have a similar appearance to Japanese sweet potatoes, adding to the fun of eating this sweet.",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_potato 20250717JB",
+    "SUBCAT_CANDY",
+    "SUBCAT_SNACKS"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-glace-md-sweet-potato-grasse",
+   "name": "Glace MD Sweet Potato Grasse",
+   "merchantDescription": "Satisfy sweet cravings with this delicious Glace MD Sweet Potato Grasse snack! Kyushu sweet potatoes are cubed into bite-sized pieces, then candied with sugar for a moderately sweet treat. They're yummy on their own, or when added to trail mix, ice cream, or y",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_potato",
+    "SUBCAT_CANDY"
+   ],
+   "price": 10.49
+  },
+  {
+   "id": "sugoimart-sweet-potato-chips-slice",
+   "name": "Sweet Potato Chips Slice",
+   "merchantDescription": "Dive into the crispy, sweet, deliciousness of this Sweet Potato Chips Slice snack! These chips are crafted from whole sliced sweet potatoes, ensuring the nutrients from the skin aren't missed. Tossed with salt and sugar, these chips are on the sweeter side, ma",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250710JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_potato",
+    "SUBCAT_CANDY"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "sugoimart-country-maam-okinawa-limited-sweet-potato-cookie",
+   "name": "Country Ma'am Okinawa Limited Sweet Potato Cookie",
+   "merchantDescription": "These Country Ma'am Okinawa Limited Sweet Potato Cookies feature a unique twist on the dessert. Crafted with a mouthwatering sweet potato flavor, these treats are a delicious way to satisfy cravings. They're crispy on the outside and chewy on the inside, offer",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_potato",
+    "SUBCAT_CANDY"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-kyushu-murasaki-purple-potato-powder",
+   "name": "Kyushu Murasaki Purple Potato Powder",
+   "merchantDescription": "Craft delicious desserts, pastries, and breads with this Kyushu Murasaki Purple Potato Powder! Adding this powder to baked goods creates a lovely hue and a delightful, rich, creamy, subtly nutty taste. This powder is made with a single ingredient, additive-fre",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_potato",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 38.99
+  },
+  {
+   "id": "sugoimart-pokemon-center-original-b6-schedule-book-2025",
+   "name": "Pokemon Center Original B6 Schedule Book 2025",
+   "merchantDescription": "Easily stay organized through the rest of the year with this Pokemon Center Original B6 Schedule Book 2025! Take notes, jot down tasks, and keep track of daily, weekly, and monthly activities all in one schedule book. This schedule book also includes original ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "sugoimart-toyo-suisan-maruchan-wonton-soy-sauce-flavor",
+   "name": "Toyo Suisan Maruchan Wonton Soy Sauce Flavor",
+   "merchantDescription": "With this Toyo Suisan Maruchan Wonton Soy Sauce Flavor, you can enjoy wonton soup whenever a craving hits. This instant soup features a seasoned pork filling, umami-rich soy sauce broth, and a slightly sour/tangy flavor. Expect a kick with the ginger and black",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_soysauce",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-pokemon-card-game-mega-brave-booster-box",
+   "name": "Pokemon Card Game Mega Brave Booster Box",
+   "merchantDescription": "Give your Pokemon card hands a mega boost with this limited-edition Pokemon Card Game Mega Brave Booster Box! This box includes 30 packs, each with five randomized cards. With a focus on mega evolutions, this booster box will enhance gameplay for beginners and",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 279.99
+  },
+  {
+   "id": "sugoimart-pokemon-card-game-mega-symphonia-booster-box",
+   "name": "Pokemon Card Game Mega Symphonia Booster Box",
+   "merchantDescription": "Whether a beginner, experienced player, or a collector, this Pokemon Card Game Mega Symphonia Booster Box is a must-have! This box includes 30 packs, each with five randomized cards inside. Enjoy uncovering which cards you've received, and creating new cards h",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 144.49
+  },
+  {
+   "id": "sugoimart-nintendo-switch-2-piranha-plant-usb-camera",
+   "name": "Nintendo Switch 2 Piranha Plant USB Camera",
+   "merchantDescription": "Create a more immersive gaming experience with this Nintendo Switch 2 Piranha Plant USB Camera! This camera looks just like the carnivorous plants from Super Mario, adding a whimsical element to gameplay. Use this camera to live video chat with friends and fam",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20250712JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 119.49
+  },
+  {
+   "id": "sugoimart-kit-kat-mini-mix-assorted-chocolate-wafer-bars",
+   "name": "Kit Kat Mini Mix Assorted Chocolate Wafer Bars",
+   "merchantDescription": "Shake sweet breaks up with these Kit Kat Mini Mix Assorted Chocolate Wafer Bars! This assorted bag includes five delicious Kit Kat mini flavors: milk chocolate, salted caramel, peanut butter, white chocolate, and hazelnut. Enjoy creamy chocolate, crispy wafers",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate"
+   ],
+   "price": 81.99
+  },
+  {
+   "id": "sugoimart-kanda-curry-grand-prix-hinoya-japanese-style-beef-curry",
+   "name": "Kanda Curry Grand Prix Hinoya Japanese-style Beef Curry",
+   "merchantDescription": "Delve into the comforting, sweet, savory, umami flavors of this Kanda Curry Grand Prix Hinoya Japanese-style Beef Curry! Crafted with beef stewed in herbs, fruit, and dashi, expect a burst of bold flavors in every bite. It's rich, flavorful, and a delicious ad",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_beef",
+    "F_curry",
+    "Low Stock"
+   ],
+   "price": 14.69
+  },
+  {
+   "id": "sugoimart-yokosuka-navy-beef-curry",
+   "name": "Yokosuka Navy Beef Curry",
+   "merchantDescription": "This Yokosuka Navy Beef Curry lets you enjoy a maritime meal in no time! Inspired by the Japanese Navy recipe book from 1908, this curry pouch features a hearty beef and vegetable dish. Enjoy it over rice or noodles for a more filling meal. Net Weight: 200g Co",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": null,
+   "merchantTags": [
+    "20250805JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "F_beef",
+    "F_curry"
+   ],
+   "price": 18.29
+  },
+  {
+   "id": "sugoimart-ethiopian-beef-curry",
+   "name": "Ethiopian Beef Curry",
+   "merchantDescription": "Rich, delicious, and comforting, this Ethiopian Beef Curry takes inspiration from a popular Tokyo curry restaurant. Crafted with a complex, bold taste, delectable chunks of Japanese beef, and a medium heat, this curry is a mouthwatering lunch or dinner option.",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250805JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_beef",
+    "F_curry",
+    "Low Stock"
+   ],
+   "price": 21.49
+  },
+  {
+   "id": "sugoimart-black-thunder-strawberry-cake-chocolate-bar",
+   "name": "Black Thunder Strawberry Cake Chocolate Bar",
+   "merchantDescription": "Dive into decadence with this Black Thunder Strawberry Cake Chocolate Bar! Each bite is packed with strawberry cake flavor, crispy cookie bits, and malt puffs for the ultimate treat. Enjoy the delightful creamy, crunchy consistency as you work your way through",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "Low Stock"
+   ],
+   "price": 1.29
+  },
+  {
+   "id": "sugoimart-godzilla-rubber-mat",
+   "name": "Godzilla Rubber Mat",
+   "merchantDescription": "Up the stakes during games with this exciting Godzilla Rubber Mat. Inspired by the 2023 film \"Godzilla Minus One\", this rubber mat features a large image of the iconic character. The underside of the mat is grippy, ensuring it does not slip during gameplay. Us",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250727JB",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 70.99
+  },
+  {
+   "id": "sugoimart-godiva-okinawa-purple-sweet-potato-milk-chocolate",
+   "name": "Godiva Okinawa Purple Sweet Potato & Milk Chocolate",
+   "merchantDescription": "These stunning Godiva Okinawa Purple Sweet Potato Milk Chocolate cookies get their beautiful color from Okinawan sweet potato powder. With crispy, buttery langue de chat cookies and a decadent, creamy Belgian milk chocolate filling, these cookies are a rich of",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250723JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_milk"
+   ],
+   "price": 37.99
+  },
+  {
+   "id": "sugoimart-godiva-osaka-mixed-juice-white-chocolate-cookies",
+   "name": "Godiva Osaka Mixed Juice White Chocolate Cookies",
+   "merchantDescription": "These Godiva Osaka Mixed Juice White Chocolate Cookies are the ultimate treat for fans of fruity sweets. Each cookie includes an impressive mixture of flavors, with the taste of 16 fruits packed into the creamy white chocolate filling. This decadent filling is",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250723JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate",
+    "F_milk"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-sanrio-picnic-box-by-sugoi-mart",
+   "name": "Sanrio Picnic Box by Sugoi Mart",
+   "merchantDescription": "Pack your bags and get ready for the cutest picnic ever—introducing the delightful new Sanrio Picnic Box ! Celebrate your love for all things Sanrio with this charming gift box packed exclusively with adorable and practical items featuring Hello Kitty and Frie",
+   "vendor": "Discount Exclusion",
+   "productType": "LUCKY BAGS",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_LBSETS",
+    "CAT_LUCKYBAGS",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_ip_sanrio"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-sanrio-self-care-box-by-sugoi-mart",
+   "name": "Sanrio Self Care Box by Sugoi Mart",
+   "merchantDescription": "Relax, unwind, and pamper yourself with the charming new Sanrio Self Care Box ! Celebrate the joy of self-care with this adorable box filled with cozy and practical essentials, all featuring your favorite Sanrio characters. Each Sanrio Self Care Box is designe",
+   "vendor": "Discount Exclusion",
+   "productType": "LUCKY BAGS",
+   "merchantTags": [
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_LBSETS",
+    "CAT_LUCKYBAGS",
+    "CLEARANCE",
+    "data_department_kawaii",
+    "data_ip_sanrio"
+   ],
+   "price": 23.49
+  },
+  {
+   "id": "sugoimart-ito-noen-wakayama-orange-juice-set-of-10",
+   "name": "Ito Noen Wakayama Orange Juice Set of 10",
+   "merchantDescription": "Sip into sunshine with this refreshing 10-pack of premium Ito Noen Wakayama Orange Juice! Each bottle blends the sweet tang of Unshiu mandarins, the juicy brightness of Kiyomi oranges, and the crisp zest of Hassaku citrus for a uniquely balanced flavor. Whethe",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_orange",
+    "Low Stock",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 173.99
+  },
+  {
+   "id": "sugoimart-ito-noen-wakayama-orange-juice-set-of-8",
+   "name": "Ito Noen Wakayama Orange Juice Set of 8",
+   "merchantDescription": "Enjoy the refreshing, naturally sweet taste of Ito Noen Wakayama Orange Juice. Made from 100% pure mandarin oranges—nothing added, nothing taken away. Each bottle captures the essence of seasonal citrus varieties like Unshiu, Kiyomi, and Hassaku. Perfect for a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_orange",
+    "SUBCAT_DRINKS",
+    "SUBCAT_JUICE"
+   ],
+   "price": 120.99
+  },
+  {
+   "id": "sugoimart-ito-noen-wakayama-orange-juice-set-of-5",
+   "name": "Ito Noen Wakayama Orange Juice Set of 5",
+   "merchantDescription": "Get ready to taste sunshine in every sip! The Ito Noen Wakayama Orange Juice set brings you 5 bottles of vibrant, 100% natural juice made from hand-picked oranges grown in Wakayama—Japan’s citrus paradise. Each bottle delivers a refreshing twist of fruity flav",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_orange",
+    "SUBCAT_DRINKS",
+    "SUBCAT_JUICE"
+   ],
+   "price": 121.49
+  },
+  {
+   "id": "sugoimart-ito-noen-wakayama-orange-juice-set-of-3",
+   "name": "Ito Noen Wakayama Orange Juice Set of 3",
+   "merchantDescription": "Sip on pure citrus bliss with the Ito Noen Wakayama Orange Juice set! Featuring 3 bottles of 100% natural juice made from hand-picked oranges grown in Japan’s citrus capital, each bottle is bursting with bright, juicy flavor. No additives, no nonsense—just swe",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250717JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_orange",
+    "SUBCAT_DRINKS",
+    "Throne"
+   ],
+   "price": 108.99
+  },
+  {
+   "id": "sugoimart-kogu-shimomura-tea-caddy",
+   "name": "Kogu Shimomura Tea Caddy",
+   "merchantDescription": "Keep your tea fresh and stylishly stored with the Kogu Shimomura Tea Caddy. This sleek stainless-steel canister features a hammered finish and an airtight double-lid design that locks in flavor while keeping moisture out. Compact and elegant, it's perfect for ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20250626JB",
+    "CAT_COLLECTIBLES",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "Low Stock",
+    "SUBCAT_COLLECTIBLES",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 77.99
+  },
+  {
+   "id": "sugoimart-muji-mini-ramen-chicken",
+   "name": "Muji Mini Ramen Chicken",
+   "merchantDescription": "This 4-pack of Muji Mini Ramen Chicken is perfect for satisfying ramen cravings during snack time. These mini packs each include savory chicken-flavored ramen noodles that are ready to eat in only a few minutes! Each pack is individually wrapped, making it eas",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_chicken"
+   ],
+   "price": 12.29
+  },
+  {
+   "id": "sugoimart-muji-mini-ramen-tom-yam-kung",
+   "name": "Muji Mini Ramen Tom Yam Kung",
+   "merchantDescription": "Satisfy ramen cravings in only a few minutes with this Muji Mini Ramen! These ramen packs are smaller than typical ramen, making them perfect for a quick snack. This version is inspired by Tom Yam Kung, a spicy, sour Thai soup. To prepare, add boiling water to",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-muji-kneaded-plum-with-honey",
+   "name": "Muji Kneaded Plum with Honey",
+   "merchantDescription": "Simple ingredients and a deliciously unique flavor make this Muji Kneaded Plum with Honey candy a must-try! Made with plum, honey, and starch syrup, expect a tangy, addictive taste in every bite! This candy is a fun addition to movie nights alongside popcorn a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-muji-mini-ramen-kimchi",
+   "name": "Muji Mini Ramen Kimchi",
+   "merchantDescription": "Discover the rich taste of ramen kimchi in miniature form with this delicious 4-pack from Muji! Each pack comes with ramen noodles featuring a spicy, tangy, flavorful kimchi taste. Add the noodles to a bowl with hot water or boil them for three minutes, then e",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_kimchi"
+   ],
+   "price": 12.29
+  },
+  {
+   "id": "sugoimart-muji-hokkaido-milk-donuts",
+   "name": "Muji Hokkaido Milk Donuts",
+   "merchantDescription": "Enjoy the rich taste of Hokkaido milk with each bite of these Muji Hokkaido Milk Donuts! This 10-pack features individually wrapped donuts, making them easy to enjoy on the go. Soft, fluffy, and lightly sweet, these donuts can satisfy any craving! Net Weight: ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "F_milk"
+   ],
+   "price": 20.99
+  },
+  {
+   "id": "sugoimart-muji-plum-flavored-seaweed-stems",
+   "name": "Muji Plum Flavored Seaweed Stems",
+   "merchantDescription": "Tangy, light, and delicious, these Muji Plum Flavored Seaweed Stems make the perfect side dish for meals during the day. Seaweed stems are chopped into bite-sized pieces, then tossed with plum vinegar for a mouthwatering taste. Pair this side with meat or vege",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 11.29
+  },
+  {
+   "id": "sugoimart-muji-boule-de-neige",
+   "name": "Muji Boule de Neige",
+   "merchantDescription": "Pastry lovers will enjoy these delicious Muji Boule de Neige cookies inspired by the French confection of the same name. These cookies are crafted with fermented butter, almonds, and powdered sugar for a light, delicate consistency. Enjoy the rich taste and cr",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "SUBCAT_MUJI"
+   ],
+   "price": 10.49
+  },
+  {
+   "id": "sugoimart-muji-yangnyeom-chicken-flavored-rice-chips",
+   "name": "Muji Yangnyeom Chicken Flavored Rice Chips",
+   "merchantDescription": "Spice up snack time with these Muji Yangnyeom Chicken Flavored Rice Chips! Inspired by Yangnyeom Chicken, a tangy, fiery Korean fried chicken dish, these rice chips offer a deliciously spicy, sweet, savory taste. They're light, flavorful, and delicious, making",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_savory_snacks"
+   ],
+   "price": 10.99
+  },
+  {
+   "id": "sugoimart-muji-tea-boule-de-neige-1",
+   "name": "Muji Tea Boule de Neige",
+   "merchantDescription": "These delicate Muji Tea Boule de Neige bites are a delicious addition to tea time! Made with cookie dough, almond bits, and powdered sugar, each cookie gently crumbles as you chew. These cookies have a delightful tea flavor for a more sophisticated dessert exp",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 11.29
+  },
+  {
+   "id": "sugoimart-muji-strawberry-boule-de-neige-1",
+   "name": "Muji Strawberry Boule de Neige",
+   "merchantDescription": "Awaken the senses with this Muji Strawberry Boule de Neige pack! Upon opening the bag, you can enjoy a delicious strawberry aroma. These delicate snowballs are crafted with a strawberry flavor and almond bits, then dusted with powdered sugar. With each bite, y",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 14.49
+  },
+  {
+   "id": "sugoimart-muji-chocolate-florentines",
+   "name": "Muji Chocolate Florentines",
+   "merchantDescription": "Inspired by the French pastry with the same name, these Muji Chocolate Florentines are a delightful sweet treat. These Florentines are made with chocolate cookie dough, chocolate caramel, and almonds for a decadent, irresistible taste. They're sliced into bite",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 7.69
+  },
+  {
+   "id": "sugoimart-muji-black-pepper-rice-crackers",
+   "name": "Muji Black Pepper Rice Crackers",
+   "merchantDescription": "Add a fun twist to snack time with these Muji Black Pepper Rice Crackers! Crafted with domestic rice and sprinkled with black pepper, these senbei are irresistible. Each bite includes a subtle amount of heat from the black pepper. Enjoy them as a side for a me",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 15.29
+  },
+  {
+   "id": "sugoimart-muji-cocoa-donuts",
+   "name": "Muji Cocoa Donuts",
+   "merchantDescription": "These Muji Cocoa Donuts are perfect for satisfying sweet cravings on the go. Each cocoa donut is individually packed, making it easy to add to lunches, enjoy as a snack, or indulge while running errands. Crafted with Hokkaido milk and cocoa, this 10-pack of do",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate 20250731JB"
+   ],
+   "price": 17.29
+  },
+  {
+   "id": "sugoimart-muji-kinako-ball-candies",
+   "name": "Muji Kinako Ball Candies",
+   "merchantDescription": "Simple, yet delicious, these Muji Kinako Ball Candies are a nostalgic favorite! Each candy is crafted by boiling starch, adding kinako, and kneading to create a soft texture. Expect a lightly sweet, nutty taste in every bite. Net Weight: 50g Common Allergens: ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-muji-sichuan-style-mapo-tofu-for-rice",
+   "name": "Muji Sichuan Style Mapo Tofu for Rice",
+   "merchantDescription": "Enjoy the savory, fiery taste of mapo tofu at home with this Muji Sichuan Style Mapo Tofu for Rice! Crafted with tofu, ground pork, and Sichuan peppercorns, expect bold flavors in every bite. Heat this packet and serve it over cooked rice or noodles for a fill",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "F_tofu"
+   ],
+   "price": 17.49
+  },
+  {
+   "id": "sugoimart-muji-point-pressing-tetra-massager",
+   "name": "Muji Point Pressing Tetra Massager",
+   "merchantDescription": "Recreate a spa-like massage at home with this Muji Point Pressing Tetra Massager. It features four differently sized points to use on pressure points all over the body. From feet to back, this massager will help promote relaxation and relieve tight and sore mu",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_HOUSEHOLD",
+    "SUBCAT_MUJI"
+   ],
+   "price": 17.69
+  },
+  {
+   "id": "sugoimart-muji-japanese-style-carbonara-soup-for-noodles",
+   "name": "Muji Japanese Style Carbonara Soup for Noodles",
+   "merchantDescription": "Creamy and umami-rich, this Muji Japanese Style Carbonara Soup for Noodles offers a comforting, quick meal. This soup combines dashi, cream, and cheese for a delicious, cozy taste. Heat, pour over your choice of noodles, and enjoy the mouthwatering flavor comb",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_carbonara"
+   ],
+   "price": 13.69
+  },
+  {
+   "id": "sugoimart-muji-beef-tendon-curry-soup-for-noodles",
+   "name": "Muji Beef Tendon Curry Soup for Noodles",
+   "merchantDescription": "This cozy Muji Beef Tendon Curry Soup for Noodles offers a quick, cozy meal for busy days. With an umami-rich spicy curry made with bonito flakes and beef tendon pieces, expect bold flavors in a warming broth. Its convenient packet makes it easy to bring to wo",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_beef"
+   ],
+   "price": 10.29
+  },
+  {
+   "id": "sugoimart-muji-red-miso-soup-with-mushrooms",
+   "name": "Muji Red Miso Soup with Mushrooms",
+   "merchantDescription": "Satisfy miso soup cravings at home with this convenient, freeze-dried Muji Red Miso Soup with Mushrooms! Each bite features an umami-rich flavor and an array of vegetables like nameko mushrooms, green onions, and wakame seaweed. It's a delicious addition to me",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_meals",
+    "F_miso"
+   ],
+   "price": 22.49
+  },
+  {
+   "id": "sugoimart-muji-egg-cabbage-miso-soup",
+   "name": "Muji Egg & Cabbage Miso Soup",
+   "merchantDescription": "Create a cozy meal in minutes with this Muji Egg Cabbage Miso Soup! This miso soup includes ingredients like sweet rice miso, scrambled eggs, and cabbage for a flavorful offering. It makes an excellent side dish for a meal or a quick snack during the day. Rehy",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_meals",
+    "F_miso"
+   ],
+   "price": 22.49
+  },
+  {
+   "id": "sugoimart-muji-porcelain-point-pressing-massage-ball",
+   "name": "Muji Porcelain Point Pressing Massage Ball",
+   "merchantDescription": "Relieve stress and muscle stiffness with this Muji Porcelain Point Pressing Massage Ball. With a unique texture designed to hit acupressure points with each use, this massage ball is a must-have for the home and office. Use it on feet, hands, or the back to pr",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_HOUSEHOLD",
+    "SUBCAT_MUJI"
+   ],
+   "price": 27.49
+  },
+  {
+   "id": "sugoimart-muji-spicy-roasted-chicken-curry",
+   "name": "Muji Spicy Roasted Chicken Curry",
+   "merchantDescription": "Enjoy the complex, warming flavors of this Muji Spicy Roasted Chicken Curry. Inspired by South Indian curry, this dish includes chicken marinated in cinnamon and nutmeg, along with aromatic herbs, for a bold flavor. This curry is a 4/5 for heat, making it a de",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_meals",
+    "F_chicken"
+   ],
+   "price": 17.49
+  },
+  {
+   "id": "sugoimart-muji-morioka-cold-noodles-2-sets",
+   "name": "Muji Morioka Cold Noodles 2 Sets",
+   "merchantDescription": "This Muji Morioka Cold Noodles 2 Sets is modeled after an Iwate dish known for its chewy noodles and tangy, spicy broth. Each pack includes noodles and a soup base for a quick, convenient meal that's ready in 5 minutes. Make the meal more filling by adding top",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy"
+   ],
+   "price": 22.99
+  },
+  {
+   "id": "sugoimart-muji-cold-noodle-soup-base-yuzu-daikon-1",
+   "name": "Muji Cold Noodle Soup Base - Yuzu & Daikon",
+   "merchantDescription": "Create a flavorful meal in a few easy steps with this Yuzu Daikon Muji Cold Noodle Soup Base! Featuring ingredients like flying fish, kelp, yuzu, and daikon radish, expect a delicious citrus, umami-rich flavor in each bite. Boil somen or ramen noodles, and add",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_vegetable"
+   ],
+   "price": 13.49
+  },
+  {
+   "id": "sugoimart-muji-cold-noodle-soup-base-plum-daikon",
+   "name": "Muji Cold Noodle Soup Base - Plum & Daikon",
+   "merchantDescription": "This Plum Daikon Muji Cold Noodle Soup Base makes it easy to create a refreshing bowl of noodles at home. Made with bonito flakes, daikon radish, plum, and shiso leaves, this soup base is packed with a delicious, tangy, salty flavor. Boil somen or udon noodles",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_plum"
+   ],
+   "price": 13.49
+  },
+  {
+   "id": "sugoimart-muji-mackerel-chirashi-sushi-mixed-rice-kit",
+   "name": "Muji Mackerel Chirashi Sushi Mixed Rice Kit",
+   "merchantDescription": "Turn plain rice into a flavorful meal with this Muji Mackerel Chirashi Sushi Mixed Rice Kit. With simple ingredients like mackerel, bamboo shoots, dashi soy sauce, and red vinegar, every bite offers a mouthwatering taste. This kit is perfect for busy professio",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_meals",
+    "F_sushi"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-muji-mix-for-crab-omelette",
+   "name": "Muji Mix for Crab Omelette",
+   "merchantDescription": "Spice up breakfast with this delicious Muji Mix for Crab Omelette. With simple ingredients like crab meat, wood ear mushrooms, and bamboo shoots, this mix is a tasty option for quick meals. Mix this packet with eggs to create a mouthwatering omelet featuring a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "F_seafood"
+   ],
+   "price": 7.29
+  },
+  {
+   "id": "sugoimart-muji-silicone-kitchen-chopsticks",
+   "name": "Muji Silicone Kitchen Chopsticks",
+   "merchantDescription": "Simple, beautiful, and easy to use, these Muji Silicone Kitchen Chopsticks will easily become a meal-time staple. Crafted with silicone rubber on the ends of each, these chopsticks can grip food more easily than standard varieties. They feature a hexagonal sha",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_keychains_accessories",
+    "SUBCAT_ACCESSORIES",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 31.99
+  },
+  {
+   "id": "sugoimart-muji-black-soybean-tea",
+   "name": "Muji Black Soybean Tea",
+   "merchantDescription": "This delightful Muji Black Soybean Tea is caffeine-free, so you can enjoy it all day long. It's crafted with black soybeans, which offer a delicious aroma and lightly sweet taste. This soybean tea makes a fantastic gift for the tea enthusiasts in your life! Ne",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_tea"
+   ],
+   "price": 12.49
+  },
+  {
+   "id": "sugoimart-muji-cold-brew-apple-flavored-moringa-tea",
+   "name": "Muji Cold Brew Apple Flavored Moringa Tea",
+   "merchantDescription": "This delightful Muji Cold Brew Apple Flavored Moringa Tea offers a complex, refreshing taste that's ideal for warm-weather activities. Whether gathering for a BBQ or relaxing on the porch with a book, this fruity, slightly sweet, savory tea is the perfect addi",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_apple"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-muji-white-peach-green-rooibos-tea-for-cold-water",
+   "name": "Muji White Peach & Green Rooibos Tea for Cold Water",
+   "merchantDescription": "Add this Muji White Peach Green Rooibos Tea for Cold Water to your summer drink repertoire for a refreshing offering! With a deliciously fruity white peach and green rooibos flavor, this iced tea is perfect for warm weather gatherings. Brew one tea bag in cold",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_apple"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-muji-apple-rooibos-tea-for-cold-water",
+   "name": "Muji Apple & Rooibos Tea for Cold Water",
+   "merchantDescription": "Uncover the delicious combination of Apple Rooibos Tea with this Muji Tea for Cold Water! Each sip features a fruity, light, sweet taste that's perfect for enjoying during summer and fall nights. Brew each bag of tea in 500mL of cold water for about 4 hours in",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_apple"
+   ],
+   "price": 14.69
+  },
+  {
+   "id": "sugoimart-muji-muscat-green-rooibos-tea-for-cold-water",
+   "name": "Muji Muscat & Green Rooibos Tea for Cold Water",
+   "merchantDescription": "Refreshing and flavorful, this Muji Muscat Green Rooibos Tea for Cold Water is a summer staple! With fruity muscat grape notes and a green rooibos base, this iced tea offers a uniquely delicious drink. Brew a tea bag in 500mL of cold water in the fridge for ab",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 20.99
+  },
+  {
+   "id": "sugoimart-muji-polypropylene-card-holder",
+   "name": "Muji Polypropylene Card Holder",
+   "merchantDescription": "This Muji Polypropylene Card Holder does more than protect business cards; it also features two flaps to easily separate cards. Use one side for your personal or professional cards, and the other to store cards from other professionals. Made with polypropylene",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_keychains_accessories",
+    "SUBCAT_ACCESSORIES",
+    "SUBCAT_HOUSEHOLD",
+    "SUBCAT_MUJI"
+   ],
+   "price": 13.49
+  },
+  {
+   "id": "sugoimart-muji-polypropylene-cable-case",
+   "name": "Muji Polypropylene Cable Case",
+   "merchantDescription": "Keep phone cables organized with ease using this Muji Polypropylene Cable Case. It can be used for USB cables that are up to 3 feet in length. Simply insert the cable and turn the knob to wind up the cord. This case can also be used as a phone stand by pushing",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_keychains_accessories",
+    "SUBCAT_ACCESSORIES",
+    "SUBCAT_HOUSEHOLD",
+    "SUBCAT_MUJI"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-muji-sensitive-skin-body-milk",
+   "name": "Muji Sensitive Skin Body Milk",
+   "merchantDescription": "Moisturize and nourish the skin daily with this Muji Sensitive Skin Body Milk. Crafted with 100% naturally derived ingredients, including ceramides and five amino acids, you can feel good about using this body milk daily. Free from fragrances, colorants, miner",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "OOS",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 29.49
+  },
+  {
+   "id": "sugoimart-muji-anti-aging-moisturizing-milk",
+   "name": "Muji Anti‑Aging Moisturizing Milk",
+   "merchantDescription": "Lock in hydration and nourish the skin with Muji Anti‑Aging Moisturizing Milk! This moisturizing milk features 100% natural ingredients and is free from synthetic fragrances, colorings, mineral oils, parabens, phenoxyethanol, and alcohol, so you can feel good ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_BEAUTYCARE",
+    "SUBCAT_HOUSEHOLD",
+    "SUBCAT_MUJI"
+   ],
+   "price": 27.49
+  },
+  {
+   "id": "sugoimart-muji-all-in-one-anti-aging-cream",
+   "name": "Muji All‑in‑One Anti‑Aging Cream",
+   "merchantDescription": "Simplify skincare routines with this Muji All‑in‑One Anti‑Aging Cream! This anti-aging cream helps nourish, moisturize, and replenish skin, promoting a more youthful appearance. Apply this cream after serums in a skincare routine for the best results. Net Weig",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "OOS",
+    "SUBCAT_BEAUTYCARE"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-godiva-tokai-matcha-white-chocolate-cookies",
+   "name": "Godiva Tokai Matcha & White Chocolate Cookies",
+   "merchantDescription": "This limited-edition Godiva Tokai Matcha White Chocolate Cookies pair two harmonious flavors together to create a decadent dessert dream. Float on a cloud of aromatic matcha langue de chat cookies surrounding a delicate, creamy white chocolate and Nishio match",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250723JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 50.99
+  },
+  {
+   "id": "sugoimart-godiva-tokyo-basque-cheesecake-white-chocolate-cookies",
+   "name": "Godiva Tokyo Basque Cheesecake & White Chocolate Cookies",
+   "merchantDescription": "Satisfy sweet cravings with these rich, luxurious Godiva Tokyo Basque Cheesecake White Chocolate Cookies! Each cookie is expertly crafted with cream cheese powder and white chocolate, for a delightful taste similar to Basque cheesecake. Bite into crispy, butte",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250723JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate",
+    "F_milk"
+   ],
+   "price": 37.99
+  },
+  {
+   "id": "sugoimart-godiva-hokkaido-caramel-milk-chocolate-cookies",
+   "name": "Godiva Hokkaido Caramel & Milk Chocolate Cookies",
+   "merchantDescription": "Indulge in the ultimate decadent dessert with these Godiva Hokkaido Caramel Milk Chocolate Cookies. The creamy Belgian milk chocolate center of each is sandwiched between crispy, buttery langue de chat cookies crafted with Hokkaido caramel paste. Whether pairi",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250723JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate"
+   ],
+   "price": 53.49
+  },
+  {
+   "id": "sugoimart-muji-sour-cream-and-onion-flavored-pasta-snack",
+   "name": "Muji Sour Cream and Onion Flavored Pasta Snack",
+   "merchantDescription": "Explore the tangy, lightly sweet taste of this delicious Muji Sour Cream and Onion Flavored Pasta Snack! Each crispy pasta-shaped bite features a bold sour cream and onion taste. It's a mouthwatering snack that's perfect for nights in or days on the go. Net We",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_onion"
+   ],
+   "price": 11.29
+  },
+  {
+   "id": "sugoimart-muji-black-pepper-flavored-pasta-snack",
+   "name": "Muji Black Pepper Flavored Pasta Snack",
+   "merchantDescription": "Crispy and packed with flavor, this Muji Black Pepper Flavored Pasta Snack will satisfy salty snack cravings! Each bite is shaped like pasta, adding an element of fun to this treat. Made with wheat and black pepper, you'll enjoy a slightly spicy taste while sn",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_blackpepper"
+   ],
+   "price": 15.49
+  },
+  {
+   "id": "sugoimart-muji-cheese-flavored-pasta-snack",
+   "name": "Muji Cheese Flavored Pasta Snack",
+   "merchantDescription": "Enjoy the comforting taste of pasta on the go with this delicious Muji Cheese Flavored Pasta Snack! Each bag of this snack is low in sugar (less than 10g), so you can feel good about reaching for more. With each bite, expect an aromatic, cheesy, crispy pasta s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_cheese"
+   ],
+   "price": 15.49
+  },
+  {
+   "id": "sugoimart-muji-craft-cola-flavored-gummies",
+   "name": "Muji Craft Cola Flavored Gummies",
+   "merchantDescription": "Enjoy the delicious flavor of Cola on the go with these Muji Craft Cola Flavored Gummies! Each gummy is bite-sized, making it a fantastic snack for movie nights, running errands, or anytime a craving hits. These soda-flavored gummies are chewy, packed with fla",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 5.69
+  },
+  {
+   "id": "sugoimart-muji-garlic-olive-oil-grilled-scallops",
+   "name": "Muji Garlic & Olive Oil Grilled Scallops",
+   "merchantDescription": "Elevate snacktime with these Muji Garlic Olive Oil Grilled Scallops. Each pack comes with 33g of flavorful scallops, a delicious protein-rich snack. Grilled and seasoned with garlic and olive oil, these scallops are a fantastic treat for seafood lovers. Enjoy ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_pantry_staples",
+    "F_seafood"
+   ],
+   "price": 10.29
+  },
+  {
+   "id": "sugoimart-muji-cat-food-chicken-brown-rice-in-flavourful-fish-broth",
+   "name": "Muji Cat Food Chicken & Brown Rice in Flavourful Fish Broth",
+   "merchantDescription": "This Muji Cat Food Chicken Brown Rice in Flavourful Fish Broth is a tasty option for cats over 1 year old. Crafted with high-quality domestic ingredients, like chicken, barley, brown rice, and fish stock, it's ideal for daily use. The inclusion of domestic gra",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 5.29
+  },
+  {
+   "id": "sugoimart-muji-mixed-fish-puree",
+   "name": "Muji Mixed Fish Puree",
+   "merchantDescription": "This Muji Mixed Fish Puree is crafted with high-quality ingredients and lactic acid bacteria to promote healthy digestion. Made with tuna, bonito, salmon, whitebait, and rice flour, this puree is a tasty treat for any cat. It's also wheat-free, making it ideal",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 9.49
+  },
+  {
+   "id": "sugoimart-muji-tuna-puree",
+   "name": "Muji Tuna Puree",
+   "merchantDescription": "This Muji Tuna Puree will have your cat begging for more! Made with simple, high-quality ingredients like tuna and rice flour, it's a tasty treat for any occasion. This puree includes lactic acid bacteria for a healthy, happy belly. It's free from wheat, so it",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 9.49
+  },
+  {
+   "id": "sugoimart-muji-bonito-puree",
+   "name": "Muji Bonito Puree",
+   "merchantDescription": "Treat your cat to a delicious Muji Bonito Puree snack for a happy, healthy belly. This puree is crafted with high-quality ingredients, like bonito, rice flour, and lactic acid bacteria, making it a tasty, yet good-for-them snack. It's free from wheat, so this ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 12.49
+  },
+  {
+   "id": "sugoimart-muji-chicken-fillet-puree",
+   "name": "Muji Chicken Fillet Puree",
+   "merchantDescription": "Treat your cat to the ultimate snack with this Muji Chicken Fillet Puree 4-pack. Each puree tube is crafted with chicken fillet, rice powder, and lactic acid bacteria for a healthy, happy belly. It's wheat-free, making it a yummy treat for cats with and withou",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20250731JB",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 12.49
+  },
+  {
+   "id": "sugoimart-muji-essential-oil-aroma-hand-soap",
+   "name": "Muji Essential Oil Aroma Hand Soap",
+   "merchantDescription": "This Muji Essential Oil Aroma Hand Soap is crafted with 100% naturally derived ingredients, making it ideal for daily use. It's free from synthetic fragrances, colorants, mineral oils, parabens, alcohol, and silicone, providing a gentle cleansing experience. T",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20250731JB",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "Low Stock",
+    "SUBCAT_HOUSEHOLD",
+    "SUBCAT_MUJI"
+   ],
+   "price": 26.99
+  }
+ ]
+}

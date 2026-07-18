@@ -1,0 +1,1444 @@
+{
+ "source": "sugoimart",
+ "batch": 4,
+ "items": [
+  {
+   "id": "sugoimart-morinaga-hi-chew-mixed-juice-flavor",
+   "name": "Morinaga Hi-Chew Mixed Juice Flavor",
+   "merchantDescription": "Enjoy a fruity twist on a classic chew with Morinaga Hi-Chew Mixed Juice Flavor. Each piece blends bright, tropical-style fruit notes into a soft, satisfyingly chewy candy. Perfect for sharing, desk snacking, or keeping in your bag when you want a sweet pick-m",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260226JB",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "Low Stock",
+    "OOS"
+   ],
+   "price": 40.99
+  },
+  {
+   "id": "sugoimart-happy-turn-takoyaki-sauce-flavor",
+   "name": "Happy Turn Takoyaki Sauce Flavor",
+   "merchantDescription": "A fun Osaka-limited twist on a beloved Japanese rice cracker snack, featuring a bold takoyaki sauce flavor. Expect a savory-sweet sauce taste with a satisfying, light crunch in every bite. Great for sharing, gifting, or enjoying alongside tea—this tin-style pa",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260226JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_takoyaki",
+    "SUBCAT_SNACKS",
+    "Throne"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "sugoimart-kameda-no-kakinotane-kansai-limited-edition",
+   "name": "Kameda no Kakinotane Kansai Limited Edition",
+   "merchantDescription": "Bring a taste of Kansai home with this limited-edition assortment of Kameda’s iconic Kaki no Tane rice crackers paired with peanuts. Crisp, savory, and made for sharing, it’s a regional variety box that’s perfect for snack time, gatherings, or gifting. Inside,",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260226JB",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_savory",
+    "SUBCAT_SNACKS",
+    "Throne"
+   ],
+   "price": 69.49
+  },
+  {
+   "id": "sugoimart-milky-microfiber-soft-towel",
+   "name": "Milky Microfiber Soft Towel",
+   "merchantDescription": "Soft, lightweight microfiber towel featuring a playful Milky pattern with colorful floral motifs. Gentle on skin and easy to keep on hand for daily use, travel, or quick wipe-downs. Comes neatly packaged—great for gifting or keeping in your bag when you want a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_KAWAII",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 12.99
+  },
+  {
+   "id": "sugoimart-disney-mickey-mouse-sakura-kimono-version",
+   "name": "Disney Mickey Mouse Sakura Kimono Version",
+   "merchantDescription": "Celebrate springtime charm with Mickey Mouse dressed in a sakura-inspired kimono look. With soft plush texture, layered robe styling, and delicate cherry blossom accents, it’s a sweet seasonal piece for gifting or displaying. A cozy collectible that brings a t",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_character_mickey_and_friends",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 93.99
+  },
+  {
+   "id": "sugoimart-one-piece-bikkura-egg-vol-2",
+   "name": "One Piece Bikkura Egg Vol. 2",
+   "merchantDescription": "Make bath time an adventure with this One Piece-themed bath bomb surprise. Drop it into warm water and enjoy the fizzy reveal as a collectible mascot appears from inside. Vol. 2 features a lineup of seven possible characters, each adding a fun element of chanc",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece",
+    "data_persona_is_collector"
+   ],
+   "price": 15.69
+  },
+  {
+   "id": "sugoimart-pokemon-relaxing-home-blind-box-single",
+   "name": "Pokemon Relaxing Home Blind Box: Single",
+   "merchantDescription": "Bring a cozy Relaxing Home moment to your desk with this Pokémon desktop figure blind box. Each mini scene is designed like a tiny slice of everyday life, perfect for adding warmth to shelves, workspaces, or display cabinets. Enjoy the surprise of a randomly s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-relaxing-home-blind-box-full-set",
+   "name": "Pokemon Relaxing Home Blind Box: Full Set",
+   "merchantDescription": "Bring a cozy slice of the Pokémon world to your desk with these charming “Relaxing Home” mini diorama figures. Each scene captures a calm, at-home moment—perfect for decorating shelves, workspaces, or display cabinets. This is a full set, ideal for collectors ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 127.49
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-pouch",
+   "name": "Ghibli My Neighbor Totoro Pouch",
+   "merchantDescription": "A charming coin pouch featuring a sweet My Neighbor Totoro-inspired face design with a classic clasp closure for easy open-and-close access. Perfect for coins, keys, earbuds, and other small essentials—an adorable everyday companion for bags, backpacks, or you",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 71.49
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-mini-pouch",
+   "name": "Ghibli My Neighbor Totoro Mini Pouch",
+   "merchantDescription": "A sweet, palm-sized mini pouch inspired by My Neighbor Totoro, featuring a soft pink character face and a secure zip closure. Perfect for holding small essentials like coins, earbuds, lip balm, or keys—an easy add-on for bags, backpacks, or everyday organizati",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260224JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 48.49
+  },
+  {
+   "id": "sugoimart-itoen-love-sakura-matcha-green-tea",
+   "name": "Itoen Love Sakura Matcha Green Tea",
+   "merchantDescription": "Celebrate springtime flavor with this softly sweet sakura matcha green tea from ITO EN. It blends the gentle fragrance of sakura with smooth matcha for an easy-to-enjoy, lightly sweet sip. Perfect chilled for a refreshing treat, or whenever you want a delicate",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260220JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 4.29
+  },
+  {
+   "id": "sugoimart-re-ment-hatsune-miku-series-miku-miku-karaoke-single",
+   "name": "Re-ment Hatsune Miku Series Miku Miku Karaoke: Single",
+   "merchantDescription": "Bring home a mini karaoke night with this Re-ment Hatsune Miku diorama figure from the Miku Miku Karaoke series. Each single purchase delivers one randomly selected set, packed with charming details that capture the cozy, upbeat vibe of a private karaoke room.",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_hatsune_miku",
+    "data_department_anime_manga",
+    "data_ip_vocaloid",
+    "data_persona_is_collector"
+   ],
+   "price": 19.49
+  },
+  {
+   "id": "sugoimart-sanrio-japanese-chirimen-mascot-pochacco",
+   "name": "Sanrio Japanese Chirimen Mascot Pochacco",
+   "merchantDescription": "A charming Pochacco mascot crafted in a traditional chirimen-style look, dressed in a kimono-inspired outfit with delicate patterning and textured fabric details. Finished with a ball chain so it’s easy to clip onto bags, pouches, or keys for a cute touch of S",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_pochacco",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 42.99
+  },
+  {
+   "id": "sugoimart-pokemon-tote-bag-in-monster-ball-6-sylveon",
+   "name": "Pokemon Tote Bag in Monster Ball 6 Sylveon",
+   "merchantDescription": "Carry your essentials with a soft pink tote featuring an elegant Sylveon line-art design and matching Monster Ball charm. Lightweight and easy to fold, it’s a cute everyday bag for errands, school, or conventions. The roomy main compartment and comfortable sho",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer"
+   ],
+   "price": 28.49
+  },
+  {
+   "id": "sugoimart-otsuka-foods-match",
+   "name": "Otsuka Foods Match",
+   "merchantDescription": "A refreshing Japanese carbonated drink with a crisp citrus profile and a clean, lightly sweet finish. Enjoy it chilled for an easy, uplifting sip any time of day. Great on its own or paired with snacks and meals when you want a bright, bubbly palate cleanser. ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_grapefruit",
+    "SUBCAT_DRINKS",
+    "SUBCAT_JUICE"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kawada-nanoblock-nbcc-160-kirby-of-the-stars-clear-version",
+   "name": "Kawada Nanoblock NBCC 160 Kirby of the Stars Clear Version",
+   "merchantDescription": "Build a sparkling display piece with this Kawada nanoblock Kirby clear version set. Translucent blocks create a light-catching look that stands out on desks, shelves, or in a collection. With tiny, precise pieces and a charming Kirby design, it’s a satisfying ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_kirby",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector",
+    "data_persona_is_gamer"
+   ],
+   "price": 21.99
+  },
+  {
+   "id": "sugoimart-uha-mikakuto-corolo-matcha-candy",
+   "name": "UHA Mikakuto Corolo Matcha Candy",
+   "merchantDescription": "Indulge in the deep, aromatic taste of Japanese matcha with these smooth, glossy Cororo candies. Each piece delivers a satisfying, bouncy bite with a rich green tea flavor that’s both mellow and pleasantly bittersweet. Perfect for a quick pick-me-up, sharing w",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "Low Stock"
+   ],
+   "price": 4.69
+  },
+  {
+   "id": "sugoimart-matsunaga-seika-shiruko-sandwich-sakura",
+   "name": "Matsunaga Seika Shiruko Sandwich Sakura",
+   "merchantDescription": "Celebrate spring flavor with a limited-edition Japanese sandwich cookie featuring a gentle sakura taste. Crisp biscuits hug a sweet shiruko-inspired filling for a comforting bite that pairs beautifully with tea or coffee. Lightly floral and pleasantly nostalgi",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 3.69
+  },
+  {
+   "id": "sugoimart-kaldi-sakura-azuki-chocolate",
+   "name": "Kaldi Sakura Azuki Chocolate",
+   "merchantDescription": "A delicate spring treat that pairs fragrant sakura with the gentle sweetness of azuki. These bite-size chocolates feature a smooth coating and a satisfying, candy-like crunch—perfect for a light dessert moment. Enjoy with tea, share at gatherings, or keep on h",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 5.29
+  },
+  {
+   "id": "sugoimart-kaldi-cherry-blossom-chocolate-cookies",
+   "name": "Kaldi Cherry Blossom Chocolate Cookies",
+   "merchantDescription": "Celebrate spring with these cherry blossom–themed chocolate cookies, topped with a delicate sakura-shaped chocolate accent for a charming seasonal treat. A lovely option for tea time, gifting, or adding a touch of Japanese spring to your snack drawer. Net Weig",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 11.49
+  },
+  {
+   "id": "sugoimart-lotte-zero-melt-chocolate",
+   "name": "Lotte Zero Melt Chocolate",
+   "merchantDescription": "Experience a smooth, melt-in-your-mouth chocolate moment with Lotte ZERO. Crafted as a sugar-free treat, each piece is designed to dissolve gently for a rich, satisfying bite. Perfect for a small indulgence with coffee or tea, or whenever you want chocolate fl",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "SUBCAT_CHOCOLATE",
+    "SUBCAT_SNACKS"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-miniq-akira-part-1-kaneda-single",
+   "name": "MiniQ Akira Part 1 Kaneda: Single",
+   "merchantDescription": "Add a piece of anime history to your collection with the MiniQ Akira Part 1 Kaneda: Single figure. Part of the MiniQ Akira series, this blind box collectible features Kaneda in detailed stylized form. Perfect for display on desks, shelves, bags, or as part of ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "Clearance",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 21.49
+  },
+  {
+   "id": "sugoimart-nissin-keema-meshi-gaming-curry",
+   "name": "Nissin Keema Meshi Gaming  Curry",
+   "merchantDescription": "Bring the arcade vibe to your meal with this bold, curry-forward keema meshi from Nissin’s gaming-inspired line. It’s a satisfying rice cup built around spiced minced-meat style curry flavor for a hearty, punchy bite. Great for quick lunches, late-night gaming",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "Clearance",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry"
+   ],
+   "price": 6.49
+  },
+  {
+   "id": "sugoimart-nisson-cup-noodles-umakara-triple-miso",
+   "name": "Nisson Cup Noodles Umakara Triple Miso",
+   "merchantDescription": "Rich, savory, and satisfyingly spicy, this Cup Noodles flavor blends three types of miso with a tobanjiang-style chili bean paste kick for a deep, warming bowl. Balanced with a hearty vegetable-forward umami, it’s an easy comfort meal when you want bold miso f",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "data_character_cup_noodle",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_miso"
+   ],
+   "price": 5.29
+  },
+  {
+   "id": "sugoimart-godzilla-2023-japanese-style-chirimen-mascot",
+   "name": "Godzilla (2023) Japanese-style Chirimen Mascot",
+   "merchantDescription": "A charming Godzilla (2023) mascot reimagined in a Japanese-style chirimen-inspired look. With its soft textile texture and compact size, it’s an easy way to add a subtle kaiju touch to your everyday carry. Use the attached strap to clip it onto keys, bags, or ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_collector",
+    "data_persona_is_otaku"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-calbee-pizza-potato-big",
+   "name": "Calbee Pizza Potato BIG",
+   "merchantDescription": "Bring home the bold, savory taste of pizza in every crunchy bite. This BIG bag of Calbee Pizza Potato delivers ridged chips seasoned with a rich blend of tomato, cheese, and spice for an irresistibly snackable flavor. Perfect for sharing, pairing with drinks, ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_pizza",
+    "SUBCAT_CHIPS",
+    "SUBCAT_SNACKS"
+   ],
+   "price": 7.29
+  },
+  {
+   "id": "sugoimart-kaldi-sakura-financier-3-pieces",
+   "name": "Kaldi Sakura Financier 3 pieces",
+   "merchantDescription": "A spring-inspired treat from Kaldi: tender financiers with a gentle sakura-style flavor and a pleasing, buttery crumb. Each piece is individually wrapped, making it easy to share or enjoy with tea or coffee. Perfect for gifting, snacking, or adding a seasonal ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 12.49
+  },
+  {
+   "id": "sugoimart-rement-detective-conan-petadoll-detective-conan-2-single",
+   "name": "Rement Detective Conan Petadoll Detective Conan 2: Single",
+   "merchantDescription": "Bring a touch of mystery to your display with this Petadoll “Detective Conan 2” single figure. Each mini doll features a sit-down pose and a cute, rounded style that’s perfect for desks, shelves, or collecting with the rest of the series. This listing is for o",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_POPULAR",
+    "data_character_detective_conan",
+    "data_department_anime_manga",
+    "data_ip_detective_conan",
+    "data_persona_is_collector"
+   ],
+   "price": 23.99
+  },
+  {
+   "id": "sugoimart-nissin-donbei-pickled-ginger-tempura-soba-noodles",
+   "name": "Nissin Donbei Pickled Ginger Tempura Soba Noodles",
+   "merchantDescription": "A bold twist on classic donbei soba: springy buckwheat noodles in a rich, savory broth topped with a tempura fritter flavored with pickled ginger for a fragrant, tangy kick. Quick and satisfying, it’s an easy way to enjoy Japanese-style tempura soba with an ex",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_ginger",
+    "F_seafood"
+   ],
+   "price": 6.69
+  },
+  {
+   "id": "sugoimart-imabari-sakura-pattern-towel",
+   "name": "Imabari Sakura Pattern Towel",
+   "merchantDescription": "A soft, everyday towel featuring a gentle Sakura gradation pattern inspired by springtime blooms. Made in the Imabari tradition, it’s designed to feel comfortable against the skin and easy to reach for at home, at the gym, or on the go. A simple, giftable esse",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_home_goods",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 10.69
+  },
+  {
+   "id": "sugoimart-my-neighbor-totoro-one-cup-tea-mug-from-hario",
+   "name": "My Neighbor Totoro One-Cup Tea Mug From Hario",
+   "merchantDescription": "Enjoy a calm, café-style tea moment with this one-cup tea mug featuring My Neighbor Totoro. The built-in fine mesh filter makes it easy to steep loose-leaf tea directly in the mug, then cover to keep warmth and aroma in. Designed for everyday use, the clear mu",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_foodie",
+    "data_persona_is_otaku"
+   ],
+   "price": 80.49
+  },
+  {
+   "id": "sugoimart-nissin-tenkaippin-bukkomihan-kotteri-noko-torisayu",
+   "name": "Nissin Tenkaippin Bukkomihan Kotteri Noko Torisayu",
+   "merchantDescription": "Bring home the rich, signature taste of Tenkaippin in an easy, satisfying cup. This bukkome meshi-style instant meal combines a hearty rice base with a deeply creamy, chicken-forward kotteri broth for a comforting bite anytime. Thick, savory, and filling, it’s",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_collector",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_chicken",
+    "Low Stock"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-neko-pendant-keychain",
+   "name": "Neko Pendant Keychain",
+   "merchantDescription": "A charming cat pendant keychain featuring two glossy neko charms with bright blue eyes and a beaded accent strap. A simple way to add a playful touch to keys, bags, or pouches while keeping your everyday carry easy to find. Lightweight and compact, it’s great ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories",
+    "SUBCAT_ACCESSORIES",
+    "SUBCAT_KEYCHAIN"
+   ],
+   "price": 51.99
+  },
+  {
+   "id": "sugoimart-disney-stitch-scrump-sakura-keychain",
+   "name": "Disney Stitch & Scrump Sakura Keychain",
+   "merchantDescription": "Capture springtime charm wherever you go with this sweet Stitch Scrump Sakura-themed keychain. Inside the clear dome, Stitch sits beneath a soft pink cherry blossom canopy, creating a mini scene that feels like a tiny keepsake. Clip it to your keys, bag, or po",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_character_stitch",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_collector"
+   ],
+   "price": 38.99
+  },
+  {
+   "id": "sugoimart-disney-winnie-the-pooh-piglet-sakura-keychain",
+   "name": "Disney Winnie the Pooh & Piglet  Sakura Keychain",
+   "merchantDescription": "Bring a soft touch of spring to your everyday carry with this Disney keychain featuring Winnie the Pooh and Piglet in a dreamy sakura scene. The clear dome design showcases delicate cherry blossom details with a sweet, pastel finish that stands out on bags, po",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_character_winnie_the_pooh",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 35.49
+  },
+  {
+   "id": "sugoimart-disney-baymax-mochi-mascot-sakura-figure",
+   "name": "Disney Baymax & Mochi Mascot Sakura Figure",
+   "merchantDescription": "Celebrate cherry blossom season with an adorable sakura-themed mascot figure featuring Baymax and Mochi. Dressed in soft pink traditional-style attire and accented with delicate blossom details, it’s a charming display piece for desks, shelves, or collectors’ ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260219JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_character_baymax",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_collector"
+   ],
+   "price": 40.99
+  },
+  {
+   "id": "sugoimart-disney-baymax-mochi-sakura-keychain",
+   "name": "Disney Baymax & Mochi Sakura Keychain",
+   "merchantDescription": "Bring a gentle spring mood to your everyday carry with this Sakura-themed keychain featuring Baymax and Mochi inside a clear dome. Soft pink blossoms and a pastel base create a charming, display-worthy look that’s easy to clip onto bags, keys, or pouches. A sw",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "2026021BJ",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_character_baymax",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 35.49
+  },
+  {
+   "id": "sugoimart-sanrio-kuromi-pump-bottle",
+   "name": "Sanrio Kuromi Pump Bottle",
+   "merchantDescription": "Add a touch of mischievous-cute to your sink with this Kuromi-themed pump bottle. The character-shaped design makes everyday handwashing and skincare routines feel a little more fun while keeping your favorite liquid soap or lotion easy to dispense. A charming",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260218JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_collector"
+   ],
+   "price": 23.49
+  },
+  {
+   "id": "sugoimart-sanrio-characters-eco-bag-with-case",
+   "name": "Sanrio Characters Eco Bag With Case",
+   "merchantDescription": "Carry your essentials with charm and convenience! This Sanrio Characters Eco Bag comes with a matching case for compact storage. Made from durable, lightweight material, it’s perfect for shopping, school, travel, or everyday outings. Featuring a fun lineup of ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260218JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 35.49
+  },
+  {
+   "id": "sugoimart-morinaga-ramune-large-refresh-sour-plum-flavor",
+   "name": "Morinaga Ramune Large Refresh Sour Plum Flavor",
+   "merchantDescription": "Get a bright, tangy boost with Morinaga Ramune Refresh in sour plum flavor. These large ramune-style tablets deliver a crisp, mouth-watering sourness with a lightly sweet finish—perfect for a quick pick-me-up anytime. Easy to pop and share, they’re a fun, sati",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260218JB",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_plum",
+    "PRIORITY_SHIP_OK",
+    "SUBCAT_CANDY"
+   ],
+   "price": 2.69
+  },
+  {
+   "id": "sugoimart-sanrio-lovelets-ichigo-shimbun-50th-anniversary",
+   "name": "Sanrio Lovelets Ichigo Shimbun 50th Anniversary",
+   "merchantDescription": "Celebrate 50 years of Ichigo Shimbun with this special Sanrio Lovelets 50th Anniversary edition. This collectible set features a charming assortment of anniversary-themed designs perfect for Sanrio fans and collectors. Each pack contains a small candy treat al",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260218JB",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 7.49
+  },
+  {
+   "id": "sugoimart-dragonball-super-gum-cola",
+   "name": "Dragonball Super Gum: Cola",
+   "merchantDescription": "Pop in a piece of cola-flavored gum wrapped in vibrant Dragon Ball Super packaging—perfect for a quick refresh or a fun add-on to your snack stash. Each pack delivers classic fizzy cola taste in a collectible-style mini format. Featuring 10 different wrapper d",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260211JB",
+    "CAT_ANIME",
+    "CAT_FOODDRINKS",
+    "data_character_demon_slayer",
+    "data_department_food_drinks",
+    "data_ip_demon_slayer",
+    "data_persona_is_foodie",
+    "data_persona_is_otaku"
+   ],
+   "price": 0.29
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-cooler-tote-bag",
+   "name": "Starbucks Sakura 2026 Cooler Tote Bag",
+   "merchantDescription": "A soft pink cooler tote inspired by sakura season, featuring subtle blossom accents and a clean embroidered logo. Designed to keep snacks and drinks neatly organized while adding a gentle spring touch to your everyday carry. Easy to grab by the padded handles,",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 53.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-beige-campus-ring-notebook",
+   "name": "Starbucks Sakura 2026 Beige Campus Ring Notebook",
+   "merchantDescription": "Capture your plans, notes, and sketches in a soft beige sakura design inspired by springtime blooms. This campus-style ring notebook pairs an elegant floral cover with an easy-to-use spiral binding for everyday writing. Ideal for school, work, or journaling, i",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_stationery",
+    "SS-2026",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-pink-campus-ring-notebook",
+   "name": "Starbucks Sakura 2026 Pink Campus Ring Notebook",
+   "merchantDescription": "Celebrate the 2026 Sakura season with a soft pink Campus ring notebook featuring airy cherry blossom art and a subtle sparkle accent. The ring binding makes it easy to flip pages smoothly and lay the notebook flat for comfortable writing. A sweet everyday comp",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_stationery",
+    "SS-2026",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 13.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-handy-stainless-steel-bottle",
+   "name": "Starbucks Sakura 2026 Handy Stainless Steel Bottle",
+   "merchantDescription": "Bring spring along wherever you go with this handy stainless steel bottle featuring a soft blush finish and delicate Sakura blossoms. Designed for everyday carry, the secure flip-lock lid helps keep your drink contained while you’re on the move. A lovely seaso",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 120.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-togo-bottle",
+   "name": "Starbucks Sakura 2026 Togo Bottle",
+   "merchantDescription": "Welcome spring vibes year-round with this Starbucks Sakura 2026 to-go bottle, featuring soft blush tones, delicate cherry blossom artwork, and a subtle embossed siren logo. Designed for everyday sipping, it’s a stylish companion for coffee runs, commutes, and ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 119.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-pink-glitter-bottle",
+   "name": "Starbucks Sakura 2026 Pink Glitter Bottle",
+   "merchantDescription": "Celebrate sakura season with a shimmering pink glitter bottle designed to stand out on your desk or in your bag. The soft sparkle finish and subtle floral motif bring a festive, spring-ready touch to everyday hydration. Made for daily use, this sleek bottle of",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "OOS"
+   ],
+   "price": 102.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-metallic-light-pink",
+   "name": "Starbucks Sakura 2026 Metallic Light Pink",
+   "merchantDescription": "A metallic light-pink tumbler inspired by springtime Sakura, finished with a glossy sheen and delicate cherry blossom motifs. The streamlined silhouette is designed to look elegant on your desk while adding a seasonal touch to everyday coffee and tea moments. ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "OOS"
+   ],
+   "price": 106.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-stanley-shiny-pink",
+   "name": "Starbucks Sakura 2026 Stanley Shiny Pink",
+   "merchantDescription": "A limited seasonal drink bottle with a soft, Sakura-inspired shiny pink finish and a clean, modern silhouette. The subtle iridescent sheen adds a delicate glow that feels special in hand and on your desk. Designed for daily hydration, it’s an easy carry for co",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 137.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-matt-pink-steel-bottle",
+   "name": "Starbucks Sakura 2026 Matt Pink Steel Bottle",
+   "merchantDescription": "A soft, matt pink stainless steel bottle inspired by Sakura season, finished with delicate cherry blossom accents and an embossed siren medallion for a refined, collectible look. Designed for everyday carry, it brings a calm, seasonal touch to your commute, de",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 106.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-metallic-pink-bottle",
+   "name": "Starbucks Sakura 2026 Metallic Pink Bottle",
+   "merchantDescription": "Celebrate sakura season with a sleek metallic pink bottle featuring soft cherry blossom motifs. The glossy finish and modern silhouette make it an easy everyday companion—whether you’re heading to work, the gym, or a spring picnic. A clean, minimalist profile ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 110.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-color-changing-bottle",
+   "name": "Starbucks Sakura 2026 Color Changing Bottle",
+   "merchantDescription": "Celebrate Sakura season with a bottle that transforms with your drink. This Starbucks Sakura 2026 color-changing bottle features soft cherry blossom motifs and a translucent finish that shifts in tone when filled with cold beverages. Lightweight and easy to ca",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 74.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-stanley-3-way-shiny-tumbler",
+   "name": "Starbucks Sakura 2026 Stanley 3 Way Shiny Tumbler",
+   "merchantDescription": "Celebrate Sakura season with a sleek, iridescent tumbler created in collaboration with Stanley. The soft pink shimmer and clean, modern silhouette make it an everyday essential that feels special from morning coffee to afternoon hydration. Designed for versati",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 111.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-stanley-3-way-marble-tumbler",
+   "name": "Starbucks Sakura 2026 Stanley 3 Way Marble Tumbler",
+   "merchantDescription": "Celebrate Sakura season with a marble-pink tumbler designed for everyday carry and café moments alike. The soft, petal-inspired finish pairs with a sleek, modern silhouette that feels at home on your desk, in your car, or on the go. Built for flexible sipping,",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 115.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-color-changing-cold-tumbler",
+   "name": "Starbucks Sakura 2026 Color Changing Cold Tumbler",
+   "merchantDescription": "Capture the magic of Sakura season with this color-changing cold tumbler, designed to transform as you pour in iced drinks. The faceted, gem-like body catches the light beautifully, while the cherry blossom straw topper adds a playful finishing touch. Perfect ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 74.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-color-changing-tumbler",
+   "name": "Starbucks Sakura 2026 Color Changing Tumbler",
+   "merchantDescription": "Bring a little spring to every sip with this Sakura-themed color changing tumbler. Designed with delicate cherry blossoms and a soft pink palette, it transforms in appearance with cold beverages for a refreshing seasonal touch. Lightweight and easy to hold, it",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 53.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-stainless-steel-cup-holder",
+   "name": "Starbucks Sakura 2026 Stainless Steel Cup Holder",
+   "merchantDescription": "A soft sakura-pink stainless steel cup holder designed to add a seasonal touch to your daily coffee routine. The clean silhouette and iconic logo make it an easy companion for commutes, desk time, and café runs. Lightweight and durable in hand, it helps keep y",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 64.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-glass-tumbler",
+   "name": "Starbucks Sakura 2026 Glass Tumbler",
+   "merchantDescription": "Celebrate cherry blossom season with a delicate, spring-pink glass tumbler featuring soft Sakura florals and an elegant, translucent look. Designed for everyday sipping, it comes with a matching lid and straw for a tidy, on-the-go feel. A pretty seasonal piece",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 75.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-heat-resistant-pink-glass-mug",
+   "name": "Starbucks Sakura 2026 Heat Resistant Pink Glass Mug",
+   "merchantDescription": "Bring a soft spring mood to your daily coffee or tea with this heat-resistant pink glass mug. The gently contoured silhouette and translucent sakura-toned tint create a light, airy look that feels special on the table or at your desk. Designed for hot drinks, ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 56.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-heat-resistant-clear-glass-mug",
+   "name": "Starbucks Sakura 2026 Heat Resistant Clear Glass Mug",
+   "merchantDescription": "Celebrate cherry blossom season at home with a heat-resistant clear glass mug featuring soft sakura florals and a subtle logo. The transparent design highlights lattes, tea, and layered drinks for an elevated everyday moment. A sculpted glass handle offers a c",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 75.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-marble-mug",
+   "name": "Starbucks Sakura 2026 Marble Mug",
+   "merchantDescription": "A soft sakura-pink marble finish meets a calm, stone-toned base for a mug that feels like spring in your hands. The embossed siren medallion adds a subtle focal point that catches the light without overpowering the design. Made for slow mornings, desk-side ref",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 59.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-ruby-pink-bottle",
+   "name": "Starbucks Sakura 2026 Reserve Ruby Pink Bottle",
+   "merchantDescription": "A Reserve-inspired bottle in a rich ruby pink finish, accented with delicate Sakura motifs for a refined seasonal look. The slim silhouette is easy to carry, making it a polished everyday companion from commute to café. Designed for enjoying your favorite beve",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 129.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-stainless-steel-light-gradient",
+   "name": "Starbucks Sakura 2026 Reserve Stainless Steel Light Gradient",
+   "merchantDescription": "Celebrate Sakura season with a Reserve-ready stainless steel bottle featuring a soft, light gradient and refined floral accents. The sleek, angular silhouette feels modern in hand while bringing a seasonal touch to your daily coffee, tea, or water routine. Des",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 135.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-dark-pinktumbler",
+   "name": "Starbucks Sakura 2026 Reserve Dark Pink Tumbler",
+   "merchantDescription": "Bring a refined seasonal accent to your daily coffee routine with this Sakura 2026 Reserve tumbler in a rich dark pink finish. The sleek silhouette and subtle textured detailing create a modern look that feels special from the first sip to the last. Designed f",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 135.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-blue-grey-bottle",
+   "name": "Starbucks Sakura 2026 Reserve Blue Grey Bottle",
+   "merchantDescription": "A refined, carry-ready bottle in a blue-grey finish, designed with a clean silhouette and an easy-grip handle for everyday hydration. Subtle sakura-inspired accents and the Reserve “R” mark add a quiet seasonal touch without overpowering the minimalist look. I",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 137.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-lustre-pink-mug",
+   "name": "Starbucks Sakura 2026 Reserve Lustre Pink Mug",
+   "merchantDescription": "This Reserve-inspired mug captures the soft glow of Sakura season with a lustre pink finish and a faceted silhouette that feels special in-hand. Subtle texture and a refined shine make it an elegant choice for coffee, tea, or display. A gentle, seasonal accent",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-lustre-blue-mug",
+   "name": "Starbucks Sakura 2026 Reserve Lustre Blue Mug",
+   "merchantDescription": "A refined, lustre-finish blue mug from Starbucks Reserve’s Sakura 2026 collection, designed to bring a calm, spring-inspired accent to your coffee or tea ritual. The faceted silhouette and subtle texture catch the light beautifully, while a delicate sakura mot",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 90.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-cask-mug-with-copper-handle",
+   "name": "Starbucks Sakura 2026 Reserve Cask Mug With Copper Handle",
+   "merchantDescription": "Celebrate sakura season with a Reserve-inspired cask mug that pairs a soft, matte ceramic body with an eye-catching copper-tone handle. Subtle cherry blossom embossing adds texture and a quiet, springtime elegance to your daily coffee or tea ritual. A distinct",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-aurora-pink-mug",
+   "name": "Starbucks Sakura 2026 Reserve Aurora Pink Mug",
+   "merchantDescription": "Bring a soft, spring-ready glow to your coffee ritual with this Reserve mug in aurora pink. Its pearly, light-catching finish and gently faceted silhouette make it feel special on the shelf and even better in hand. Designed for everyday sipping, it’s a charmin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 88.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-cherry-petal-bottom-glass-mug",
+   "name": "Starbucks Sakura 2026 Reserve Cherry Petal Bottom Glass Mug",
+   "merchantDescription": "A delicate Sakura-inspired glass mug designed to bring a soft spring glow to your coffee or tea ritual. The translucent pink tint and subtle cherry petal motif create an elegant look from every angle. Finished with a sculpted petal-like base and Reserve brandi",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 77.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-reserve-double-walled-petal-glass",
+   "name": "Starbucks Sakura 2026 Reserve Double-Walled Petal Glass",
+   "merchantDescription": "Bring a soft spring glow to your coffee ritual with this Reserve double-walled glass inspired by Sakura petals. The gentle pink gradient and delicate accents create a refined look that feels special from morning brews to evening sips. The double-wall design he",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 86.49
+  },
+  {
+   "id": "sugoimart-black-thunder-rich-gianduja-bar",
+   "name": "Black Thunder Rich Gianduja Bar",
+   "merchantDescription": "Turn your snack break into a chocolate moment worth savoring. The Black Thunder Rich Gianduja Bar combines deep cocoa flavor with smooth hazelnut richness for a luxurious twist on the iconic crunchy chocolate experience. This is not your average candy bar — it",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "Low Stock"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-skater-tomica-furikake-case",
+   "name": "Skater Tomica Furikake Case",
+   "merchantDescription": "Make lunch prep quicker and cleaner with this Tomica-themed furikake case. Designed to portion and dispense seasoning neatly, it helps keep rice toppings tidy and easy to use at home or in bento boxes. The playful Tomica car design adds a fun touch while keepi",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_subcategory_figures_collectibles",
+    "SUBCAT_COLLECTIBLES",
+    "SUBCAT_HOUSEHOLD"
+   ],
+   "price": 6.29
+  },
+  {
+   "id": "sugoimart-bandai-nintendo-pull-out-pikmin-dx-yellow",
+   "name": "Bandai Nintendo Pull-Out Pikmin DX: Yellow",
+   "merchantDescription": "Bring the charm of Pikmin to your desk with this pull-out DX toy featuring the Yellow Pikmin. Gently pull it up to reveal the character, then release to watch it pop back down for a satisfying, repeatable play moment. With a cute terrain-style base and playful",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_animal_crossing",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 34.49
+  },
+  {
+   "id": "sugoimart-bandai-nintendo-pull-out-pikmin-dx-blue",
+   "name": "Bandai Nintendo Pull-Out Pikmin DX: Blue",
+   "merchantDescription": "Bring a bit of Pikmin charm to your desk or shelf with this playful pull-out figure featuring the Blue Pikmin. Give it a gentle tug and watch it pop back into place for a satisfying, repeatable moment of fun. A cute display piece that doubles as a simple fidge",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_animal_crossing",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 31.99
+  },
+  {
+   "id": "sugoimart-bandai-one-piece-bath-bomb-surprise-egg-vol-3",
+   "name": "Bandai One Piece Bath Bomb Surprise Egg Vol.3",
+   "merchantDescription": "Turn bath time into a treasure-hunt moment with this One Piece surprise bath bomb. Drop it into warm water and watch it fizz away as a character mascot is revealed inside. Vol.3 features a refreshing marine-style scent and a fun collectible surprise—perfect fo",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260213JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece",
+    "data_persona_is_collector"
+   ],
+   "price": 13.49
+  },
+  {
+   "id": "sugoimart-morinaga-chocolate-gummy-ball-japanese-white-peach",
+   "name": "Morinaga Chocolate Gummy Ball Japanese White Peach",
+   "merchantDescription": "Enjoy a sweet, juicy surprise with the Morinaga Chocolate Gummy Ball – Japanese White Peach ! This delicious treat combines a soft gummy center with a smooth chocolate coating, delivering a unique texture and flavor experience that’s loved in Japan. Each bite ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260204JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_chocolate",
+    "F_peach"
+   ],
+   "price": 7.29
+  },
+  {
+   "id": "sugoimart-muji-plum-tablets",
+   "name": "Muji Plum Tablets",
+   "merchantDescription": "Sweet, tangy, and refreshingly fruity, Muji Plum Tablets bring the classic plum candy flavor into a simple, easy-to-enjoy tablet form. These bite-sized treats deliver a burst of plum taste that’s both sweet and slightly tart—perfect for when you want a quick f",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260130JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks",
+    "F_plum"
+   ],
+   "price": 3.29
+  },
+  {
+   "id": "sugoimart-disney-character-secret-figure-sakura-collection-2026",
+   "name": "Disney Character Secret Figure Sakura Collection 2026",
+   "merchantDescription": "Celebrate spring with the Disney Character Secret Figure – Sakura Collection 2026 . This mystery figure series features beloved Disney characters dressed in charming cherry blossom-inspired outfits and colors. Each pack contains one secret figure, making every",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260204BJ",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 19.49
+  }
+ ]
+}

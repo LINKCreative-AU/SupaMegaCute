@@ -1,0 +1,991 @@
+{
+ "source": "blippo",
+ "batch": 34,
+ "items": [
+  {
+   "id": "blippo-hello-kitty-heartful-socks",
+   "name": "Hello Kitty Heartful Socks",
+   "merchantDescription": "Be comfy when you nap with this pair of kawaii socks! It features a cute print of Hello Kitty with a background full of hearts and a bowtie on top. One size fits most (womens sizes): 22-24 cm / US 5-8 / EUR 35-38.5 Made from soft material",
+   "vendor": "JP / Toko Toko",
+   "productType": "Socks",
+   "merchantTags": [
+    "On Sale",
+    "Socks"
+   ],
+   "price": 5.52
+  },
+  {
+   "id": "blippo-pompompurin-quick-dry-hair-towel",
+   "name": "Pompompurin Quick Dry Hair Towel",
+   "merchantDescription": "Dry your hair after a nice, warm shower with this super kawaii Pompompurin towel. It's made of water-absorbent material that dries quickly! You can clean this towel in the washing machine once it gets dirty. A cute quick-drying Pompompurin hair towel Made of 8",
+   "vendor": "JP / Skater",
+   "productType": "Bath",
+   "merchantTags": [
+    "Bath",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 18.9
+  },
+  {
+   "id": "blippo-my-melody-gyaru-kuma-plushie-medium",
+   "name": "My Melody Gyaru Kuma Plushie - Medium",
+   "merchantDescription": "Have fun dressing up with this super kawaii My Melody plushie. This cutie from Sanrio's Gyaru Kuma series is dressed up as a leopard bear! You can't remove the hoodie or the heart parts on this medium-sized stuffed toy's chest.",
+   "vendor": "JP / Miyamori",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 42.9
+  },
+  {
+   "id": "blippo-doraemon-character-cookies-milk",
+   "name": "Doraemon Character Cookies - Milk",
+   "merchantDescription": "These yummy cookies come in twenty various shapes featuring your favorite Doraemon characters and gadgets! Relish the sweet milky taste as you snack on these crunchy treats. A pack of milk-flavored cookies that are shaped like characters and gadgets from Dorae",
+   "vendor": "JP / Tajimaya",
+   "productType": "Japanese Cookies",
+   "merchantTags": [
+    "Anime Snacks",
+    "Japanese Cookies"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-sumikko-gurashi-fluffy-drawstring-pouch-penguin",
+   "name": "Sumikko Gurashi Fluffy Drawstring Pouch - Penguin?",
+   "merchantDescription": "Penguin? from the Sumikko Gurashing gang is here to help you carry your kawaii essentials! This super-soft and handy bag can be closed by simply pulling the strings. A kawaii Penguin? drawstring bag from Sumikko Gurashi Made of super-soft material Original lic",
+   "vendor": "JP / KThings",
+   "productType": "Pouches",
+   "merchantTags": [
+    "Pouches"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-my-melody-overload-bamboo-chopsticks-set-2-pairs",
+   "name": "My Melody Overload Bamboo Chopsticks Set - 2 pairs",
+   "merchantDescription": "Have a sushi lunch with your bestie using these kawaii bamboo chopsticks! Each pair features cute prints of My Melody and Flat. The chopsticks have a non-slip surface so you won't drop your food. Comes with two pairs that have different designs Not compatible ",
+   "vendor": "JP / T's Factory",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-hello-kitty-pink-sakura-soup-bowl",
+   "name": "Hello Kitty Pink Sakura Soup Bowl",
+   "merchantDescription": "Serve your favorite miso soup in this kawaii pink bowl! Its decorated with super cute pink prints of sakura blooms, Hello Kitty, and Tiny Chum. This soup bowl is also both microwave and dishwasher-safe.",
+   "vendor": "JP / OSK",
+   "productType": "Dining",
+   "merchantTags": [
+    "Dining",
+    "On Sale"
+   ],
+   "price": 8.91
+  },
+  {
+   "id": "blippo-uha-mikakuto-building-blocks-gummy",
+   "name": "UHA Mikakuto Building Blocks Gummy",
+   "merchantDescription": "Have fun eating these block-shaped gummies! They come in four flavorsgrape, green apple, lemon, and strawberry. The gummy candies are designed like building blocks, so you can stack and play with them before enjoying their delicious taste! Comes in a resealab",
+   "vendor": "JP / Orange Store",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 6.9
+  },
+  {
+   "id": "blippo-tohato-caramel-corn-anno-sweet-potato",
+   "name": "Tohato Caramel Corn - Anno Sweet Potato",
+   "merchantDescription": "Enjoy this limited-edition treat just in time for fall! It's a caramel corn puff that's soft and crispy and melts in your mouth. This snack features the flavor of fermented butter and Anno sweet potato which is a classic autumn snack in Japan.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-rilakkuma-friends-charm-with-silicone-ring-gachapon",
+   "name": "Rilakkuma & Friends Charm With Silicone Ring Gachapon",
+   "merchantDescription": "Add a touch of kawaii to your plain, everyday items with this super cute charm that comes in a gachapon capsule! It looks like a mini figure featuring Rilakkuma and friends. This charm comes with a flexible silicone ring and a tiny lobster clasp, making it eas",
+   "vendor": "JP / Chappy",
+   "productType": "Gachapon",
+   "merchantTags": [
+    "Gachapon",
+    "Korilakkuma",
+    "On Sale"
+   ],
+   "price": 5.31
+  },
+  {
+   "id": "blippo-goropikadon-trio-flake-stickers",
+   "name": "Goropikadon Trio Flake Stickers",
+   "merchantDescription": "This super cute pack of stickers features the Goropikadon trio from Sanrio! The stickers are die-cut and semi-transparent, making them perfect for scrapbooking projects! Total of 30 pieces with 8 designs",
+   "vendor": "JP / YOP's",
+   "productType": "Stickers",
+   "merchantTags": [
+    "On Sale",
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 1.33
+  },
+  {
+   "id": "blippo-funwari-necolon-round-plushie-berry-medium",
+   "name": "Funwari Necolon Round Plushie - Berry / Medium",
+   "merchantDescription": "Have fun playing with this kawaii Berry plushie from Funwari Necolon! This medium-sized cutie comes in a round shape, has pop-out ears and limbs, and has an extra fluffy tail. Made from super-soft material",
+   "vendor": "JP / Alpha",
+   "productType": "Plushies",
+   "merchantTags": [
+    "On Sale",
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 16.03
+  },
+  {
+   "id": "blippo-starbucks-japan-holiday-starry-stainless-steel-bottle",
+   "name": "Starbucks Japan 2023 Holiday Starry Stainless Steel Bottle",
+   "merchantDescription": "Celebrate the holidays by bringing along your favorite cup of tea or coffee in this stylish stainless steel tumbler. This bottle was made by Starbucks Japan for the holiday season. It features prints of bright neon green stars and the special Starbucks siren l",
+   "vendor": "JP / Starbucks",
+   "productType": "Drinkware",
+   "merchantTags": [
+    "Christmas",
+    "Drinkware",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 39.95
+  },
+  {
+   "id": "blippo-cinnamoroll-fluffy-hand-scrunchie-set",
+   "name": "Cinnamoroll Fluffy Hand Scrunchie Set",
+   "merchantDescription": "Use these hand scrunchies when washing your face to keep your arms from getting wet! They feature a cute and fluffy Cinnamoroll plushie. Made of microfiber material Total of 2 pieces",
+   "vendor": "JP / T's Factory",
+   "productType": "Beauty Accessories",
+   "merchantTags": [
+    "Beauty Accessories",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 18.9
+  },
+  {
+   "id": "blippo-takenoko-no-sato-biscuits-black-brown-sugar",
+   "name": "Takenoko no Sato Biscuits - Black Brown Sugar",
+   "merchantDescription": "Enjoy this box of bamboo shoot-shaped treats after a hearty meal! It's made with cocoa biscuits and white chocolate infused with the rich sweetness of Okinawan brown sugar.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-jojos-bizarre-adventure-stardust-crusaders-egypt-part-2-wafe",
+   "name": "JoJo's Bizarre Adventure: Stardust Crusaders Egypt Part 2 Wafer With Sticker",
+   "merchantDescription": "Enjoy munching on this delicious cocoa cream-flavored wafer while catching up on your fave anime! The yummy sweet snack also comes with a free character sticker from the third installment of the JoJos Bizarre Adventure: Stardust Crusaders Egypt series. Incl",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Anime Snacks",
+   "merchantTags": [
+    "Anime Snacks",
+    "Stickers",
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-oshiri-tantei-butt-detective-plushie-card-case-bag-charm",
+   "name": "Oshiri Tantei â€œButt Detectiveâ€ Plushie Card Case & Bag Charm",
+   "merchantDescription": "Use this super-soft Oshiri Tantei plushie card case to store your train card! This kawaii plushie can also be used as a bag charm with its metal hook that has a pull-out reel. Attach this cutie to your favorite backpack! A fluffy Oshiri Tantei plushie card cas",
+   "vendor": "JP / Alpha",
+   "productType": "Card Storage",
+   "merchantTags": [
+    "Card Storage",
+    "On Sale",
+    "Plush Charms"
+   ],
+   "price": 18.83
+  },
+  {
+   "id": "blippo-meltykiss-chocolate-caramel",
+   "name": "Meltykiss Chocolate - Caramel",
+   "merchantDescription": "Give in to your sugary cravings with this indulgent box of chocolate! Each melt-in-your-mouth piece has a caramel center and a coating that has a texture that feels like snow. Add this chocolate box to your stash of goodies at home.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Premium Chocolate",
+   "merchantTags": [
+    "Premium Chocolate",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 10.5
+  },
+  {
+   "id": "blippo-sumikko-gurashi-fairy-flower-garden-plushie-badge-neko",
+   "name": "Sumikko Gurashi Fairy Flower Garden Plushie Badge - Neko",
+   "merchantDescription": "Decorate your bag or your denim jacket with this kawaii Neko plushie badge! It features cute fairy wings and holds a pretty daisy. This design comes from the Sumikko Gurashi Fairy Flower Garden Series. Comes with a safety pin",
+   "vendor": "JP / Alpha",
+   "productType": "Badges & Pins",
+   "merchantTags": [
+    "Badges & Pins",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 22.9
+  },
+  {
+   "id": "blippo-eiwa-munimunidayo-marshmallows-yogurt",
+   "name": "Eiwa Munimunidayo Marshmallows - Yogurt",
+   "merchantDescription": "Take this pack of marshmallows to your picnic! Each soft, squishy piece tastes like refreshing yogurt with its sweet and tart combination. It's the perfect snack to share with friends!",
+   "vendor": "JP / Tajimaya",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-fuji-seika-mochi-candy-pineapple",
+   "name": "Fuji Seika Mochi Candy - Pineapple",
+   "merchantDescription": "This chewy candy is as soft as mochi, Japan's traditional snack. It features a refreshing pineapple flavor! Use the toothpick that comes in the pack to eat the candies easily. Total of 12 pieces",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Mochi Candy",
+   "merchantTags": [
+    "Dagashi",
+    "Mochi Candy"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-copy-of-sanrio-mini-letter-set-patty-and-jimmy",
+   "name": "Pochacco & Friends Retro Time Mini Letter Set",
+   "merchantDescription": "Have fun exchanging handwritten letters with your besties using this super cute mini set! It has die-cut sheets and envelopes decorated with retro-inspired prints of Pochacco with his kawaii animal friends. Includes: 5 x die-cut sheets and 5 x mini envelopes",
+   "vendor": "JP / Miyamori",
+   "productType": "Letters & Envelopes",
+   "merchantTags": [
+    "Letters & Envelopes",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.83
+  },
+  {
+   "id": "blippo-cinnamoroll-cream-soda-chocolate",
+   "name": "Cinnamoroll Cream Soda Chocolate",
+   "merchantDescription": "This delicious cream soda-flavored white chocolate candy is shaped like Cinnamoroll's head. It's the perfect giveaway for a Sanrio-themed party!",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks"
+   ],
+   "price": 0.5
+  },
+  {
+   "id": "blippo-sanrio-characters-play-time-bandages",
+   "name": "Sanrio Characters Play Time Bandages",
+   "merchantDescription": "This super cute box of bandages showcases Sanrio characters playing around. Use them to keep your wounds from getting infected! A kawaii box of bandages illustrated with Sanrio characters having fun playing Bandage size (standard size): H19 x W72mm Total of 18",
+   "vendor": "JP / Asunarosha",
+   "productType": "Bath",
+   "merchantTags": [
+    "Bath",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.45
+  },
+  {
+   "id": "blippo-rilakkuma-spooky-toy-duck-halloween-plushie-mini",
+   "name": "Rilakkuma Spooky Toy Duck Halloween Plushie - Mini",
+   "merchantDescription": "Add some spooky fun to your kawaii collection with this mini plushie! It looks like a zombie toy duck with wheels. This super cute plushie comes from the Rilakkuma \"Spooky Halloween\" series. Made of soft polyester",
+   "vendor": "JP / Miyamori",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Halloween",
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 21.9
+  },
+  {
+   "id": "blippo-pochacco-sakura-plushie-medium",
+   "name": "Pochacco Sakura Plushie - Medium",
+   "merchantDescription": "Go sakura-viewing together with this kawaii medium-sized Pochacco plushie! This pink-colored stuffed toy is decorated with lovely sakura accessories. Made from super-soft material",
+   "vendor": "JP / Miyamori",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies",
+    "Sakura"
+   ],
+   "price": 47.9
+  },
+  {
+   "id": "blippo-glico-caplico-no-atama-strawberry-chocolate",
+   "name": "Glico Caplico No Atama Strawberry & Chocolate",
+   "merchantDescription": "Caplico is usually offered in an ice cream cone shape but now Glico has turned the amazing snack into small chocolates! These delicious heart-shaped strawberry chocolates are so yummy and cute! The pack includes 12 fluffy chocolates. Yummy strawberry chocolate",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-cherish-hamster-stickers",
+   "name": "Cherish Hamster Stickers",
+   "merchantDescription": "Kawaii-fy your journal with this sheet of stickers! It showcases watercolor illustrations of cute hamsters.",
+   "vendor": "JP / Mindwave",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "blippo-kuromi-cheeky-kiss-bandages",
+   "name": "Kuromi Cheeky Kiss Bandages",
+   "merchantDescription": "These Kuromi bandages are perfect for covering up your Sanrio-loving bestie's wounds. They feature kawaii designs of Kuromi cheekily blowing you a kiss. Total of 18 bandages with 6 different designs",
+   "vendor": "JP / Santan",
+   "productType": "Bath",
+   "merchantTags": [
+    "Bath",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-my-neighbor-totoro-schedule-sticker-set",
+   "name": "My Neighbor Totoro Schedule Sticker Set",
+   "merchantDescription": "Never miss out on important meetings and occasions by marking your calendar using these die-cut stickers! The set features different kawaii illustrations of the characters from the Studio Ghibli film, My Neighbor Totoro. Made from PET",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-uha-mikakuto-reset-gummies-grape",
+   "name": "UHA Mikakuto Reset Gummies - Grape",
+   "merchantDescription": "Savor the sour grape taste as you snack on these teardrop-shaped gummies! These soft candies contain 2,700mg of beneficial citric acid that helps improve metabolism. You can take these treats anywhere as they come in a convenient resealable bag! A bag of teard",
+   "vendor": "TBD",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-pokemon-pikachu-eevee-lunch-cloth-set",
+   "name": "Pokemon Pikachu & Eevee Lunch Cloth Set",
+   "merchantDescription": "Wrap your bento box with this cute lunch cloth set! It's has three designs featuring Pikachu and Eevee from Pokemon. Cloth dimensions: 43 cm x 43 cm Made from 100% cotton",
+   "vendor": "JP / Yumina Shokai",
+   "productType": "Bento & Lunch Boxes",
+   "merchantTags": [
+    "Bento & Lunch Boxes"
+   ],
+   "price": 17.9
+  },
+  {
+   "id": "blippo-hangyodon-pair-plushie-medium",
+   "name": "Hangyodon Pair Plushie - Medium",
+   "merchantDescription": "Have fun playing together with this kawaii Hangyodon plushie! This medium-sized stuffed toy is carrying its best friend, Sayuri the octopus! A super cute medium-sized Hangyodon plushie holding Sayuri Original licensed product from Sanrio Japan",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies"
+   ],
+   "price": 32.9
+  },
+  {
+   "id": "blippo-pokemon-blanket-in-cushion-pikachu",
+   "name": "Pokemon Blanket in Cushion - Pikachu",
+   "merchantDescription": "Add this super kawaii Pokemon blanket and cushion set to your bed! It showcases prints of Pikachu having fun. The blanket is stuffed inside the Pikachu cushion which it makes it easy to keep! Blanket size: H70 x W120cm Cushion size: H40 x W33cm",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Home goods",
+    "On Sale",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 34.93
+  },
+  {
+   "id": "blippo-neko-dango-nara-plushie-deer-mini",
+   "name": "Neko Dango Nara Plushie - Deer / Mini",
+   "merchantDescription": "Have fun playing dress up with this super kawaii Neko Dango plushie from the Nara series. It's wearing a cute deer onesie. This mini-sized plushie has bean bag fillings inside it making it super nice to squeeze!",
+   "vendor": "JP / Alpha",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 18.9
+  },
+  {
+   "id": "blippo-hypnosis-mic-cola-punch-tablet-candy",
+   "name": "Hypnosis Mic Cola Punch Tablet Candy",
+   "merchantDescription": "This pack of cola-flavored candy tablets features prints of characters from Hypnosis Mic! Add it to your candy cabinet. Each small tablet has a fizzzy melting sensation when you place it in your mouth!",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Anime Snacks",
+   "merchantTags": [
+    "Anime Snacks",
+    "Hard Candy",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.6
+  },
+  {
+   "id": "blippo-mofusand-sea-creature-pitacot-clip-with-gum",
+   "name": "Mofusand Sea Creature Pitacot Clip With Gum",
+   "merchantDescription": "Kawaiify your documents and memos using this super cute clip! It's shaped like a Mofusand cat wearing a sea creature headgear. This clip also comes with a soda-flavored gum! By ordering, you'll get a random clip out of 14 types Comes from the Bandai Pitacot se",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Office",
+   "merchantTags": [
+    "Office"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-kirby-cake-clip-set",
+   "name": "Kirby Cake Clip Set",
+   "merchantDescription": "Organize your paper using this kawaii set of clips! It features Kirby and his friends with cake. A super cute set of clips illustrated with Kirby and his friends with cake Total of 3 clips in the set Original licensed product from Nintendo",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Office",
+   "merchantTags": [
+    "Office",
+    "On Sale"
+   ],
+   "price": 11.92
+  },
+  {
+   "id": "blippo-spy-x-family-embroidered-can-badge-collectible",
+   "name": "Spy x Family Embroidered Can Badge Collectible",
+   "merchantDescription": "Decorate your bag or jean jacket with this super cute can badge collectible. It showcases a character from the popular boys' anime series, Spy x Family! Surprise yourself with a random design from a set of 20 when you order. Comes with 1 pc of soda-flavored gu",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Collectibles",
+   "merchantTags": [
+    "Blind Boxes",
+    "Collectibles",
+    "On Sale"
+   ],
+   "price": 3.85
+  },
+  {
+   "id": "blippo-pompompurin-bubble-bath-friends-eco-bag",
+   "name": "Pompompurin Bubble Bath & Friends Eco Bag",
+   "merchantDescription": "Store all your groceries in this kawaii eco bag! It features prints of Pompompurrin taking a bubble bath with his tiny friends. You can easily fold this bag and put it away when you don't need it. Made from polyester Comes with a carrying case illustrated with",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Tote Bags",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Tote Bags"
+   ],
+   "price": 27.9
+  },
+  {
+   "id": "blippo-sweet-cuddly-deserts-2b-pencil-set-pink",
+   "name": "Sweet Cuddly Deserts 2B Pencil Set - Pink",
+   "merchantDescription": "This kawaii pencil set has prints of cute animals with some sweet deserts on a pink background! You can use them to write fanfiction about your favorite anime! Contains 2 pencils",
+   "vendor": "JP / NCA International",
+   "productType": "Pencils",
+   "merchantTags": [
+    "On Sale",
+    "Pencils"
+   ],
+   "price": 1.4
+  },
+  {
+   "id": "blippo-hangyodon-coro-fluffy-nesoberi-cushion-plushie-medium",
+   "name": "Hangyodon Coro Fluffy Nesoberi Cushion Plushie - Medium",
+   "merchantDescription": "Take a nap together with this kawaii round Hangyodon cushion plushie. This medium-sized cutie is making the nesoberi pose by lying down on its belly! A super cute medium-sized Hangyodon cushion plushie lying on its belly Original licensed product from Sanrio J",
+   "vendor": "JP / Toko Toko",
+   "productType": "Plushies",
+   "merchantTags": [
+    "On Sale",
+    "Plushies"
+   ],
+   "price": 19.92
+  },
+  {
+   "id": "blippo-kuromi-lollipop-plush-touch-pen",
+   "name": "Kuromi Lollipop Plush Touch Pen",
+   "merchantDescription": "Use this super kawaii lollipop-shaped plush pen to operate your smartphone or tablet. It features Kuromi peeking from the top! This cute plush pen looks super cute when you set it in your pen holder.",
+   "vendor": "JP / T's Factory",
+   "productType": "Tech",
+   "merchantTags": [
+    "synkro-clone-blippo-4553",
+    "Tech"
+   ],
+   "price": 21.5
+  },
+  {
+   "id": "blippo-hangyodon-x-chupa-chups-pop-ups-lollipop-set",
+   "name": "Hangyodon x Chupa Chups Pop Ups Lollipop Set",
+   "merchantDescription": "Enjoy this delicious grape-flavored Chupa Chups lollipop with its cute Hangyodon holder! This reusable case keeps your lollipop fresh and protected, and you can open and close it anytime for sweet snacking wherever you go. Includes 1 x lollipop and 1 x candy h",
+   "vendor": "JP / 3ji no oyatsu",
+   "productType": "Kawaii Candy",
+   "merchantTags": [
+    "Kawaii Candy"
+   ],
+   "price": 9.5
+  },
+  {
+   "id": "blippo-morinaga-chocoball-big-gummy-muscat",
+   "name": "Morinaga Chocoball Big Gummy - Muscat",
+   "merchantDescription": "This pack of treats combines two of the tastiest things - chocolate and muscat-flavored gummy. Indulge in these wildly delicious chocolate-coated gummies! You can share them with your friends if you'd like.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-sweet-cuddly-deserts-2b-pencil-set-blue",
+   "name": "Sweet Cuddly Deserts 2B Pencil Set - Blue",
+   "merchantDescription": "This cute pencil set features kawaii animals and desserts with a blue background! Use it to do your homework!",
+   "vendor": "JP / NCA International",
+   "productType": "Pencils",
+   "merchantTags": [
+    "On Sale",
+    "Pencils"
+   ],
+   "price": 1.4
+  },
+  {
+   "id": "blippo-pochacco-x-chupa-chups-pop-ups-lollipop-set",
+   "name": "Pochacco x Chupa Chups Pop Ups Lollipop Set",
+   "merchantDescription": "Have fun eating your lollipop in this super cute holder featuring Pochacco! Simply slide the lever to open the top part and place the grape-flavored Chupa Chups lollipop inside. You can also use this holder for other lollipops! Includes 1 x candy holder and 1 ",
+   "vendor": "JP / 3ji no oyatsu",
+   "productType": "Kawaii Candy",
+   "merchantTags": [
+    "Kawaii Candy"
+   ],
+   "price": 9.5
+  },
+  {
+   "id": "blippo-pompompurin-x-chupa-chups-pop-ups-lollipop-set",
+   "name": "Pompompurin x Chupa Chups Pop Ups Lollipop Set",
+   "merchantDescription": "Keep your lollipop safe and tasty with this cute Pompompurin lollipop holder! The reusable case lets you enjoy your candy anytime while keeping it fresh and ready for your next bite. This set comes with a grape-flavored Chupa Chups. Includes 1 x candy holder a",
+   "vendor": "JP / 3ji no oyatsu",
+   "productType": "Kawaii Candy",
+   "merchantTags": [
+    "Kawaii Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 9.5
+  },
+  {
+   "id": "blippo-cinnamoroll-bath-ball-with-light-up-toy",
+   "name": "Cinnamoroll Bath Ball With Light Up Toy",
+   "merchantDescription": "Get squeaky clean by taking a bath using this vanilla-scented bath ball! When you place this ball into the water, it will melt and a cute Cinnamoroll toy will come out. Press the toy and it lights up! By ordering, you'll get a random toy out of 4 designs",
+   "vendor": "JP / Santan",
+   "productType": "Bath",
+   "merchantTags": [
+    "Bath",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 9
+  },
+  {
+   "id": "blippo-cinnamoroll-x-chupa-chups-pop-ups-lollipop-set",
+   "name": "Cinnamoroll x Chupa Chups Pop Ups Lollipop Set",
+   "merchantDescription": "Enjoy your grape-flavored Chupa Chups with this super cute Cinnamoroll lollipop holder! It keeps your candy safe and clean, and you can open and close it anytime for sweet snacking! Includes 1 x candy holder and 1 x lollipop",
+   "vendor": "JP / 3ji no oyatsu",
+   "productType": "Kawaii Candy",
+   "merchantTags": [
+    "Kawaii Candy"
+   ],
+   "price": 9.5
+  },
+  {
+   "id": "blippo-kuromi-ribbon-cloak-plushie-big",
+   "name": "Kuromi Ribbon Cloak Plushie - Big",
+   "merchantDescription": "Keep yourself warm during cold nights by hugging this super kawaii and fluffy Kuromi plushie! This big-sized cutie is wearing a fancy ribbon cloak. Made from super-soft material",
+   "vendor": "JP / Miyamori",
+   "productType": "Plushies",
+   "merchantTags": [
+    "Plushies",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 60.9
+  },
+  {
+   "id": "blippo-kuromi-tee-hee-plushie-medium",
+   "name": "Kuromi Tee Hee Plushie - Medium",
+   "merchantDescription": "This medium-sized plushie has a playful look with Kuromi's popular \"tee hee\" expression. It's made from soft and fluffy material and bean filling so it's nice to play with.",
+   "vendor": "JP / LIG",
+   "productType": "Plushies",
+   "merchantTags": [
+    "On Sale",
+    "Plushies"
+   ],
+   "price": 32.72
+  },
+  {
+   "id": "blippo-meito-puku-puku-tai-fish-shaped-wafer-strawberry",
+   "name": "Meito Puku Puku Tai Fish Shaped Wafer - Strawberry",
+   "merchantDescription": "Taiyaki, a fish shaped wafer that usually has a cream and red bean filling in it, is popular street food in Japan and Korea! This Puku Puku Tai Fish Shaped Wafer is an unusual snack made by Meito which consists of a monaka wafer on the outside and air-bubble s",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Wagashi",
+   "merchantTags": [
+    "Sweet Snacks",
+    "Wagashi"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "blippo-cinnamoroll-devil-baby-plushie-charm-small",
+   "name": "Cinnamoroll Devil Baby Plushie Charm - Small",
+   "merchantDescription": "Take baby devil Cinnamoroll on your adventures! This small-sized plushie charm comes with a removable ball chain so you can attach it to your favorite backpack or shoulder bag.",
+   "vendor": "JP / Miyamori",
+   "productType": "Plush Charms",
+   "merchantTags": [
+    "Plush Charms",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 18.9
+  },
+  {
+   "id": "blippo-nobel-petagu-gummies-pineapple",
+   "name": "Nobel Petagu Gummies - Pineapple",
+   "merchantDescription": "These \"petagu\" or flat-shaped gummies are the perfect treat to satisfy your sweet and sour cravings! Each piece has a yummy golden pineapple flavor and a unique hard gummy texture.",
+   "vendor": "JP / Mizota",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-re-ment-on-air-sumikko-gurashi-tv-station-figure",
+   "name": "Re-Ment ON AIR! Sumikko Gurashi TV Station Figure",
+   "merchantDescription": "Enjoy collecting all characters from the ON AIR! Sumikko Gurashi TV Station Figure series! The entire line has eight designs that feature the Sumikko Gurashi characters with different TV station equipment like recording, video, broadcasting, quiz show, and m",
+   "vendor": "JP / Alpha",
+   "productType": "Blind Boxes",
+   "merchantTags": [
+    "Blind Boxes",
+    "San-X",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 12.9
+  },
+  {
+   "id": "blippo-my-melody-sweet-dreams-pouch",
+   "name": "My Melody Sweet Dreams Pouch",
+   "merchantDescription": "Carry your small cosmetics around using this super kawaii pouch! It's made from clear vinyl plastic and features a cute print of My Melody having a wonderful dream.",
+   "vendor": "JP / Watts",
+   "productType": "Pouches",
+   "merchantTags": [
+    "On Sale",
+    "Pouches"
+   ],
+   "price": 2.03
+  },
+  {
+   "id": "blippo-fanimals-laundry-contact-notebook",
+   "name": "Fanimals Laundry Contact Notebook",
+   "merchantDescription": "This super cute notebook showcases prints of fluffy and playful animals called Fanimals! Its pages are perfect for keeping your friends' contact information. Comes in an A5 size Total of 28 sheets",
+   "vendor": "JP / LIG",
+   "productType": "Notebooks",
+   "merchantTags": [
+    "Notebooks"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "blippo-pochacco-round-eyes-cutie-4-color-ballpen",
+   "name": "Pochacco Round Eyes Cutie 4-Color Ballpen",
+   "merchantDescription": "Have a blast writing poems and short stories using this special pen! It comes decorated with a plump Pochacco rubber charm that has round-shaped eyes. The handy ballpoint pen has four ink colors that you can switch with a simple click. Comes in 4 ink colors: b",
+   "vendor": "JP / LIG",
+   "productType": "Pens",
+   "merchantTags": [
+    "On Sale",
+    "Pens"
+   ],
+   "price": 4.8
+  },
+  {
+   "id": "blippo-yaokin-monster-stamp-candy-cider",
+   "name": "Yaokin Monster Stamp Candy - Cider",
+   "merchantDescription": "Have a blast trying out these candy stamps that have a yummy cider flavor! Just lick on the candy and start stamping! The pack contains four stamp treats with a mystery Halloween-inspired pattern. A pack of cider-flavored monster stamp candies Total of 4 piece",
+   "vendor": "JP / Mizota",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Dagashi",
+    "Halloween",
+    "Hard Candy",
+    "On Sale"
+   ],
+   "price": 1.33
+  },
+  {
+   "id": "blippo-nissen-mini-chicken-donburi-ramen",
+   "name": "Nissen Mini Chicken Donburi Ramen",
+   "merchantDescription": "This mini-sized cup of instant chicken ramen is perfect to eat during the rainy season! It has an egg ingredient that looks just like a freshly made egg. A mini-sized cup of instant chicken ramen with an egg ingredient that looks like freshly made egg High-qua",
+   "vendor": "JP / Kokubu",
+   "productType": "Ramen",
+   "merchantTags": [
+    "Food",
+    "On Sale",
+    "Ramen"
+   ],
+   "price": 1.95
+  },
+  {
+   "id": "blippo-pompompurin-butler-fuwakororin-plushie-medium",
+   "name": "Pompompurin Butler Fuwakororin Plushie - Medium",
+   "merchantDescription": "This kawaii round plushie is perfect for Pompompurin lovers! It's a medium-sized plushie from the Sanrio Fuwakororin series and featured Pompompurin dressed as a butler.",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Plushies",
+   "merchantTags": [
+    "On Sale",
+    "Plushies"
+   ],
+   "price": 20.72
+  },
+  {
+   "id": "blippo-peko-chan-photo-frame-card-holder",
+   "name": "Peko-Chan Photo Frame Card Holder",
+   "merchantDescription": "This super cute card holder allows you to carry around your favorite photo card! The gradient frame features an illustration of Peko-chan and her puppy, Dog. You can attach it to your backpack with its metal clip. Made of PVC A collab product between Peko-Chan",
+   "vendor": "JP / T's Factory",
+   "productType": "Card Storage",
+   "merchantTags": [
+    "Card Storage"
+   ],
+   "price": 9.9
+  },
+  {
+   "id": "blippo-kuromi-spring-plushie-medium",
+   "name": "Kuromi Spring Plushie - Medium",
+   "merchantDescription": "This super kawaii Kuromi plushie is all dressed up for spring. Go on fun picnics underneath the flowers together with this medium-sized stuffed toy! A cute medium-sized Kuromi plushie dressed up for the spring season Made of soft and cuddly polyester material ",
+   "vendor": "JP / KThings",
+   "productType": "Plushies",
+   "merchantTags": [
+    "On Sale",
+    "Plushies"
+   ],
+   "price": 23.03
+  },
+  {
+   "id": "blippo-pretty-cure-all-stars-secret-jewelry-charm-with-gummy",
+   "name": "Pretty Cure All Stars Secret Jewelry Charm With Gummy",
+   "merchantDescription": "Nibble on this pack of sweet gummy candy illustrated with characters from the Pretty Cure All Stars! It comes with a collectible Pretty cure charm. This charm has a shiny plating and a cute sparkly finish. Attach it to your favorite bag with its removable ball",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 8.5
+  },
+  {
+   "id": "blippo-hatsune-miku-retro-pop-sketchbook",
+   "name": "Hatsune Miku Retro Pop Sketchbook",
+   "merchantDescription": "This A5-sized sketchbook has a colorful cover featuring retro pop illustrations of Hatsune Miku and other Piapro characters. Fill the blank pages with your anime drawings! Total of 15 pages",
+   "vendor": "JP / Watts",
+   "productType": "Notebooks",
+   "merchantTags": [
+    "Notebooks",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-moomin-mix-berry-biscuits",
+   "name": "Moomin Mix Berry Biscuits",
+   "merchantDescription": "Enjoy snacking on these yummy mixed berry-flavored biscuits! These crunchy treats come in eleven different shapes featuring Moomin characters. Made in Japan",
+   "vendor": "JP / Tajimaya",
+   "productType": "Japanese Biscuits",
+   "merchantTags": [
+    "Japanese Biscuits",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.12
+  },
+  {
+   "id": "blippo-super-mario-fun-run-mini-memo-pad",
+   "name": "Super Mario Fun Run Mini Memo Pad",
+   "merchantDescription": "Jot down important notes and reminders on the colored sheets of this mini memo pad. It features prints of Super Mario characters running after one another! Total of 100 sheets with 2 different designs",
+   "vendor": "JP / Alpha",
+   "productType": "Notepads",
+   "merchantTags": [
+    "Notepads",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-kirby-reward-sticker-set",
+   "name": "Kirby Reward Sticker Set",
+   "merchantDescription": "Be motivated to reach your goals with this super cute sticker set! It features Kirby and Waddle Dee with different cheers. You can place it on your planner and calendar, or use it with the included goal tracker sheet.",
+   "vendor": "JP / Alpha",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-sanrio-characters-baby-gang-ruler",
+   "name": "Sanrio Characters Baby Gang Ruler",
+   "merchantDescription": "Create various shapes and lines using this super cute ruler! It has kawaii prints of the Sanrio Characters cuties as babies This slim ruler is a great addition to your craft kit! Made from transparent plastic Ruler length: 17 cm",
+   "vendor": "JP / LIG",
+   "productType": "Rulers",
+   "merchantTags": [
+    "On Sale",
+    "Rulers"
+   ],
+   "price": 3.6
+  },
+  {
+   "id": "blippo-my-neighbor-totoro-forest-spirit-sticky-notes-set",
+   "name": "My Neighbor Totoro Forest Spirit Sticky Notes Set",
+   "merchantDescription": "Scribble quick reminders on this kawaii set of sticky notes! These sheets have three different die-cut designs featuring the Totoro and other spirits of the forest. Total of 3 pads with 20 sheets each",
+   "vendor": "JP / Alpha",
+   "productType": "Sticky Notes",
+   "merchantTags": [
+    "Sticky Notes",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 7.9
+  },
+  {
+   "id": "blippo-insulated-cute-pink-kawaii-lunch-box-bag-for-kids",
+   "name": "Blippo Harajuku Double Decker Lunch Box",
+   "merchantDescription": "Add a dash of cuteness to your lunchtime with this insulated lunch box for girls! High-quality Blippo product designed in Japan BPA Free and food-safe lining Insulated and easy-to-wipe lining Keeps your lunch fresh Two compartments with double zips Carry handl",
+   "vendor": "Blippo",
+   "productType": "Bento & Lunch Boxes",
+   "merchantTags": [
+    "Bento & Lunch Boxes",
+    "bl-harajuku",
+    "exclusive",
+    "Lunch Bags"
+   ],
+   "price": 24.9
+  },
+  {
+   "id": "blippo-re-ment-kirbys-dream-land-terrarium-collection",
+   "name": "Re-Ment Kirby's Dream Land Terrarium Collection",
+   "merchantDescription": "Display this Kirby miniature figure on your gaming desk for a touch of kawaii! It contains one of six super cute designs featuring scenes from Kirby's Dream Land encased in a clear plastic terrarium. Re-Ment miniatures are favorite keepsakes in Japan because o",
+   "vendor": "JP / Alpha",
+   "productType": "Blind Boxes",
+   "merchantTags": [
+    "Blind Boxes",
+    "On Sale"
+   ],
+   "price": 15.33
+  },
+  {
+   "id": "blippo-cinnamoroll-butt-mini-memo-pad",
+   "name": "Cinnamoroll Butt Mini Memo Pad",
+   "merchantDescription": "Use this kawaii die-cut memo pad to write down important reminders. It showcases a print of Cinnamoroll showing off his cute little butt! Consists of 80 sheets with 2 different designs",
+   "vendor": "JP / T's Factory",
+   "productType": "Notepads",
+   "merchantTags": [
+    "Notepads",
+    "On Sale"
+   ],
+   "price": 3.12
+  },
+  {
+   "id": "blippo-hello-kitty-stacking-chest",
+   "name": "Hello Kitty Stacking Chest",
+   "merchantDescription": "This cute mini chest comes with a handle thats printed with Hello Kitty! You can use this to keep your hair clips and ties. It can also be stacked with cases from the same series. Features a single pull-out drawer Made from plastic",
+   "vendor": "JP / K Company",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Home goods",
+    "On Sale"
+   ],
+   "price": 8.33
+  },
+  {
+   "id": "blippo-truz-minini-deco-stickers",
+   "name": "TRUZ Minini Deco Stickers",
+   "merchantDescription": "Decorate your scrapbooks with kawaii stickers! This sheet features cute illustrations of the Minini version of TRUZ characters having fun.",
+   "vendor": "JP / Solomon",
+   "productType": "Stickers",
+   "merchantTags": [
+    "On Sale",
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.03
+  },
+  {
+   "id": "blippo-my-melody-ribbony-nail-stickers",
+   "name": "My Melody Ribbony Nail Stickers",
+   "merchantDescription": "Kawaii-fy your nails with this super cute set of nail stickers! It showcases My Melody with lacy ribbon decors. Just stick them onto your nails, easy-peasy, lemon-squeezy!",
+   "vendor": "JP / Watts",
+   "productType": "Stickers",
+   "merchantTags": [
+    "Beauty Accessories",
+    "Stickers",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 2.9
+  },
+  {
+   "id": "blippo-my-melody-nurse-syringe-mechanical-pencil",
+   "name": "My Melody Nurse Syringe Mechanical Pencil",
+   "merchantDescription": "Have fun sketching with this syringe-shaped mechanical pencil! It showcases prints of My Melody looking like a nurse. Features a 0.5mm lead tip",
+   "vendor": "JP / T's Factory",
+   "productType": "Pencils",
+   "merchantTags": [
+    "Pencils",
+    "synkro-clone-blippo-4553"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-sleepies-big-cushion-kiwipi",
+   "name": "Sleepies Big Cushion - Kiwipi",
+   "merchantDescription": "Sleep soundly as you snuggle with this large-sized Kiwipi cushion from Sleepies  a trio of mysterious sleeping birds who always play together in their dreams! This extra fluffy pillow is made of super-soft polyester. A kawaii big Kiwipi cushion from Sleepie",
+   "vendor": "JP / Toko Toko",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "clearance",
+    "Home goods"
+   ],
+   "price": 39.9
+  },
+  {
+   "id": "blippo-neko-dango-plush-coin-purse",
+   "name": "Neko Dango Plush Coin Purse",
+   "merchantDescription": "Bring cuteness everywhere with this adorably round plush purse! Neko Dango is a Japanese series of cat plushies that resemble the confection dango. The purse is shaped just like the Neko Dango and has a zipper closure to keep your change secure. A soft plush c",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Wallets & Purses",
+   "merchantTags": [
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "Wallets & Purses"
+   ],
+   "price": 11.83
+  }
+ ]
+}

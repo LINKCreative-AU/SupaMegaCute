@@ -1,0 +1,731 @@
+{
+ "source": "squishable",
+ "batch": 14,
+ "items": [
+  {
+   "id": "squishable-micro-comfort-food-taco",
+   "name": "Micro Comfort Food Taco Keychain",
+   "merchantDescription": "Divided we are separate individuals, flimsy and weak! We know not the comfort of brotherhood or the romance of togetherness! What shall we do when the great north wind blows upon us? Freeze! Let us follow the example of the taco and band together, oh my people",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-comfort-food-hamburger",
+   "name": "Micro Comfort Food Hamburger Keychain",
+   "merchantDescription": "Whether I'm being pulled on rickshaws through the Indonesian countryside, stuffed into rush-hour Moscow Metro cars, or experiencing a two-hour layover in Toronto, when some helpful local sees me looking a little jetlagged and lost, they offer me one thing: a H",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-micro-squishable-smore",
+   "name": "Micro Squishable S'more",
+   "merchantDescription": "Sometimes, it feels like everything around us is artificial - the plastic desks we sit at, the incandescent lights we see by, the pre-cooled, recycled air we breathe, the high-tech underground bunker where I stash my canned goods, all of them could be a little",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-comfort-food-soy-sauce",
+   "name": "Comfort Food Soy Sauce",
+   "merchantDescription": "I've got some horrible habits. I slouch, I misuse the word \"inflammable\" and I sip the leftover soy sauce from the little dish when I'm done with all my sushi. I know. It's borderline illegal. The sushi police are probably already on their way, you DEFINITELY ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-comfort-food-red-velvet-cupcake",
+   "name": "Comfort Food Red Velvet Cupcake",
+   "merchantDescription": "I don't want to hear that red velvet is technically \"just chocolate with red food coloring\", it is NOT, that's a cruel rumor! Red velvet is the most special, delectable, PERFECT flavor to ever exist. The way it compliments the cream cheese icing so well, the p",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-comfort-food-marshmallows",
+   "name": "Comfort Food Marshmallows",
+   "merchantDescription": "What could be better than sugar and syrup all whipped up into the perfect soft and sweet, fluffy cylindrical sponge? How about three of them? How about three of them on a stick? That's also ON FIRE! ​​Voila! marshmallow,campfire,smore,fire,white,marshmallows",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-mini-comfort-food-iced-tea",
+   "name": "Mini Comfort Food Iced Tea",
+   "merchantDescription": "There's nothing like a cold glass of iced tea on a hot summer's day! Or a not-so-hot autumn day! Or on a freezing cold winter day, because you think you're stronger than the elements and nothing can hurt you! Will we ever change? No! I'll drink iced tea in win",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-comfort-food-iced-tea",
+   "name": "Comfort Food Iced Tea",
+   "merchantDescription": "Sometimes you really just need a hot cup of tea to get the day started. Today is not that day! Instead, drink an iced tea like the cool kids! They're cool kids, 'cause they're drinking an iced drink. Get it? Yep. tea,iced,drink,summer",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-mini-comfort-food-broccoli",
+   "name": "Mini Comfort Food Broccoli",
+   "merchantDescription": "I was not into broccoli as a kid. It made me feel like a giant eating tons of little trees, and I didn't want to have that burden on my 4-year-old conscience! Many years later, I love broccoli! I know they aren't little trees. Or else maybe I've just become co",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-comfort-food-coffee-pot",
+   "name": "Comfort Food Coffee Pot",
+   "merchantDescription": "How do you take your coffee? Black? With cream and sugar? Covered in fur? With a smiling face that warm you up from the inside out? Well then this is JOE coffee pot! hahahhaa...please laugh...please. coffee,breakfast,morning,caffine,wake up,cafe,latte,espresso",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 60
+  },
+  {
+   "id": "squishable-mini-comfort-food-happy-birthday-cake",
+   "name": "Mini Comfort Food Happy Birthday Cake",
+   "merchantDescription": "This Happy Birthday cake is ready to fulfill the wishes of your inner child! Or you know, an actual child. It's just dripping with birthday cheer! It's also dripping frosting and sprinkles. Now it's just dripping! Stop dripping on my carpet! Jeez! frosting, bi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-comfort-food-skeleton-avocado",
+   "name": "Mini Comfort Food Skeleton Avocado",
+   "merchantDescription": "Young Avocados, hard and unappealing, spend weeks prepping for their moment of edibility. They're waiting, waiting, waiti...and now they're ripe! And now they're not. It's an ephemeral moment in the culinary spotlight, perhaps spread on toast or in some sushi,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 24
+  },
+  {
+   "id": "squishable-comfort-food-gourmet-grilled-cheese",
+   "name": "Comfort Food Gourmet Grilled Cheese",
+   "merchantDescription": "Here are some activities to avoid while eating a grilled cheese sandwich: juggling, a trip to the dentist, playing an English game of cricket, mounting a horse, winning back the heart of your true love. Of course, this description works just as well as a list ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-madame-cupcake",
+   "name": "Comfort Food Madame Cupcake",
+   "merchantDescription": "This fancy cupcake is haute couture! It's haute cuisine! It's haute fuzz! It's basically got all the hautes! Try it out for some haute snuggles! cupcake,dessert,madame,cupcakee,cupcakes",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-mac-n-cheese",
+   "name": "Comfort Food Mac 'n Cheese",
+   "merchantDescription": "There are so many delicious ways to enjoy Mac and Cheese! Ultra gooey, easy stovetop, bacon and jalapeno, southern style, breadcrumb baked.... Oh man, I'm hungry. What were we saying? Mac and Cheese, it's delicious and creamy and... brb I'm getting lunch. mac ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 60
+  },
+  {
+   "id": "squishable-mini-comfort-food-sushi-roll-ii",
+   "name": "Mini Comfort Food Sushi Roll II",
+   "merchantDescription": "Can you improve upon perfection? Many influential philosophers have had opinions on this important debate. Aristotle, Plato, that weird guy who shouts a lot on the corner... Well we here at Squishable have finally answered this question: yes! The solution is t",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-comfort-food-peppermint-mocha",
+   "name": "Comfort Food Peppermint Mocha",
+   "merchantDescription": "Coffee...check! Chocolate...check! Assorted sugary creamy extras...check! Peppermint...ch- ...wait, peppermint? Are you sure about this? It's not going to be weird? Or overwhelming? Or taste like I just freshly brushed my teeth? Somehow I'm going to trust you ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-comfort-food-chocolate-chunk-cookie",
+   "name": "Comfort Food Chocolate Chunk Cookie",
+   "merchantDescription": "Nothing goes better with an iced cold glass of milk than a chunky chocolate chip cookie! No milk? No need to cry about it! Wipe those tears away with chocolate chips!! Then take a shower because you have chocolate all over you. brown, cookie, chocolate, yummy",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-ranch",
+   "name": "Comfort Food Ranch",
+   "merchantDescription": "Howdy partners, get your veggies ready! Straight from the...valley comes the most delectable dressing you ever did squeeze! If you're still reading this please help, I don't even like ranch!!! I'm writing this against my will, please PLEA- dressing, bottle, ra",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-comfort-food-smoothie",
+   "name": "Comfort Food Smoothie",
+   "merchantDescription": "If smoothies have one fan it's me. If they have no fans, I've died. The perfect blend of fruits and juices and a whole bunch of other yummy things...why more people aren't as obsessed with them as I am...whatever! That seems like a \"them\" problem! smoothie, fr",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-comfort-food-cotton-candy",
+   "name": "Comfort Food Cotton Candy",
+   "merchantDescription": "Have you ever gone to a county fair and thought to yourself, \"what's the least healthy thing I can put into my body that ISN'T weighed down by ten pounds of grease?!\" That's right, cotton candy! There's nothing in this world like pure sugar crystal disguised a",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-strawberry-jam",
+   "name": "Comfort Food Strawberry Jam",
+   "merchantDescription": "No friends to go on a cute little picnic date with? No problem! Just bring this full-sized strawberry jam plush, and you'll never be alone! You'll have great conversations like, \"Why are there so many ants crawling on me?\", or \"why is grape so special, I'm bet",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-comfort-food-ham-musubi",
+   "name": "Comfort Food Ham Musubi",
+   "merchantDescription": "Look at that face, they have no idea what's coming. They have not a single inkling that they have a band of ravenous fans, ready to take a bite out of their salty body. Just between us, we should keep it that way, let them enjoy their unencumbered bliss...for ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-gumball-machine",
+   "name": "Comfort Food Gumball Machine",
+   "merchantDescription": "Got an extra 25 cents? Then you can buy a gumball! Have an extra 40ish dollars? Then this is the gumball machine for you!! All the fun, and none of the hard sugar and complaining about getting a flavor you don't like! gum,gumball,machine,candy,rainbow,red,purp",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-comfort-food-christmas-star-cookie",
+   "name": "Comfort Food Christmas Star Cookie",
+   "merchantDescription": "Sugar cookies are always appropriate for any holiday affiliation! It's the little black dress of cookies! Christmas? Yes, obviously. Arbor day? Alright, why not! World Sword Swallowers Day? I didn't know that was a thing, but apparently it is! National 'Open a",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-sourdough",
+   "name": "Comfort Food Sourdough",
+   "merchantDescription": "We all had a bread phase within the last, oh, two years, right? Probably no particular reason why I'm sure!!! I guess we just all collectively decided at once to be inside and make aaaangry little breads with our aaaaangry little starters! Sourdough is definit",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-sushi-roll-ii",
+   "name": "Comfort Food Sushi Roll II",
+   "merchantDescription": "If you see me stuffing sushi in my purse at an all-you-can-eat restaurant, no you didn't. That stays between ME and this california roll! This Squishable Sushi Roll might not be able to fit that easily, BUT it does make the perfect snuggle companion! It also m",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 59
+  },
+  {
+   "id": "squishable-comfort-food-cold-brew",
+   "name": "Comfort Food Cold Brew",
+   "merchantDescription": "Nothing says good morning like a glass of freshly squeezed cold brew!!! That is to say, you wake up, squeeze your Cold Brew Squishable, and move on with your day. Don't try to squeeze coffee beans trying to make cold brew - not only will you not have cold brew",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-comfort-food-cheeseburger",
+   "name": "Comfort Food Cheeseburger",
+   "merchantDescription": "How do you take your cheeseburger? Medium rare? Burnt? Made of plush?! Whatever way you decide to enjoy this foodie classic, always remember to toast your buns, chop your lettuce, and for the love of PATTIES, don't forget the pickles!!! cheesburger, burger, me",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-comfort-food-happy-birthday-cake",
+   "name": "Comfort Food Happy Birthday Cake",
+   "merchantDescription": "Happy Birthday! Here's an edible symbol of your own mortality! Except it's not actually edible, because it's a plush. That's probably also symbolic of something. Hmm. Let's try it again. You're a year further away from the date of your birth! Here's cake! So m",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-comfort-food-buttered-toast",
+   "name": "Comfort Food Buttered Toast",
+   "merchantDescription": "Make the most of the simple things in life! Take a break every morning to enjoy some toast while sipping a cup of coffee. Talk about your plans for the day. Think about things that make you feel calm or appreciate life. Maybe write in your gratitude journal. T",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-unicorn-latte",
+   "name": "Comfort Food Unicorn Latte",
+   "merchantDescription": "This Comfort Food Unicorn Latte is an absolutely magical experience! What's in it? Is it dragonfruit, taro, matcha, maple syrup, and some sort of milk. No? It's just polyester, love, fluff, and unicorn magic...and milk. Wait, no milk. Just the other stuff. uni",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 59
+  },
+  {
+   "id": "squishable-comfort-food-lemonade",
+   "name": "Comfort Food Lemonade",
+   "merchantDescription": "Pucker up sunshine, we're going to the beach! In the battle against dehydration, let's choose our weapons wisely! I'm talking about Lemonade, people, and lots of it! Take that, Sun! We dare you to try and take away our liquid nutrients! This fuzzy fighting mac",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-comfort-food-grapes",
+   "name": "Comfort Food Grapes",
+   "merchantDescription": "Grapes are super versatile! You can eat 'em! You can make them into jams and jellies! They make salads awesome! They can be made into wine (totally non-alcoholic wine that is, 'cause kids read these descriptions too)! How amazing! The Comfort Food Grapes was m",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 62
+  },
+  {
+   "id": "squishable-comfort-food-ramen",
+   "name": "Comfort Food Ramen",
+   "merchantDescription": "Slurp's up! Hanging out with the Comfort Food Ramen is like riding the umami filled broth waves into a world that can only be described as...mildly savory. Look at that egg hanging out with the seals! Schools of fish cakes are jumping sky high. There are so ma",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 60
+  },
+  {
+   "id": "squishable-comfort-food-unicorn-cake",
+   "name": "Comfort Food Unicorn Cake",
+   "merchantDescription": "Unicorn Cake! It's there for when you want to eat a mythical creature, but you feel kind of bad about it. Also you've been a vegetarian for years, so those urges to just chomp into a horned-horse flank are super embarrassing. Unicorn cake to the rescue! Munch ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 59
+  },
+  {
+   "id": "squishable-comfort-food-broccoli",
+   "name": "Comfort Food Broccoli",
+   "merchantDescription": "Up for debate: Is broccoli the best part of Chinese food takeout? My childhood says \"yes.\" Okay fine, my brother always stole the chicken that came with my General Tso's, so I ate the broccoli out of necessity. But there is something wonderful about General Ts",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 60
+  },
+  {
+   "id": "squishable-comfort-food-america-ice-pop",
+   "name": "Comfort Food America Ice Pop",
+   "merchantDescription": "I'm melting! MELTING! But luckily, this Squishable doesn't! It stays solid in 90 degree weather. It stays solid (although still squishy) at the beach. It stays in marvelous shape every day of the year. Oh how this embodiment of a perfect summer does it, we'll ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-strawberry",
+   "name": "Comfort Food Strawberry",
+   "merchantDescription": "Strawberries dominate the world! Strawberry salad, pie, milk, milkshakes, ice cream, tea, coffee...and that's just the stuff with real strawberries! If you're talking strawberry smell, then we've got lotion, soap, shampoo, conditioner, perfume, lip gloss...Tha",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-cherries",
+   "name": "Comfort Food Cherries",
+   "merchantDescription": "What a rebellious fruit! These cherries have gone on sweet adventures all over the world. They won't even talk about how much trouble they've caused because they're too cool for that. Try asking them! See? Nothing! cherries, cherry, red, fruit, comfort food",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-comfort-food-hot-sauce",
+   "name": "Comfort Food Hot Sauce",
+   "merchantDescription": "Do you munch on jalapenos for breakfast? Do you guzzle pepper for lunch? Do you secretly carry a tiny bottle of pure capsaicin for flavor emergencies? Then you'll get a kick out of this hot sauce! We're not sure where it resides on the Scoville scale for spici",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-popcorn",
+   "name": "Comfort Food Popcorn",
+   "merchantDescription": "Totopoca! It's the ancient Aztec word to describe popping corn! In clay pots! It was DELICIOUS. Fast forward to the movie theaters industry of yesteryear. They needed snacks, but what? Definitely not popcorn, which smelled kind of weird and sounded like totopo",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-comfort-food-bubble-tea",
+   "name": "Comfort Food Bubble Tea",
+   "merchantDescription": "Hello little bubble tea, you're looking very sweet today! Which makes sense, because you are made with tea, milk, sugar, tapioca balls, and loooove! This total treat from Taiwan is the saccharine sauce you've been waiting to slurp! Unless you want a lower-suga",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-soup-dumpling",
+   "name": "Comfort Food Soup Dumpling",
+   "merchantDescription": "Soup dumplings (xiaolongbao!) are delicious bouncy little morsels of happiness filled with soup and MORE happiness! How do you eat one without it exploding in your mouth? Alright bear with me, you nibble a tiny hole in the dumpling, slurp out the soup, then ea",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-pumpkin-spice-latte",
+   "name": "Comfort Food Pumpkin Spice Latte",
+   "merchantDescription": "Oh lovely! This warm, cuddly little Comfort Food Pumpkin Spice Latte wants to do all the Fall things! Apple picking! Hay rides! Corn mazes! Haunted houses! Scary movie screenings! Halloween parades! Hey, how about that pumpkin carving contest? Surprisingly, sh",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-comfort-food-onigiri",
+   "name": "Comfort Food Onigiri",
+   "merchantDescription": "Fancy munching on a Japanese rice ball? Careful how you unwrap it! Try as we might to extricate that delicate triangle of rice, seaweed, and filling from that fiendish plastic wrapper...splat. It transforms into a blob. A delicious blob, but still a blob! Fort",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-comfort-food-avocado-toast",
+   "name": "Comfort Food Avocado Toast",
+   "merchantDescription": "Craving some savory after your morning workout? Need to fill your tummy with squishy satisfaction? Want to look like an Instagram model while doing it? Might I suggest the light yet ever-so-indulgent Avocado Toast! Aztecs, Australians, and attractive yoga prac",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-comfort-food-carrot",
+   "name": "Comfort Food Carrot",
+   "merchantDescription": "Do carrots improve night vision? No! This conical taproot might help your Vitamin K and B6, but its nocturnal eye benefits have been slightly (completely) exaggerated. So where did this bizarre bit of tuber trivia come from? Well, during WW2, the eye/carrot co",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-banana",
+   "name": "Comfort Food Banana",
+   "merchantDescription": "Bananas are funny! Since the days of Vaudeville, comedians' legs have come flying out from under them following contact with this farcical fruit!But surely a star of the silent film era could have slipped on a squishy orange or stumbled over one of those stuff",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 45
+  },
+  {
+   "id": "squishable-squishable-comfort-food-taco",
+   "name": "Squishable Comfort Food Taco",
+   "merchantDescription": "Taco Tuesday! What other food could possibly provides such a bright ray of sunshine on this, the most \"meh\" day of the week? Sometimes, a perfect taco is the only thing between ennui and \"wheeee!\" But why limit this cheezy savory crunchy festival to Tuesdays? ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 45
+  },
+  {
+   "id": "squishable-comfort-food-pineapple",
+   "name": "Comfort Food Pineapple",
+   "merchantDescription": "Pineapples have nothing to do with pine trees, and they are very dissimilar to apples! We get it. Pineapples are so much more than just an inaccurate appellation! So what makes a pineapple a pineapple? Perhaps it's their spiky exterior! Or their wonderfully sw",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-pizza-slice",
+   "name": "Comfort Food Pizza Slice",
+   "merchantDescription": "Dear Pizza, When I celebrated my sixth birthday, you were there. Mostly smeared on my shirt, but you were there. When I was 19 and suffered through my first breakup, you were there, a hot and fresh solace. Then a lukewarm solace. Then a cold solace. But solace",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-avocado",
+   "name": "Comfort Food Avocado",
+   "merchantDescription": "Avocados are extra! They are extra-satisfying when spread on a piece of toast! They make an extra-yummy dip for your chips! They're also extra-easy to tell when they're ripe! This particular Avocado has extra-extra! Extra cuddles compared to your average avoca",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-comfort-food-hot-dog",
+   "name": "Comfort Food Hot Dog",
+   "merchantDescription": "When you don't know where you're going to be, pack some hot dogs! Let's say you've been magically transported into the paleolithic era! You have nothing but sticks, stone tools and a rudimentary knowledge of fire. Well then, roast those wieners al fresco! Now ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-gingerbread-man",
+   "name": "Comfort Food Gingerbread Man",
+   "merchantDescription": "The Gingerbread Man is renowned for his daring escapes! This fine specimen of yummicus gingericus can frequently be found fleeing famished families. Who can catch him? No one! He's the Gingerbread Man!But what is the Gingerbread Man running towards? Look no fu",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-watermelon",
+   "name": "Comfort Food Watermelon",
+   "merchantDescription": "Feeling hungry? How about thirsty? What about bored? If you answered yes to any of these three predicaments, allow me to suggest a slice of Watermelon! It feeds you! It dampens you! It's...a very interesting fruit! That cold, crunchy, candy pulpiness, that flu",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-comfort-food-shrimp-sushi",
+   "name": "Comfort Food Shrimp Sushi",
+   "merchantDescription": "Psst, want a hot tip on a cold dish? Next time you're in Tokyo, I know this awesome sushi place in Rappongi! It's hard to find: you have to enter through a mailbox and climb down a ladder. At the bottom, tell the bouncer that you're there to meet Hideki. Sound",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 44
+  },
+  {
+   "id": "squishable-squishable-smore",
+   "name": "Squishable S'more",
+   "merchantDescription": "Gather around the campfire and I'll tell you a scary story! Once upon a time, in this very forest, a group of campers were very hungry! One brave outdoors-person tried roasting a marshmallow in the fire and sticking it together with chocolate and graham cracke",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-shot-sized-boozy-buds-champagne-bottle",
+   "name": "Shot-Sized Boozy Buds Champagne Bottle",
+   "merchantDescription": "Come celebrate with me! Just a little though! A teeny-weeny amount of celebration! Like, for a new month, or a half-birthday.Fancy a nip? A splash? Shot-sized Boozy Buds are sip-sized Squishables! They're smaller than a Mini but bigger than a Micro (that's 5-6",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-shot-sized-boozy-buds-bloody-mary",
+   "name": "Shot-Sized Boozy Buds Bloody Mary",
+   "merchantDescription": "Drink aficionados may argue about what ingredients truly belong in this tangy hangover cure, but we have our own opinion. The most important ingredient is floof. That's a culinary term.Fancy a nip? A splash? Shot-sized Boozy Buds are sip-sized Squishables! The",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 15
+  },
+  {
+   "id": "squishable-mini-boozy-buds-champagne-bottle",
+   "name": "Mini Boozy Buds Champagne Bottle",
+   "merchantDescription": "How's your day going, half of a mimosa? Incomplete, you say? Well where's your fruity orange partner in crime? No wonder you're lonely without a citrusy sidekick. I'd help you out if I could, but I'm definitely not champagne-soluble. Trust me, I've tried. booz",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-boozy-buds-bloody-mary",
+   "name": "Mini Boozy Buds Bloody Mary",
+   "merchantDescription": "How do you like your bloody mary? Bacon-garnished? With seafood? Heavy on the vodka? More Worcestershire sauce? Enough horseradish to make you cry? Covered in fur and stuffed with poly-fill? Us too! boozy buds,boozy,buds,bloody mary,alcohol",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-mini-boozy-buds-beer-stein",
+   "name": "Mini Boozy Buds Beer Stein",
+   "merchantDescription": "Buuuuuurp. Oh do pardon me! I hadn't realized that my vertically escaping bodily gasses would be so orchestral! Next time I'll make sure to stick with a beer that's heavier on the metaphorical effervescence and lighter on the literal. I'm talking about you, Mi",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-boozy-buds-margarita",
+   "name": "Mini Boozy Buds Margarita",
+   "merchantDescription": "Welcome to your beach! Here's your sunscreen to keep from scorching, your hat to keep you cool, and your Mini Boozy Buds Margarita to stay hydrated! What's that you say? A Mini Boozy Buds Margarita is the opposite of hydrating? Well apparently the opposite of ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 26
+  },
+  {
+   "id": "squishable-boozy-buds-champagne-bottle",
+   "name": "Boozy Buds Champagne Bottle",
+   "merchantDescription": "Cheers! Cheers to this sweet thing called life! We're living it! Here in this moment we're alive! And that's better than the alternative! Waiting for some snarky commentary? Well too bad, because this is just some straight up high-quality, unironic remarks on ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 40
+  },
+  {
+   "id": "squishable-boozy-buds-red-wine-glass",
+   "name": "Boozy Buds Red Wine Glass",
+   "merchantDescription": "Got some cheese? Crackers? Maybe a little jam? Soppressata slices? How delightful! This charcuterie board is ready to go. Oh, you know what's missing? Some red wine! This red wine, in particular. It really goes with the soppressata. Also, what the heck is sopp",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 40
+  },
+  {
+   "id": "squishable-squishable-pigeon",
+   "name": "Squishable Pigeon",
+   "merchantDescription": "In case the Mini Pigeon isn't enough for you, we've created a full-sized version for you to lavish with all your love and attention! Despite being disliked by many, these birds are incredibly loyal, intelligent, and sociable. They're a perfect choice for anyon",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "pre-order",
+    "Trending"
+   ],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-trash-can",
+   "name": "Squishable Trash Can",
+   "merchantDescription": "With this fella, everyday is garbage day! This just has the added bonus of not stinking up your house or yard! You might even make a few fuzzy friends when you open the lid! Just like a real trashcan, there's a surprise around every pile! trash, can, garbage, ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 59
+  },
+  {
+   "id": "squishable-squishable-crab",
+   "name": "Squishable Crab",
+   "merchantDescription": "If this crab starts foiling your plans of getting a boyfriend, that's your issue to solve and Squishable takes NO responsibility for any random musical numbers or boat tipping injuries that may occur! Just be sure to not misplace him in a kitchen, unspeakable ",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 54
+  },
+  {
+   "id": "squishable-squishable-lobster",
+   "name": "Squishable Lobster",
+   "merchantDescription": "Grab the butter and chives! What? This lobster isn't for eating? Then WHY is he already cooked?!?!?! If you didn't want me to eat him, you wouldn't have made him so perfectly red and tender! Fine, I guess I'll get the shrimp instead... lobster, red, crustacion",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-squishable-palm-tree",
+   "name": "Squishable Palm Tree",
+   "merchantDescription": "If we really wanna get technical here, this is a Squishable 'cocos nucifera'! This is the only type of palm tree that is able to produce coconuts! I didn't know this but, while coconut trees are a type of palm tree, not all palm trees are coconut trees! Animal",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-deaths-head-hawkmoth",
+   "name": "Squishable Death's-head Hawkmoth",
+   "merchantDescription": "Hey, what's that on your back? Is it a sticker? Or a bug? Or a \"Kick me\" sign? Nope, none of those, it's a skull-like harbinger of deadly doom. I get those confused a lot. moth, skull, furry, hawk, black, yellow",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 68
+  },
+  {
+   "id": "squishable-squishable-manatee",
+   "name": "Squishable Manatee",
+   "merchantDescription": "I don't know why, but the idea of manatees being known as \"sea cows\" is hilarious to me. I'm picturing them wearing little sea cowbells...eating little sea cow cud...Oh my gosh, do you think they MOO?!?!? manatee, whale, sea, ocean, creature, fish, gray",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-arctic-narwhal",
+   "name": "Squishable Arctic Narwhal",
+   "merchantDescription": "Nicknamed the unicorn of the sea, this creature is definitely just as magical! While typically found in the Atlantic, these fancy fencing fellas can now be found in your own home! I mean, you have to pay for him first, but you get the idea! narwhal, dolphin, s",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-rattlesnake",
+   "name": "Squishable Rattlesnake",
+   "merchantDescription": "You know about horse girls, but have you ever heard of snake girls? We're the coolest ones, it's in our blood! Snakes are truly just misunderstood little noodles! How can you be afraid of something that has no arms or legs, and is simply just vibing? Their rat",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-squishable-dragonfly",
+   "name": "Squishable Dragonfly",
+   "merchantDescription": "Ever wondered why dragonflies are called dragonflies? Me too! I think it's because a long time ago, a magician and a dragon made a bet on who could build a better moat. Long story short, the dragon lost, and as punishment, he was shrunk down to the size of a f",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 48
+  },
+  {
+   "id": "squishable-squishable-walrus",
+   "name": "Squishable Walrus",
+   "merchantDescription": "Don't worry, his tusks aren't sharp! He's just as warm and cuddly as the next Squish. In fact, I don't think I'm exaggerating when I say this is one of the SOFTEST walruses you will ever encounter, since I know we all come into contact with walruses all the ti",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  },
+  {
+   "id": "squishable-squishable-baby-mothman",
+   "name": "Squishable Baby Mothman",
+   "merchantDescription": "West Virginians!!! Also everyone else! REJOICE as the Baby Mothman has now graced us with their largest presence yet!! Imagine coming home from a long night of cryptid and creature searching, when the real creature is waiting for you with open wings and a soft",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-forest-demon",
+   "name": "Squishable Forest Demon",
+   "merchantDescription": "To all those brave enough to enter the forest, this demon awaits! Be sure to form an orderly line, since I know he garners a huge crowd!! No flash photography please as any lightsource can scare him! He does appreciate treats though! Especially fruit snacks an",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-squishable-water-dragon",
+   "name": "Squishable Water Dragon",
+   "merchantDescription": "Who knew dragons could swim? Well...us! Dragons shouldn't be confined to the skies, (stay with me here, it's a metaphor,) they should be allowed to swim the seven seas like any other scaly creature! water, dragon, blue, scary, magic, fantasy",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 49
+  }
+ ]
+}

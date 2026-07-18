@@ -3,710 +3,1081 @@
  "batch": 3,
  "items": [
   {
-   "id": "cutethingsfromjapan-tocorocomugi-foil-stamped-stickers-summer-time",
-   "name": "Tocorocomugi / Foil-stamped Stickers - Summer Time",
-   "merchantDescription": "Stickers designed by Tocorocomugi, a Japanese illustrator beloved for her gentle touch and warm, inviting world great for your planner and journal decoration. * Size: 17.5 × 9 cm (6.8\" × 3.5\") * Material: Paper * More Tocorocomugi items HERE Who is Tocorocomug",
-   "vendor": "Tocorocomugi",
+   "id": "cutethingsfromjapan-rilakkuma-square-sticky-note-happy-day",
+   "name": "Rilakkuma / Square Sticky Note - Happy Day",
+   "merchantDescription": "Adorable Rilakkuma sticky notes designed to add a touch of cuteness to your everyday routine perfect for planners, journals, and notes - great for writing reminders, messages, and marking pages. Details 4 designs, 15 sheets each (60 sheets total) Made in Japan",
+   "vendor": "San-X",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "Kawaii",
+    "Rilakkuma",
+    "San-X",
+    "Sticky Notes"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-rilakkuma-square-sticky-note",
+   "name": "Rilakkuma / Square Sticky Note - Happy Friends",
+   "merchantDescription": "Adorable Rilakkuma sticky notes designed to add a touch of cuteness to your everyday routine perfect for planners, journals, and notes - great for writing reminders, messages, and marking pages. Details 4 designs, 15 sheets each (60 sheets total) Made in Japan",
+   "vendor": "San-X",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "Kawaii",
+    "Rilakkuma",
+    "San-X",
+    "Sticky Notes"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-korilakkuma-paper-clip",
+   "name": "Ebifurai No Shippo / Paper Clip",
+   "merchantDescription": "A cute Sumikkogurashi paper clip designed to keep your place in books, notebooks, and planners perfect for marking pages Details Ideal for books, planners, and notebooks Lightweight and easy to use Size 11cm x 12cm (4.3\" x 4.7\") Material Acrylic More San-X Cha",
+   "vendor": "San-X",
+   "productType": "Paper Clip",
+   "merchantTags": [
+    "Kawaii",
+    "Paper Clip",
+    "Rilakkuma",
+    "San-X"
+   ],
+   "price": 9
+  },
+  {
+   "id": "cutethingsfromjapan-rilakkuma-paper-clip",
+   "name": "Rilakkuma / Paper Clip",
+   "merchantDescription": "A cute Rilakkuma paper clip designed to keep your place in books, notebooks, and planners perfect for marking pages. Rilakkuma, the “chill bear,” lives life at a calm and carefree pace - bringing a sense of comfort to your stationery. Details Ideal for books, ",
+   "vendor": "San-X",
+   "productType": "Paper Clip",
+   "merchantTags": [
+    "Kawaii",
+    "Paper Clip",
+    "Rilakkuma",
+    "San-X"
+   ],
+   "price": 9
+  },
+  {
+   "id": "cutethingsfromjapan-jinbeisan-pen-case-donut-island",
+   "name": "Jinbeisan / Pen Case - Donut Island",
+   "merchantDescription": "An adorable pen case featuring Jinbesan, perfect for organizing your pens and daily essentials. An adorable Jinbesan pen case inspired by the “Jinbesan Donut Island” series. Perfect for organizing your pens, stationery, and daily essentials. Details Ideal for ",
+   "vendor": "San-X",
+   "productType": "Pen Case",
+   "merchantTags": [
+    "Jinbeisan",
+    "Kawaii",
+    "Pen Case",
+    "San-X"
+   ],
+   "price": 18
+  },
+  {
+   "id": "cutethingsfromjapan-jinbeisan-stickers-donut-island-1",
+   "name": "Jinbeisan / Stickers - Donut Island",
+   "merchantDescription": "Cute Jinbesan stickers inspired by the “Jinbesan Donut Island” series perfect for decorating your planner, journal, and everyday notes. One day, a mysterious island with a hole in the center and a sweet aroma was discovered. Inside is a delightful world filled",
+   "vendor": "San-X",
    "productType": "Sticker Sheet",
    "merchantTags": [
-    "Cat",
+    "Donut",
+    "Jinbeisan",
+    "Kawaii",
+    "San-X",
+    "Sticker Sheets",
     "Stickers",
-    "Summer",
-    "Tocorocomugi"
+    "Summer"
    ],
    "price": 2.9
   },
   {
-   "id": "cutethingsfromjapan-tocorocomugi-foil-stamped-stickers-summer-festival",
-   "name": "Tocorocomugi / Foil-stamped Stickers - Summer Festival",
-   "merchantDescription": "Stickers designed by Tocorocomugi, a Japanese illustrator beloved for her gentle touch and warm, inviting world great for your planner and journal decoration. * Size: 17.5 × 9 cm (6.8\" × 3.5\") * Material: Paper * More Tocorocomugi items HERE Who is Tocorocomug",
-   "vendor": "Tocorocomugi",
+   "id": "cutethingsfromjapan-jinbeisan-stickers-donut-island",
+   "name": "Jinbeisan / Stickers - Donut Island",
+   "merchantDescription": "Cute Jinbesan stickers inspired by the “Jinbesan Donut Island” series perfect for decorating your planner, journal, and everyday notes. One day, a mysterious island with a hole in the center and a sweet aroma was discovered. Inside is a delightful world filled",
+   "vendor": "San-X",
    "productType": "Sticker Sheet",
    "merchantTags": [
-    "Cat",
+    "Donut",
+    "Jinbeisan",
+    "Kawaii",
+    "San-X",
+    "Sticker Sheets",
     "Stickers",
-    "Summer",
-    "Tocorocomugi"
+    "Summer"
    ],
    "price": 2.9
   },
   {
-   "id": "cutethingsfromjapan-tocorocomugi-foil-stamped-stickers-sweets-time",
-   "name": "Tocorocomugi / Foil-stamped Stickers - Sweets Time",
-   "merchantDescription": "Stickers designed by Tocorocomugi, a Japanese illustrator beloved for her gentle touch and warm, inviting world. Finished with shimmering gold foil accents, these stickers are perfect for decorating letters, cards, and small everyday items. * Size: 17.5 × 9 cm",
-   "vendor": "Tocorocomugi",
+   "id": "cutethingsfromjapan-10th-anniversary-rilakkuma-hanging-pouch-with-built-in-hook",
+   "name": "10th Anniversary / Rilakkuma / Hanging Pouch with Built-in Hook",
+   "merchantDescription": "A convenient hanging pouch featuring the 10th Anniversary Rilakkuma Chairoikoguma design. Perfect for organizing your cosmetics, toiletries, and daily essentials while traveling. Simply open the pouch and hang it using the built-in hook for easy access. With m",
+   "vendor": "San-X",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Bear",
+    "Chairoikoguma",
+    "Kawaii",
+    "Pouch",
+    "Rilakkuma",
+    "San-X",
+    "travel"
+   ],
+   "price": 25
+  },
+  {
+   "id": "cutethingsfromjapan-10th-anniversary-rilakkuma-expandable-packing-pouch-large",
+   "name": "10th Anniversary / Rilakkuma / Expandable Packing Pouch (Large)",
+   "merchantDescription": "A convenient travel pouch featuring the 10th Anniversary Rilakkuma Chairoikoguma design. Perfect for keeping your clothes neatly organized and compact while adding a cute touch to your travels. Simply unzip the bottom section to expand the height to about twic",
+   "vendor": "San-X",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Bear",
+    "Chairoikoguma",
+    "Kawaii",
+    "Pouch",
+    "Rilakkuma",
+    "San-X",
+    "travel"
+   ],
+   "price": 20
+  },
+  {
+   "id": "cutethingsfromjapan-rilakkuma-expandable-packing-pouch-for-travel-storage",
+   "name": "10th Anniversary / Rilakkuma / Expandable Packing Pouch (Small)",
+   "merchantDescription": "A convenient travel pouch featuring the 10th Anniversary Rilakkuma Chairoikoguma design. Perfect for keeping your clothes neatly organized and compact while adding a cute touch to your travels. Simply unzip the bottom section to expand the height, allowing you",
+   "vendor": "San-X",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Bear",
+    "Kawaii",
+    "Pouch",
+    "Rilakkuma",
+    "San-X",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-rilakkuma-pin-badge-happy-friends-set-of-3",
+   "name": "10th Anniversary / Rilakkuma / Pin Badge - Happy Friends (Set of 3)",
+   "merchantDescription": "A cute set of 3 Rilakkuma and friends pin badges featuring the 10th Anniversary Rilakkuma Chairoikoguma design. Perfect for adding a playful and relaxed touch to your bag, pouch, or everyday accessories. Rilakkuma, meaning “relaxed bear,” is known for his calm",
+   "vendor": "San-X",
+   "productType": "Pin Badge",
+   "merchantTags": [
+    "Chairoikoguma",
+    "Kawaii",
+    "Pin",
+    "Rilakkuma",
+    "San-X"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-10th-anniversary-rilakkuma-stickers-chairoikoguma-friends",
+   "name": "10th Anniversary / Rilakkuma / Stickers - Chairoikoguma Friends",
+   "merchantDescription": "Celebrate the 10th anniversary of Chairoikoguma with this cute stickers. * Size: 20cm x 9.5cm (7.8\" x 3.7\") * Made in Japan More San-X Characters HERE",
+   "vendor": "San-X",
    "productType": "Sticker Sheet",
    "merchantTags": [
-    "Cat",
-    "Stickers",
-    "Sweets",
-    "Tocorocomugi"
+    "Chairoikoguma",
+    "Rilakkuma",
+    "San-X",
+    "Sticker Sheets",
+    "Stickers"
    ],
    "price": 2.9
   },
   {
-   "id": "cutethingsfromjapan-tocorocomugi-shiny-stickers-starry-night",
-   "name": "Tocorocomugi / Foil-stamped Stickers - Starry Night",
-   "merchantDescription": "Stickers designed by Tocorocomugi, a Japanese illustrator beloved for her gentle touch and warm, inviting world. Finished with shimmering gold foil accents, these stickers are perfect for decorating letters, cards, and small everyday items. * Size: 17.5 × 9 cm",
-   "vendor": "Tocorocomugi",
+   "id": "cutethingsfromjapan-10th-anniversary-rilakkuma-stickers-chairoikoguma",
+   "name": "10th Anniversary / Rilakkuma / Stickers - Chairoikoguma",
+   "merchantDescription": "Celebrate the 10th anniversary of Chairoikoguma with this cute stickers. * Size: 20cm x 9.5cm (7.8\" x 3.7\") * Made in Japan More San-X Characters HERE",
+   "vendor": "San-X",
    "productType": "Sticker Sheet",
    "merchantTags": [
-    "Cat",
-    "Night",
-    "Stickers",
-    "Tocorocomugi"
+    "Chairoikoguma",
+    "Rilakkuma",
+    "San-X",
+    "Sticker Sheets",
+    "Stickers"
    ],
    "price": 2.9
   },
   {
-   "id": "cutethingsfromjapan-eric-foil-stamped-clear-roll-stickers",
-   "name": "eric / Foil-Stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist eric, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparent PET mate",
-   "vendor": "eric",
-   "productType": "Clear Tape",
+   "id": "cutethingsfromjapan-limited-edition-rubber-stamp-square",
+   "name": "mizutama / Rubber Stamp - Square",
+   "merchantDescription": "Cute square planner rubber stamp designed by a Japanese illustrator mizutama. Available in 3 cute designs. * 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * Limited Quantity / No Restock * More mizutama Items HERE",
+   "vendor": "mizutama",
+   "productType": "Rubber Stamp",
    "merchantTags": [
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "eric"
+    "mizutama",
+    "Planner Stamps"
    ],
-   "price": 8.5
+   "price": 7.5
   },
   {
-   "id": "cutethingsfromjapan-aiko-fukawa-foil-stamped-clear-roll-stickers",
-   "name": "Aiko Fukawa / Foil-Stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist Aiko Fukawa, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparent P",
-   "vendor": "Aiko Fukawa",
-   "productType": "Clear Tape",
+   "id": "cutethingsfromjapan-rilakkuma-memo-pad-life-with-you",
+   "name": "Rilakkuma / Memo Pad - Life with You",
+   "merchantDescription": "The memo pad comes with total of 100 sheets of 4 different designs, 25 sheets per design. Known as the \"bear in a chill mood,\" Rilakkuma takes life easy and moves at his own pace. * Size: 14.8cm x 10.5cm (5.8\" x 4.1\") * 100 sheets in total * 4 designs, 25 shee",
+   "vendor": "San-X",
+   "productType": "Memo Pad",
    "merchantTags": [
-    "Aiko Fukawa",
-    "Bunny",
-    "Clear Roll Stickers",
-    "Clear Tape"
+    "Kawaii",
+    "Memo pad",
+    "Rilakkuma",
+    "San-X"
    ],
-   "price": 8.5
+   "price": 5
   },
   {
-   "id": "cutethingsfromjapan-kyoko-nakamura-foil-stamped-clear-roll-stickers",
-   "name": "Kyoko Nakamura / Foil-Stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist Kyoko Nakamura, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparen",
-   "vendor": "Kyoko Nakamura",
-   "productType": "Clear Tape",
+   "id": "cutethingsfromjapan-limited-edition-rubber-stamp-reading",
+   "name": "mizutama / Rubber Stamp - Rectangle",
+   "merchantDescription": "Cute rectangle planner rubber stamp designed by a Japanese illustrator mizutama. Available in 3 cute designs. * 5cm x 2.5cm (1.9\" x 0.9\") * Made in Japan * Limited Quantity / No Restock * More mizutama Items HERE",
+   "vendor": "mizutama",
+   "productType": "Rubber Stamp",
    "merchantTags": [
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "Kyoko Nakamura"
+    "mizutama",
+    "Planner Stamps"
    ],
-   "price": 8.5
+   "price": 9.5
   },
   {
-   "id": "cutethingsfromjapan-necktie-clear-roll-stickers",
-   "name": "Necktie / Foil-Stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist duo Necktie (ネクタイ), with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transp",
-   "vendor": "Necktie",
-   "productType": "Clear Tape",
-   "merchantTags": [
-    "animal",
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "Necktie"
-   ],
-   "price": 8.5
+   "id": "cutethingsfromjapan-patisserie-box-memo-pad-cake",
+   "name": "Patisserie Box Memo Pad - Cake",
+   "merchantDescription": "This is a cute memo pad from new Furukawa Paper's \"otome jikan\" or girly time series. Cute design memo pad (85 sheets) comes in a adorable square paper box. After finishing the memo pad, you can enjoy the box to organize your little stationery. * Box Size: 9.8",
+   "vendor": "Furukawa Paper",
+   "productType": "Memo Pad",
+   "merchantTags": [],
+   "price": 7
   },
   {
-   "id": "cutethingsfromjapan-mokuji-clear-roll-stickers",
-   "name": "Mokuji / Foil-stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese creative unit Mokuji, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparent",
-   "vendor": "Mokuji",
-   "productType": "Clear Tape",
-   "merchantTags": [
-    "animal",
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "Mokuji"
-   ],
-   "price": 8.5
+   "id": "cutethingsfromjapan-patisserie-box-memo-pad-cookies",
+   "name": "Patisserie Box Memo Pad - Cookies",
+   "merchantDescription": "This is a cute memo pad from new Furukawa Paper's \"otome jikan\" or girly time series. Cute design memo pad (85 sheets) comes in a adorable square paper box. After finishing the memo pad, you can enjoy the box to organize your little stationery. * Box Size: 9.8",
+   "vendor": "Furukawa Paper",
+   "productType": "Memo Pad",
+   "merchantTags": [],
+   "price": 7
   },
   {
-   "id": "cutethingsfromjapan-kuusoogai-clear-roll-stickers",
-   "name": "Kuusoogai / Foil-stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist duo Kuusoogai (空想街雑貨店), with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The tr",
-   "vendor": "Kuusoogai",
-   "productType": "Clear Tape",
+   "id": "cutethingsfromjapan-eric-flake-stickers-1",
+   "name": "eric / Flake Stickers - Stationery",
+   "merchantDescription": "Cute stationery motif flake stickers designed by eric, Japanese eraser stamp artist known for her adorable stationery motif illustrations, great for your planner and journal decoration! There are 9 designs (6 pieces each). * 9 designs, 6 pieces each * 54 stick",
+   "vendor": "Papier Platz",
+   "productType": "Flake Stickers",
    "merchantTags": [
-    "animal",
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "Kuusoogai"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "cutethingsfromjapan-risako-shiba-clear-roll-stickers",
-   "name": "Risako Shiba / Foil-stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist Shibara Risako, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparen",
-   "vendor": "Risako Shiba",
-   "productType": "Clear Tape",
-   "merchantTags": [
-    "animal",
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "Risako Shiba"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "cutethingsfromjapan-natsuka-murata-clear-roll-stickers",
-   "name": "Natsuka Murata / Foil-stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist Natsuka Murata, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparen",
-   "vendor": "Natsuka Murata",
-   "productType": "Clear Tape",
-   "merchantTags": [
-    "animal",
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "Natsuka Murata"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "cutethingsfromjapan-mojojojo-clear-roll-stickers",
-   "name": "mojojojo / Foil-stamped Clear Roll Stickers",
-   "merchantDescription": "A clear roll sticker tape featuring illustrations by Japanese artist mojojojo, with foil-stamped designs that catch the light. Since there are no preset cut lines, you can freely cut out individual designs and use them like flake stickers. The transparent PET ",
-   "vendor": "mojojojo",
-   "productType": "Clear Tape",
-   "merchantTags": [
-    "animal",
-    "Clear Roll Stickers",
-    "Clear Tape",
-    "mojojojo"
-   ],
-   "price": 8.5
-  },
-  {
-   "id": "cutethingsfromjapan-eric-clear-stamp",
-   "name": "eric / Clear Stamp",
-   "merchantDescription": "A clear stamp featuring illustrations by Japanese eraser stamp artist eric, perfect for decorating your planner, journal, diary, or letters. The transparent stamp lets you see exactly where you're stamping, so every impression lands right where you want it. Pl",
-   "vendor": "eric",
-   "productType": "Clear Stamp",
-   "merchantTags": [
-    "Clear Stamp",
-    "eric"
-   ],
-   "price": 8
-  },
-  {
-   "id": "cutethingsfromjapan-necktie-clear-stamp",
-   "name": "Necktie / Clear Stamp",
-   "merchantDescription": "A clear stamp featuring illustrations by Japanese artist duo Necktie (ネクタイ), perfect for decorating your planner, journal, diary, or letters. The transparent stamp lets you see exactly where you're stamping, so every impression lands right where you want it. P",
-   "vendor": "Necktie",
-   "productType": "Clear Stamp",
-   "merchantTags": [
-    "Clear Stamp",
-    "Necktie"
-   ],
-   "price": 8
-  },
-  {
-   "id": "cutethingsfromjapan-sanlemo-clear-stamp",
-   "name": "Sanlemo / Clear Stamp",
-   "merchantDescription": "A clear stamp featuring illustrations by Japanese artist Sanlemo, perfect for decorating your planner, journal, diary, or letters. The transparent stamp lets you see exactly where you're stamping, so every impression lands right where you want it. Please use a",
-   "vendor": "Sanlemo",
-   "productType": "Clear Stamp",
-   "merchantTags": [
-    "Clear Stamp",
-    "Sanlemo"
-   ],
-   "price": 8
-  },
-  {
-   "id": "cutethingsfromjapan-nodoka-miyashita-clear-stamp",
-   "name": "Nodoka Miyashita / Clear Stamp",
-   "merchantDescription": "A clear stamp featuring illustrations by Japanese illustrator Nodoka Miyashita, perfect for decorating your planner, journal, diary, or letters. The transparent stamp lets you see exactly where you're stamping, so every impression lands right where you want it",
-   "vendor": "Nodoka Miyashita",
-   "productType": "Clear Stamp",
-   "merchantTags": [
-    "Clear Stamp",
-    "Nodoka Miyashita"
-   ],
-   "price": 8
-  },
-  {
-   "id": "cutethingsfromjapan-kuusoogai-clear-stamp",
-   "name": "Kuusoogai / Clear Stamp",
-   "merchantDescription": "A clear stamp featuring illustrations by Japanese artist duo Kuusoogai (空想街雑貨店), perfect for decorating your planner, journal, diary, or letters. The transparent stamp lets you see exactly where you're stamping, so every impression lands right where you want i",
-   "vendor": "Kuusoogai",
-   "productType": "Clear Stamp",
-   "merchantTags": [
-    "Clear Stamp",
-    "Kuusoogai",
-    "Retro"
-   ],
-   "price": 8
-  },
-  {
-   "id": "cutethingsfromjapan-eric-deco-paper-kit",
-   "name": "eric / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese eraser stamp artist eric. The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut and a",
-   "vendor": "eric",
-   "productType": "Paper Products",
-   "merchantTags": [
-    "Deco Paper Kit",
     "eric",
-    "Notebook",
-    "Paper Products",
-    "Retro",
-    "Stickers"
+    "Flake Stickers",
+    "Papier Platz",
+    "stationery"
    ],
-   "price": 12
+   "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-obi1-deco-paper-kit",
-   "name": "Obi1 / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese artist Obi1 (ob1toy). The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut and arran",
-   "vendor": "Obi1",
-   "productType": "Paper Products",
+   "id": "cutethingsfromjapan-eric-flake-stickers",
+   "name": "eric / Flake Stickers - Nice Day",
+   "merchantDescription": "Cute stationery motif flake stickers designed by eric, Japanese eraser stamp artist known for her adorable stationery motif illustrations, great for your planner and journal decoration! There are 9 designs (6 pieces each). * 9 designs, 6 pieces each * 54 stick",
+   "vendor": "Papier Platz",
+   "productType": "Flake Stickers",
    "merchantTags": [
-    "Deco Paper Kit",
-    "Notebook",
-    "Obi1",
-    "Paper Products",
-    "Retro",
-    "Stickers"
+    "eric",
+    "Flake Stickers",
+    "Papier Platz"
    ],
-   "price": 12
+   "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-necktie-deco-paper-kit-copy",
-   "name": "Sanlemo / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese artist Sanlemo. The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut and arranged, m",
-   "vendor": "Sanlemo",
-   "productType": "Paper Products",
+   "id": "cutethingsfromjapan-eric-washi-tape-2",
+   "name": "eric / Washi Tape - Favorite things",
+   "merchantDescription": "Cute washi tape designed by Japanese eraser stamp artist eric, known for her fun and charming illustrations, perfect for decorating your planner or journal! * Size: 2cm x 7m (0.78\" x 7.6 yards) * Made in Japan * More eric items HERE",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
    "merchantTags": [
-    "Deco Paper Kit",
-    "Notebook",
-    "Paper Products",
-    "Retro",
-    "Sanlemo",
-    "Stickers"
-   ],
-   "price": 12
-  },
-  {
-   "id": "cutethingsfromjapan-necktie-deco-paper-kit",
-   "name": "Necktie / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese artist duo Necktie (ネクタイ). The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut and ",
-   "vendor": "Necktie",
-   "productType": "Paper Products",
-   "merchantTags": [
-    "Deco Paper Kit",
-    "Necktie",
-    "Notebook",
-    "Paper Products",
-    "Retro",
-    "Stickers"
-   ],
-   "price": 12
-  },
-  {
-   "id": "cutethingsfromjapan-natsuka-murata-deco-paper-kit-copy",
-   "name": "Natsuka Murata / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese artist Natsuka Murata. The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut and arra",
-   "vendor": "Natsuka Murata",
-   "productType": "Paper Products",
-   "merchantTags": [
-    "Deco Paper Kit",
-    "Natsuka Murata",
-    "Notebook",
-    "Paper Products",
-    "Retro",
-    "Stickers"
-   ],
-   "price": 12
-  },
-  {
-   "id": "cutethingsfromjapan-nodoka-miyashita-deco-paper-kit",
-   "name": "Nodoka Miyashita / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese artist Nodoka Miyashita. The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut and ar",
-   "vendor": "Nodoka Miyashita",
-   "productType": "Paper Products",
-   "merchantTags": [
-    "Deco Paper Kit",
-    "Nodoka Miyashita",
-    "Notebook",
-    "Paper Products",
-    "Retro",
-    "Stickers"
-   ],
-   "price": 12
-  },
-  {
-   "id": "cutethingsfromjapan-kuusoogai-deco-paper-kit",
-   "name": "Kuusoogai / Deco Paper Kit",
-   "merchantDescription": "A notebook decoration kit featuring illustrations by Japanese artist duo Kuusoogai (空想街雑貨店). The set includes everything you need to get started — a grid notebook, decorative papers, stickers, and a sample idea booklet. The decorative papers can be freely cut ",
-   "vendor": "Kuusoogai",
-   "productType": "Paper Products",
-   "merchantTags": [
-    "Deco Paper Kit",
-    "Kuusoogai",
-    "Notebook",
-    "Paper Products",
-    "Retro",
-    "Stickers"
-   ],
-   "price": 12
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-postcard-ice-cream-and-cat",
-   "name": "Summer Limited / Postcard - Ice Cream and Cat",
-   "merchantDescription": "A summer-limited postcard printed using risograph, a unique technique where colors are applied one at a time, creating charming, unexpected variations in each print — known in Japanese as \"fun taste.\" Perfect for collectors who appreciate the warmth and charac",
-   "vendor": "Furukawa Paper",
-   "productType": "Postcard",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Postcard",
-    "Summer Limited"
-   ],
-   "price": 2.5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-postcard-penguin",
-   "name": "Summer Limited / Postcard - Penguin",
-   "merchantDescription": "A summer-limited postcard printed using risograph, a unique technique where colors are applied one at a time, creating charming, unexpected variations in each print — known in Japanese as \"fun taste.\" Perfect for collectors who appreciate the warmth and charac",
-   "vendor": "Furukawa Paper",
-   "productType": "Postcard",
-   "merchantTags": [
-    "animal",
-    "Postcard",
-    "Summer Limited"
-   ],
-   "price": 2.5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-postcard-summer-seal",
-   "name": "Summer Limited / Postcard - Summer Seal",
-   "merchantDescription": "A summer-limited postcard printed using risograph, a unique technique where colors are applied one at a time, creating charming, unexpected variations in each print — known in Japanese as \"fun taste.\" Perfect for collectors who appreciate the warmth and charac",
-   "vendor": "Furukawa Paper",
-   "productType": "Postcard",
-   "merchantTags": [
-    "animal",
-    "Postcard",
-    "Summer Limited"
-   ],
-   "price": 2.5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-postcard-summer-cat",
-   "name": "Summer Limited / Postcard - Summer Cat",
-   "merchantDescription": "A summer-limited postcard printed using risograph, a unique technique where colors are applied one at a time, creating charming, unexpected variations in each print — known in Japanese as \"fun taste.\" Perfect for collectors who appreciate the warmth and charac",
-   "vendor": "Furukawa Paper",
-   "productType": "Postcard",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Postcard",
-    "Summer Limited"
-   ],
-   "price": 2.5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-memo-pad-cat-and-ice-cream",
-   "name": "Summer Limited / Memo Pad - Cat and Ice Cream",
-   "merchantDescription": "A memo pad featuring 4 cute summer-limited designs, 25 sheets per design, 100 sheets in total. Size: 8 x 9cm (3.1 x 3.5 in) Contents: 4 designs, 25 sheets each (100 sheets total) Made in Japan More Furukawa Paper Items HERE",
-   "vendor": "Furukawa Paper",
-   "productType": "Memo Pad",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Memo pad",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-memo-pad-penguin",
-   "name": "Summer Limited / Memo Pad - Penguin",
-   "merchantDescription": "A memo pad featuring 4 cute summer-limited designs, 25 sheets per design, 100 sheets in total. Size: 8 x 9cm (3.1 x 3.5 in) Contents: 4 designs, 25 sheets each (100 sheets total) Made in Japan More Furukawa Paper Items HERE",
-   "vendor": "Furukawa Paper",
-   "productType": "Memo Pad",
-   "merchantTags": [
-    "animal",
-    "Memo pad",
-    "Penguin",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-memo-pad-soda-and-seal",
-   "name": "Summer Limited / Memo Pad - Soda and Seal",
-   "merchantDescription": "A memo pad featuring 4 cute summer-limited designs, 25 sheets per design, 100 sheets in total. Size: 8 x 9cm (3.1 x 3.5 in) Contents: 4 designs, 25 sheets each (100 sheets total) Made in Japan More Furukawa Paper Items HERE",
-   "vendor": "Furukawa Paper",
-   "productType": "Memo Pad",
-   "merchantTags": [
-    "animal",
-    "Cream Soda",
-    "Memo pad",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-memo-pad-cat-soda",
-   "name": "Summer Limited / Memo Pad - Cat & Soda",
-   "merchantDescription": "A memo pad featuring 4 cute summer-limited designs, 25 sheets per design, 100 sheets in total. Size: 8 x 9cm (3.1 x 3.5 in) Contents: 4 designs, 25 sheets each (100 sheets total) Made in Japan More Furukawa Paper Items HERE",
-   "vendor": "Furukawa Paper",
-   "productType": "Memo Pad",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Cream Soda",
-    "Memo pad",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-letter-set-cream-soda-cat",
-   "name": "Summer Limited / Letter Set - Cream Soda & Cat",
-   "merchantDescription": "A summer-limited letter set featuring cute animal designs. Perfect for letters, larger notes, or decorating your planner. The gentle texture of Mino washi paper brings a warm, soothing feeling to both writer and recipient. It comes with 10 writing sheets, 3 en",
-   "vendor": "Furukawa Paper",
-   "productType": "Letter Set",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Cream Soda",
-    "Letter Set",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-letter-set-cat",
-   "name": "Summer Limited / Letter Set - Cat",
-   "merchantDescription": "A summer-limited letter set featuring cute animal designs. Perfect for letters, larger notes, or decorating your planner. The gentle texture of Mino washi paper brings a warm, soothing feeling to both writer and recipient. It comes with 10 writing sheets, 3 en",
-   "vendor": "Furukawa Paper",
-   "productType": "Letter Set",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Letter Set",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-summer-limited-letter-set-seal",
-   "name": "Summer Limited / Letter Set - Seal",
-   "merchantDescription": "A summer-limited letter set featuring cute animal designs. Perfect for letters, larger notes, or decorating your planner. The gentle texture of Mino washi paper brings a warm, soothing feeling to both writer and recipient. It comes with 10 writing sheets, 3 en",
-   "vendor": "Furukawa Paper",
-   "productType": "Letter Set",
-   "merchantTags": [
-    "animal",
-    "Letter Set",
-    "Summer Limited"
-   ],
-   "price": 5
-  },
-  {
-   "id": "cutethingsfromjapan-sheet-peritte-masking-tape-stickers-lines",
-   "name": "Sheet Peritte Masking Tape Stickers - Lines",
-   "merchantDescription": "Sheet Peritte is a sheet of repositionable masking stickers. Unlike a tape roll, it comes in a flat card format with perforated rows - simply tear off the stickers one by one as you need them. The unique peel design means part of the backing paper lifts with t",
-   "vendor": "Epoch Chemical",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "Epoch Chemical",
-    "Peritte",
-    "Sticker Sheets",
-    "Stickers"
-   ],
-   "price": 6
-  },
-  {
-   "id": "cutethingsfromjapan-sheet-peritte-masking-tape-stickers-shapes-1",
-   "name": "Sheet Peritte Masking Tape Stickers - Shapes",
-   "merchantDescription": "Sheet Peritte is a sheet of repositionable masking stickers. Unlike a tape roll, it comes in a flat card format with perforated rows - simply tear off the stickers one by one as you need them. The unique peel design means part of the backing paper lifts with t",
-   "vendor": "Epoch Chemical",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "Epoch Chemical",
-    "Peritte",
-    "Sticker Sheets",
-    "Stickers"
-   ],
-   "price": 6
-  },
-  {
-   "id": "cutethingsfromjapan-sheet-peritte-masking-tape-stickers-shapes",
-   "name": "Sheet Peritte Masking Tape Stickers - Frame",
-   "merchantDescription": "Sheet Peritte is a sheet of repositionable masking stickers. Unlike a tape roll, it comes in a flat card format with perforated rows - simply tear off the stickers one by one as you need them. The unique peel design means part of the backing paper lifts with t",
-   "vendor": "Epoch Chemical",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "Epoch Chemical",
-    "Peritte",
-    "Sticker Sheets",
-    "Stickers"
-   ],
-   "price": 6
-  },
-  {
-   "id": "cutethingsfromjapan-sheet-peritte-masking-tape-stickers-ghost-cats",
-   "name": "Sheet Peritte Masking Tape Stickers - Ghost Cats",
-   "merchantDescription": "Sheet Peritte is a sheet of repositionable masking stickers. Unlike a tape roll, it comes in a flat card format with perforated rows - simply tear off the stickers one by one as you need them. The unique peel design means part of the backing paper lifts with t",
-   "vendor": "Epoch Chemical",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Cat",
-    "Epoch Chemical",
-    "Peritte",
-    "Sticker Sheets",
-    "Stickers"
-   ],
-   "price": 6
-  },
-  {
-   "id": "cutethingsfromjapan-sheet-peritte-masking-tape-stickers-on-the-corner",
-   "name": "Sheet Peritte Masking Tape Stickers - On the Corner",
-   "merchantDescription": "Sheet Peritte is a sheet of repositionable masking stickers. Unlike a tape roll, it comes in a flat card format with perforated rows - simply tear off the stickers one by one as you need them. The unique peel design means part of the backing paper lifts with t",
-   "vendor": "Epoch Chemical",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Epoch Chemical",
-    "Peritte",
-    "Sticker Sheets",
-    "Stickers"
-   ],
-   "price": 6
-  },
-  {
-   "id": "cutethingsfromjapan-peritte-masking-tape-stickers-hanging-peeking",
-   "name": "Sheet Peritte Masking Tape Stickers - Hanging & Peeking",
-   "merchantDescription": "Sheet Peritte is a sheet of repositionable masking stickers. Unlike a tape roll, it comes in a flat card format with perforated rows - simply tear off the stickers one by one as you need them. The unique peel design means part of the backing paper lifts with t",
-   "vendor": "Epoch Chemical",
-   "productType": "Sticker Sheet",
-   "merchantTags": [
-    "animal",
-    "Epoch Chemical",
-    "Peritte",
-    "Sticker Sheets",
-    "Stickers"
-   ],
-   "price": 6
-  },
-  {
-   "id": "cutethingsfromjapan-mind-wave-die-cut-washi-tape-sleeping-panda",
-   "name": "Mind Wave / Die-cut Washi Tape - Sleeping Panda",
-   "merchantDescription": "Make your planner and journal even cuter with this die-cut washi tape featuring illustrations of animals relaxing in a cozy afternoon room. Size: 1.8cm x 5m (0.7 in x 5.4 yards) More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Die-cut Washi Tape",
-   "merchantTags": [
-    "animal",
-    "Die-cut",
-    "Panda",
+    "eric",
     "Washi Tape"
    ],
    "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-cutie-happy-stickers-rainbow-bunny",
-   "name": "Mind Wave / Cutie Happy Stickers - Rainbow Bunny",
-   "merchantDescription": "Cute animal stickers for planner and journal decoration. Each small sticker makes a statement with a silver foil border that adds a subtle sparkle. Size: 17.0 x 7.0cm (6.7 x 2.8 in) Material: clear PVC with silver foil border More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-eric-washi-tape-1",
+   "name": "eric / Washi Tape - Stationery",
+   "merchantDescription": "Cute washi tape designed by Japanese eraser stamp artist eric, known for her fun and charming illustrations, perfect for decorating your planner or journal! * Size: 2cm x 7m (0.7\" x 7.6 yards) * Made in Japan * More eric items HERE",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
    "merchantTags": [
-    "animal",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "eric",
+    "stationery",
+    "Washi Tape"
    ],
-   "price": 2.9
+   "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-cutie-happy-stickers-happy-monkey",
-   "name": "Mind Wave / Cutie Happy Stickers - Happy Monkey",
-   "merchantDescription": "Cute animal stickers for planner and journal decoration. Each small sticker makes a statement with a silver foil border that adds a subtle sparkle. Size: 17.0 x 7.0cm (6.7 x 2.8 in) Material: clear PVC with silver foil border More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-eric-washi-tape-bookshelf",
+   "name": "eric / Washi Tape - Bookshelf",
+   "merchantDescription": "Cute washi tape designed by Japanese eraser stamp artist eric, known for her fun and charming illustrations, perfect for decorating your planner or journal! * Size: 2cm x 7m (0.7\" x 7.6 yards) * Made in Japan * More eric items HERE",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
    "merchantTags": [
-    "animal",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "book",
+    "eric",
+    "Washi Tape"
    ],
-   "price": 2.9
+   "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-cutie-happy-stickers-flying-panda",
-   "name": "Mind Wave / Cutie Happy Stickers - Flying Panda",
-   "merchantDescription": "Cute animal stickers for planner and journal decoration. Each small sticker makes a statement with a silver foil border that adds a subtle sparkle. Size: 17.0 x 7.0cm (6.7 x 2.8 in) Material: clear PVC with silver foil border More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-eric-washi-tape-days",
+   "name": "eric / Washi Tape - Days",
+   "merchantDescription": "Cute washi tape designed by Japanese eraser stamp artist eric, known for her fun and charming illustrations, perfect for decorating your planner or journal! * Size: 2cm x 7m (0.7\" x 7.6 yards) * Made in Japan * More eric items HERE",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
    "merchantTags": [
-    "animal",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "eric",
+    "Washi Tape"
    ],
-   "price": 2.9
+   "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-cutie-happy-stickers-clover-puppy",
-   "name": "Mind Wave / Cutie Happy Stickers - Clover Puppy",
-   "merchantDescription": "Cute animal stickers for planner and journal decoration. Each small sticker makes a statement with a silver foil border that adds a subtle sparkle. Size: 17.0 x 7.0cm (6.7 x 2.8 in) Material: clear PVC with silver foil border More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-tsl-x-ctfj-a5-wrapping-paper-set-10-designs-memory-of-tsl",
+   "name": "[Limited Edition] TSL x CTFJ / A5 Paper Set - TSL Logo",
+   "merchantDescription": "A set of A5 design papers featuring 10 different designs of TSL logos. The set includes two sheets of each design (20 sheets total). Printed on thin paper, it’s perfect for planner and journal decoration without adding bulk. * Size: 14.8cm x 21cm (5.8\" x 8.3\" ",
+   "vendor": "TSL x Cute Things from Japan",
+   "productType": "Paper Product",
    "merchantTags": [
-    "animal",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "CTFJ Original",
+    "TSL",
+    "Wrapping Paper"
    ],
-   "price": 2.9
+   "price": 8
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-cutie-happy-stickers-music-bear",
-   "name": "Mind Wave / Cutie Happy Stickers - Music Bear",
-   "merchantDescription": "Cute animal stickers for planner and journal decoration. Each small sticker makes a statement with a silver foil border that adds a subtle sparkle. Size: 17.0 x 7.0cm (6.7 x 2.8 in) Material: clear PVC with silver foil border More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-eric-x-ctfj-a5-wrapping-paper-set-20-designs-memory-of-eric",
+   "name": "[Limited Edition] eric x CTFJ / A5 Paper Set - Memory of eric",
+   "merchantDescription": "A set of A5 design papers featuring 20 different cute designs by Japanese eraser stamp artist eric. Each design is carefully selected from her past works - especially those she loves - offering longtime fans a nostalgic chance to revisit familiar favorites. Th",
+   "vendor": "eric",
+   "productType": "Paper Product",
    "merchantTags": [
-    "animal",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "CTFJ Original",
+    "eric",
+    "Wrapping Paper"
    ],
-   "price": 2.9
+   "price": 8
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-cutie-happy-stickers-hamster",
-   "name": "Mind Wave / Cutie Happy Stickers - Hamster",
-   "merchantDescription": "Cute animal stickers for planner and journal decoration. Each small sticker makes a statement with a silver foil border that adds a subtle sparkle. Size: 17.0 x 7.0cm (6.7 x 2.8 in) Material: clear PVC with silver foil border More Mind Wave Items HERE",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-eric-flake-sticky-notes-favorite-things",
+   "name": "eric / Flake Sticky Notes - Favorite Things",
+   "merchantDescription": "Designed by Japanese artist eric, these flake sticky notes are easy to write on and feature a full adhesive backing for smooth application. The light adhesive allows for easy repositioning without damage, and they can also be used like stickers. Includes 30 pi",
+   "vendor": "eric",
+   "productType": "Sticky Note",
    "merchantTags": [
-    "animal",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "eric",
+    "Papier Platz",
+    "Sticky Notes"
    ],
-   "price": 2.9
+   "price": 4.5
   },
   {
-   "id": "cutethingsfromjapan-mind-wave-drop-stickers-midnight",
-   "name": "Mind Wave / Drop Stickers - Midnight",
-   "merchantDescription": "Drop stickers inspired by handmade-style brooches. Finished with gold foil accents that catch the light, adding a warm and charming touch to your planner, journal, or craft projects. Size: 17.5 x 9.0cm (6.9 x 3.5 in) Material: drop sticker with gold foil accen",
-   "vendor": "Mind Wave",
-   "productType": "Sticker Sheet",
+   "id": "cutethingsfromjapan-eric-flake-stickers-moment-log",
+   "name": "eric / Flake Sticky Notes - Moment Log",
+   "merchantDescription": "Designed by Japanese artist eric, these flake sticky notes are easy to write on and feature a full adhesive backing for smooth application. The light adhesive allows for easy repositioning without damage, and they can also be used like stickers. Includes 30 pi",
+   "vendor": "eric",
+   "productType": "Sticky Note",
    "merchantTags": [
+    "eric",
+    "Papier Platz",
+    "Sticky Notes"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-eric-mini-sticky-notes-fruits-sweets",
+   "name": "eric / Mini Sticky Notes - Fruits & Sweets",
+   "merchantDescription": "Sticky notes by eric, perfect for planner notes and decoration - small, cute, and easy to use. It comes with 7 cute designs, 20 pieces per design. * Package Size: 8cm x 12.5cm (3.1\" x 4.9\") * 7 designs, 20 pieces per design * total 140 pieces * More eric items",
+   "vendor": "eric",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "eric",
+    "Papier Platz",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-eric-mini-sticky-notes-stationery",
+   "name": "eric / Mini Sticky Notes - Stationery",
+   "merchantDescription": "Sticky notes by eric, perfect for planner notes and decoration - small, cute, and easy to use. It comes with 7 cute designs, 20 pieces per design. * Package Size: 8cm x 12.5cm (3.1\" x 4.9\") * 7 designs, 20 pieces per design * total 140 pieces * More eric items",
+   "vendor": "eric",
+   "productType": "Sticky Note",
+   "merchantTags": [
+    "eric",
+    "Papier Platz",
+    "Sticky Notes"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-rubber-stamp-enjoy",
+   "name": "eric x CTFJ / Rubber Stamp - Enjoy",
+   "merchantDescription": "Enjoy your planner and journal time with these cute rubber stamps designed by eric! * Size: 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * More eric items HERE * Limited Edition / While Stock Lasts Who is eric? eric is an eraser stamp artist whose motto is \"Hello, ",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Rubber Stamp",
+    "stationery"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-rubber-stamp-how-are-you",
+   "name": "eric x CTFJ / Rubber Stamp - How are you?",
+   "merchantDescription": "Enjoy your planner and journal time with these cute rubber stamps designed by eric! * Size: 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * More eric items HERE * Limited Edition / While Stock Lasts Who is eric? eric is an eraser stamp artist whose motto is \"Hello, ",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "cafe",
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-rubber-stamp-music",
+   "name": "eric x CTFJ / Rubber Stamp - My Favorite Things",
+   "merchantDescription": "Enjoy your planner and journal time with these cute rubber stamps designed by eric! * Size: 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * More eric items HERE * Limited Edition / While Stock Lasts Who is eric? eric is an eraser stamp artist whose motto is \"Hello, ",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-rubber-stamp-have-a-nice-holiday",
+   "name": "eric x CTFJ / Rubber Stamp - Have a nice holiday",
+   "merchantDescription": "Enjoy your planner and journal time with these cute rubber stamps designed by eric! * Size: 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * More eric items HERE * Limited Edition / While Stock Lasts Who is eric? eric is an eraser stamp artist whose motto is \"Hello, ",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-rubber-stamp-keychain",
+   "name": "eric x CTFJ / Rubber Stamp - Take a break",
+   "merchantDescription": "Enjoy your planner and journal time with these cute rubber stamps designed by eric! * Size: 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * More eric items HERE * Limited Edition / While Stock Lasts Who is eric? eric is an eraser stamp artist whose motto is \"Hello, ",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-eric-x-ctfj-rubber-stamp-retro-phone",
+   "name": "eric x CTFJ / Rubber Stamp - Good Times",
+   "merchantDescription": "Enjoy your planner and journal time with these cute rubber stamps designed by eric! * Size: 3cm x 3cm (1.1\" x 1.1\") * Made in Japan * More eric items HERE * Limited Edition / While Stock Lasts Who is eric? eric is an eraser stamp artist whose motto is \"Hello, ",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Retro",
+    "Rubber Stamp"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-eric-vinyl-sticker-my-room",
+   "name": "[Limited Edition] eric / Vinyl Sticker - My Room",
+   "merchantDescription": "We are happy to bring this vinyl sticker - originally sold exclusively at eric's exhibition in Japan to her international fans! Each design is selected by eric from her past works, focusing on pieces she especially loves - offering longtime fans a nostalgic ch",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Vinyl Sticker",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Stickers",
+    "Vinyl Sticker"
+   ],
+   "price": 4
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-eric-vinyl-sticker-fruits-veggie",
+   "name": "[Limited Edition] eric / Vinyl Sticker - Fruits & Veggie",
+   "merchantDescription": "We are happy to bring this vinyl sticker - originally sold exclusively at eric's exhibition in Japan to her international fans! Each design is selected by eric from her past works, focusing on pieces she especially loves - offering longtime fans a nostalgic ch",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Vinyl Sticker",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Stickers",
+    "Vinyl Sticker"
+   ],
+   "price": 4
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-eric-vinyl-sticker-sweater",
+   "name": "[Limited Edition] eric / Vinyl Sticker - Sweater",
+   "merchantDescription": "We are happy to bring this vinyl sticker - originally sold exclusively at eric's exhibition in Japan to her international fans! Each design is selected by eric from her past works, focusing on pieces she especially loves - offering longtime fans a nostalgic ch",
+   "vendor": "eric x Cute Things from Japan",
+   "productType": "Vinyl Sticker",
+   "merchantTags": [
+    "CTFJ Original",
+    "eric",
+    "Limited Edition",
+    "Stickers",
+    "Vinyl Sticker"
+   ],
+   "price": 4
+  },
+  {
+   "id": "cutethingsfromjapan-hankodori-washi-tape-japanese-sweets",
+   "name": "Hankodori Washi Tape - Japanese Sweets",
+   "merchantDescription": "Cute illustration of Japanese sweets theme washi tape illustrated by a Japanese illustrator Hankodori great great for your craft project and embellishment. * Size: 2cm x 7m (0.7\" x 7.6 yards) * Illustrator: Hankodori * Made in Japan * More Creators' Products H",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "Hankodori"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-hankodori-washi-tape-sweets",
+   "name": "Hankodori Washi Tape - Sweets",
+   "merchantDescription": "Cute illustration of Japanese sweets theme washi tape illustrated by a Japanese illustrator Hankodori great for your craft project and embellishment. * Size: 2cm x 7m (0.78\" x 7.6 yards) * Illustrator: Hankodori * Made in Japan * More Creators' Products HERE",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "Hankodori",
+    "Other Creators"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-washi-tape-tea-time-1",
+   "name": "Alacarudou Washi Tape - Tea Time",
+   "merchantDescription": "Add a touch of fun to your craft projects with Alacarudou's colorful washi tapes, featuring their signature \"yummy\" design illustrations. And don't forget the golden hot-stamped accents, shining brightly in the light! * Size: 2cm x 5m (0.7\" x 5.4 yards) * Illu",
+   "vendor": "Papier Platz",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "Other Creators"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-winter-limited-washi-tape-cookies",
+   "name": "Winter Limited / SAIEN / Washi Tape - Cookies",
+   "merchantDescription": "A winter limited washi tape for your planner and journal decoration! The design features delicate silver foil-stamped accents that shimmer beautifully when they catch the light. * Size: 2cm x 5m (0.7\" x 5.4 yards) * Limited Quantity / No Restock * More Washi T",
+   "vendor": "SAIEN",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "Limited Edition",
+    "SAIEN",
+    "Washi Tape",
+    "Winter"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-winter-limited-washi-tape-ornament",
+   "name": "Winter Limited / SAIEN / Washi Tape - Ornament",
+   "merchantDescription": "A winter limited washi tape for your planner and journal decoration! The design features delicate silver foil-stamped accents that shimmer beautifully when they catch the light. * Size: 2cm x 5m (0.7\" x 5.4 yards) * Limited Quantity / No Restock * More Washi T",
+   "vendor": "SAIEN",
+   "productType": "Washi Tape",
+   "merchantTags": [
+    "SAIEN",
+    "Washi Tape",
+    "Winter"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-tokoro-komugi-birthday-card-celebrate-with-music",
+   "name": "Tocorocomugi / Greeting Card - Starry Night",
+   "merchantDescription": "Celebrate their special day with this adorable card designed by the renowned Japanese illustrator Tocorocomugi. Her cozy illustrations bring a unique charm to this 5-layer card, creating a stunning 3D effect when opened. It comes with an envelope. * Card: 15.5",
+   "vendor": "Tocorocomugi",
+   "productType": "Greeting Card",
+   "merchantTags": [
+    "Tocorocomugi"
+   ],
+   "price": 7
+  },
+  {
+   "id": "cutethingsfromjapan-tocorocomugi-postcard-yukata",
+   "name": "Tocorocomugi / Postcard - Yukata",
+   "merchantDescription": "Cute cat summer postcard designed by Japanese artist Tocorocomugi. * Size: 10cm x 14.8cm (3.9\" x 5.8\") * Made in Japan * More Tocorocomugi Items HERE [Who is Tocorocomugi?] Tokorocomugi is a Japanese illustrator known for her gentle touch and warm, comforting ",
+   "vendor": "Tocorocomugi",
+   "productType": "Postcard",
+   "merchantTags": [
+    "Cat",
+    "Fruit",
+    "Japan",
+    "Postcard",
+    "Summer",
+    "Tocorocomugi"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-tokoro-komugi-postcard-fro-you",
+   "name": "Tocorocomugi / Postcard - Fro You",
+   "merchantDescription": "This is a cute postcard designed by a Japanese illustrator Tocorocomugi known for her warm cozy illustrations . * Size: 10cm x 14.8cm (3.93\" x 5.82\") * Made in Japan * More Tocorocomugi Items HERE [Who is Tocorocomugi?] Tokorocomugi is a Japanese illustrator k",
+   "vendor": "Tocorocomugi",
+   "productType": "Postcard",
+   "merchantTags": [
+    "Cat",
     "Flower",
-    "Mind Wave",
-    "Sticker Sheets",
-    "Stickers"
+    "Postcard",
+    "Tocorocomugi"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-tokoro-komugi-postcard-starry-night",
+   "name": "Tocorocomugi / Postcard - Starry Night",
+   "merchantDescription": "This is a cute postcard designed by a Japanese illustrator Tocorocomugi known for her warm cozy illustrations . * Size: 10cm x 14.8cm (3.93\" x 5.82\") * Made in Japan * More Tocorocomugi Items HERE [Who is Tocorocomugi?] Tokorocomugi is a Japanese illustrator k",
+   "vendor": "Tocorocomugi",
+   "productType": "Postcard",
+   "merchantTags": [
+    "Cat",
+    "Postcard",
+    "Tocorocomugi"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-mini-letter-set-rabbit-tea-time",
+   "name": "Furukawa Paper / Limited Edition Mini Letter Set - Rabbit Tea Time",
+   "merchantDescription": "Cute mini letter set of high quality Japanese Mino washi paper. It comes with 30 mini sheets and 5 envelopes. Great to add little extra cuteness and warmth to a little gift and a thank you note. * Size: 7.3cm x 11.4cm (2.8\" x 4.4\") * Quantity: 30 sheets, 5 env",
+   "vendor": "Furukawa Paper",
+   "productType": "Mini Letter Set",
+   "merchantTags": [
+    "Furukawa Paper",
+    "Letter Sets",
+    "Washi Paper"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-glitter-blue",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Glitter (light Blue)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from PVC with carefully crafted details such as tags and pockets. It features three pockets for easy organiza",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-glitter-black",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Glitter (Black)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from PVC with carefully crafted details such as tags and pockets. It features three pockets for easy organiza",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-clear",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Clear (Pink Orange)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from clear PVC material that lets you see what’s inside, with carefully crafted details such as tags and pock",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-clear-blue",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Clear (Blue)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from clear PVC material that lets you see what’s inside, with carefully crafted details such as tags and pock",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-clear-pink",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Clear (Pink)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from clear PVC material that lets you see what’s inside, with carefully crafted details such as tags and pock",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-clear-green",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Clear (Green)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from clear PVC material that lets you see what’s inside, with carefully crafted details such as tags and pock",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-clear-clear",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Clear (Clear)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from clear PVC material that lets you see what’s inside, with carefully crafted details such as tags and pock",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-delfonics-mini-utility-pouch-keychain-clear-yellow",
+   "name": "Delfonics / Mini Utility Pouch Keychain - Clear (Yellow)",
+   "merchantDescription": "This is a cute keychain of cute mini utility pouch. Attach it to your bag for a charming accent while keeping small essentials within easy reach. Made from clear PVC material that lets you see what’s inside, with carefully crafted details such as tags and pock",
+   "vendor": "Delfonics",
+   "productType": "Pouch",
+   "merchantTags": [
+    "Mini",
+    "Pouch",
+    "travel"
+   ],
+   "price": 15
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-movie",
+   "name": "Littlelu / Mini Mini Planner Stamp - Movie",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-thinking",
+   "name": "Littlelu / Mini Mini Planner Stamp - Thinking",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-take-a-rest",
+   "name": "Littlelu / Mini Mini Planner Stamp - Hot Springs (休 / take a rest)",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-onigiri-rice-ball",
+   "name": "Littlelu / Mini Mini Planner Stamp - Onigiri (Rice Ball)",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-stretching-to-the-right",
+   "name": "Littlelu / Mini Mini Planner Stamp - Stretching to the Right",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-stretching-to-the-left",
+   "name": "Littlelu / Mini Mini Planner Stamp - Stretching to the Left",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-mini-mini-planner-stamp-good-bye",
+   "name": "Littlelu / Mini Mini Planner Stamp - Good bye!",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-littlelu-planner-stamp-check",
+   "name": "Littlelu / Mini Planner Stamp - Check",
+   "merchantDescription": "A cute rubber stamp designed by Littlelu, perfect for your mail art! Littlelu is known for her cute and whimsical designs that beautifully capture life's little joys. Her charming, expressive characters are especially loved by stationery enthusiasts and journa",
+   "vendor": "Littlelu",
+   "productType": "Planner Stamp",
+   "merchantTags": [
+    "Littlelu",
+    "Rubber Stamp"
+   ],
+   "price": 6
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-shiny-postcard-black-cat",
+   "name": "Rei Kurahashi / Shiny Postcard - Black Cat",
+   "merchantDescription": "A postcard featuring Rei Kurahashi's artwork, printed on soft, smooth paper with raised glossy varnish — a dimensional shine you can both see and feel. Size: 10cm × 14.8cm (3.93\" × 5.82\") Made in Japan * More Postards HERE [Who is Rei Kurahashi?] Rei Kurahashi",
+   "vendor": "Rei Kurahashi",
+   "productType": "Postcard",
+   "merchantTags": [
+    "animal",
+    "Cat",
+    "Postcard",
+    "Rei Kurahashi"
+   ],
+   "price": 2.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-clear-tape-friends-brown",
+   "name": "Rei Kurahashi / Clear Tape - Friends (brown)",
+   "merchantDescription": "A clear tape designed by Japanese artist Rei Kurahashi, featuring her signature illustrations of children and animals. Size: 1.5cm × 5m (0.6\" × 5.5 yards) Material: PET * More Rei Kurahashi Items HERE [Who is Rei Kurahashi?] Rei Kurahashi is a Japanese illustr",
+   "vendor": "Rei Kurahashi",
+   "productType": "Clear Tape",
+   "merchantTags": [
+    "Clear Tape",
+    "girls",
+    "Rei Kurahashi",
+    "Retro"
    ],
    "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-clear-tape-friends-peach",
+   "name": "Rei Kurahashi / Clear Tape - Friends (peach)",
+   "merchantDescription": "A clear tape designed by Japanese artist Rei Kurahashi, featuring her signature illustrations of children and animals. Size: 1.5cm × 5m (0.6\" × 5.5 yards) Material: PET * More Rei Kurahashi Items HERE [Who is Rei Kurahashi?] Rei Kurahashi is a Japanese illustr",
+   "vendor": "Rei Kurahashi",
+   "productType": "Clear Tape",
+   "merchantTags": [
+    "Clear Tape",
+    "girls",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-clear-tape",
+   "name": "Rei Kurahashi / Clear Tape - Friends (yellow)",
+   "merchantDescription": "A clear tape designed by Japanese artist Rei Kurahashi, featuring her signature illustrations of children and animals. Size: 1.5cm × 5m (0.6\" × 5.5 yards) Material: PET * More Rei Kurahashi Items HERE [Who is Rei Kurahashi?] Rei Kurahashi is a Japanese illustr",
+   "vendor": "Rei Kurahashi",
+   "productType": "Clear Tape",
+   "merchantTags": [
+    "Clear Tape",
+    "girls",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-vinyl-sticker-angel",
+   "name": "Rei Kurahashi / Foil-Stamped Vinyl Sticker - Angel",
+   "merchantDescription": "A foil-stamped vinyl sticker featuring illustrations by Japanese artist Rei Kurahashi. Size: 4.5cm × 8cm (1.8\" × 3.1\") Material: Vinyl sticker * More Rei Kurahashi Items HERE [Who is Rei Kurahashi?] Rei Kurahashi is a Japanese illustrator known for her quiet, ",
+   "vendor": "Rei Kurahashi",
+   "productType": "Vinyl Sticker",
+   "merchantTags": [
+    "Angel",
+    "girls",
+    "Rei Kurahashi",
+    "Retro",
+    "Vinyl Sticker"
+   ],
+   "price": 3.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-memo-pad-angel",
+   "name": "Rei Kurahashi / Foil-Stamped Memo Pad - Angel",
+   "merchantDescription": "A memo pad featuring Rei Kurahashi's artwork with foil-stamped stars. The full-color pages add a decorative touch to everyday notes and make a lovely gift. Size: W8.4cm × H18cm (3.3\" × 7.1\") Material: Paper * More Rei Kurahashi Items HERE [Who is Rei Kurahashi",
+   "vendor": "Rei Kurahashi",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "Angel",
+    "girls",
+    "Memo pad",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-letter-set-angel",
+   "name": "Rei Kurahashi / Foil-Stamped Letter Set - Angel",
+   "merchantDescription": "A letter set featuring artwork by Japanese artist Rei Kurahashi, with foil stamping on both the envelope and letter paper. Comes with a matching foil seal sticker to complete the look. 6 letter papers, 3 envelopes, foil seal sticker Paper: W14.8cm × H21cm (5.8",
+   "vendor": "Rei Kurahashi",
+   "productType": "Letter Set",
+   "merchantTags": [
+    "Angel",
+    "Bear",
+    "girls",
+    "Letter Set",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 6
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-mini-card-set-angel",
+   "name": "Rei Kurahashi / Foil-Stamped Mini Card Set - Angel",
+   "merchantDescription": "A set of 3 mini cards featuring full-color artwork by Rei Kurahashi on the front and foil stamping on the back. Great for gift messages, carrying in a pass case, or simply collecting. 3 cards, 3 envelopes Size: W6.3cm × H8.8cm (2.5\" × 3.5\") Material: Paper * M",
+   "vendor": "Rei Kurahashi",
+   "productType": "Note Card",
+   "merchantTags": [
+    "Angel",
+    "girls",
+    "Note Card",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-mini-card-set-prayer",
+   "name": "Rei Kurahashi / Foil-Stamped Mini Card Set - Prayer",
+   "merchantDescription": "A set of 3 mini cards featuring full-color artwork by Rei Kurahashi on the front and foil stamping on the back. Great for gift messages, carrying in a pass case, or simply collecting. 3 cards, 3 envelopes Size: W6.3cm × H8.8cm (2.5\" × 3.5\") Material: Paper * M",
+   "vendor": "Rei Kurahashi",
+   "productType": "Note Card",
+   "merchantTags": [
+    "Angel",
+    "girls",
+    "Note Card",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 4.5
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-ring-memo-pad-angel",
+   "name": "Rei Kurahashi / Foil-Stamped Ring Memo Pad - Take a rest",
+   "merchantDescription": "A compact memo pad with a faux leather cover finished in foil stamping, featuring subtle illustrations by Rei Kurahashi. Small enough to carry every day and easy to reach for whenever you need it. Faux leather cover with foil stamping 3mm grid pages Double-rin",
+   "vendor": "Rei Kurahashi",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "Angel",
+    "girls",
+    "Memo pad",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-rei-kurahashi-foil-stamped-ring-memo-pad-friends",
+   "name": "Rei Kurahashi / Foil-Stamped Ring Memo Pad - Friends",
+   "merchantDescription": "A compact memo pad with a faux leather cover finished in foil stamping, featuring subtle illustrations by Rei Kurahashi. Small enough to carry every day and easy to reach for whenever you need it. Faux leather cover with foil stamping 3mm grid pages Double-rin",
+   "vendor": "Rei Kurahashi",
+   "productType": "Memo Pad",
+   "merchantTags": [
+    "Angel",
+    "girls",
+    "Memo pad",
+    "Rei Kurahashi",
+    "Retro"
+   ],
+   "price": 8
+  },
+  {
+   "id": "cutethingsfromjapan-necktie-postcard-set-bunny-and-guitar",
+   "name": "Necktie / Postcard Set / Bunny and Guitar",
+   "merchantDescription": "Cute \"hagaki sen\" or postcard book designed by Necktie comes in a set of 10 postcards (5 designs, 2 pieces per design). [Who is Necktie?] Led by Norio and Asami, Necktie is a creative unit based in Hokkaido Japan with unique illustrations of animals and charac",
+   "vendor": "Necktie",
+   "productType": "Postcard",
+   "merchantTags": [
+    "Necktie",
+    "Postcard"
+   ],
+   "price": 5
+  },
+  {
+   "id": "cutethingsfromjapan-pottering-cat-cat-rubber-stamp-photo-enclosed",
+   "name": "Pottering Cat / Cat Rubber Stamp - Photo Enclosed",
+   "merchantDescription": "Cute rubber stamp of \"photo enclosed\" design for your planner and journal decoration. * Size: 2.5cm x 3.2cm x 2.3cm (1\" x 1.3\" x 0.9\") * Material: Rubber, Wood * More Pottering Cat Items HERE",
+   "vendor": "Pottering Cat",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Pottering Cat",
+    "Rubber Stamps"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "cutethingsfromjapan-pottering-cat-cat-rubber-stamp-good-morning",
+   "name": "Pottering Cat / Cat Rubber Stamp - Good Morning",
+   "merchantDescription": "Cute rubber stamp of good morning design for your planner and journal decoration. * Size: 2.5cm x 3.2cm x 2.3cm (1\" x 1.3\" x 0.9\") * Material: Rubber, Wood * More Pottering Cat Items HERE",
+   "vendor": "Pottering Cat",
+   "productType": "Rubber Stamp",
+   "merchantTags": [
+    "Pottering Cat",
+    "Rubber Stamps"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "cutethingsfromjapan-classiky-congraturations-porcelain-stamp-20451-20",
+   "name": "Stamp - Congratulations",
+   "merchantDescription": "This is a Classiky porcelain stamp of \"omedetou\" or \"congratulations\" great for your letters and craft project. * Size: 1.6cm x 4.3cm (0.62\" x 1.69\") * Brand: Classiky * Made in Japan * No Restock will be made.",
+   "vendor": "Classiky",
+   "productType": "Rubber Stamp",
+   "merchantTags": [],
+   "price": 6.9
   }
  ]
 }

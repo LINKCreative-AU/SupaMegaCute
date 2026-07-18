@@ -3,852 +3,1442 @@
  "batch": 3,
  "items": [
   {
-   "id": "sugoimart-7-11-ice-cream-like-chocolate-cookie-cream",
-   "name": "7-11 Ice Cream-Like Chocolate: Cookie & Cream",
-   "merchantDescription": "A playful, ice-cream-inspired chocolate treat that captures the familiar cookies cream flavor in a convenient bite. Creamy white chocolate is dotted with crunchy cookie pieces for a satisfying contrast of smooth and crisp. Enjoy it straight from the bag whenev",
+   "id": "sugoimart-the-legend-of-zelda-weapon-candy-collection-blind-box-full-s",
+   "name": "The Legend of Zelda Weapon Candy Collection Blind Box: Full Set",
+   "merchantDescription": "Bring the world of The Legend of Zelda to your shelf with this Weapon Candy Collection blind box. Each single box includes one mini weapon display piece inspired by iconic gear from the series—perfect for collecting, decorating, or gifting to a fellow adventur",
+   "vendor": "Sugoi Mart",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260319JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_legend_of_zelda",
+    "data_department_video_games"
+   ],
+   "price": 118.49
+  },
+  {
+   "id": "sugoimart-kunitaro-decaffeinated-hojicha-tea-bags",
+   "name": "Kunitaro Decaffeinated Hojicha Tea Bags",
+   "merchantDescription": "Unwind with a soothing cup of decaffeinated hojicha , crafted for a mellow, roasted aroma and gentle taste. Ideal for evenings, quiet breaks, or anytime you want the comfort of Japanese roasted green tea with minimal caffeine. Convenient tea bags make it easy ",
    "vendor": "Sugoi Mart",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "202601525JB",
+    "20260319JB",
     "CAT_FOODDRINKS",
-    "F_berry",
-    "F_chocolate",
-    "Low Stock",
-    "OOS",
-    "SUBCAT_CHOCOLATE",
-    "SUBCAT_SNACKS"
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SUBCAT_DRINKS",
+    "SUBCAT_TEA"
    ],
    "price": 5.49
   },
   {
-   "id": "sugoimart-7-11-ice-cream-like-chocolate-berry-berry",
-   "name": "7-11 Ice Cream-Like Chocolate: Berry & Berry",
-   "merchantDescription": "Enjoy a playful chocolate treat inspired by ice cream—creamy, berry-sweet, and refreshingly bright. Each bite delivers a satisfying contrast of smooth chocolate and a crisp, crunchy texture. Perfect for sharing, snacking, or pairing with tea when you want a fr",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "202601525JB",
-    "CAT_FOODDRINKS",
-    "F_berry",
-    "F_chocolate",
-    "Low Stock",
-    "SUBCAT_CHOCOLATE",
-    "SUBCAT_SNACKS"
-   ],
-   "price": 5.29
-  },
-  {
-   "id": "sugoimart-glico-pretz-scallop-soy-sauce",
-   "name": "Glico Pretz Scallop & Soy Sauce",
-   "merchantDescription": "Extra-crispy pretzel sticks seasoned with savory scallop and soy sauce for a rich, wa-fu dashi -inspired taste. Light, crunchy, and deeply umami—perfect for snacking any time you want something satisfyingly salty. Packaged in convenient inner packs to help kee",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260521JB",
-    "CAT_FOODDRINKS",
-    "F_seafood",
-    "F_soysauce",
-    "SUBCAT_SNACKS"
-   ],
-   "price": 3.29
-  },
-  {
-   "id": "sugoimart-sanrio-hello-kitty-matcha-kimono-plush",
-   "name": "Sanrio Hello Kitty Matcha Kimono Plush",
-   "merchantDescription": "Celebrate a soft, serene matcha-inspired look with this Hello Kitty plush dressed in a traditional kimono style. The green tones, floral sleeves, and delicate hair accessory create an elegant display piece that’s just as cozy as it is collectible. Perfect for ",
-   "vendor": "Sugoi Mart",
-   "productType": "POPULAR",
-   "merchantTags": [
-    "20260521JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_HELLOKITTY",
-    "SUBCAT_MATCHA",
-    "SUBCAT_PLUSHIES"
-   ],
-   "price": 58.99
-  },
-  {
-   "id": "sugoimart-sanrio-kuromi-matcha-kimono-plush",
-   "name": "Sanrio Kuromi Matcha Kimono Plush",
-   "merchantDescription": "Dress up your display with Kuromi in a matcha-inspired kimono look, complete with soft textures and charming floral details. This plush makes a sweet companion for your desk, shelf, or gifting moments. With a cuddly feel and a neatly styled outfit, it’s a stan",
-   "vendor": "Sugoi Mart",
-   "productType": "POPULAR",
-   "merchantTags": [
-    "20260521JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_KUROMI",
-    "SUBCAT_MATCHA",
-    "SUBCAT_PLUSHIES"
-   ],
-   "price": 58.99
-  },
-  {
-   "id": "sugoimart-sanrio-cinnamoroll-matcha-kimono-plush",
-   "name": "Sanrio Cinnamoroll Matcha Kimono Plush",
-   "merchantDescription": "Celebrate a calm, tea-inspired look with this Cinnamoroll plush dressed in a matcha-green kimono. With soft, huggable fabric and charming embroidered details, it’s a sweet addition to any Sanrio collection. Perfect for display on a shelf or desk, this plush br",
-   "vendor": "Sugoi Mart",
-   "productType": "POPULAR",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_CINNAMOROLL",
-    "SUBCAT_MATCHA",
-    "SUBCAT_PLUSHIES"
-   ],
-   "price": 58.99
-  },
-  {
-   "id": "sugoimart-smiski-strap-accessories-1",
-   "name": "Smiski Strap Accessories 1",
-   "merchantDescription": "Bring a little glow-in-the-dark charm to your everyday carry with these adorable SMISKI strap accessories. Clip one onto your phone, keys, bag, or pouch for a playful companion that shines softly when the lights go out. Each piece features a mini SMISKI figure",
+   "id": "sugoimart-peanuts-snoopy-re-ment-sweet-little-home-blind-box",
+   "name": "Peanuts Snoopy Re-Ment Sweet Little Home Blind Box",
+   "merchantDescription": "Bring the cozy charm of the Peanuts gang to your shelf with the Re-Ment Snoopy Sweet Little Home blind box series. Each mini set captures a warm, storybook neighborhood feel—perfect for decorating a display, pairing with other miniatures, or gifting to fellow ",
    "vendor": "Sugoi Mart",
    "productType": "COLLECTIBLES & GAMES",
    "merchantTags": [
-    "20260521B",
+    "20260319JB",
     "CAT_COLLECTIBLES",
     "CAT_GAMES",
     "CAT_KAWAII",
     "CAT_POPULAR",
-    "Low Stock",
-    "OOS",
-    "SUBCAT_BLINDBOX"
+    "data_character_snoopy",
+    "data_department_kawaii",
+    "data_ip_peanuts"
    ],
-   "price": 11.99
+   "price": 30.99
   },
   {
-   "id": "sugoimart-smiski-strap-accessories-2",
-   "name": "Smiski Strap Accessories 2",
-   "merchantDescription": "Bring a little mystery to your everyday carry with these glow-in-the-dark Smiski strap accessories. Clip one onto your phone, keys, bag, or pouch and let a tiny figure keep you company—especially when the lights go out. Each sealed capsule is a surprise, makin",
+   "id": "sugoimart-house-ryotei-matcha-salt",
+   "name": "House Ryotei Matcha Salt",
+   "merchantDescription": "A refined Japanese seasoning that blends aromatic matcha with salt for a clean, savory finish. Designed to elevate simple dishes with a gentle green-tea bitterness and a crisp salinity. Sprinkle over tempura, chilled tofu, rice bowls, grilled vegetables, or ev",
    "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
+   "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260521B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
+    "20260319JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha"
+   ],
+   "price": 8.29
+  },
+  {
+   "id": "sugoimart-ghibli-skater-totoro-insulated-stainless-steel-bento-bowl",
+   "name": "Ghibli Skater Totoro Insulated Stainless Steel Bento Bowl",
+   "merchantDescription": "Bring a touch of Studio Ghibli charm to lunchtime with this insulated stainless steel bento bowl featuring Totoro and friends. The double-wall design helps keep meals warm or cool longer while the compact, rounded shape fits easily in bags. Made for everyday u",
+   "vendor": "Sugoi Mart",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20260319JB",
+    "CAT_ANIME",
     "CAT_KAWAII",
-    "CAT_POPULAR",
-    "Low Stock",
-    "OOS",
-    "SUBCAT_BLINDBOX"
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
    ],
-   "price": 11.99
+   "price": 96.99
   },
   {
-   "id": "sugoimart-sanrio-my-melody-kuromi-cosmetics-blind-box",
-   "name": "Sanrio My Melody & Kuromi Cosmetics Blind Box",
-   "merchantDescription": "Bring a dreamy vanity moment to your shelf with this Sanrio-inspired cosmetics miniatures blind box featuring My Melody and Kuromi. Each box reveals a surprise set designed with sweet-and-spooky details that look perfect in doll displays, desktops, or collecto",
-   "vendor": "Sugoi Mart",
-   "productType": "POPULAR",
-   "merchantTags": [
-    "20260521B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "PRIORITY_SHIP_OK",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_HOUSEHOLD"
-   ],
-   "price": 26.49
-  },
-  {
-   "id": "sugoimart-7-11-crisp-crunch",
-   "name": "7-11 Crisp Crunch",
-   "merchantDescription": "Indulge in a satisfyingly crunchy chocolate snack made for texture lovers. Each bite delivers a rich chocolate coating with a lively, layered crispiness that keeps you reaching for the next piece. Perfect for a quick sweet break, sharing, or pairing with coffe",
+   "id": "sugoimart-bourbon-fettuccine-gummies-acai-bowl-flavor",
+   "name": "Bourbon Fettuccine Gummies Acai Bowl Flavor",
+   "merchantDescription": "Soft, sugar-dusted fettuccine-style gummies with a bright acai bowl-inspired taste—sweet, tangy, and fruit-forward in every chewy bite. Inspired by a bowl of mixed fruits, this snack delivers a refreshing berry finish that’s easy to enjoy anytime you’re cravin",
    "vendor": "Sugoi Mart",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260519JB",
+    "20260319JB",
     "CAT_FOODDRINKS",
-    "F_chocolate",
-    "F_yogurt",
-    "SUBCAT_SNACKS"
-   ],
-   "price": 4.49
-  },
-  {
-   "id": "sugoimart-muji-chicken-curry-with-coconut-green-chili-peppers",
-   "name": "Muji Chicken Curry with Coconut & Green Chili Peppers",
-   "merchantDescription": "A Sri Lanka–inspired chicken curry with a mellow coconut base and a bright kick from green chili peppers. Warm, aromatic spices create a deeply satisfying bowl that’s comforting yet lively. Enjoy it as an easy, ready-to-heat meal—perfect with steamed rice, noo",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_chicken",
-    "F_curry",
-    "F_spicy",
-    "SUBCAT_MUJI",
-    "SUBCAT_PANTRY"
-   ],
-   "price": 10.29
-  },
-  {
-   "id": "sugoimart-muji-creamy-curry-with-egg-vegetables",
-   "name": "Muji Creamy Curry with Egg & Vegetables",
-   "merchantDescription": "A rich, mellow curry inspired by Sri Lankan flavors, made creamy with coconut and layered with savory katsuobushi (bonito) umami. Each pouch is filled with hearty chunks of boiled egg and vegetables for a satisfying, comforting meal. Warm, gently spiced, and e",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_curry",
-    "SUBCAT_MUJI",
-    "SUBCAT_PANTRY"
-   ],
-   "price": 10.29
-  },
-  {
-   "id": "sugoimart-muji-sesame-soymilk-chilled-dan-dan-soup-for-rice",
-   "name": "Muji Sesame & Soymilk Chilled Dan Dan Soup for Rice",
-   "merchantDescription": "Cool, creamy, and satisfyingly savory, this chilled dan dan–style soup is made to pour over a bowl of rice for an easy, comforting meal. Sesame richness and smooth soymilk create a mellow base, balanced with aromatic spice for a refreshing finish. Enjoy it str",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_savory",
-    "SUBCAT_MUJI",
-    "SUBCAT_PANTRY"
-   ],
-   "price": 10.29
-  },
-  {
-   "id": "sugoimart-muji-white-chocolate-infused-apple-slices",
-   "name": "Muji White Chocolate Infused Apple Slices",
-   "merchantDescription": "Crisp, freeze-dried apple slices infused with creamy white chocolate for a satisfying sweet-tart bite. Light and crunchy with a smooth finish, they’re an easy treat for snack breaks, movie nights, or sharing. The apple’s natural brightness balances the mellow ",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_apple",
-    "F_chocolate",
-    "SUBCAT_CHOCOLATE",
-    "SUBCAT_MUJI",
-    "SUBCAT_SNACKS"
-   ],
-   "price": 12.29
-  },
-  {
-   "id": "sugoimart-nippon-ale-okayama-white-peach-gummy",
-   "name": "Nippon Ale Okayama White Peach Gummy",
-   "merchantDescription": "Enjoy a soft, juicy bite of Japan with these Nippon Ale gummies made with the delicate flavor of Okayama white peach. Each piece delivers a fragrant sweetness and a satisfyingly chewy texture for an easy, anytime treat. A delightful way to sample a beloved reg",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_peach",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
     "SUBCAT_CANDY",
     "SUBCAT_GUMMIES"
    ],
-   "price": 5.29
+   "price": 4.29
   },
   {
-   "id": "sugoimart-nippon-ale-ehime-beni-madonna-orange-gummy",
-   "name": "Nippon Ale Ehime Beni Madonna Orange Gummy",
-   "merchantDescription": "Enjoy the bright, citrusy taste of Ehime’s Beni Madonna orange in a soft, chewy gummy. Each piece delivers a juicy orange aroma with a satisfying bite—perfect for a quick treat or an afternoon pick-me-up. Inspired by regional Japanese fruit flavors, this gummy",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
+   "id": "sugoimart-sanrio-cartoon-shaped-cinnamoroll-tote-bag",
+   "name": "Sanrio Cartoon Shaped Cinnamoroll Tote Bag",
+   "merchantDescription": "A soft, character-shaped tote designed to bring a touch of Sanrio charm to everyday errands and outings. The plush silhouette and sweet facial details make it a standout accessory that’s cute in photos and easy to carry. Perfect for small essentials like a wal",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
    "merchantTags": [
-    "20260519JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_orange",
-    "SUBCAT_CANDY",
-    "SUBCAT_GUMMIES"
-   ],
-   "price": 5.49
-  },
-  {
-   "id": "sugoimart-pokemon-surprise-bath-popping-ball-a-sweet-moment",
-   "name": "Pokemon Surprise Bath Popping Ball: A Sweet Moment",
-   "merchantDescription": "Drop this fizzy bath ball into warm water and watch it bubble away to reveal a surprise Pokémon mascot inside. The heart-themed design and gentle scent make bath time feel like a cute collectible moment, whether you’re gifting or treating yourself. Enjoy the p",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
+    "20260317JB",
     "CAT_KAWAII",
     "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
+    "data_character_cinnamoroll",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover"
    ],
-   "price": 14.69
+   "price": 77.49
   },
   {
-   "id": "sugoimart-pokemon-surprise-bath-popping-ball-sparkling-leaf-waltz",
-   "name": "Pokemon Surprise Bath Popping Ball: Sparkling Leaf Waltz",
-   "merchantDescription": "Turn bath time into a little Pokémon reveal. Drop the fizzy ball into warm water and enjoy the gentle popping effect as it dissolves, releasing a fun surprise mascot inside. A playful treat for collectors and kids alike, with a fresh, clean bath scent that mak",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
-   ],
-   "price": 13.99
-  },
-  {
-   "id": "sugoimart-pokemon-eevee-friends-bath-ball",
-   "name": "Pokemon Eevee Friends Bath Ball",
-   "merchantDescription": "Turn bath time into a little surprise with this Pokmon-themed bath ball featuring Eevee and friends. Drop it into warm water and enjoy the gentle scent as it fizzes away, revealing a collectible mini figure inside. Perfect for fans and a fun way to add a bit o",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260519JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
-   ],
-   "price": 10.99
-  },
-  {
-   "id": "sugoimart-muji-chicken-ginger-cold-curry",
-   "name": "Muji Chicken & Ginger Cold Curry",
-   "merchantDescription": "Infused with the invigorating aroma of herbs and the addition of ginger, it features a Thai-inspired coconut milk sauce. Enjoy it chilled as is or pour it over cold noodles for a delightful twist. This versatile dish can be savored with warm rice or enjoyed st",
-   "vendor": "Muji",
+   "id": "sugoimart-sanrio-butamen-mini-pouch-cinnamon-roll",
+   "name": "Sanrio Butamen & Mini Pouch Cinnamon Roll",
+   "merchantDescription": "A playful Sanrio collaboration that pairs the nostalgic look of Butamen cup ramen with a Cinnamoroll mini pouch. The pouch is styled like a ramen cup and topped with a soft plush Cinnamoroll for an irresistibly cute, collectible feel. Use it to hold coins, ear",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "05222023",
-    "05222023R",
+    "20260317JB",
     "CAT_FOODDRINKS",
+    "CAT_KAWAII",
     "CAT_POPULAR",
-    "CURRY",
-    "data_department_conbini_japanese_retail",
-    "data_persona_is_foodie",
-    "data_persona_is_japan_explorer"
+    "data_character_cinnamoroll",
+    "data_department_food_drinks",
+    "data_ip_sanrio",
+    "data_persona_is_foodie"
    ],
-   "price": 16.29
+   "price": 52.99
   },
   {
-   "id": "sugoimart-muji-lemon-cream-chicken-cold-curry",
-   "name": "Muji Lemon Cream & Chicken Cold Curry",
-   "merchantDescription": "Experience the refreshing and light taste of Muji's Lemon Cream Chicken Cold Curry. This tasty curry incorporates the perfect balance of tanginess from lemon and sun-dried tomatoes, enhanced with the smoothness of chickpea puree. Enjoy it as a dipping sauce fo",
-   "vendor": "Muji",
+   "id": "sugoimart-sanrio-cinnamoroll-lip-pouch-charm",
+   "name": "Sanrio Cinnamoroll Lip Pouch Charm",
+   "merchantDescription": "A fluffy Cinnamoroll lip pouch charm that adds a sweet Sanrio touch to your everyday carry. Clip it onto a bag or keys for an adorable accent that’s also handy for small essentials. Soft, plush, and delightfully huggable in look and feel, this mini pouch is id",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260317JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_cinnamoroll",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 52.49
+  },
+  {
+   "id": "sugoimart-sanrio-my-melody-lip-pouch-charm",
+   "name": "Sanrio My Melody Lip Pouch Charm",
+   "merchantDescription": "Add a touch of sweetness to your everyday essentials with this Sanrio My Melody lip pouch charm. Designed like a fluffy My Melody plush, it pairs a soft feel with a handy mini pouch for keeping small items close at hand. Clip it onto a bag, backpack, or keys t",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260317JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_my_melody",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 52.49
+  },
+  {
+   "id": "sugoimart-sanrio-country-man-carry-bag-cinnamoroll",
+   "name": "Sanrio Country Man & Carry Bag Cinnamoroll",
+   "merchantDescription": "A charming Sanrio-themed set featuring a Cinnamoroll-designed carry bag paired with a mini pack of Country Ma’am cookies. The bag’s soft, padded handles and playful all-over pattern make it an easy pick for daily outings, lunch runs, or small essentials. Sweet",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "05222023",
-    "05222023R",
+    "20260317JB",
     "CAT_FOODDRINKS",
+    "CAT_KAWAII",
     "CAT_POPULAR",
-    "CURRY",
-    "data_department_conbini_japanese_retail",
-    "data_persona_is_foodie",
-    "data_persona_is_japan_explorer"
+    "data_character_cinnamoroll",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio",
+    "data_persona_is_foodie"
    ],
-   "price": 16.29
+   "price": 53.49
   },
   {
-   "id": "sugoimart-subcat-videogames-subcat-mario",
-   "name": "Pokemon Monster Collection Figure Captain Pikachu MS-12",
-   "merchantDescription": "A Pokemon collection isn't complete without a Captain Pikachu Pokemon Monster Collection Figure! This adorable figure of Captain Pikachu includes accurate details from the series, like his signature hat. Perfect for kids or collectors! Size: 6 x 8 x 4 cm // 2.",
+   "id": "sugoimart-sanrio-my-melody-country-man-cookie-carry-bag",
+   "name": "Sanrio My Melody Country Man Cookie & Carry Bag",
+   "merchantDescription": "A sweet collectible set that pairs a My Melody-themed carry bag with a pack of Country Ma’am mini cookies. The tote’s cozy, quilt-like look and padded handles make it an easy grab for small essentials, while the snack adds a charming treat to match the theme. ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260317JB",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_my_melody",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio",
+    "data_persona_is_foodie"
+   ],
+   "price": 50.99
+  },
+  {
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-snivy",
+   "name": "Pokemon I Choose You Plush Toy: Snivy",
+   "merchantDescription": "Bring home Snivy from the I Choose You plush series—an elegant, soft companion with a poised expression and a cozy, squeezable feel. Perfect for collecting, decorating your space, or gifting to any Pokémon fan, this plush adds a touch of leafy charm wherever i",
    "vendor": "Sugoi Mart by Japan Crate",
    "productType": "POPULAR",
    "merchantTags": [
-    "20241010JB",
+    "20260317JB",
     "CAT_COLLECTIBLES",
+    "CAT_GAMES",
     "CAT_KAWAII",
     "CAT_POPULAR",
     "CAT_VIDEOGAMES",
     "data_character_pokemon",
-    "data_department_video_games",
-    "data_ip_pokemon"
+    "data_department_video_games"
    ],
-   "price": 14.99
+   "price": 37.49
   },
   {
-   "id": "sugoimart-pokemon-pikachu-plush-s",
-   "name": "Pokemon Pikachu Plush (S)",
-   "merchantDescription": "A small-size Pikachu plush with a classic, cheerful expression and soft, cuddle-ready feel. Easy to display on a desk, shelf, or bedside—and just as easy to take along for everyday adventures. A charming giftable collectible that adds a bright pop of character",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-pokemon-i-choose-you-plush-toy-zoroark",
+   "name": "Pokemon I Choose You Plush Toy: Zoroark",
+   "merchantDescription": "Bring home Zoroark from the “I Choose You” plush series for a display-worthy companion with a bold, expressive look. With vivid color contrast and a soft, huggable feel, it’s perfect for collectors, gifting, or adding to your Pokémon lineup. Designed to sit ni",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "POPULAR",
    "merchantTags": [
-    "20260514B",
+    "20260317JB",
     "CAT_COLLECTIBLES",
     "CAT_GAMES",
     "CAT_KAWAII",
     "CAT_POPULAR",
     "CAT_VIDEOGAMES",
-    "SUBCAT_PLUSHIES",
-    "SUBCAT_POKEMON"
+    "data_character_pokemon",
+    "data_department_video_games"
    ],
-   "price": 29.99
+   "price": 68.99
   },
   {
-   "id": "sugoimart-nobel-super-mario-gummy-grape-soda",
-   "name": "Nobel Super Mario: Gummy Grape & Soda",
-   "merchantDescription": "Jump into a fun, chewy snack with two classic flavors in one bag: sweet grape and fizzy soda. Each gummy is shaped with playful game-inspired designs, making it a treat that’s as cute as it is tasty. Great for sharing, popping into a lunch bag, or enjoying dur",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-imuraya-mochi-style-soft-warabi-jelly-kinako",
+   "name": "Imuraya Mochi-Style Soft Warabi Jelly: Kinako",
+   "merchantDescription": "Mochi-style warabi jelly with the toasty, nutty aroma of kinako (roasted soybean powder). Soft, bouncy, and easy to enjoy anytime you want a classic Japanese flavor. Individually portioned sticks come in a resealable pouch, making it simple to share, snack, an",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260514JB",
+    "20260317JB",
     "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinks",
+    "F_kinako",
+    "SUBCAT_SNACKS"
+   ],
+   "price": 7.49
+  },
+  {
+   "id": "sugoimart-imuraya-mochi-style-soft-warabi-jelly-brown-sugar",
+   "name": "Imuraya Mochi-Style Soft Warabi Jelly: Brown Sugar",
+   "merchantDescription": "Enjoy a satisfyingly bouncy, mochi-style warabi jelly with the deep, caramel-like sweetness of brown sugar. Each piece comes in a convenient stick format—simply squeeze and savor for a clean, no-fuss treat. Soft, jiggly, and gently sweet, it’s an easy snack to",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260317JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinks",
+    "F_sweet",
+    "SUBCAT_CHOCOLATE"
+   ],
+   "price": 7.49
+  },
+  {
+   "id": "sugoimart-imuraya-mochi-style-soft-warabi-jelly-matcha-green-tea",
+   "name": "Imuraya Mochi-Style Soft Warabi Jelly: Matcha Green Tea",
+   "merchantDescription": "A mochi-style warabi jelly treat with a smooth, springy bite and a refined matcha finish. Each stick is individually wrapped for a clean, easy snack anytime. Made with Uji matcha for an aromatic green tea taste that feels both comforting and refreshing—perfect",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260317JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha"
+   ],
+   "price": 7.49
+  },
+  {
+   "id": "sugoimart-fujiya-premium-look-chocolate-awayuki-light-airy-cream",
+   "name": "Fujiya Premium Look Chocolate Awayuki Light & Airy Cream",
+   "merchantDescription": "Delicate, cloud-like, and gently sweet, this premium Japanese chocolate features a light, airy cream filling inspired by awayuki—a “faint snow” texture that melts smoothly as you bite in. Each piece pairs a creamy white chocolate shell with a soft center for a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260317JB",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_strawberry",
+    "Low Stock",
+    "OOS"
+   ],
+   "price": 7.29
+  },
+  {
+   "id": "sugoimart-sugoi-mart-sakura-standard-lucky-bag",
+   "name": "Sakura Lucky Bag by Sugoi Mart",
+   "merchantDescription": "🌸 Missed the Sakura season this year? Worry not! Experience the joy of cherry blossoms with our Sakura Lucky Bag , inspired by Japan’s beloved sakura and hanami (flower viewing picnics) ! The Sakura Lucky Bag comes in a beautiful 2-in-1 picnic blanket tote ba",
+   "vendor": "Lucky Bag",
+   "productType": "LUCKY BAGS",
+   "merchantTags": [
+    "Best Seller",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_LBSETS",
+    "CAT_LUCKYBAGS",
+    "CAT_POPULAR"
+   ],
+   "price": 31.99
+  },
+  {
+   "id": "sugoimart-sugoi-mart-sakura-deluxe-lucky-bag",
+   "name": "Deluxe Sakura Lucky Bag by Sugoi Mart",
+   "merchantDescription": "🌸 Celebrate Spring with the 2026 Deluxe Sakura Lucky Bag! 🌸 Experience the joy of sakura season with our limited-edition Deluxe Sakura Lucky Bag , inspired by Japan’s beloved cherry blossoms and hanami (flower viewing) ! The Deluxe Sakura Lucky Bag comes in ",
+   "vendor": "Lucky Bag",
+   "productType": "LUCKY BAGS",
+   "merchantTags": [
+    "Back In Stock",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_LBSETS",
+    "CAT_LUCKYBAGS",
+    "CAT_POPULAR"
+   ],
+   "price": 71.99
+  },
+  {
+   "id": "sugoimart-bandai-mario-kart-world-potato-sticks-with-stickers-cheese-b",
+   "name": "Bandai Mario Kart World Potato Sticks With Stickers- Cheese Burger Flavor",
+   "merchantDescription": "Crispy potato sticks with a savory cheeseburger flavor, packaged with colorful Mario Kart World branding for an extra-fun snack break. Each bag includes one randomly selected sticker to collect—perfect for adding to notebooks, phone cases, or your snack stash.",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
     "CAT_VIDEOGAMES",
-    "F_grape",
-    "F_soda",
-    "SUBCAT_CANDY",
-    "SUBCAT_GUMMIES",
-    "SUBCAT_MARIO"
-   ],
-   "price": 7.69
-  },
-  {
-   "id": "sugoimart-kracie-scoop-up-goldfish-diy-candy",
-   "name": "Kracie Scoop Up Goldfish DIY Candy",
-   "merchantDescription": "Bring the fun of a Japanese festival game to snack time with this DIY candy kit. Create a fizzy “pond,” mold cute goldfish-shaped gummies, and scoop them up for an interactive treat you can make and eat. With easy steps and playful textures, it’s a hands-on ca",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_FOODDRINKS",
-    "F_sweet",
-    "SUBCAT_CANDY",
-    "SUBCAT_DIYCANDY"
-   ],
-   "price": 7.29
-  },
-  {
-   "id": "sugoimart-kracie-jewel-jelly-diy-candy",
-   "name": "Kracie Jewel Jelly DIY Candy",
-   "merchantDescription": "Make sparkling, gem-like jelly candies at home with this fun DIY kit from Kracie. Mix, pour, and watch the colors transform into playful jewel shapes for a sweet activity that’s as entertaining to create as it is to eat. Great for a quick treat, party activity",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_FOODDRINKS",
-    "F_sweet",
-    "SUBCAT_CANDY",
-    "SUBCAT_DIYCANDY"
-   ],
-   "price": 7.29
-  },
-  {
-   "id": "sugoimart-kracie-long-rainbow-string-gummy-diy-candy",
-   "name": "Kracie Long Rainbow String Gummy DIY Candy",
-   "merchantDescription": "Stretch, twist, and create your own colorful candy with this long rainbow string gummy DIY kit. It’s a playful treat that turns snacking into a hands-on activity, with a chewy texture and bright, fun presentation. Perfect for sharing, party favors, or a lighth",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "CAT_FOODDRINKS",
-    "F_sweet 20260514JB",
-    "SUBCAT_CANDY",
-    "SUBCAT_DIYCANDY",
-    "SUBCAT_GUMMIES"
-   ],
-   "price": 6.29
-  },
-  {
-   "id": "sugoimart-meiji-diy-candy-cloud-bubble-gum",
-   "name": "Meiji DIY Candy Cloud: Bubble Gum",
-   "merchantDescription": "Whip up a fluffy, cloud-like candy and enjoy a fun, hands-on treat with a sweet bubble gum flavor. Just mix, fluff, and shape—then watch the texture turn airy and soft before you snack. Perfect for parties, gifting, or a playful dessert moment, this DIY kit tu",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_FOODDRINKS",
-    "F_sweet",
-    "SUBCAT_CANDY",
-    "SUBCAT_DIYCANDY"
+    "data_character_mario",
+    "data_department_sweets_snacks"
    ],
    "price": 5.99
   },
   {
-   "id": "sugoimart-kracie-slime-jelly-diy-candy",
-   "name": "Kracie Slime Jelly DIY Candy",
-   "merchantDescription": "Create wiggly, slime-like jelly candy you can mix and enjoy at home. This playful DIY kit lets you combine powders with water to make two colorful jelly “slimes,” then add crunchy sprinkles for extra texture. Fun for parties, rainy days, or a quick sweet activ",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-bandai-mario-kart-world-character-magnets-with-chewing-gum",
+   "name": "Bandai Mario Kart World Character Magnets With Chewing Gum",
+   "merchantDescription": "Bring the thrill of the track to your everyday space with Mario Kart World character magnets from Bandai. Each pack includes a collectible magnet featuring a vibrant character design, plus a piece of chewing gum for a fun little bonus. Perfect for decorating r",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260514JB",
-    "CAT_FOODDRINKS",
-    "F_sweet",
-    "SUBCAT_CANDY",
-    "SUBCAT_DIYCANDY",
-    "SUBCAT_GUMMIES"
-   ],
-   "price": 4.99
-  },
-  {
-   "id": "sugoimart-kracie-gummy-diy-candy",
-   "name": "Kracie Gummy DIY Candy",
-   "merchantDescription": "Create your own fluffy, colorful gummy treat with this Kracie DIY candy kit. Mix, whip, and watch the powder transform into a soft, airy texture you can enjoy right away. A fun, hands-on snack activity with playful grape and soda-style flavors, designed to mak",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_FOODDRINKS",
-    "F_grape",
-    "F_soda",
-    "SUBCAT_CANDY",
-    "SUBCAT_DIYCANDY",
-    "SUBCAT_GUMMIES"
-   ],
-   "price": 4.99
-  },
-  {
-   "id": "sugoimart-nintendo-super-mario-maze-blind-box",
-   "name": "Nintendo Super Mario Maze Blind Box",
-   "merchantDescription": "Bring classic Super Mario fun to your desk with a compact, handheld maze game in a surprise blind box. Tilt and guide the ball through the course for a quick challenge anytime. Each design features colorful Super Mario-themed artwork, making it a fun little co",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260514JB",
+    "20260311JB",
+    "CAT_ANIME",
     "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
-   ],
-   "price": 8.29
-  },
-  {
-   "id": "sugoimart-nintendo-super-mario-jump-seesaw-game-blind-box",
-   "name": "Nintendo Super Mario Jump & Seesaw Game Blind Box",
-   "merchantDescription": "Bring classic Super Mario energy to your desk with this mini jump-and-seesaw action game blind box. Each set includes a small play scene designed for quick, satisfying coin-flipping fun—great for collecting, displaying, and playing. With multiple possible vari",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
-   ],
-   "price": 8.29
-  },
-  {
-   "id": "sugoimart-nintendo-super-mario-anywhere-game-blind-box",
-   "name": "Nintendo Super Mario Anywhere Game Blind Box",
-   "merchantDescription": "A pocket-size Super Mario mini game you can take anywhere. Each blind box includes one compact handheld game with classic Mario-themed artwork and a built-in ball-and-maze style challenge for quick play. Clip it onto a bag or keys and enjoy a satisfying, scree",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
-   ],
-   "price": 8.49
-  },
-  {
-   "id": "sugoimart-nintendo-super-mario-the-expanding-mario-world-blind-box",
-   "name": "Nintendo Super Mario: The Expanding Mario World Blind Box",
-   "merchantDescription": "Bring a classic platforming scene to life with this Super Mario blind box figure set. Each box reveals one character or item piece designed to connect with others, letting you build out a playful, expanding display over time. Perfect for collecting, decorating",
-   "vendor": "Sugoi Mart",
-   "productType": "VIDEO GAMES",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "CAT_VIDEOGAMES",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_COLLECTIBLES"
-   ],
-   "price": 8.29
-  },
-  {
-   "id": "sugoimart-lotte-ghana-white-chocolate",
-   "name": "Lotte Ghana White Chocolate",
-   "merchantDescription": "Silky, creamy, and richly mellow, this white chocolate bar delivers a smooth melt with a satisfying dairy-forward sweetness. An easy treat to enjoy on its own, with coffee or tea, or shared as a simple dessert. Classic Ghana quality in a white chocolate format",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260514JB",
-    "CAT_FOODDRINKS",
-    "F_chocolate",
-    "F_milk",
-    "SUBCAT_SNACKS"
-   ],
-   "price": 5.29
-  },
-  {
-   "id": "sugoimart-lotte-ghana-matcha-chocolate",
-   "name": "Lotte Ghana Matcha Chocolate",
-   "merchantDescription": "Rich milk chocolate meets the aromatic depth of matcha for a smooth, mellow bite with a gentle green tea finish. This bar-style chocolate is easy to portion and perfect for pairing with coffee or tea. Made with Japanese matcha for a balanced flavor that’s crea",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260514JB",
     "CAT_FOODDRINKS",
     "CAT_POPULAR",
-    "F_chocolate",
-    "F_matcha",
-    "SUBCAT_MATCHA",
-    "SUBCAT_SNACKS"
+    "CAT_VIDEOGAMES",
+    "data_character_mario",
+    "data_department_sweets_snacks"
    ],
    "price": 5.49
   },
   {
-   "id": "sugoimart-7-11-bitter-chocolate-covered-pretzels",
-   "name": "7-11 Bitter Chocolate-Covered Pretzels",
-   "merchantDescription": "A craveable sweet-and-salty snack that pairs crunchy pretzels with a smooth, bittersweet chocolate coating. Each bite balances a crisp pretzel snap with deep cocoa flavor for an easy, satisfying treat. Portion-friendly and ready to enjoy anytime you want a ric",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-raoh-energy-black-energy",
+   "name": "Raoh Energy Black Energy",
+   "merchantDescription": "A bold, dark-style Japanese energy drink with an intense look and an even more intense kick. Designed for when you need an extra push, it delivers a strong, punchy refreshment best enjoyed well chilled. Featuring a striking can design and a “Black Energy” prof",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260514JB",
+    "20260311JB",
     "CAT_FOODDRINKS",
-    "F_chocolate",
-    "SUBCAT_SNACKS"
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_caramel",
+    "Low Stock",
+    "Sale"
    ],
-   "price": 3.49
+   "price": 2.99
   },
   {
-   "id": "sugoimart-7-11-yogurt-flavored-chocolate-covered-raisins",
-   "name": "7-11 Yogurt-Flavored Chocolate-Covered Raisins",
-   "merchantDescription": "Sweet, chewy raisins get a creamy twist with a smooth yogurt-flavored chocolate coating. The result is a balanced bite that’s fruity, tangy, and just the right amount of indulgent. Perfect for a quick snack, sharing, or keeping on hand when you want something ",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-takara-tomy-micropet-cat",
+   "name": "Takara Tomy Micropet Cat",
+   "merchantDescription": "A tiny, pocket-sized petbot with a cat design from Takara Tomy. Interact with it and enjoy playful sounds, reactions, and movements in a compact format that’s easy to bring along. A fun collectible-style toy for everyday desk play, gifting, or adding a bit of ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-wild-grass-bath-mat-orange",
+   "name": "Ghibli My Neighbor Totoro “Wild Grass” Bath Mat: Orange",
+   "merchantDescription": "Bring a warm, nature-inspired touch to your bathroom with this My Neighbor Totoro bath mat in a rich orange tone. The centered Totoro artwork and leafy border design add a cozy, playful accent while keeping your space feeling tidy and welcoming. Soft underfoot",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
+   ],
+   "price": 78.49
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-wild-grass-bath-mat-green",
+   "name": "Ghibli My Neighbor Totoro “Wild Grass” Bath Mat: Green",
+   "merchantDescription": "Bring a soft touch of the forest into your bathroom with this My Neighbor Totoro bath mat in fresh green. The plush surface feels cozy underfoot while the playful “Wild Grass” design adds a gentle Studio Ghibli charm to your everyday routine. Designed to brigh",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
+   ],
+   "price": 86.49
+  },
+  {
+   "id": "sugoimart-disney-cyber-stitch-keychain",
+   "name": "Disney Cyber Stitch Keychain",
+   "merchantDescription": "Bring a futuristic touch to your everyday carry with this Disney Cyber Stitch keychain. Featuring a plush-style Stitch dressed in a sleek, space-inspired look, it adds a soft, standout accent to bags, backpacks, or keys. The attached chain and clasp make it ea",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_stitch",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "sugoimart-disney-cyber-stitch-plush-toy",
+   "name": "Disney Cyber Stitch Plush Toy",
+   "merchantDescription": "Bring home Stitch in a futuristic, cyber-inspired look—complete with a cozy hooded suit and sleek, sci-fi details. This plush toy is designed for display-worthy charm while staying soft, huggable, and full of character. A fun collectible for Disney fans, it ad",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_stitch",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 101.99
+  },
+  {
+   "id": "sugoimart-disney-cyber-stitch-angel-plush-toy",
+   "name": "Disney Cyber Stitch Angel Plush Toy",
+   "merchantDescription": "Bring futuristic charm to your collection with this Disney Cyber Angel plush, styled in a sleek space-inspired outfit with cozy hood and headset details. Soft, huggable, and full of character, it’s made for display, gifting, or keeping close on your desk or be",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_stitch",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_plush_stuffed_toys"
+   ],
+   "price": 101.99
+  },
+  {
+   "id": "sugoimart-disney-big-hero-6-lunch-bag-rice-ball",
+   "name": "Disney Big Hero 6 Lunch Bag - Rice Ball",
+   "merchantDescription": "Make lunch time a little more heroic with this Disney Big Hero 6 rice ball lunch bag, styled with Baymax’s simple, iconic face. Its compact, rounded shape is perfect for carrying an onigiri, small snacks, or a light meal while keeping everything neatly contain",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_ip_disney",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 50.99
+  },
+  {
+   "id": "sugoimart-morinaga-almond-cranberry-biscuit",
+   "name": "Morinaga Almond & Cranberry Biscuit",
+   "merchantDescription": "Morinaga Naturis Almond Cranberry Biscuit pairs toasted almond pieces with bright, tangy cranberry for a satisfying crunch in every bite. Made to highlight the natural taste of its ingredients, it’s an easy snack for work breaks, travel, or anytime you want so",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260514JB",
+    "20260311JB",
     "CAT_FOODDRINKS",
-    "F_chocolate",
-    "F_yogurt",
-    "SUBCAT_SNACKS"
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_nut",
+    "Low Stock",
+    "OOS"
+   ],
+   "price": 5.29
+  },
+  {
+   "id": "sugoimart-onsen-water-99-natural-alkaline-mineral-water",
+   "name": "Onsen Water 99 Natural Alkaline Mineral Water",
+   "merchantDescription": "Refresh with Onsen Water 99, a naturally alkaline mineral water inspired by Japanese onsen purity. Clean-tasting and easy to enjoy anytime, whether you’re hydrating throughout the day or pairing it with meals. Crafted for simple, everyday drinking with a smoot",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260311JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_water",
+    "Low Stock",
+    "OOS"
    ],
    "price": 3.99
   },
   {
-   "id": "sugoimart-morinaga-ramune-melon",
-   "name": "Morinaga Ramune Melon",
-   "merchantDescription": "Enjoy the nostalgic taste of Japanese ramune in a fun, poppable candy form with a refreshing melon twist. Each piece delivers a sweet, lightly fizzy sensation that’s perfect for snacking anytime. Packaged in a convenient, resealable-style bottle, it’s easy to ",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-meito-pukupukutai-pudding-flavor",
+   "name": "Meito Pukupukutai Pudding Flavor",
+   "merchantDescription": "A playful, fish-shaped wafer treat with a pudding-flavored cream filling for a sweet, nostalgic bite. Lightly crisp on the outside and creamy at the center, it’s an easy snack for dessert breaks or on-the-go cravings. Enjoy the classic *taiyaki*-inspired look ",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260512JB",
+    "20260309JB",
     "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_melon",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_pudding",
     "Low Stock",
-    "PRIORITY_SHIP_OK",
-    "SUBCAT_CANDY"
+    "OOS"
    ],
    "price": 3.29
   },
   {
-   "id": "sugoimart-bourbon-mini-sylveine-chocolate-cake",
-   "name": "Bourbon Mini Sylveine Chocolate Cake",
-   "merchantDescription": "Bourbon Mini Sylveine Chocolate Cakes are bite-sized treats that pair fluffy cake with a smooth vanilla cream center, all wrapped in a rich chocolate coating. Perfect for sharing, snacking, or enjoying with tea or coffee—each piece delivers classic Sylveine fl",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-ito-en-oi-ocha-koicha-premium-strong-green-tea",
+   "name": "Ito En Oi Ocha Koicha Premium Strong Green Tea",
+   "merchantDescription": "A bold, full-bodied koicha-style green tea with a deep aroma and satisfying bitterness. Crafted for a rich, concentrated taste that stands up well on its own and pairs cleanly with meals. Enjoy it chilled for a crisp finish, or savor slowly to appreciate the l",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260512JB",
+    "20260309JB",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "Low Stock",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 2.29
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-bath-towel-totoro-acorns",
+   "name": "Ghibli My Neighbor Totoro Bath Towel: Totoro & Acorns",
+   "merchantDescription": "Bring a cozy touch of the forest to your daily routine with this My Neighbor Totoro bath towel. Featuring Totoro, friends, and acorn-inspired details, it adds warmth and charm to baths, showers, or display. Soft and inviting, it’s an easy favorite for fans and",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
+   ],
+   "price": 85.49
+  },
+  {
+   "id": "sugoimart-ghibli-spirited-away-hanafuda-playing-cards-aburaya-design",
+   "name": "Ghibli Spirited Away Hanafuda Playing Cards: Aburaya Design",
+   "merchantDescription": "Celebrate the world of Spirited Away with a hanafuda playing card set featuring the iconic Aburaya bathhouse motif. Designed for fans and card lovers alike, it brings traditional Japanese gameplay together with memorable characters and artwork. Use it for clas",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "data_character_spirited_away",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli"
+   ],
+   "price": 106.99
+  },
+  {
+   "id": "sugoimart-pokemon-eievui-at-home-interactive-eevee-plush-toy",
+   "name": "Pokemon “Eievui at Home” Interactive Eevee Plush Toy",
+   "merchantDescription": "Bring Eevee’s cozy energy home with an interactive plush designed for play, comfort, and everyday companionship. With soft, huggable textures and expressive details, it’s easy to keep by your side on a desk, bed, or sofa. Made for hands-on fun, this plush resp",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 130.99
+  },
+  {
+   "id": "sugoimart-pokemon-model-kit-quick-lite-bulbasaur",
+   "name": "Pokemon Model Kit Quick!! Lite Bulbasaur",
+   "merchantDescription": "A cute, compact Bulbasaur model kit designed for quick, satisfying building. With a smooth finish and bold character styling, it makes an eye-catching display piece for desks, shelves, or your collection corner. Enjoy an easy assembly experience that highlight",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-model-kit-quick-lite-charmander",
+   "name": "Pokemon Model Kit Quick!! Lite Charmander",
+   "merchantDescription": "Bring a classic fire-type favorite to your shelf with this Quick!! Lite Charmander model kit. Designed for a smooth, beginner-friendly build, it’s a fun way to enjoy a satisfying project and a cute finished display. With its rounded, stylized look and bright c",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-model-kit-quick-lite-pikachu",
+   "name": "Pokemon Model Kit Quick!! Lite Pikachu",
+   "merchantDescription": "Bring Pikachu to life with this Quick!! Lite model kit, designed for a fun, easy build and a bright display-ready finish. The parts are made to fit together smoothly so you can enjoy the assembly experience without the fuss. Perfect for collectors, beginners, ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-model-kit-quick-lite-eevee",
+   "name": "Pokemon Model Kit Quick!! Lite Eevee",
+   "merchantDescription": "Bring Eevee to life with a quick, beginner-friendly model kit designed for simple, satisfying assembly. With clean parts separation and a charming seated pose, it’s an easy way to add a cute Pokémon display piece to your shelf or desk. Great for first-time bui",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "COLLECTIBLES & GAMES",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-circular-diorama-2-sparkling-moment-blind-box",
+   "name": "Pokemon Circular Diorama 2 Sparkling Moment: Blind Box",
+   "merchantDescription": "Capture a sparkling, dreamy Pokémon scene with this circular diorama blind box collection. Each piece is designed as a self-contained mini display with translucent effects and a rounded frame that looks beautiful on desks, shelves, and display cabinets. Which ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 28.49
+  },
+  {
+   "id": "sugoimart-pokemon-circular-diorama-2-sparkling-moment-full-set",
+   "name": "Pokemon Circular Diorama 2 Sparkling Moment: Full Set",
+   "merchantDescription": "Bring a little sparkle to your shelf with a complete set of circular Pokémon diorama figures from Re-Ment. Each piece frames a favorite Pokémon moment inside a ring-shaped scene, combining vibrant color, layered details, and a display-ready silhouette. Perfect",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260309JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 127.49
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-waffle-series-pouch-mini-bag-set",
+   "name": "Ghibli My Neighbor Totoro Waffle Series Pouch & Mini Bag Set",
+   "merchantDescription": "A charming matching set featuring a tote-style mini bag and a coordinating zip pouch, both designed with a waffle-textured look and sweet Totoro embroidery-inspired detailing. Use the mini bag for quick outings and the pouch to keep small essentials like keys,",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260306JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_kawaii",
+    "data_ip_studio_ghibli",
+    "data_persona_is_otaku"
+   ],
+   "price": 118.99
+  },
+  {
+   "id": "sugoimart-studio-ghibli-my-neighbor-totoro-planter-cover-acorns-have-s",
+   "name": "Studio Ghibli My Neighbor Totoro Planter Cover – Acorns Have Sprouted",
+   "merchantDescription": "Bring a little forest charm to your home with this My Neighbor Totoro planter cover featuring Totoro peeking out from a cracked acorn. It’s a cozy accent for shelves, desks, and windowsills—perfect for adding a touch of Studio Ghibli whimsy to your greenery. U",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260306JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_collector"
+   ],
+   "price": 94.99
+  },
+  {
+   "id": "sugoimart-ghibli-castle-in-the-sky-clip-holder-laputa-castle",
+   "name": "Ghibli Castle in the Sky Clip Holder – Laputa Castle",
+   "merchantDescription": "Bring a touch of Studio Ghibli charm to your desk with this clip holder inspired by the iconic Laputa Castle from Castle in the Sky . The detailed castle design sits atop a cloud-like base, turning everyday organization into a small display piece. Use it to ke",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260306JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_character_castle_in_the_sky",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_collector"
+   ],
+   "price": 86.49
+  },
+  {
+   "id": "sugoimart-sanrio-kaneshotouki-wobbler-tumbler-kuromi",
+   "name": "Sanrio Kaneshotouki Wobbler Tumbler: Kuromi",
+   "merchantDescription": "A playful Kuromi-themed wobbler tumbler that gently rocks and returns upright for an extra-fun sip. The rounded shape feels comfortable in hand and adds a cute accent to your desk or table. Clear and charming with Kuromi’s signature look, it’s great for everyd",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260306JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_kuromi",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_collector"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-sanrio-kaneshotouki-wobbler-tumbler-cinnamoroll",
+   "name": "Sanrio Kaneshotouki Wobbler Tumbler: Cinnamoroll",
+   "merchantDescription": "A cute Cinnamoroll wobbler tumbler that gently rocks when set down, adding a playful touch to your drink time. The rounded silhouette feels comfortable in hand and looks adorable on any desk or table. Perfect for water, juice, or your favorite cold beverage—an",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260306JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_cinnamoroll",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_collector"
+   ],
+   "price": 25.49
+  },
+  {
+   "id": "sugoimart-sanrio-kaneshotouki-wobbler-tumbler-hello-kitty",
+   "name": "Sanrio Kaneshotouki Wobbler Tumbler: Hello Kitty",
+   "merchantDescription": "A playful, rounded tumbler featuring Hello Kitty’s iconic face and bow. The wobbler-style base gently rocks when set down, making everyday drinks feel a little more fun. Clear and minimalist with bold character accents, it’s an easy pick for desk sipping, casu",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "KAWAII",
+   "merchantTags": [
+    "20260306JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_hello_kitty",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_collector"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-nintendo-pikmin-round-mini-leather-pouch-red",
+   "name": "Nintendo Pikmin Round Mini Leather Pouch: Red",
+   "merchantDescription": "A round mini pouch inspired by Nintendo’s Pikmin, featuring a bold red design and character embroidery for a playful pop of color. Compact and easy to clip on, it’s ideal for keeping small essentials like coins, earbuds, or keys together while you’re on the go",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260305JB",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pikmin",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 28.49
+  },
+  {
+   "id": "sugoimart-nintendo-pikmin-round-mini-leather-pouch-blue",
+   "name": "Nintendo Pikmin Round Mini Leather Pouch: Blue",
+   "merchantDescription": "Carry a little Pikmin charm wherever you go with this round mini pouch in a vivid blue finish. The compact silhouette is ideal for keeping small essentials like coins, earbuds, or tiny accessories neatly together. Finished with a secure zipper closure and a ch",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260305JB",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pikmin",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 34.49
+  },
+  {
+   "id": "sugoimart-nintendo-pikmin-round-mini-leather-pouch-yellow",
+   "name": "Nintendo Pikmin Round Mini Leather Pouch: Yellow",
+   "merchantDescription": "Carry a little Pikmin charm wherever you go with this round mini pouch in bright yellow. The compact zip design is ideal for keeping small essentials together, while the attached chain makes it easy to clip onto a bag or keys. A cute, collectible accessory tha",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260305JB",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pikmin",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 34.49
+  },
+  {
+   "id": "sugoimart-nintendo-mario-cart-world-joy-con-steering-wheel",
+   "name": "Nintendo Mario Cart World Joy Con Steering Wheel",
+   "merchantDescription": "Bring a more immersive racing feel to your Nintendo Switch sessions with this Joy-Con steering wheel accessory. The ergonomic wheel shape adds a comfortable grip and intuitive motion control handling for kart-style games. Designed for quick Joy-Con insertion a",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "VIDEO GAMES",
+   "merchantTags": [
+    "20260305JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_mario",
+    "data_department_video_games",
+    "data_ip_nintendo"
+   ],
+   "price": 30.49
+  },
+  {
+   "id": "sugoimart-enn-you-meguri-herbal-wellness-drink-black-sesame-flavor",
+   "name": "Enn You Meguri Herbal Wellness Drink Black Sesame Flavor",
+   "merchantDescription": "A smooth, comforting wellness drink blending roasted black sesame flavor with a gentle, herbal-inspired profile. Designed for easy sipping, it offers a rich, nutty taste that feels both indulgent and balanced. Enjoy it chilled or at room temperature as part of",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260305JB",
+    "CAT_FOODDRINKS",
+    "Clearance",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_sesame",
+    "SALE"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-ghibli-my-neighbor-totoro-acorn-collection-pouch",
+   "name": "Ghibli My Neighbor Totoro Acorn Collection Pouch",
+   "merchantDescription": "Carry a little forest charm with this acorn-themed pouch inspired by My Neighbor Totoro. The textured fabric and embroidered-style artwork give it a cozy, storybook feel that’s easy to love. Use it to keep small essentials together—coins, cards, lip balm, earb",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260304JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
+   ],
+   "price": 64.99
+  },
+  {
+   "id": "sugoimart-pokemon-palm-size-pikachu",
+   "name": "Pokemon Palm Size Pikachu",
+   "merchantDescription": "A palm-size Pikachu figure with a soft, flocked finish for a fuzzy, touchable feel. Display it on your desk, shelf, or in a collection for a cute pop of Pokémon charm. Compact and easy to enjoy anywhere, it’s a fun collectible that captures Pikachu’s classic l",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260304JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 45.99
+  },
+  {
+   "id": "sugoimart-ghibli-kikis-delivery-retro-marine-pouch",
+   "name": "Ghibli Kikis Delivery Retro Marine Pouch",
+   "merchantDescription": "A retro marine-themed pouch inspired by Kiki’s Delivery Service, featuring Jiji in a bold, textured design that feels cozy and nostalgic. Ideal for keeping small essentials together—think lip balm, keys, earphones, coins, or travel odds and ends—with a secure ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20260304JB",
+    "CAT_ANIME",
+    "CAT_KAWAII",
+    "data_character_kikis_delivery_service",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku"
+   ],
+   "price": 64.99
+  },
+  {
+   "id": "sugoimart-one-piece-samurai-in-wano-country-playing-cards",
+   "name": "One Piece Samurai In Wano Country Playing Cards",
+   "merchantDescription": "Bring the spirit of Wano Country to your next game night with this One Piece themed deck. The illustrated card backs feature a bold, traditional-inspired design that looks great in hand and on the table. A fun pick for casual play, collecting, or gifting, this",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "ANIME",
+   "merchantTags": [
+    "20260304JB",
+    "CAT_ANIME",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "data_character_one_piece",
+    "data_department_anime_manga",
+    "data_ip_one_piece",
+    "data_persona_is_collector"
+   ],
+   "price": 33.49
+  },
+  {
+   "id": "sugoimart-muji-sakura-white-peach-powdered-drink-mix",
+   "name": "Muji Sakura & White Peach Powdered Drink Mix",
+   "merchantDescription": "A delicate spring-inspired drink mix that blends floral sakura notes with the gentle sweetness of white peach. Simply dissolve the powder to create a softly fragrant, pale pink beverage. Enjoy it as a cozy warm drink or serve it chilled for a refreshing, light",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260303JB",
     "CAT_FOODDRINKS",
     "CAT_POPULAR",
-    "F_chocolate",
-    "SUBCAT_CHOCOLATE",
-    "SUBCAT_SNACKS"
+    "cherry blossom",
+    "data_department_conbini_japanese_retail",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinks"
+   ],
+   "price": 10.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-steel-glitter-airy-blue-bottle",
+   "name": "Starbucks Sakura 2026 Steel Glitter Airy Blue Bottle",
+   "merchantDescription": "Bring a cool, airy touch to your daily routine with this glitter-finish stainless steel bottle in soft blue tones and delicate Sakura-inspired accents. Sleek and easy to carry, it’s designed for everyday hydration at work, school, or on the go. A polished look",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 106.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-airy-blue-strap-cup-shape-bottle",
+   "name": "Starbucks Sakura 2026 Airy Blue Strap Cup Shape Bottle",
+   "merchantDescription": "Bring a soft spring feel to your day with this airy blue strap bottle, finished in a cup-shaped silhouette and scattered with delicate Sakura-style blooms. The clean, pastel look pairs beautifully with work, school, or weekend outings. A handy strap makes it e",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 107.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-3-way-stanley-airy-blue-gradient",
+   "name": "Starbucks Sakura 2026 3-Way STANLEY Airy Blue Gradient",
+   "merchantDescription": "Bring a light, spring-sky feel to your everyday routine with this airy blue gradient tumbler created in collaboration with Stanley and Starbucks. The softly shimmering finish and clean, modern silhouette make it an easy companion for workdays, weekends, and ev",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 111.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-color-changing-tumbler-white",
+   "name": "Starbucks Sakura 2026 Color Changing Tumbler White",
+   "merchantDescription": "Bring a soft spring mood to your daily coffee routine with this Sakura-themed tumbler in a clean white finish and delicate cherry blossom patterning. Add a cold drink and watch the cup shift in appearance, creating a subtle color-changing effect that makes eve",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 52.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-airy-blue-glass-tumbler",
+   "name": "Starbucks Sakura 2026 Airy Blue Glass Tumbler",
+   "merchantDescription": "A cool, airy blue tumbler with delicate Sakura accents that bring a soft spring feel to your everyday sips. The clear glass showcases the raised floral design, while the matching lid and straw complete the look for a polished finish. Perfect for iced drinks at",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 64.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-stainless-steel-mug-with-lid",
+   "name": "Starbucks Sakura 2026 Stainless Steel Mug With Lid",
+   "merchantDescription": "A sleek stainless steel mug accented with delicate sakura blossoms for a calm, seasonal feel. The matching lid helps keep your drink covered between sips, making it a thoughtful choice for everyday coffee and tea moments. With its clean metallic finish and com",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "SS-2026"
+   ],
+   "price": 86.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-airy-medal-mug",
+   "name": "Starbucks Sakura 2026 Airy Medal Mug",
+   "merchantDescription": "A soft, airy sakura design in cool blue tones gives this mug a calm, springlike feel. The front features a raised medal-style Starbucks siren emblem that adds a refined accent and satisfying texture in hand. Perfect for coffee, tea, or gifting, it brings a lig",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 61.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-double-wall-heat-resistant-glass-cup",
+   "name": "Starbucks Sakura 2026 Double Wall Heat Resistant Glass Cup",
+   "merchantDescription": "Celebrate springtime sipping with a double-wall, heat-resistant glass cup featuring soft sakura blossoms and a calming pastel lid. The insulated design helps keep hands comfortable while showcasing your drink through crystal-clear glass. A lovely everyday piec",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 78.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-shell-white-bottle",
+   "name": "Starbucks Sakura 2026 Shell White Bottle",
+   "merchantDescription": "Bring a soft spring mood to your daily routine with this Starbucks Sakura 2026 bottle in a shell-white finish. The delicate floral artwork adds an elegant touch, while the clean silhouette feels modern and easy to carry. A refined pick for coffee, tea, or wate",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 102.49
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-stanley-shiny-airy-blue-gradient",
+   "name": "Starbucks Sakura 2026 STANLEY Shiny Airy Blue Gradient",
+   "merchantDescription": "A serene, airy blue-to-silver gradient meets a subtle shimmer for a clean, seasonal look that feels light and modern. Designed in collaboration with Stanley, this piece brings an elevated finish you’ll want to keep within reach every day. Sleek and minimalist ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 108.99
+  },
+  {
+   "id": "sugoimart-starbucks-sakura-2026-airy-blue-togo-bottle",
+   "name": "Starbucks Sakura 2026 Airy Blue TOGO Bottle",
+   "merchantDescription": "Bring a soft spring mood to your daily routine with this Sakura 2026 TOGO bottle in an airy blue palette. The sleek metallic body is scattered with delicate cherry blossom motifs for an elegant, seasonal look. Designed for on-the-go moments, it’s a stylish com",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_drinkware_kitchenware",
+    "Low Stock"
+   ],
+   "price": 118.49
+  },
+  {
+   "id": "sugoimart-meiji-kinoko-no-yama-x-club-harie-hazelnut-praline-matcha",
+   "name": "Meiji Kinoko no Yama x Club Harie Hazelnut Praline & Matcha",
+   "merchantDescription": "A special collaboration take on Japan’s beloved mushroom-shaped biscuit bites, pairing nutty hazelnut praline with the refined aroma of matcha for a rich, balanced finish. Enjoy the contrast of crisp biscuit stems and smooth chocolate caps—made for easy sharin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "Low Stock"
    ],
    "price": 8.29
   },
   {
-   "id": "sugoimart-super-sour-gummy-plum-shiso",
-   "name": "Super Sour Gummy Plum & Shiso",
-   "merchantDescription": "A bold, super-sour Japanese stick gummy that blends tangy plum with fragrant shiso for a punchy sweet-and-sour bite. Expect a zingy coating and a chewy texture that keeps the flavor going. Perfect for sour candy fans who love classic Japanese fruit-and-herb co",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-meiji-takenoko-no-sato-chez-shibata-yuzu-hazelnut-praline",
+   "name": "Meiji Takenoko no Sato × Chez Shibata Yuzu Hazelnut Praline",
+   "merchantDescription": "A limited-edition collaboration that pairs Meiji’s iconic bamboo-shoot-shaped chocolate biscuits with a refined patisserie-inspired twist. Bright yuzu notes meet a smooth hazelnut praline for a citrusy, nutty finish wrapped in rich chocolate. Crisp biscuit at ",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260512JB",
+    "20260303JB",
     "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_plum",
-    "SUBCAT_CANDY",
-    "SUBCAT_GUMMIES"
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_chocolate",
+    "F_hazelnut",
+    "Low Stock"
    ],
-   "price": 3.49
+   "price": 8.29
   },
   {
-   "id": "sugoimart-uha-kororo-white-peach-with-diced-fruit-pieces",
-   "name": "UHA Kororo White Peach With Diced Fruit Pieces",
-   "merchantDescription": "Experience the signature Kororo bite with a juicy white peach flavor and real diced fruit pieces inside. Each gummy has a unique, fruit-like texture that starts springy and finishes satisfyingly chewy. A sweet, fragrant treat that feels like a mini peach desse",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-itoen-love-yuzu-matcha-green-tea",
+   "name": "Itoen Love Yuzu Matcha Green Tea",
+   "merchantDescription": "Bright, citrusy yuzu meets smooth matcha for a refreshing green tea with a lively, fragrant twist. Lightly sweet and easy to sip, it’s a fun way to enjoy matcha with a burst of Japanese citrus character. Shake well to blend the flavors, then enjoy chilled for ",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "FOOD & DRINKS",
    "merchantTags": [
-    "20260512JB",
+    "20260303JB",
     "CAT_FOODDRINKS",
     "CAT_POPULAR",
-    "F_peach",
-    "SUBCAT_CANDY",
-    "SUBCAT_GUMMIES"
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "Low Stock"
+   ],
+   "price": 2.69
+  },
+  {
+   "id": "sugoimart-carre-de-blush-sakura-chocolate",
+   "name": "Carre de Blush Sakura Chocolate",
+   "merchantDescription": "Delicate and gift-ready, this sakura-toned chocolate assortment pairs a smooth, creamy bite with a soft floral-inspired finish. Individually wrapped squares make it easy to share, savor, or add a seasonal touch to any treat moment. The elegant cherry blossom d",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 26.99
+  },
+  {
+   "id": "sugoimart-sanrio-matcha-kimono-hello-kitty",
+   "name": "Sanrio Matcha Kimono Hello Kitty",
+   "merchantDescription": "Bring a touch of matcha-inspired charm to your day with this Hello Kitty plush dressed in a sweet kimono look. Soft, pastel, and full of delicate details, it’s an easy way to add a little Sanrio cuteness to bags, keys, or your favorite display spot. The handy ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_character_hello_kitty",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 47.49
+  },
+  {
+   "id": "sugoimart-bandai-godzilla-burning-godzilla",
+   "name": "Bandai Godzilla Burning Godzilla",
+   "merchantDescription": "Bring the heat of Godzilla’s most intense form to your display with this Burning Godzilla figure by Bandai. The molten-style paintwork highlights the iconic “meltdown” look, making it an eye-catching centerpiece for kaiju fans. Designed with bold sculpted text",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_POPULAR",
+    "data_character_godzilla",
+    "data_department_anime_manga",
+    "data_ip_godzilla",
+    "data_persona_is_collector"
+   ],
+   "price": 18.29
+  },
+  {
+   "id": "sugoimart-sanrio-cinnamoroll-white-peach-crunch-crunch-can-nagatoya",
+   "name": "Sanrio Cinnamoroll White Peach Crunch Crunch Can (Nagatoya)",
+   "merchantDescription": "A crunchy, bite-size white peach treat in an adorable Cinnamoroll-themed tin. Each piece is individually wrapped, making it easy to share, snack, or tuck into your bag for a sweet pick-me-up. Enjoy the gentle, fruity peach flavor paired with a satisfying crisp",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260303JB",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "data_character_cinnamoroll",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio",
+    "data_persona_is_foodie",
+    "data_persona_is_kawaii_lover"
+   ],
+   "price": 32.49
+  },
+  {
+   "id": "sugoimart-sanrio-characters-double-charm-gummies",
+   "name": "Sanrio Characters Double Charm Gummies",
+   "merchantDescription": "Sweet, collectible fun in every pack—these Sanrio character gummies come with a cute double-charm keychain surprise. Enjoy fruity gummies while you discover which character charm and matching plate charm you’ve received. Perfect for snacking, gifting, or addin",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "20260226JB",
+    "CAT_COLLECTIBLES",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_ip_sanrio",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.29
+  },
+  {
+   "id": "sugoimart-bandai-sanrio-lollipop-candy-charm",
+   "name": "Bandai Sanrio Lollipop Candy Charm",
+   "merchantDescription": "Add a pop of kawaii charm to your collection with the Bandai Sanrio Lollipop Candy Charm! Each pack features one adorable Sanrio character designed in a colorful lollipop candy style. This is a blind-style collectible, meaning each package contains one random ",
+   "vendor": "Sugoi Mart by Japan Crate",
+   "productType": "POPULAR",
+   "merchantTags": [
+    "20260226JB",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover"
    ],
    "price": 6.29
   },
   {
-   "id": "sugoimart-uha-donkey-kong-gummy-banana-cola",
-   "name": "UHA Donkey Kong Gummy Banana & Cola",
-   "merchantDescription": "Bring a playful twist to snack time with these Donkey Kong-themed gummies featuring two crowd-pleasing flavors: banana and cola. Each chewy piece delivers a fun, fruity bite with a nostalgic soda finish—perfect for sharing, gifting, or keeping on hand for a sw",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260512JB",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_banana",
-    "F_cola",
-    "SUBCAT_CANDY",
-    "SUBCAT_GUMMIES"
-   ],
-   "price": 4.49
-  },
-  {
-   "id": "sugoimart-sanrio-constellation-season-3-bath-ball",
-   "name": "Sanrio Constellation Season 3 Bath Ball",
-   "merchantDescription": "Turn bath time into a dreamy constellation moment with this Sanrio Constellation Season 3 bath ball. Drop it into warm water and enjoy the fizzy dissolve as it releases a gentle scent and a surprise collectible inside. Perfect for gifting or adding a little sp",
-   "vendor": "Sugoi Mart",
+   "id": "sugoimart-mofusand-shrimp-bikkura-tamago-bath-bomb",
+   "name": "Mofusand Shrimp Bikkura Tamago Bath Bomb",
+   "merchantDescription": "Turn bath time into a little surprise with this Mofusand shrimp-themed bath bomb. Drop it into warm water to enjoy a fizzy soak, then discover what’s hidden inside. Designed for a fun, collectible unboxing moment, it’s a playful treat for self-care nights or a",
+   "vendor": "Sugoi Mart by Japan Crate",
    "productType": "COLLECTIBLES & GAMES",
    "merchantTags": [
-    "20260512B",
+    "20251121JB",
     "CAT_COLLECTIBLES",
     "CAT_GAMES",
     "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_HOUSEHOLD",
-    "SUBCAT_KUROMI"
-   ],
-   "price": 12.29
-  },
-  {
-   "id": "sugoimart-sanrio-constellation-season-1-bath-ball",
-   "name": "Sanrio Constellation Season 1 Bath Ball",
-   "merchantDescription": "Turn bath time into a little starry surprise with this Sanrio Constellation Season 1 bath ball. As it fizzes away, it reveals a themed collectible hidden inside for an extra bit of fun and anticipation. Inspired by dreamy constellation designs, it’s a playful ",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260512B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_HOUSEHOLD",
-    "SUBCAT_SANRIO"
-   ],
-   "price": 12.29
-  },
-  {
-   "id": "sugoimart-sanrio-cinnamoroll-glow-in-the-dark-bath-ball",
-   "name": "Sanrio Cinnamoroll Glow-in-the-Dark Bath Ball",
-   "merchantDescription": "Turn bath time into a dreamy, starry moment with this Cinnamoroll-themed bath ball. As it fizzes away, it adds a touch of fun to your soak and leaves you with a little glow-in-the-dark surprise. A sweet pick for relaxing nights, gifting, or adding a playful Sa",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260512B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_CINNAMOROLL",
-    "SUBCAT_HOUSEHOLD"
-   ],
-   "price": 13.99
-  },
-  {
-   "id": "sugoimart-sanrio-my-melody-kuromi-bath-ball",
-   "name": "Sanrio My Melody & Kuromi Bath Ball",
-   "merchantDescription": "Make bath time extra sweet with this Sanrio My Melody Kuromi bath ball. Drop it into warm water and enjoy the fizz as it dissolves, turning your soak into a playful, character-filled moment. Once the bath ball melts away, a cute mini figure is revealed inside—",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260512B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_HOUSEHOLD",
-    "SUBCAT_KUROMI"
-   ],
-   "price": 12.29
-  },
-  {
-   "id": "sugoimart-sanrio-marine-bath-ball",
-   "name": "Sanrio Marine Bath Ball",
-   "merchantDescription": "Bring a splash of ocean fun to bath time with this Sanrio-themed bath ball. Drop it into warm water and enjoy the fizzy dissolve as the marine-inspired surprise inside is revealed. A cute pick for relaxing soaks, small gifts, or adding a little character charm",
-   "vendor": "Sugoi Mart",
-   "productType": "POPULAR",
-   "merchantTags": [
-    "20260512B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_HOUSEHOLD",
-    "SUBCAT_SANRIO"
-   ],
-   "price": 13.99
-  },
-  {
-   "id": "sugoimart-sanrio-kuromi-glow-in-the-dark-bath-ball",
-   "name": "Sanrio Kuromi Glow-in-the-Dark Bath Ball",
-   "merchantDescription": "Make bath time a little more magical with this Kuromi-themed glow-in-the-dark bath ball. Drop it into warm water and enjoy the fizzy fun as it dissolves, creating a playful moment before revealing a surprise inside. A cute treat for Kuromi fans, it’s an easy w",
-   "vendor": "Sugoi Mart",
-   "productType": "COLLECTIBLES & GAMES",
-   "merchantTags": [
-    "20260512B",
-    "CAT_COLLECTIBLES",
-    "CAT_GAMES",
-    "CAT_KAWAII",
-    "CAT_POPULAR",
-    "SUBCAT_BLINDBOX",
-    "SUBCAT_HOUSEHOLD",
-    "SUBCAT_KUROMI"
-   ],
-   "price": 13.99
-  },
-  {
-   "id": "sugoimart-muji-spicy-dried-squid-snack",
-   "name": "Muji Spicy Dried Squid Snack",
-   "merchantDescription": "Tender strips of dried squid seasoned with a bold, spicy kick for a satisfying savory bite. Easy to enjoy straight from the bag whenever you’re craving something chewy, salty, and gently fiery. A classic Japanese-style snack with a clean, simple profile—great ",
-   "vendor": "Sugoi Mart",
-   "productType": "FOOD & DRINKS",
-   "merchantTags": [
-    "20260512B",
-    "CAT_FOODDRINKS",
-    "CAT_POPULAR",
-    "F_seafood",
-    "SUBCAT_MUJI",
-    "SUBCAT_SNACKS",
-    "SUBCAT_SPICY"
+    "data_character_mofusand",
+    "data_department_kawaii",
+    "data_ip_mofusand",
+    "data_persona_is_collector"
    ],
    "price": 13.29
   }

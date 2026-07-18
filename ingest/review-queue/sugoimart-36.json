@@ -1,0 +1,870 @@
+{
+ "source": "sugoimart",
+ "batch": 36,
+ "items": [
+  {
+   "id": "sugoimart-s-b-superfine-ginger-paste",
+   "name": "S&B Superfine Ginger Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This ginger paste is being processed specially so it has a extra-fine texture. This goes really well with stir-fried dishes.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_ginger",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-s-b-superfine-garlic-paste",
+   "name": "S&B Superfine Garlic Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This garlic paste is being processed specially so it has a extra-fine texture. This goes well with stir-fried dishes and pasta.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-kewpie-aromatic-onion-dressing",
+   "name": "Kewpie Aromatic Onion Dressing",
+   "merchantDescription": "This aromatic onion dressing by Kewpie will give you a light sweetness from onion as well as the rich flavor from the soy sauce.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DRESSING",
+    "F_onion",
+    "FOOD & DRINKS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kewpie-black-vinegar-onion-dressing",
+   "name": "Kewpie Black Vinegar Onion Dressing",
+   "merchantDescription": "This dressing by Kewpie combines the aroma and flavor of black vinegar with onion.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DRESSING",
+    "F_onion",
+    "FOOD & DRINKS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kewpie-deep-roasted-sesame-dressing",
+   "name": "Kewpie Deep-Roasted Sesame Dressing",
+   "merchantDescription": "This dressing by Kewpie is filled with the flavor of deep-roasted sesame, which goes very well with vegetables.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DRESSING",
+    "F_black sesame",
+    "FOOD & DRINKS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-riken-aojiso-dressing",
+   "name": "Riken Aojiso Dressing",
+   "merchantDescription": "Aojiso, or perilla leaf, in Japan is a very popular flavor. This is a Perilla Leaf dressing which gives a nice sour and herby flavor to your salad.",
+   "vendor": "Riken",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_DRESSING",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-riken-shio-lemon-dressing",
+   "name": "Riken Shio Lemon Dressing",
+   "merchantDescription": "This is a shio lemon dressing, which refers to slightly salted Lemon flavor in Japanese.",
+   "vendor": "Riken",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_citrus",
+    "F_salt",
+    "MEGADONKI",
+    "PANTRY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kewpie-japanese-onion-dressing",
+   "name": "Kewpie Japanese Onion Dressing",
+   "merchantDescription": "This is a Japanese onion dressing which goes really well with both vegetables and meat.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DRESSING",
+    "F_onion",
+    "FOOD & DRINKS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-kelloggs-genmai-cornflakes",
+   "name": "Kellogg's Genmai Cornflakes",
+   "merchantDescription": "This cornflake by Kellogg's features a special flavor originated from Japan. This cornflake includes Genmai, which means deep-roasted rice in Japanese.",
+   "vendor": "Kellogg's",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CEREAL",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_corn",
+    "FOOD & DRINKS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-kewpie-spaghetti-sauce-natto",
+   "name": "Kewpie Spaghetti Sauce: Natto",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 1 serving.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_soy sauce",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kewpie-spaghetti-sauce-burnt-negishio",
+   "name": "Kewpie Spaghetti Sauce: Burnt Negishio",
+   "merchantDescription": "Add a Japanese twist to your favorite spaghetti noodles. Just prepare your noodles, then open a pack and mix every thing together. Includes 1 serving.",
+   "vendor": "Kewpie",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_onion",
+    "F_salt",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-black-thunder-pretty-style-bitter-black",
+   "name": "Black Thunder Pretty Style: Bitter Black",
+   "merchantDescription": "Black Thunder is one of Japan's most popular chocolate candies, and Pretty Style is their series which has small bite size bits. This limited edition is packed with chocos of the more bitter variety. Please Note: If temperatures in your location are above 28°C",
+   "vendor": "Black Thunder",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "BLACK THUNDER",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_black sesame"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-black-thunder-pretty-style-milky-white",
+   "name": "Black Thunder Pretty Style: Milky White",
+   "merchantDescription": "Black Thunder is one of Japan's most popular chocolate candies, and Pretty Style is their series which has small bite size bits. This limited edition is packed with chocos of the more milky variety. Please Note: If temperatures in your location are above 28°C ",
+   "vendor": "Black Thunder",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "BLACK THUNDER",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_milk"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kirby-happy-room-blind-box",
+   "name": "Kirby's Happy Room Blind Box",
+   "merchantDescription": "Blind Boxes are packed with miniature toys packed at random. This series features Kirby and his bedroom. Get 1 of 8 possible room sets.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-kirby-tea-time-blind-box",
+   "name": "Kirby's Tea Time Blind Box",
+   "merchantDescription": "Blind Boxes are packed with miniature toys packed at random.This series features Kirby and toy sets themed after tea and snack time. Get 1 of 8 possibilities.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "060622STOP",
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 24.99
+  },
+  {
+   "id": "sugoimart-kirby-game-selection-terrarium-collection",
+   "name": "Kirby Game Selection Terrarium Collection Blind Box",
+   "merchantDescription": "Blind Boxes are packed with miniature toys packed at random. This series features Kirby recreating moments from some of his past games. Get 1 of 6 possibilities. Click here for the complete set to get all the possible variations!",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS",
+    "COLLECTIBLES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-tapioca-mango-gummies",
+   "name": "Tapioca Mango Gummies",
+   "merchantDescription": "Tapioca is a big trend in Japan at the moment! This gummy candy features a sweet and mochi-mochi mango experience.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sb-minced-coriander-paste",
+   "name": "S&B Minced Coriander Paste",
+   "merchantDescription": "S B is one of the big names when it comes to spices and cooking ingredients. Here we have a coriander paste that's perfect if you want to add that kind of spice to your cooking.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_pepper",
+    "F_salt",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-rilakkuma-dreamy-starrium-blind-box",
+   "name": "Rilakkuma Dreamy Starrium Blind Box",
+   "merchantDescription": "Blind Boxes are packed with miniature toys packed at random. This series features Rilakkuma and friends playing around with stars, planets, and other planetary play sets. Get 1 of a possible 6.",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "101422STOP",
+    "AMAZON",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-rilakkuma-happy-little-book-blind-box",
+   "name": "Rilakkuma Happy Little Book Blind Box",
+   "merchantDescription": "Blind Boxes are packed with miniature toys packed at random. This series features Rilakkuma and friends hanging inside story books, and inside is a different hang out spot! Get 1 of 6 possibilities.",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "062821STOP",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS",
+    "COLLECTIBLES"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-sanrio-characters-x-donpen-tirol-chocolates",
+   "name": "Sanrio Characters X Donpen Tirol Chocolates",
+   "merchantDescription": "Sanrio and popular shop chain Don Quixote has collaborated with chocolate maker Tirol to bring us a special chocolate gift set. Includes about 20 pieces. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat d",
+   "vendor": "Sanrio",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_POPULAR",
+    "CHARACTER GOODS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-manner-sushi-chopstick-training-toy-portable",
+   "name": "Manner Sushi Chopstick Training Toy (Portable)",
+   "merchantDescription": "Ever wanted to practice your chopsticks skills in a fun way? This game lets you train your skills by having you pick up toy sushi and stack them on top of each other. So you can play with a friend and stack your sushi higher and higher until one makes the towe",
+   "vendor": "Toy",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "COLLECTIBLES",
+    "data_department_toys_games",
+    "data_persona_is_collector",
+    "data_subcategory_novelty_gag_gifts"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-sakana-kanji-puzzle-game",
+   "name": "Sakana Kanji Puzzle Game",
+   "merchantDescription": "This game not only lets you show off your chopsticks skills, but also your Japanese skills. This game doubles as a puzzle in which you use chopsticks to pick up pieces that have kanji (Chinese characters) on it, and you match it with the correct fish. You can ",
+   "vendor": "Puzzle",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "BGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_TOYSGAMES",
+    "COLLECTIBLES",
+    "data_department_toys_games",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-splatoon-2-yellow-squid-inkling-plush-s",
+   "name": "Splatoon 2 Yellow Squid Inkling Plush (S)",
+   "merchantDescription": "Splatoon 2 is back in the Nintendo Store in Shibuya, Tokyo! This is a S size plush featuring a yellow Inkling. Size: approx. 23cm.",
+   "vendor": "Splatoon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "sugoimart-splatoon-2-color-reflector-yellow",
+   "name": "Splatoon 2 Inkling Reflector Keychain (Yellow)",
+   "merchantDescription": "Splatoon 2 is back in the Nintendo Store in Shibuya, Tokyo! This is a color reflector keychain so people can see you miles away even in the dark.",
+   "vendor": "Splatoon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-splatoon-2-color-reflector-neon-yellow",
+   "name": "Splatoon 2 Inkling Reflector Keychain (Neon Yellow)",
+   "merchantDescription": "Splatoon 2 is back in the Nintendo Store in Shibuya, Tokyo! This is a color reflector keychain so people can see you miles away even in the dark.",
+   "vendor": "Splatoon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-splatoon-2-color-reflector-neon-pink",
+   "name": "Splatoon 2 Inkling Reflector Keychain (Neon Pink)",
+   "merchantDescription": "Splatoon 2 is back in the Nintendo Store in Shibuya, Tokyo! This is a color reflector keychain so people can see you miles away even in the dark.",
+   "vendor": "Splatoon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-crossing-splatoon-ramune-collection-blind-box",
+   "name": "Crossing Splatoon Ramune Collection Blind Box",
+   "merchantDescription": "Splatoon 2 is back in the Nintendo Store in Shibuya, Tokyo! Crossing Splatoon is a new series of merch dedicated to Shibuya, Tokyo by featuring the famous Shibuya Scarmble into the design. This blind box contains ramune in a small tin case, which can be reused",
+   "vendor": "Splatoon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_COLLECTIBLES",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-splatoon-2-judd-plushie",
+   "name": "Splatoon 2 Judd Plushie",
+   "merchantDescription": "Splatoon 2 is one of the Nintendo Switch's best selling games. Here is a plushie of one of the game's recognizable characters - Judd! Size: approx 28cm.",
+   "vendor": "Splatoon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-splatoon-inkling-girl-plushie",
+   "name": "Splatoon Inkling Girl Plushie",
+   "merchantDescription": "Splatoon is one of Nintendo's hottest game series. Here we have a plushie of one of the main characters - the Inkling Girl. Size: approx 26cm.",
+   "vendor": "Splatoon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_splatoon",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_collector"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-mario-kart-8-toy-car-toad",
+   "name": "Mario Kart 8 Toy Car (Toad)",
+   "merchantDescription": "Mario Kart is one of the most popular racing games around the world. This is a pullback toy car featuring Super Mario character Toad. Just pull it back then let go, and watch it speed away",
+   "vendor": "Super Mario",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "data_character_mario",
+    "data_department_video_games"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-mario-kart-8-toy-car-mario",
+   "name": "Mario Kart 8 Toy Car (Mario)",
+   "merchantDescription": "Mario Kart is one of the most popular racing games around the world. This is a pullback toy car featuring Nintendo's popular character Mario. Just pull it back then let go, and watch it speed away",
+   "vendor": "Super Mario",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "sugoimart-kajuu-gummy-setoka",
+   "name": "Kajuu Gummy: Setoka",
+   "merchantDescription": "Kajuu literally means fruit juice, perfectly describing how juicy these gummies are. This limited flavor is made to taste like setoka - a citruis fruit similar to oranges and mikan.",
+   "vendor": "Kajuu",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-ghana-apricot-chocos",
+   "name": "Ghana Apricot Chocos",
+   "merchantDescription": "Ghana by Lotte is a popular chocolate series, and this luxurious limited edition is filled with bite-sized pieces combined with apricots for the added punch. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get he",
+   "vendor": "Ghana",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-hi-chew-hakuhou-peach-white-strawberry",
+   "name": "Hi-Chew: Hakuhou Peach And White Strawberry",
+   "merchantDescription": "Hi-Chew is a candy famous all over the world, but Japan loves pumping out exclusive flavors. Here is a special blend that incorporates two flavors - hakuhou white peach in the middle and white strawberry on the outside.",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-gudetama-ramen-roulette",
+   "name": "Gudetama Ramen Roulette",
+   "merchantDescription": "Try not to trigger the Gudetama ramen to explode while picking the food from the ramen cup. Take the fork and lift the shrimp off the ramen bowl, and one (un)lucky tug will make Gudetama come up and surprise everyone with his appearance. NOTE: English instruct",
+   "vendor": "Gudetama",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "061121STOP",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 49.99
+  },
+  {
+   "id": "sugoimart-pizza-potato-rich-cheese-flavor-dec2019",
+   "name": "Pizza Potato: Rich Cheese Flavor",
+   "merchantDescription": "Bite into a tasty slice of cheese pizza with these chips! Calbee, a popular brand in Japan (known for their savory snacks) released these seasonal exclusive chips made with four different cheeses: emmental, blue cheese, camembert and cheddar!",
+   "vendor": "Pizza Potato",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-kit-kat-autumn-chestnut",
+   "name": "Kit Kat Japan Autumn Chestnut",
+   "merchantDescription": "Kit Kat Japan autumn limited edition chestnut flavored chocolate bars. The combination of sweet white chocolate and delicate chestnut cream makes these chocolate bars the perfect fall snack! Includes 10 pieces Please Note: If temperatures in your location are ",
+   "vendor": "Kit Kat",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "08152022JUPDATE",
+    "AMAZON",
+    "AUTUMNGOODS",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-super-shigekix-melon-cream-soda-dec2019",
+   "name": "Super Shigekix: Melon Cream Soda",
+   "merchantDescription": "Gabunomi melon cream soda collaborated with Shigekix chew candy to bring the best of both worlds with this super sour melon soda candy!",
+   "vendor": "Soda",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cream",
+    "F_soda"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-miyoza-kitsune-udon-dec2019",
+   "name": "Miyoza Kitsune Udon",
+   "merchantDescription": "Warm your taste buds with this bowl featuring a mentsuyu broth (Japanese soup base made from sake, mirin, soy sauce, kombu, and katsuobushi/dried bonito flakes). Ready in minutes, have yours on a busy night for a quick meal! Try it with: green onions, tempura ",
+   "vendor": "Miyoza",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_miso",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_UDON"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-matcha-oshiruko-with-rice-cake-2019",
+   "name": "Matcha Oshiruko With Rice Cake",
+   "merchantDescription": "Warm up with oshiruko, a delicious sweet soup with mochi in it! It's a popular food in Japan often enjoyed during the New Years holiday. This matcha flavored oshiruko is made with Uji Matcha for a deep and rich green tea flavor. Try it with: Japanese tea, milk",
+   "vendor": "Matcha",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "F_matcha",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-house-yuzu-pepper-paste-dec2019",
+   "name": "House Yuzu Pepper Paste",
+   "merchantDescription": "Yuzu pepper is a seasoning originally from Kyushu, Japan. It is now very popular throughout the country and is used in many Japanese dishes. It is characterized as having a fresh citrus aroma and zest which adds a refreshing kick to your food! Try it with: hot",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "DEC2019ITEMS",
+    "DEC2019UM",
+    "F_citrus",
+    "F_spicy"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-chocoscones-black-tea-and-chocolate",
+   "name": "Chococones: Black Tea And Chocolate",
+   "merchantDescription": "Chococones, or Takenoko no Sato, is a delicious chocolate snack in the shape of bamboo shoots! This is a limited black tea and chocolate flavor. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in",
+   "vendor": "Chocoscones",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-pepsi-japan-cola-orange",
+   "name": "Pepsi: Japan Cola Orange",
+   "merchantDescription": "Pepsi is one of the most popular sodas all over the world alongside Coke. This special J-Cola is flavored like orange. Vol: 490ml.",
+   "vendor": "Pepsi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "COKE",
+    "CONBINI",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-mochi-mochi-chocolate-milk-tea",
+   "name": "Mochi Mochi Chocolat: Milk Tea",
+   "merchantDescription": "These delicious treats mix the luxurious taste of truffle chocolate with the Japanese taste of mochi, combining into these delectable and rich mini bites! On top of it all, this seasonal milk tea flavor is available only for a limited time.",
+   "vendor": "Mochi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 4.49
+  },
+  {
+   "id": "sugoimart-gabunomi-freedom-energy",
+   "name": "Gabunomi: Freedom Energy",
+   "merchantDescription": "Gabunomi is a famous soda drink in Japan and this is their freedom energy flavor which combines both soda and energy drink together. This has a grape flavor. Vol: 500ml",
+   "vendor": "Gabunomi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_fruit",
+    "SOLD OUT",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-lotte-almond-ruby-chocolate",
+   "name": "Lotte Almond Ruby Chocolate",
+   "merchantDescription": "This is a chocolate snack offered by Lotte, in which a piece of crunchy almond is being covered by a layer of ruby chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "01292021",
+    "051622STOP",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-sailor-moon-playing-cards",
+   "name": "Sailor Moon Playing Cards",
+   "merchantDescription": "Sailor Moon and the Sailor Scouts are here! This is a 52 card deck of playing cards which are designed after the famous anime heroines.",
+   "vendor": "Sailor Moon",
+   "productType": "TOYS & GAMES",
+   "merchantTags": [
+    "ANIME",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CAT_TOYSGAMES",
+    "data_character_sailor_moon"
+   ],
+   "price": 22.99
+  }
+ ]
+}

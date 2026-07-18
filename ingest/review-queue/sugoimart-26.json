@@ -1,0 +1,1443 @@
+{
+ "source": "sugoimart",
+ "batch": 26,
+ "items": [
+  {
+   "id": "sugoimart-ito-en-teas-tea-delicious-additive-free-hoji-tea-latte",
+   "name": "Teas' Tea Instant Hojicha Latte",
+   "merchantDescription": "It is a new sense of Hoji tea latte that does not use any additives. You can enjoy the natural taste of Hoji tea without additives (flavor, artificial sweetness, emulsifier).",
+   "vendor": "Itoen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_hojicha",
+    "SOLD OUT",
+    "SUBCAT_COFFEE",
+    "SUBCAT_DRINKS"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-lotte-uji-kintoki-69g",
+   "name": "Lotte Sasha Uji Kintoki",
+   "merchantDescription": "You can now enjoy the taste of the Uji Kintoki Matcha in the form of a delicious chocolate snack.",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_matcha",
+    "SOLD OUT"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-bourbon-alfort-mini-chocolate-premium-dark-blue",
+   "name": "Bourbon Alfort Mini Chocolate Premium: Rich Strawberry",
+   "merchantDescription": "The chocolate biscuit snack features a premium rich strawberry flavor. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any temperature-related damage",
+   "vendor": "Bourbon",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "F_fruit"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-lotte-almond-chocolate-86g",
+   "name": "Lotte Almond Chocolate",
+   "merchantDescription": "An unsweetened almond chocolate with a crisp, fragrant almond coated with two layers of chocolate, clean bitter chocolate and mild milk chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged ",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHOCOLATES",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-osaka-kyoka-zr-lotte",
+   "name": "Ghana Kokuno Hitotsubu Chocolate",
+   "merchantDescription": "Taste that brings out the richness of Ghana's original chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any temperature-related damages cau",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_chocolate",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-osaka-kyoka-zr-lotte-67g",
+   "name": "Ghana Mariage: Berry Ensemble",
+   "merchantDescription": "A double berry chocolatesnack with a rich berry flavored filling wrapped by chocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any temperatur",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-lotte-ghana-mariage-custard-cream-67g",
+   "name": "Ghana Mariage: Custard Cream",
+   "merchantDescription": "An elegant sweet custard flavored chocolate is wrapped in smooth and richchocolate. Please Note: If temperatures in your location are above 28°C (82°F), this chocolate product may get heat damaged in transit. We cannot be held responsible for any temperature-r",
+   "vendor": "Lotte",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_chocolate",
+    "F_cream",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-house-ozac-easy-salty-68g",
+   "name": "O'Zack Lightly Salted",
+   "merchantDescription": "Rock salt is used to make the taste of potato rich and light, and this snack provides you with great crunchiness and texture.",
+   "vendor": "O'Zack",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_salt",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-liska-super-hot-tipple-63g",
+   "name": "Heart Chiple Garlic Flavor",
+   "merchantDescription": "CuteåÊheart-shaped snacks enhanced with the powerful taste of garlic.",
+   "vendor": "Liska",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_garlic",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-tyrant-habanero-56g",
+   "name": "Boukun Habanero Snack",
+   "merchantDescription": "The original sweet potato snacks, the amount of potatoes in the tyrant Habanero was increased, and the raw bacon snacks were finished by kneading the habanero puree into the dough.",
+   "vendor": "Snack",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_spicy",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-lake-pond-shop-potato-chips-rich-consomm-60g",
+   "name": "Koikeya Potato Chips Rich Consomme",
+   "merchantDescription": "This is a potato chip series provided by a 100% Japanese-made lake pond shop. Try this classic rich consomme, with a strong meat and vegetable flavor!",
+   "vendor": "Chips",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-calbee-potato-chips-consomm-punch-60g",
+   "name": "Calbee Potato Chips Consomme Punch",
+   "merchantDescription": "\"Potato Chip Consomme Punch\" is a soup made of meat and vegetables simmered slowly and kept overnight, processed into powder and seasoned, so the umami of the meat and the sweetness of the vegetables are tightly packed in. Add the deep flavor of beef to the um",
+   "vendor": "Calbee",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CALBEE",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHIPS",
+    "CLEARANCE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-tohato-poteco-good-taste-78g",
+   "name": "Poteko Potato Rings",
+   "merchantDescription": "This potato snack features a round ring shape and a light and crispy texture. You can also wear them on your fingers to enjoy with fun!",
+   "vendor": "Tohato",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "AMAZON",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CLEARANCE",
+    "CONBINI"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-tohato-nagewa-consomme-taste-71g",
+   "name": "Nagewa Potato Rings: Consomme Flavor",
+   "merchantDescription": "A ring potato snack with a crisp texture. The flavor and sweetness of vegetables are delicious, and it is finished in a simple consommí©e taste.",
+   "vendor": "Tohato",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-sapporo-potato-crushed-vegetable-85g",
+   "name": "Sapporo Potato: Crushed Vegetable Flavor",
+   "merchantDescription": "This is a well-known potato snack by featuring the original taste of a potato snack with the fresh taste from vegetables.",
+   "vendor": "Snack",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_corn",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-koikeya-potato-chips-strong-sour-cream-onion-56g",
+   "name": "Koikeya Strong Potato Chips: Sour Cream & Onion",
+   "merchantDescription": "Koikeya is one of Japan's famous potato chip manufacturers, and here we have a variety with a \"strong\" flavor of sour cream and onion!",
+   "vendor": "Koikeya",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CHIPS",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_sweets_snacks"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-pokemon-lip-cream-snorlax-20g",
+   "name": "Pokemon Lip Cream Snorlax",
+   "merchantDescription": "This cute Pokemon lip cream is the perfect gift! Subtle sweet scent. No color. This features Snorlax.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "BEAUTY",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-pokemon-lip-cream-jigglypuff-20g",
+   "name": "Pokemon Lip Cream Jigglypuff",
+   "merchantDescription": "This c ute Pokemon lip cream is the perfect gift! ! Subtle sweet scent. No color. This features Jigglypuff.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "BEAUTY",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-pokemon-lip-cream-eevee-20g",
+   "name": "Pokemon Lip Cream Eevee",
+   "merchantDescription": "This c ute Pokemon lip cream is the perfect gift! Subtle sweet scent. No color. This features Eevee.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "AMAZON",
+    "BEAUTY",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-the-rose-of-versailles-rosalie-la-morliere-mask-7-units-170g",
+   "name": "The Rose Of Versailles Rosalie La Morliíâre Masks",
+   "merchantDescription": "The Rose of Versailles masks contain 7 units for you to enjoy. 140mL of pure beauty serum! Ethanol free + Mineral oils + Parabens free. A mask made of 100% cotton to assure maximum comfort.",
+   "vendor": "The Rose of Versailles",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_household",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_personal_care",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pizza-la-italian-tortilla-chips",
+   "name": "Pizza-La Italian Tortilla Chips",
+   "merchantDescription": "Pizza-La is one of the largest pizza chains in Japan and they just released an exclusive Pizza-La Italian pizza flavor tortilla chip. This crunchy combo will definitely satisfy your chip and pizza craving!",
+   "vendor": "Chips",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_cheese",
+    "F_meat"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-hamburger-gummy",
+   "name": "Hamburger Gummy",
+   "merchantDescription": "Order Up! Did someone ask for a sweet treat in an adorable form? How about this bite sized gummy shaped just like a hamburger •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-star-precure-gum",
+   "name": "Star Precure Gum",
+   "merchantDescription": "Star Twinkle PreCure is a popular anime series full of cuteness and magic! Each piece of juicy strawberry gum has a character on it. Who did you get? •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Star Twinkle PreCure",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-transformation-glass-card-gum",
+   "name": "Transformation Glass Card Gum",
+   "merchantDescription": "This cute gum features the adorable San-X duo, Rilakkuma and Korilakkuma! Enjoy this soda flavored gum when you need something sweet to tide you over. •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "San-x",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SAN-X"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-strong-garlic-butter-potato-chips",
+   "name": "Strong Garlic Butter Potato Chips",
+   "merchantDescription": "Can you handle these chips? They‰۪re designed to pack an extra strong punch of garlic and butter flavor! The ruffles and waves provide an extra crisp texture for the full ‰ÛÏSTRONG‰۝ experience. •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Strong",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_butter",
+    "F_garlic"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-chocolate-kinako-mochi-diy",
+   "name": "Chocolate Kinako Mochi DIY",
+   "merchantDescription": "A DIY of a very traditional Japanese dessert! Sweeten up your mochi by dipping it into different toppings of chocolate and kinako (roasted soy bean powder). Directions: Empty the round mochi into the large tray section. Empty the beige powder into one of the s",
+   "vendor": "Mochi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-ice-stick-lolipop",
+   "name": "Ice Stick Lollipop",
+   "merchantDescription": "In Japanese ‰ÛÏIce‰۝ or ‰Ûϋ⢋â_‹â_‰۝ is the term for ice cream and popsicles. This colorful ice lollipop has a sweet assorted fruits flavor. Perfect on a sunny day! •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Lollipop",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-apple-soda-gummy",
+   "name": "Apple Soda Gummy",
+   "merchantDescription": "Pop open this soda bottle shaped gummy to cool down. It has a refreshing apple soda flavor! •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "F_soda"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-koala-march-cream-pudding-flavor",
+   "name": "Koala March Cream Pudding Flavor",
+   "merchantDescription": "These cute biscuits have a crunchy cookie outside and a custard pudding inside. All wrapped up in our favorite koala designs for a cute, crispy, and creamy treat. •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Koala March",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_cream",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-bake-matcha-chocolates",
+   "name": "Bake Matcha Chocolates",
+   "merchantDescription": "These matcha chocolates are perfect to eat while your busy studying or at work. The outer shell is toasted so it won‰۪t leave your fingers sticky. Bite into them to reach the smooth matcha filling. Previously featured in the May 2019 Japan Crate. Please Note: ",
+   "vendor": "Bake",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-dragon-ball-chocolate",
+   "name": "Dragon Ball Chocolate",
+   "merchantDescription": "Your favorite Dragon Ball characters are protecting special goodies inside! A yummy wafer sandwich with chocolate cream lies inside. But that's not all! Each pack comes with an exclusive Dragon Ball sticker. Which character did you get? Previously featured in ",
+   "vendor": "Dragon Ball",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "ANIME",
+    "CANDY & SNACKS",
+    "CAT_ANIME",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_character_dragon_ball",
+    "data_department_sweets_snacks"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-pringles-jalapeno-onion-flavor",
+   "name": "Pringles Jalapeno & Onion Flavor",
+   "merchantDescription": "Did you know Pringles are also famous in Japan? They‰۪re always inventing new flavors! These chips are a balanced duo of jalape̱o and onion. •ÈÀPreviously featured in the May 2019 Japan Crate.",
+   "vendor": "Pringles",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_onion",
+    "PRINGLES"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-koeda-purple-potato-chocolates",
+   "name": "Koeda Purple Potato Snacks",
+   "merchantDescription": "Purple sweet potato is a well known speciality in Japan. These season limited purple sweet potato chocolates are rich crispy bites of purple goodness! Previously featured in the May 2019 Japan Crate.",
+   "vendor": "Koeda",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_savory_snacks",
+    "F_salt",
+    "SOLD OUT"
+   ],
+   "price": 2.49
+  },
+  {
+   "id": "sugoimart-my-friend-big-wakame-spicy-chige-ramen",
+   "name": "My Friend Big Wakame Spicy Chige Ramen",
+   "merchantDescription": "Enjoy a jumbo bowl of spicy chige ramen with wakame this May! The broth packs a punch of heat while the wakame (seaweed) known for its subtle sweetness, helps balance the flavor. Try it with: pickled vegetables, narutomaki. DIRECTIONS : 1.Peel back the paper l",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy",
+    "SOLD OUT",
+    "SUBCAT_NOODLES"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-kinchan-bukkake-udon",
+   "name": "Kinchan Bukkake Udon",
+   "merchantDescription": "Different from most udon served in a warm broth, this bowl is splashed with a flavorful sauce of bonito and seaweed that‰۪s perfect for spring. Try it with: fried egg, pickled ginger, green onion. DIRECTIONS : 1. Add 1 å_ cups (400 ml) of boiling water to bowl",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_kinako",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_UDON"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-tanuki-pork-bone-broth-ramen",
+   "name": "Tanuki Pork Bone Broth Ramen",
+   "merchantDescription": "Enjoy a bowl of Tonkotsu ramen in minutes with this bowl! Originally coming from Fukuoka Prefecture on the Kyushu island of Japan, Tonkotsu ramen is renowned for the long amount of time it takes to prepare the dish. This pork bone based style ramen will surely",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-seaweed-wasabi-soup",
+   "name": "Seaweed Wasabi Soup",
+   "merchantDescription": "Love nori? Love wasabi? Get the best of both worlds with the rich taste of both flavors in this soup. Try it with: tofu, sliced green onions. DIRECTIONS : 1. Pour boiling water to the inner line. 2. Immediately stir well for 10 seconds. 3. Wait 1 minute and en",
+   "vendor": "Wasabi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_seafood",
+    "F_wasabi",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-tempura-soba",
+   "name": "Tempura Soba",
+   "merchantDescription": "This savory noodle soup dish contains flavorful buckwheat noodles in kelp and shiitake mushrooms. A perfectly light lunch or dinner at home. Try it with: sliced carrots, green onions, shiitake mushrooms. DIRECTIONS 1. Bring 2 cups (500 ml) of water to a boil. ",
+   "vendor": "Soba",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_SOBA"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-soy-sauce-ramen",
+   "name": "Soy Sauce Ramen",
+   "merchantDescription": "Healthy ramen? Enjoy this bowl of soy sauce ramen by Kenko Foods who are known for making health conscious foods. These instant noodles in particular are made from natural water using 100% domestic flour and natural salt. Try it with: corn, dried nori, bean sp",
+   "vendor": "Ramen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_RAMEN"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-ochazuke-salmon",
+   "name": "Ochazuke Salmon",
+   "merchantDescription": "Enjoy a bowl of ochazuke - a simple Japanese dish typically made by pouring green tea, dashi, or hot water over cooked rice. Try this classic dish with this salmon seasoning mix made of green tea, salmon, and nori. Try it with: rice with added hot water. DIREC",
+   "vendor": "Ochazuke",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_seafood",
+    "SOLD OUT"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-kirby-night-light-pink",
+   "name": "Kirby Night Light (Pink)",
+   "merchantDescription": "Let Kirby and his stars illuminate the night with this adorable night light. Shaped like a lamp, this is sure to be a kawaii addition to any room. •ÈÀPreviously featured in the May 2019åÊDoki Doki Crate.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_kirby",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 10.99
+  },
+  {
+   "id": "sugoimart-kirby-night-light-blue",
+   "name": "Kirby Night Light (Blue)",
+   "merchantDescription": "Let Kirby and his stars illuminate the night with this adorable night light. Shaped like a lamp, this is sure to be a kawaii addition to any room. Previously featured in the May 2019åÊDoki Doki åÊ Crate.",
+   "vendor": "Kirby",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_kirby",
+    "data_department_video_games",
+    "data_ip_nintendo",
+    "data_persona_is_gamer",
+    "data_persona_is_japan_explorer"
+   ],
+   "price": 10.99
+  },
+  {
+   "id": "sugoimart-baby-food-baby-beverage-powder-wakodo",
+   "name": "Wakodo Baby Barley Tea",
+   "merchantDescription": "This barley tea is good for the baby and does not include caffeine .Domestic Article 6 barley is what is used in this product. Use for everyday hydration. Recommeded for children 1 month old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "F_tea",
+    "SOLD OUT",
+    "SUBCAT_BABY",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-wako-do-baby-snack-plus-calcium-cheese-stick",
+   "name": "Wakodo Baby Cheese Stick Biscuit +Calcium",
+   "merchantDescription": "Snacks that are easy to pick up, containing ion and sodium. Considers desired taste, firmness, and seasoning for the targeted age group. Also contains a sweet biscuit with cheese. Can cut off the animal section of the package to be used as someothing that chil",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_cheese"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wakodo-baby-snacks-for-baby-snack-ca-calcium-milk-wafers",
+   "name": "Wakodo Baby Milk Wafers + Calcium",
+   "merchantDescription": "Layered and dented design makes it easier for children to eat it. Contains calcium and iron. Eat as much as you like. The flavour is both salty and sweet. No fragrance, coloring, preservatives. Recommeded for children 9 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_milk"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wakodo-baby-snack-plus-calcium-banana-cookie",
+   "name": "Wakodo Baby Banana Cookies + Calcium",
+   "merchantDescription": "Sweet banana flavoured biscuit made with being easy to eat in mind. Recommeded for children 9 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CANDY & SNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-baby-snack-plus-calcium-pumpkin-cookie",
+   "name": "Wakodo Baby Pumpkin Cookies + Calcium",
+   "merchantDescription": "Sweet pumpkin flavoured biscuit made with being easy to eat in mind. Contains calcium and iron. Perfume, coloring agent, preservative-free. Recommeded for children 9 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_cookie"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wakodo-baby-snack-plus-calcium-animal-biscuits",
+   "name": "Wakodo Baby Animal Biscuits + Calcium",
+   "merchantDescription": "Sweet cheese flavoured biscuit. Recommeded for children 9 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_cookie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-baby-snack-plus-calcium-green-yellow-vegetable-bolo",
+   "name": "Wakodo Baby Veggie Boro + Calcium",
+   "merchantDescription": "Contents; Hokkaido potato starch, pumpkin, carrot and spinach. Layered designs makes it easy to eat. Perfect hand sized food. Contains calcium and iron for growing baby. packaging individually, it is convenient to go out perfume, coloring agent, preservative-f",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_milk"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wakodo-baby-snack-plus-calcium-egg-bolo",
+   "name": "Wakodo Baby Egg Boro + Calcium",
+   "merchantDescription": "Boro made with Hokkaido starch. Recommeded for children 7 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_egg"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wakodo-baby-snack-plus-calcium-spinach-and-komatsuna-cracker",
+   "name": "Wakodo Baby Spinach Biscuits + Calcium",
+   "merchantDescription": "Rice, spinach and komatsuna were mixed together. It is a rice cracker. Recommeded for children 7 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_cookie"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wako-do-baby-snack-plus-calcium-small-fish-rice-cracker",
+   "name": "Wakodo Baby Fish Biscuits + Calcium",
+   "merchantDescription": "Wakodo rice cracker baby snack. Small fish rice X 6 bags. Firmness and seasoning suited to the age of the child. Snacks contain iron and calcium. Recommeded for children 7 months old or older.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_seafood"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-baby-food-retort-tray-wakodo-nutrition-marche-potato-and-tun",
+   "name": "Wakodo Kids Potato And Tuna Gratin Lunch",
+   "merchantDescription": "Nutritional serires aimed at creating a healthy, balanced diet. The container can be used instead of a dish. Comes with a disposable spoon. It's a mix of \"Miso rice with salmon and shiitake\" and \"Tuna and potato gratin\". Recommended for children 12 months and ",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-baby-food-baby-food-retort-tray-wakodo-nourisho-marche-potat",
+   "name": "Wakodo Kids Meat And Potato Curry Lunch",
+   "merchantDescription": "Nutritional series aimed at creating a healthy, balanced diet. The container can be used as a dish and also comes with a disposable spoon. It is a combination of \"Meat and potato curry\" and \"Tuna and potato gratin\". Recommended for children 12 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-wakodo-japanese-style-childrens-lunch-170-g-bulk-purchase",
+   "name": "Wakodo Kids Japanese-Style Lunch",
+   "merchantDescription": "Nutrional series aimed at creating a healthy, balanced diet. Container can be used as a dish, comes with a plastic spoon.Japanese-style lunch (two pieces). Recommended for children 12 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-wako-do-baby-food-nutrition-marche-from-about-2months-tofu-h",
+   "name": "Wakodo Kids Tofu Patty Lunch",
+   "merchantDescription": "Nutritional serires aimed at creating a healthy, balanced diet. Container can be used as a dish and comes with a plastic spoon. It's a combination of \"beef ground rice\" and \"tofu patty\". Seven major allergens are not used. Recommended for children 12 months an",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-baby-food-retort-tray-wakodo-nourishing-marlce-salmon-mixed-",
+   "name": "Wakodo Kids Salmon And Mixed Rice Lunch",
+   "merchantDescription": "A mix of \"Miso and shiitake mushrooms\" and \"Boiled salmon and delicious potatoes\". Seven major allergens are not used. Recommended for children 12 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-wako-do-baby-food-nourishing-marche-from-around-9-months-ris",
+   "name": "Wakodo Kids Salmon And Spinach Risotto Bento",
+   "merchantDescription": "Nutrional serires aimed at creating a healthy and balanced diet. Container can be used as a dish and comes with a disposable spoon. Set menu (2 pieces) a mix of \"Salmon and spinach\" and \"Chawanmushi\". Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-baby-food-baby-food-retort-tray-wakodo-nutrition-marche-chik",
+   "name": "Wakodo Kids Chicken Stew Bento",
+   "merchantDescription": "Nutrional series that aims to create a healthy and balanced diet. The container can be used as a dish and comes with a disposable spoon. Domestic grown vegetables. Free from the 7 major allergen. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_meat"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-nutrition-marche-udon-and-tea-bowl-lunch-box",
+   "name": "Wakodo Kids Udon And Chawanmushi Bento",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. Mix of \"Taroto colorful vegetable udon\" and \"chawanmushi\". Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "050521STOP",
+    "AMAZON",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-tuna-and-vegetables-cooked-rice-and-white-stew-of-persimmon-",
+   "name": "Wakodo Kids Salmon And White Stew Bento",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. It's a combination of \"Tuna and Vegetable Cooked Rice\" and \"Aoi's White Stew\". Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wakodo-japanese-style-lunch-box-160g-bulk-buying",
+   "name": "Wakodo Kids Japanese-Style Bento",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. It is a assortment of \"Tuna and vegetables\" and \"Chikuzeni\". Seven major allergens are not used. Recommended for children 9 mo",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wako-do-nutrition-marche-rice-bowl-lunch",
+   "name": "Wakodo Kids Fish And Rice Bento",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. It is a combination of \"vegetable ankake rice bowl\" and \"simmered taro and pork\". Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 5.49
+  },
+  {
+   "id": "sugoimart-battled-chicken-roe-and-western-style-simmered-with-white-fi",
+   "name": "Wakodo Chicken And Fish Baby Lunch",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. Assortment of \"soft chicken porridge\" and \"Western-style stew of white fish and vegetables\". Seven major allergens are not use",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wako-do-nutrition-marche-shirasus-risotto",
+   "name": "Wakodo Shirasu Risotto Baby Lunch",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. It is a risotto dish made with shirasuno umami and vegetables. Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "AMAZON",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wako-do-nourishment-marche-baby-lunch-of-colorful-vegetables",
+   "name": "Wakodo Veggie Baby Lunch",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. It is a combination of \"soft chicken rice porridge\" and \"vegetable soup bowl\". Recommended for children 7 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-wako-do-nutrition-marche-western-style-baby-lunch",
+   "name": "Wakodo Western-Style Baby Lunch",
+   "merchantDescription": "Nutritional series that aims to create a healthy and balanced diet. Container can be used as a dish and comes with a dispoable spoon. It is a combination of ‰ÛÏsweet potato and pumpkin omelette‰۝ and ‰ÛÏWestern-style stew of white fish and vegetables‰۝. Seven ",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-asahi-group-foods-goo-goo-kitchen-vegetable-soaked-tofu-hamb",
+   "name": "Wakodo Kids Veggie Ankake Tofu Patty Pouch",
+   "merchantDescription": "It is a tofu hamburger with Chinese style bean jam with plenty of vegetables. Recommended for children 12 months and up.",
+   "vendor": "Asahi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_salt"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-asahi-group-foods-goo-goo-kitchen-minestrone-80-g",
+   "name": "Wakodo Kids Beans And Minestrone Pouch",
+   "merchantDescription": "A minestrone filled with plump beans and plenty of vegetables. Recommended for children 12 months and up.",
+   "vendor": "Asahi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "101722STOP",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wakodo-googu-kitchen-chopsticks-and-chopsticks-tofu-chanpuru",
+   "name": "Wakodo Kids Bread And Shirasu Chanpuru Pouch",
+   "merchantDescription": "It is a tofu chanpuru with chopsticks and shirasu. Make eating with chopsticks easier. Recommended for children 12 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_seafood"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-bab-food-baby-food-retort-pouch-wakodo-googu-kitchen-stewed-",
+   "name": "Wakodo Kids Hambuger Patty Stew With Tofu Pouch",
+   "merchantDescription": "This is a stew for kids consisting of boiled veggies, tofu, and easy to eat hamburger patty. Recommended for children 12 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_meat"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-goo-goo-kitchen-simmered-pork-and-root-vegetables-fr",
+   "name": "Wakodo Kids Simmered Pork And Root Veggies Pouch",
+   "merchantDescription": "No colorants, preservatives or fragrances are used. The pork and root vegetables are flavored with sesame oil and a soup made from Scallops. 5% pork. Recommended for children 12 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "092022STOP",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-goo-goo-kitchen-sukiyaki-style-beef-from-around-9-mo",
+   "name": "Wakodo Kids Sukiyaki-Style Rice Pouch",
+   "merchantDescription": "No colorants, preservatives or fragrances are used. It is a sukiyaki-style rice with beef and plenty of vegetables, simmered in a Japanese-style soup with rice. soy sauce does not contain wheat. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_meat"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-wakodo-googu-kitchen-japanese-style-shirasu-fried-rice-9-mon",
+   "name": "Wakodo Kids Japanese-Style Shirasu Fried Rice Pouch",
+   "merchantDescription": "Easy-to-eat! A fried rice with a mild bonito radish and sesame oil flavor. Colorants, preservatives and fragrances are not used. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_seafood"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wakodo-goo-gou-kitchen-daikon-radish-and-pork-stew",
+   "name": "Wakodo Kids Daikon And Pork Stew Pouch",
+   "merchantDescription": "Simmered pork and vegetables cut into pieces with sweet and sour sauce flavor. The ingredients are 100% domestic vegetables. No colorants, preservatives or fragrances are used. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_meat"
+   ],
+   "price": 1.99
+  },
+  {
+   "id": "sugoimart-wakodo-goo-gou-kitchen-chicken-and-vegetables-with-chinese-s",
+   "name": "Wakodo Kids Chicken And Veggie Chuuka Ankake Pouch",
+   "merchantDescription": "Tomato-based Chinese sauce with chicken and vegetables flavored with sesame oil. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_curry"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-gou-gou-kitchen-liver-grated-potato-gratin",
+   "name": "Wakodo Kids Potato Gratin With Liver Pouch",
+   "merchantDescription": "A potato gratin finished with tomato cream sauce. The ingredients are 100% domestic vegetables. No colorants, preservatives or fragrances are used. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_meat"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-goo-goo-kitchen-japanese-style-boiled-in-salmon-and-",
+   "name": "Wakodo Kids Salmon And Potato Stew Pouch",
+   "merchantDescription": "Potato, persimmon and korokoro is boiled in a bonito soup stock softly. Soy sauce does not contain wheat. The ingredients are 100% domestic vegetables. No colorants, preservatives or fragrances are used. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_potato"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-goo-goo-kitchen-chicken-and-taro-simmered-from-aroun",
+   "name": "Wakodo Kids Chicken And Taro Stir Fry",
+   "merchantDescription": "No colorants, preservatives or fragrances are used. Chicken and taro were simmered in bonito soup stock. Soy sauce used does not contain wheat. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY"
+   ],
+   "price": 3.49
+  },
+  {
+   "id": "sugoimart-wako-do-googu-kitchen-tuna-this-risotto-from-about-nine-mont",
+   "name": "Wakodo Kids Tuna And Mushroom Risotto Pouch",
+   "merchantDescription": "No colorants, preservatives or fragrances are used. It is a risotto, containing maitake and chicken bouillon with rice. Fish meat 2%. Recommended for children 9 months and up.",
+   "vendor": "Wakodo",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BABY",
+    "BABY FOOD",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "DONKIBABY",
+    "F_seafood"
+   ],
+   "price": 1.99
+  }
+ ]
+}

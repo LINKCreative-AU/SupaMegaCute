@@ -1,0 +1,1444 @@
+{
+ "source": "sugoimart",
+ "batch": 21,
+ "items": [
+  {
+   "id": "sugoimart-grape-gum",
+   "name": "Grape Gum",
+   "merchantDescription": "Made by Coris, this Sonomanma grape gum contains three grape gumballs. One of the three is sour. Test your luck with some friends to see who gets the sour grape! •ÈÀPreviously featured in the April 2019 Japan Crate.",
+   "vendor": "Gum",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-okashina-mizu-ame-diy",
+   "name": "Okashi Na Mizu Ame DIY",
+   "merchantDescription": "Whip up some delicious DIY grape goodness by making this sugary treat! Experience the individuals flavors of ramune soda, lemon, and strawberry from Japan individually and then all at once for an astounding grape flavor. Directions: 1. Knead each individual ca",
+   "vendor": "Candy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-cheetos-cheese",
+   "name": "Cheetos Japan Cheese",
+   "merchantDescription": "Try Japan's version of cheesy Cheetos! Originally an American born snack, it made its way to Japan in 1975 and has been a beloved snack ever since. This version is a lot sweeter and definitely more different tasting than your standard American Cheetos.",
+   "vendor": "Cheetos",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CHEETOS",
+    "CHEETOSJP",
+    "CHIPS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-mochitto-pudding",
+   "name": "Mochitto Pudding",
+   "merchantDescription": "Soft and squishy, enjoy these fluffy and soft pudding flavor rice cakes this spring. •ÈÀPreviously featured in the April 2019 Japan Crate.",
+   "vendor": "Pudding",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_sweet_snacks"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-hi-chew-mini",
+   "name": "Hi-Chew Mini Assorted Value Pack",
+   "merchantDescription": "Here's a value pack of 9 packs of mini Hi-Chew candies! Get this value pack and share with your family and friends! This pack contains 4 kinds of flavors, including Grape, Orange, Melon, and Soda!",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "05122021",
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CLASSIC JAPANESE SNACKS",
+    "data_department_sweets_snacks"
+   ],
+   "price": 8.99
+  },
+  {
+   "id": "sugoimart-hi-chew-premium-hokkaido-melon",
+   "name": "Hi-Chew Premium Hokkaido Melon",
+   "merchantDescription": "A whole new way to enjoy Hi-Chew's mouth watering Hokkaido melon flavor and take it on the go too in this resealable pouch! This version contains round shaped Hi-Chews that are crisp on the outside with a candy coating and the center is chewy with a mochi-like",
+   "vendor": "Hi-Chew",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDIES",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-chocolate-pie-kyomatcha",
+   "name": "Chocolate Pie Kyo Matcha",
+   "merchantDescription": "Delight yourself in this limited-release of Kyo Matcha Choco Pie! Filled with a flavorful green-tea cream between two moist round chocolate cakes that's then covered in a chocolate ganache, you won't be able to get enough. Note: Each order consistsof 1 individ",
+   "vendor": "Matcha",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_chocolate"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-pine-candy-gummy",
+   "name": "Pine Candy Gummy",
+   "merchantDescription": "A lil bit of sweet, a lil bit of sour, and a lil bit of juicy - these pineapple gummies are the perfect sweet treat for spring! •ÈÀPreviously featured in the April 2019 Japan Crate.",
+   "vendor": "Gummy",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 0.99
+  },
+  {
+   "id": "sugoimart-sour-long-gum-mini-cola",
+   "name": "Sour Long Gum Mini Cola",
+   "merchantDescription": "Experience the shake, pop and fizzle of a cola drink in this long cola chewing gum! It's extra chewy and stays sweet for a long time so you can enjoy the cola flavor. •ÈÀPreviously featured in the April 2019 Japan Crate.",
+   "vendor": "Sour",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_fruit",
+    "SOLD OUT"
+   ],
+   "price": 1.49
+  },
+  {
+   "id": "sugoimart-spring-pepsi-j-cola",
+   "name": "Spring Pepsi J Cola",
+   "merchantDescription": "This Pepsi J-Cola sakura drink is the perfect way to give cheers to the start of sakura blooming and welcoming the spring season in Japan. Have a taste of the Hanami experience with this special Pepsi. •ÈÀPreviously featured in the April 2019 Japan Crate.",
+   "vendor": "Pepsi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "cherry blossom",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "F_soda",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-yawataya-spicy-udon",
+   "name": "Yawataya Spicy Udon",
+   "merchantDescription": "Coming spiced from Yawataya Isogoro, a long-established Shichimen chili maker, add a little heat to your spring season with this bowl of spicy udon! Try it with: sliced red cabbage, slivered carrots DIRECTIONS: 1. Open the lid halfway and add flavoring packets",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_instant_noodles_ramen",
+    "F_spicy",
+    "SOLD OUT"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-wakame-juntoro-somen",
+   "name": "Wakame Juntoro Somen",
+   "merchantDescription": "Somen are another type of Japanese noodles that are usually served cold. The hot version is often referred to as nyumen and this one in particular usesåÊwakame a type of Japanese seaweed, that melts off the tongue in a bed of bonito flavored soup. Try it with:",
+   "vendor": "Somen",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_SOMEN"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-itsuki-soba",
+   "name": "Itsuki Soba",
+   "merchantDescription": "Enjoy a hot bowl of this soba in its soup base rich with flavors of bonito, soy sauce, and spice. Try it with : narutomaki (fishcake), carrots DIRECTIONS: 1. Boil 5 1⁄2 cups (1300 ml) of water. 2. Once at a boil, add noodles and boil for 1 minute. 3. Add flavo",
+   "vendor": "Soba",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_soy sauce",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_SOBA"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-kumamon-udon-with-soup",
+   "name": "Kumamon Udon With Soup",
+   "merchantDescription": "Kumamon wants to help you in the kitchen prep a of bowl of udon to devour! These noodles in particular lay in a broth of bonito and kelp flavor full of a delicious savory taste. Fun Fact: Kumamon is the friendly bear mascot of Kumamoto prefecture, where these ",
+   "vendor": "Udon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_NOODLES",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-matsutake-soup",
+   "name": "Matsutake Soup",
+   "merchantDescription": "A prized ingredient amongst Japanese cuisine, matsutake (a type of mushroom) is known distinctly for its spicy-aromatic odor! Enjoy the rich taste in this soup that will be the perfect addition to a filling meal. Try it with: Harusame Glass Noodles DIRECTIONS:",
+   "vendor": "Soup",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_seafood",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SOUP"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-harusame-glass-noodle",
+   "name": "Harusame Glass Noodle",
+   "merchantDescription": "Made from mung bean and pea starch, these glass noodles also known as harusame in Japan are perfect to use in salads and hot pot recipes. Try it with: Matsutake Soup DIRECTIONS: 1. Simply add a serving into your favorite soup-like recipe as it will cook in an ",
+   "vendor": "Noodle",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "F_meat",
+    "SOLD OUT"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-mentaiko-furikake",
+   "name": "Mentaiko Furikake",
+   "merchantDescription": "In collaboration with Kanefuku, famous for their festival park, try this furikake of nori and spicy mentaiko as a topping to many different dishes! Try it with: onigiri, udon DIRECTIONS: 1. Sprinkle over any dish your heart desires! 2. Enjoy! Previously featur",
+   "vendor": "Mentaiko",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "RICEBALL",
+    "SOLD OUT",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-sanrio-and-friends-kids-pillow",
+   "name": "Sanrio And Friends Kids Pillow",
+   "merchantDescription": "Sanrio is one of the most iconic brand for cute characters from Japan. This kids pillow features different characters from Sanrio. Use it to either sleep on, or even to decorate your room with! Size: 28cm x 39cm.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_keychains_accessories",
+    "SOLD OUT"
+   ],
+   "price": 29.99
+  },
+  {
+   "id": "sugoimart-pokemon-tail-magnet-hook-pikachu",
+   "name": "Pokemon Tail Magnet Hook (Pikachu)",
+   "merchantDescription": "Pokemon is one of the most popular series around the globe. This magnet hook features Pikachu, one of the most popular Pokemon. You can bend the tail into any hook shape you want and use it to hang small items easily!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$20-$30",
+    "AMAZON",
+    "BEDROOM",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-tail-magnet-hook-eevee",
+   "name": "Pokemon Tail Magnet Hook (Eevee)",
+   "merchantDescription": "Pokemon is one of the most popular series around the globe. This magnet hook features Eevee, one of the most popular Pokemon. You can bend the tail into any hook shape you want and use it to hang small items easily!",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "$20-$30",
+    "AMAZON",
+    "BEDROOM",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sugoimart-pokemon-wedding-photo-frame",
+   "name": "Pokemon Wedding Photo Frame",
+   "merchantDescription": "Pokemon is one of the most popular series around the globe. Here we have a fancy wedding photo frameåÊfeaturing a pair of Pikachus tying the knot! You can fit up to 3 photos in this collapsable frame. Size: 14.5cm x 21.5cm x 0.8cm.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_gamer",
+    "data_subcategory_games_puzzles"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sugoimart-snorlax-kigurumi",
+   "name": "Pokemon Snorlax Kigurumi Costume",
+   "merchantDescription": "Snorlax is one of the most original and popular Pokemon from the Pokemon series. Here we have a onesie that you can either wear as pajamas or just wear as a fun costume. Size: 165cm-175cm.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$50ORMORE",
+    "12302020",
+    "AMAZON",
+    "APPAREL",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_HOME",
+    "CAT_KAWAII",
+    "CAT_LIFESTYLE"
+   ],
+   "price": 149.99
+  },
+  {
+   "id": "sugoimart-totoro-kids-toothbrush-and-cup-set",
+   "name": "Totoro Kids Toothbrush Set",
+   "merchantDescription": "Totoro is not only Studio Ghibli's most famous character, but he's also their prime mascot. This set includes a kids toothbrush and a case for it, featuring Totoro. Size of toothbrush: 14.5cm, size of case: 7.3cm x 5cm x 11cm.",
+   "vendor": "Studio Ghibli",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_KAWAII",
+    "data_character_totoro",
+    "data_department_anime_manga",
+    "data_ip_studio_ghibli",
+    "data_persona_is_japan_explorer",
+    "data_persona_is_otaku",
+    "data_subcategory_keychains_accessories"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sugoimart-house-curry-ya-level-3",
+   "name": "House Curry-Ya Level 3 (200G)",
+   "merchantDescription": "This is a curry made by House, a famous food manufacturer in Japan. This curry combined 29 kinds of spices and with a level 3 of spiciness. How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and let sit for 3-5 minute",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-house-curry-ya-level-4",
+   "name": "House Curry-Ya Level 4 (200G)",
+   "merchantDescription": "This is a curry made by House, a famous food manufacturer in Japan. This curry combined 29 kinds of spices and with a level 4 of spiciness. How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and let sit for 3-5 minute",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-house-curry-ya-level-5",
+   "name": "House Curry-Ya Level 5 (200G)",
+   "merchantDescription": "This is a curry made by House, a famous food manufacturer in Japan. This curry combined 29 kinds of spices with a level 5 of spiciness. Volume: 200g How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and let sit for 3",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-s-b-w-cheese-curry",
+   "name": "S&B Double Cheese Curry",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This vegetable curry features cheese with a medium spiciness. How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and let sit for 3-5 minute",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cheese",
+    "F_curry"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-pokemon-curry",
+   "name": "Pokemon Curry",
+   "merchantDescription": "Pokemon is one of the most popular series around the globe. Pikachu and friends present to you this curry with a sweet pork and corn flavor. How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and let sit for 3-5 minut",
+   "vendor": "Pokémon",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "AMAZON",
+    "ANIME SNACKS",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_FOODDRINKS",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-meiji-black-curry",
+   "name": "Manly Masterpiece Black Curry",
+   "merchantDescription": "Meiji is one of the most historic food manufacturer, originated from Japan since 1917. This curry's black color comes from the garlic oil. This curry contains chicken with a medium spiciness. How to cook: (Using a pot) Without opening the pack, place the pack ",
+   "vendor": "Meiji",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "DONKI",
+    "F_curry"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-s-b-golden-instant-curry",
+   "name": "S&B Golden Instant Curry Lv. 3",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This curry features vegetable and beef with a medium spiciness (level 3 of 5). How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and let s",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-meiji-ginza-curry",
+   "name": "Ginza Keema Curry",
+   "merchantDescription": "Meiji is one of the most historic food manufacturer, originated from Japan since 1917. This curry contains shredded meat and vegetables, with a medium spiciness. How to cook: (Using a pot) Without opening the pack, place the pack in a pot of boiling water and ",
+   "vendor": "Meiji",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-s-b-golden-curry",
+   "name": "S&B Golden Curry Lv. 3",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This curry features a medium spiciness (level 3 of 5) This curry contains 2 packs of blocks which dissolve in boiling water (along with meat and fillings of your choice), so 1 pack i",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-house-apple-curry-level-3",
+   "name": "House Apple Curry Level 3",
+   "merchantDescription": "This is a curry made by House, a famous food manufacturer in Japan. This curry features a special apple and honey flavor, with a level 3 spiciness. This curry contains 2 packs of blocks which dissolve in boiling water (along with meat and fillings of your choi",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "APPEM",
+    "CAT_FOODDRINKS",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_curry"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-house-apple-curry-level-1",
+   "name": "House Apple Curry Level 1",
+   "merchantDescription": "This is a curry made by House, a famous food manufacturer in Japan. This curry features a special apple and honey flavor, with a level 1 spiciness. This curry contains 2 packs of blocks which dissolve in boiling water (along with meat and fillings of your choi",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "APPEM",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "CURRY",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "sugoimart-kimchi-flavored-dried-scallop",
+   "name": "Kimchi Flavored Dried Scallop",
+   "merchantDescription": "This pack of dried scallop features a kimchi flavor, which will definitelyåÊadd spice to your snack time!",
+   "vendor": "Kimchi",
+   "productType": "CANDY & SNACKS",
+   "merchantTags": [
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_seafood",
+    "F_spicy"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-dried-codfish-flags",
+   "name": "Dried Codfish Flags",
+   "merchantDescription": "This pack of dried codfish is being served like a standing flag, and it's called Hotate in Japanese. The flavor is savory and goes well with alcohol.",
+   "vendor": "Codfish",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BENTO MAKING",
+    "CANDY & SNACKS",
+    "CAT_CANDYSNACKS",
+    "CAT_FOODDRINKS",
+    "data_department_sweets_snacks",
+    "data_persona_is_foodie",
+    "data_subcategory_sweet_snacks",
+    "F_salt"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-knorr-tomato-risotto-soupy-rice",
+   "name": "Knorr Soup: Tomato Risotto Soupy Rice",
+   "merchantDescription": "Knorr is a well-known food manufacurer focusing on instant soups. This instant soup brings a twist to Ochazuke. Ochazuke is a Japanese comfort food that is being enjoyed after drinking or being sick. Ochazuke is being enjoyed by pouring tea or hot water over r",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_tomato",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SOUP"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-knorr-salty-chicken-soupy-rice",
+   "name": "Knorr Soup: Saltly Chicken Soupy Rice",
+   "merchantDescription": "Knorr is a well-known food manufacurer focusing on instant soups. This instant soup brings a twist to Ochazuke. Ochazuke is a Japanese comfort food that is being enjoyed after drinking or being sick. Ochazuke is being enjoyed by pouring tea or hot water over r",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_meat",
+    "F_salt",
+    "SOLD OUT",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-knorr-mushroom-pottage",
+   "name": "Knorr Cup Soup: Mushroom Pottage",
+   "merchantDescription": "Knorr is a well-known food manufacturer focusing on instant soups. This instant soup features a mushroom pottage flavor. To enjoy, mix 150ml of hot water with the soup powder. After that, stir gently for 15 seconds and wait for 1 minute. Includes 3 packs.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_cream",
+    "FOOD & DRINKS",
+    "JUNE19THSOUP",
+    "MARUETSU"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-knorr-chestnut-and-pumpkin-pottage",
+   "name": "Knorr Cup Soup: Chestnut And Pumpkin Pottage",
+   "merchantDescription": "Knorr is a well-known food manufacturer focusing on instant soups. This instant soup features a chestnut and pumpkin pottage flavor. To enjoy, mix 150ml of hot water with the soup powder. After that, stir gently for 15 seconds and wait for 1 minute. Includes 3",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_pumpkin",
+    "FOOD & DRINKS",
+    "PANTRY",
+    "SOUP"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-knorr-onion-consomme",
+   "name": "Knorr Cup Soup: Onion Consomme",
+   "merchantDescription": "Knorr is a well-known food manufacturer focusing on instant soups. This instant soup features a onion consomme flavor. To enjoy, mix 150ml of hot water with the soup powder. After that, stir gently for 15 seconds and wait for 1 minute. Includes 3 packs.",
+   "vendor": "Knorr",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_meals",
+    "F_onion",
+    "FOOD & DRINKS",
+    "JUNE19THSOUP",
+    "MARUETSU"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-bull-dog-uma-sauce",
+   "name": "Bull-Dog Uma Sauce",
+   "merchantDescription": "Bull-Dog is one of the most famous sauce manufacturers in Japan. This is Uma sauce which translates into 'tasty sauce'. This sauce is perfect with stir-fried dishes and fried meat. It contains 300ml of sauce.",
+   "vendor": "Bull-Dog",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_umami",
+    "FOOD & DRINKS",
+    "JUNE20THSAUCES"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-bull-dog-organic-vegetable-sauce",
+   "name": "Bull-Dog Chuno Sauce",
+   "merchantDescription": "As one of the most famous sauce manufacturer in Japan, Bull-dog created a sauce that contains healthy extracts from organic fruits vegetables and is basically tonkatsu sauce with a thicker and richer flavor. This sauce goes well with croquette, okonomiyaki and",
+   "vendor": "Bull-Dog",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "BBQ",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_meat",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-gyukaku-cabbage-tare",
+   "name": "Gyukaku Cabbage Tare",
+   "merchantDescription": "Gyukaku is a very famous yakiniku (Japanese fried meat) chain restaurant originated from Japan. This sauce from Gyukaku is designed for cabbage, and it adds a savory kick to the cabbage. Just add it to sliced cabbage and enjoy. Contains 210g of sauce.",
+   "vendor": "Tare",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_meat",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SAUCE"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-shogayaki-tare",
+   "name": "Shogayaki Tare",
+   "merchantDescription": "Shogayaki refers to a dish consisting of ginger stir fried with pork. This sauce features a raw Japanese ginger flavor and it helps with creating your own shogayaki, or your own original creation. It contains 230g of sauce.",
+   "vendor": "Tare",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_salt",
+    "F_umami",
+    "FOOD & DRINKS"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-pork-mmisoyaki-tare",
+   "name": "Pork Misoyaki Tare",
+   "merchantDescription": "Misoyaki refers to a Japanese method of cooking food with miso sauce dressings. Miso is a traditional Japanese seasoning produced by fermented soybeans. This sauce will give a umami taste to your meat dishes, especially for pork. Add this to help you make your",
+   "vendor": "Tare",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_miso",
+    "SOLD OUT",
+    "SUBCAT_PANTRY",
+    "SUBCAT_SAUCE"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sugoimart-teriyaki-tare",
+   "name": "Ebara Teriyaki Tare",
+   "merchantDescription": "Teriyaki is a way of Japanese cooking method to grill food with a soy sauce dressing. Add this teriyaki tare to your cooking to give your meat that wonderful teriyaki taste. Contains 235g of sauce.",
+   "vendor": "Tare",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_meat",
+    "FOOD & DRINKS",
+    "JUNE20THSAUCES"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-marumiya-beef-wasabi-furikake",
+   "name": "Marumiya Beef Wasabi Furikake",
+   "merchantDescription": "Marumiya is one of the most specialized furikake manufacturer in Japan. This features a beef wasabi flavor. It contains beef, wasabi and seaweed. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri with it! (Contains 22g of furi",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BENTO MAKING",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "DEAD",
+    "F_wasabi"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-marumiya-tarako-nori-furikake",
+   "name": "Marumiya Tarako Furikake",
+   "merchantDescription": "Marumiya is one of the most specialized furikake manufacturers in Japan. This one features a \"Tarako\" flavor, which means Cod Roe in Japanese. It contains cod roe and seaweed. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri ",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BENTO MAKING",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_seafood",
+    "FOOD",
+    "JUNE20THSEASONING"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-marumiya-noritama-furikake",
+   "name": "Marumiya Noritama Furikake",
+   "merchantDescription": "Marumiya is one of the most specialized furikake manufacturers in Japan. This features a \"noritama\" flavor, which refers to seaweed and egg in Japanese. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri with it! Net weight: 58",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BENTO MAKING",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_egg",
+    "F_seafood",
+    "FOOD"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-marumiya-nori-wasabi-furikake",
+   "name": "Marumiya Nori Wasabi Furikake",
+   "merchantDescription": "Marumiya is one of the most specialized furikake manufacturers in Japan. This furikake features a Nori Wasabi flavor, which refers to seaweed and wasabi in Japanese. It contains seaweed, dried wasabi, and dried beef. What is furikake? Furikake (振り掛け) is a dry ",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BENTO MAKING",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_seafood"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-marumiya-bonito-furikake",
+   "name": "Marumiya Ajidouraku Furikake",
+   "merchantDescription": "Marumiya is one of the most specialized furikake manufacturer in Japan. This features a Ajidoraku style, which is a balanced blend of bonito flakes, sesame, seaweed and egg. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri wi",
+   "vendor": "Marumiya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "BENTO MAKING",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_curry",
+    "FOOD & DRINKS"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-akakara-nabe-furikake",
+   "name": "Akakara Nabe Furikake",
+   "merchantDescription": "Akakara Nabe refers to a famous spicy hotpot restaurant. It contains Koi flakes, sesame, beef and spices. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri with it! (Contains 26g of furikake)",
+   "vendor": "Akakara",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy",
+    "RICEBALL",
+    "SOLD OUT",
+    "SUBCAT_PANTRY"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-peyoung-yakisoba-classic-furikake",
+   "name": "Peyoung Max Spice Yakisoba Furikake",
+   "merchantDescription": "Peyoung is one of the most popular brands of Yakisoba in Japan. This furikake features the classic Yakisoba flavor from Peyoung. This contains chicken, sesame, ginger, green onion and spices. To enjoy, just sprinkle this over your white rice in a bowl, or seas",
+   "vendor": "Peyoung",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "DONKINOODLES",
+    "F_meat",
+    "F_soy sauce"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-peyoung-yakisoba-garlic-furikake",
+   "name": "Peyoung Yakisoba Garlic Furikake",
+   "merchantDescription": "Peyoung is one of the most popular brands of Yakisoba in Japan. This furikake features the garlic yakisoba flavor from Peyoung. This contains garlic, green onion and spices. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri wi",
+   "vendor": "Peyoung",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "090921STOP",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_instant_noodles_ramen",
+    "DONKINOODLES",
+    "F_garlic",
+    "FOOD & DRINKS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-koikeya-norishio-furikake",
+   "name": "Koikeya Norishio Furikake",
+   "merchantDescription": "Koikeya is a well-known potato chips specialist from Japan. This furikake is inspired by the popular Norishio potato chips, which refers to salt and seaweed flavor in Japanese. It contains dried potato, seaweed and spices. To enjoy, just sprinkle this over you",
+   "vendor": "Koikeya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "BENTO MAKING",
+    "CAT_FOODDRINKS",
+    "CLEARANCE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_salt"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-milky-vegetable-furikake",
+   "name": "Milky Vegetable Furikake",
+   "merchantDescription": "Milky is a famous brand for candies and sweets along with the brand's mascot Peko Chan. This furikake features a vegetable flavor. It contains vegetables, sesame and spices. To enjoy, just sprinkle this over your white rice in a bowl, or season your onigiri wi",
+   "vendor": "Milky",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_milk",
+    "FOOD",
+    "JUNE20THSEASONING",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-wasabi-paste",
+   "name": "Wasabi Paste",
+   "merchantDescription": "Wasabi is one of the most frequently used ingredients in Japan. This comes in a tube that let's you use with ease. It's popular to use with sushi, but feel free to experiment with other dishes! It contains approximately 40g of paste.",
+   "vendor": "Wasabi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_pantry_staples",
+    "F_wasabi",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-karashi-paste",
+   "name": "Karashi Paste",
+   "merchantDescription": "Karashi is one of the most frequently used ingredients in Japan, and it's kind of like Japan's take on spicy mustard. This comes in a tube which allows you to enjoy karashi with ease. It's usually used with shumai, natto, and oden, but feel free to experiment ",
+   "vendor": "Karashi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-s-b-negishio-paste",
+   "name": "S&B Negishio Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. Negishio refers to salt and onion in Japanese, and it's one of the most classic combination in Japan. This allows you to enjoy this Japanese classic flavor with ease, and it goes wel",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "F_onion",
+    "F_salt",
+    "FOOD & DRINKS"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-s-b-yuzu-paste",
+   "name": "S&B Yuzu Paste",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. Yuzu is one of the most beloved ingredients in Japan. This paste allows you to enjoy Yuzu with ease, and it goes well with fish dishes and udon. It contains approximately 40g of past",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_citrus",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING",
+    "MARUETSU"
+   ],
+   "price": 3.99
+  },
+  {
+   "id": "sugoimart-house-wasasansho-paste",
+   "name": "House Wasasansho Paste",
+   "merchantDescription": "This is a paste made by House, a famous food manufacturer in Japan. This paste features Wasasansho, which refers to a mixture of wasabi and sansho pepper, which is spicier than the aveage pepper. It contains approximately 40g of paste.",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy",
+    "F_wasabi",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-house-mala-jiang-paste",
+   "name": "House Mala Jiang Paste",
+   "merchantDescription": "This is a paste made by House, a famous food manufacturer in Japan. This paste features Mala Jiang, which is a combination of vairous spices, especially togarashi and pepper. This is a spicy paste that goes well with gyoza, which means dumpling in Japanese. It",
+   "vendor": "House",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_spicy",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING",
+    "MARCH 2020 CRATES"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-s-b-garlic-oil",
+   "name": "S&B Garlic Oil",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This is garlic oil, which can be used to elevate the taste of a stir-fried dish or a bowl of ramen.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_garlic",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING",
+    "MEGADONKI"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-s-b-onion-oil",
+   "name": "S&B Onion Oil",
+   "merchantDescription": "S B is a Japanese food manufacturer focusing on spice and herb food products. This is onion oil, which elevates the flavor of a stir-fried dish or a bowl of soup.",
+   "vendor": "S&B",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_sauces_seasonings",
+    "F_umami",
+    "FOOD & DRINKS",
+    "JUNE20THSEASONING"
+   ],
+   "price": 2.99
+  },
+  {
+   "id": "sugoimart-nittoh-matcha-au-lait-tea-powder",
+   "name": "Nittoh Matcha Au Lait (Tea Powder)",
+   "merchantDescription": "Nittoh is another famous tea production company from Japan. This is their classic Matcha Au Lait tea powder. This blend contains 80% of Uji Matcha and 20% of Nishio Matcha. (Contains 10 tea powder sticks)",
+   "vendor": "Nittoh",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee",
+    "DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-nittoh-hoji-tea-au-lait-tea-powder",
+   "name": "Nittoh Hoji Tea Au Lait (Tea Powder)",
+   "merchantDescription": "Nittoh is another famous tea production company from Japan. This is their classic Hoji Tea (tea made from roasted green tea leaves) Au Lait tea powder. (Contains 8 tea powder sticks)",
+   "vendor": "Nittoh",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKS",
+    "F_hojicha",
+    "FOOD & DRINKS"
+   ],
+   "price": 6.99
+  },
+  {
+   "id": "sugoimart-tsujiri-koicha-milk-tea-powder",
+   "name": "Tsujiri Rich Matcha Milk (Tea Powder)",
+   "merchantDescription": "Tsujiri is one of the most globalize tea production company originated from Japan with a long history since 1860. This is the Koicha Milk tea powder, which refers to rich tea in Japanese. This blend uses double Uji Matcha tea leaves in order to deliver the ric",
+   "vendor": "Tsujiri",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "$10-$20",
+    "$5-$10",
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_persona_is_japan_explorer",
+    "data_subcategory_tea_coffee"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-mitsuya-classic-cider",
+   "name": "Mitsuya Cider",
+   "merchantDescription": "Mitsuya Cider is a Japanese carbonated soft drink made by combining repeatedly filtrated water and fruit extracts. Now produced by Asahi Soft Drinks, this carbonated soft drink is sweet and tastes similar to Sprite and Ginger Ale. In Japan, Mitsuya Ciders are ",
+   "vendor": "Mitsuya",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "DRINKS",
+    "F_soda"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-sokenbicha-tea",
+   "name": "Sokenbicha Tea",
+   "merchantDescription": "Sokenbi Tea is one of the most poular tea drinks in Japan. Its crisp and clear fragrance has made this product a well-established customer favorite among sugar-free tea beverages. Volume: 600ml",
+   "vendor": "Tea",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-asahi-dodekamin-soda",
+   "name": "Dodekamin Energy Soda",
+   "merchantDescription": "Dodekamin is a popular energy soda in Japan, similar to Lifeguard and Dekavita C. Volume: 500ml",
+   "vendor": "Asahi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "F_soda",
+    "LAWSON 100"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-suntory-green-dakara-hydration-drink",
+   "name": "Suntory Green Dakara Hydration Drink",
+   "merchantDescription": "Green Dakara is a fruity flavored water that is well-known in Japan. Its minerals and fresh fruitiness can definitely give you a refreshed feeling. Volume: 600ml",
+   "vendor": "Suntory",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-asahi-calpis-water",
+   "name": "Calpis Water",
+   "merchantDescription": "Calpis water is a unique drink with a light milky taste to it. It's loved by kids all over Japan! Volume: 500ml. For Summer 2021, the drink features a see-through packaging!",
+   "vendor": "Asahi",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "AMAZON",
+    "CAT_FOODDRINKS",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP",
+    "DRINKS",
+    "F_citrus"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-suntory-oolong-tea",
+   "name": "Suntory Oolong Tea",
+   "merchantDescription": "Suntory is one of the most well known drink manufacturer in Japan. This is their oolong tea that will provide you with a rich and clear taste. Volume: 600ml",
+   "vendor": "Suntory",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_tea_coffee",
+    "DRINKNP"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-aquarius-mineral-sports-drink",
+   "name": "Aquarius Mineral Sports Drink",
+   "merchantDescription": "Aquarius is a popular sports drink that is said to replenish the salts you lose when you sweat, better hydrating your body. Volume 500ml",
+   "vendor": "Aquarius",
+   "productType": "FOOD & DRINKS",
+   "merchantTags": [
+    "CAT_FOODDRINKS",
+    "CAT_POPULAR",
+    "CONBINI",
+    "CONVENIENCESTORE",
+    "data_department_food_drinks",
+    "data_persona_is_foodie",
+    "data_subcategory_drinks",
+    "DRINKNP"
+   ],
+   "price": 4.99
+  },
+  {
+   "id": "sugoimart-rilakkuma-blind-box1",
+   "name": "Rilakkuma Season Terrarium Blind Box",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have a terrariums featuring Rilakkuma and his friends enjoying the four seasons. Get 1 out of 6.",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS",
+    "CHARACTER GOODS TOP BRANDS"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-rilakkuma-blind-box2",
+   "name": "Rilakkuma Small Forest House Blind Box",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have Rilakkuma and his friends enjoying themselves outdoors. Get 1 out of 6.",
+   "vendor": "San-X",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "011422STOP",
+    "BLIND BOXES",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES",
+    "CAT_KAWAII",
+    "CHARACTER GOODS"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "sugoimart-sanrio-blind-box1",
+   "name": "Sanrio Cord Keeper Blind Box",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have figures shaped like popular Sanrio characters like Hello Kitty and Tuxedo Sam, and they attach to your phone's charge cable. Get 1 out of 8.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "data_department_kawaii",
+    "data_ip_sanrio",
+    "data_persona_is_collector",
+    "data_persona_is_kawaii_lover",
+    "data_subcategory_figures_collectibles"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sugoimart-sanrio-blind-box2",
+   "name": "Sanrio Tokimeki Terrarium Blind Box",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have terrariums featuring popular Sanrio characters like Hello Kitty and the Little Twin Stars. Get 1 out of 6.",
+   "vendor": "Sanrio",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "$10-$20",
+    "021423STOP",
+    "AMAZON",
+    "BLIND BOXES",
+    "CAT",
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_GAMES"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "sugoimart-pokemon-blind-box1",
+   "name": "Pokemon School Bags Blind Box Vol. 2",
+   "merchantDescription": "Blind Boxes are just like gachapon, in which it's a surprise as to what you'll get! Here we have miniatures backpack toys inspired by many popular Pokemon. Get 1 out of 8.",
+   "vendor": "Pokémon",
+   "productType": "ANIME & VIDEO GAMES",
+   "merchantTags": [
+    "CAT_ANIMEVIDEOGAMES",
+    "CAT_COLLECTIBLES",
+    "CAT_KAWAII",
+    "CAT_VIDEOGAMES",
+    "data_character_pokemon",
+    "data_department_video_games",
+    "data_ip_pokemon",
+    "data_persona_is_collector"
+   ],
+   "price": 8.99
+  }
+ ]
+}

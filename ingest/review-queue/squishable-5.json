@@ -1,0 +1,754 @@
+{
+ "source": "squishable",
+ "batch": 5,
+ "items": [
+  {
+   "id": "squishable-squish-lodge-comfort-food-marshmallow-stick",
+   "name": "Squish Lodge: Comfort Food Marshmallow Stick",
+   "merchantDescription": "Ever heard of a skiing s'more? It's like a regular S'more, except the marshmallows have cool 80's hair and challenge each other to races down the mountain to save the community center and win over the love interest who ends up being the nerdy person who was th",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 49
+  },
+  {
+   "id": "squishable-massive-squishable-caterpillar",
+   "name": "Massive Squishable Caterpillar",
+   "merchantDescription": "Do you think if this massive caterpillar made a massive cocoon it would turn into a massive butterfly? Only one way to find out! Standard Ground Shipping to the Continental US Only. caterpillar, bug, insect, huge, massive, green, long, big, tube",
+   "vendor": "Squishable",
+   "productType": "Massive",
+   "merchantTags": [],
+   "price": 275
+  },
+  {
+   "id": "squishable-mini-squishable-catfish",
+   "name": "Mini Squishable Catfish",
+   "merchantDescription": "Some cats eat fish. Some cats are fish. If a cat does both, is that an identity crisis? or just cannibalism? Either way, I'm into it. cat, catfish, small, plushie, animal, kitty, orange, synthisquish, hybrid, fish,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-frog-donut",
+   "name": "Mini Squishable Frog Donut",
+   "merchantDescription": "Ah the Fronut. Or maybe its a Doughnog? Either way, if you munch it you'll have a frog in your throat. Badum-ching! frog, donut, green, sweet, amphibian, small, plushie, synthisquish, hybrid",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-comfort-food-macarons",
+   "name": "Comfort Food Macarons",
+   "merchantDescription": "Macaron versus macaroon! Both are cookies! Both are delicious! MacaROONs are a little coconut blob that looks like a snowball. MacaRONS are an almond flour based confection with filling, that looks exactly like THIS. What a difference an extra \"O\" makes. macar",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-mini-comfort-food-pear",
+   "name": "Mini Comfort Food Pear",
+   "merchantDescription": "I LOVE PEARS. I. LOVE. PEARS. Pears poached, caramelized, raw, in a little fruit cup, PAIRS of pears...pears that won't judge you for forgetting about them in the back of the fridge. Pears that are never sticky. Pears like THIS pear. green, pear, fruit, yummy,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-comfort-food-hard-boiled-egg",
+   "name": "Mini Comfort Food Hard Boiled Egg",
+   "merchantDescription": "Tastebuds change every seven years! When I was a kid, you couldn't pay me to eat a Hardboiled egg. Now that I'm an adult, I think hardboiled eggs are the best thing ever, and you can pay me to write a description about them! And here it is! egg, food, boiled, ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-mini-squishable-cicada",
+   "name": "Mini Squishable Cicada",
+   "merchantDescription": "Love bugs, but not, you know, bugs? This Cicada has everything going for it! It won't disappear on you for months on end, and no incessant chirping noise! You're so welcome my buggy besties! 3",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 36
+  },
+  {
+   "id": "squishable-snacker-shadow-dragon",
+   "name": "Snacker Shadow Dragon",
+   "merchantDescription": "Beware all ye who enter the lair of the Shadow Dragon! For in the soft cuddly darkness lies a guardian of great mystery… and questionable treasure. Like your toes. And the rest of you. He's hiding in your bed, is what I'm trying to say. dragon, fantasy, dark, ",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-snacker-scarecrow",
+   "name": "Snacker Scarecrow",
+   "merchantDescription": "This Scarecrow wants to be helpful, but at this size there's only so much that it can scare off. Ants? no problem. Mice? Yes. Your coworker who keeps on stealing your lunch? Probably not. scarecrow, spooky, orange, small, fall, autumn, pumpkin",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-poodle-moth",
+   "name": "Snacker Poodle Moth",
+   "merchantDescription": "Is it a moth cosplaying as a poodle? A poodle attempting flight? This little guy brings all the fluff, none of the answers, and a solid side of existential confusion. It inspires all the questions no one is willing to answer for me. Instead they say, \"Ma'am ge",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 22
+  },
+  {
+   "id": "squishable-snacker-peach",
+   "name": "Snacker Peach",
+   "merchantDescription": "Is it a fruit? Is it a plush? Yes. Too soft to slice, too huggable to eat, and way too smug about being the best part of a cobbler. It’s round, it’s fuzzy, and it’s here to silently judging your snack choices. peach, kawaii, pink, fruit, food, cute",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-lobster",
+   "name": "Snacker Lobster",
+   "merchantDescription": "This Lobster is snack-sized! Just hefty enough for a Lobster mac n' cheese recipe, not quite enough for a full on lobster roll. Just the right amount. red, ocean, crustacean, marine, claws, small",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-snacker-lich",
+   "name": "Snacker Lich",
+   "merchantDescription": "In the shadowed halls where silence creeps, The Lich awakens from ancient sleeps. No spells to cast, no souls to claim, Just plushy vibes and a spooky name! fantasy, dead, corpse, purple, small, creature, fantasy, undead, soul, wizard",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-snacker-ladybug",
+   "name": "Snacker Ladybug",
+   "merchantDescription": "Ladybug: the original overachiever. Polka dots? Iconic. Garden hero? Obviously. Cultural symbol for good luck? Overkill, but okay. bug, red, small, cute, garden, insect, teeny, crawler",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-mega-squishable-plague-doctor",
+   "name": "Mega Squishable Plague Doctor",
+   "merchantDescription": "Your favorite spooky medical practitioner now comes in a new size! No space for a Massive but looking for more love than a Standard? This is that guy. big enough to cuddle, still small enough not to crush you. Standard Ground Shipping to the Continental US Onl",
+   "vendor": "Squishable",
+   "productType": "Mega",
+   "merchantTags": [],
+   "price": 135
+  },
+  {
+   "id": "squishable-mega-squishable-baby-mothman",
+   "name": "Mega Squishable Baby Mothman",
+   "merchantDescription": "Not only is the myth of our favorite cryptid, the Point Pleasant Mothman, getting bigger, but so is the Mothman itself! Bigger than a Standard Mothman, and with less gravitas than a Massive. Less gravity too. Standard Ground Shipping to the Continental US Only",
+   "vendor": "Squishable",
+   "productType": "Mega",
+   "merchantTags": [],
+   "price": 135
+  },
+  {
+   "id": "squishable-mega-squishable-baby-axolotl",
+   "name": "Mega Squishable Baby Axolotl",
+   "merchantDescription": "Since these amphibians live their whole lives underwater, they probably see their fair share of predators. Let's give them an edge by making them BIG. Not quite as big as a Massive, but still pretty darn big! Take that, random sea creature who is now slightly ",
+   "vendor": "Squishable",
+   "productType": "Mega",
+   "merchantTags": [],
+   "price": 135
+  },
+  {
+   "id": "squishable-mega-tie-dye-mushroom",
+   "name": "Mega Squishable Tie Dye Mushroom",
+   "merchantDescription": "In Alice in Wonderland our protagonist nibbles on cookies to grow bigger and drinks a potion to become smaller. Apparently this mushroom ALSO likes cookies and potions! Bigger than a Standard Squish, smaller than a Massive, and with absolutely no sense of self",
+   "vendor": "Squishable",
+   "productType": "Mega",
+   "merchantTags": [],
+   "price": 135
+  },
+  {
+   "id": "squishable-mega-squishable-reaper",
+   "name": "Mega Squishable Reaper",
+   "merchantDescription": "Death is an inevitable destination at the end of life. In the grand scheme of the universe, it's insignificant. Not a big deal. Except for THIS death, who is in fact a really really big, big deal and matters a whole lot. It's not quite as significant as a Mass",
+   "vendor": "Squishable",
+   "productType": "Mega",
+   "merchantTags": [],
+   "price": 135
+  },
+  {
+   "id": "squishable-mega-squishable-rainbow-caterpillar",
+   "name": "Mega Squishable Rainbow Caterpillar",
+   "merchantDescription": "If Dorothy wanted to go somewhere over the rainbow, she could've just jumped on top of this Rainbow Caterpillar. BOOM. Wish granted. No twisters, aqua-phobic witches, or need to speculate about places like home! Standard Ground Shipping to the Continental US O",
+   "vendor": "Squishable",
+   "productType": "Mega",
+   "merchantTags": [],
+   "price": 135
+  },
+  {
+   "id": "squishable-alter-egos-series-12-gingerbread-tree",
+   "name": "Alter Egos Series 12: Gingerbread Tree",
+   "merchantDescription": "In the land of the great cookie, by the caramel river, under a nutmeg sun, lies the forrest of the gingerbread holiday trees! Delicious! Fragrant! Sustainable! As long as I don't get too hungry, of course. alters, egos, ego, multiverse, christmas, festive, hol",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-12-fairy-tree",
+   "name": "Alter Egos Series 12: Fairy Tree",
+   "merchantDescription": "Fairy circles, fairy doors, fairy floss...fairies make everything better! For example, this fairy holiday tree! Is it just a regular tree with wings? No, obviously not, because regular trees don't hum with otherworldly energy, or tease you about your childhood",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-12-haunted-tree",
+   "name": "Alter Egos Series 12: Haunted Tree",
+   "merchantDescription": "Remember in Snow White when she's running through the woods and she sees a bunch of creepy eyes and shadows, and the trees are, like, reaching for her, and it's spooky as all heck? This is that tree. alters, egos, ego, multiverse, christmas, festive, holiday, ",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-12-money-tree",
+   "name": "Alter Egos Series 12: Money Tree",
+   "merchantDescription": "Oh, money doesn't grow on trees you say? Then explain THIS! Granted, I'm not certain if it's growing on it, made of it, or just decorated all over with it, but there's money involved in here somewhere. alters, egos, ego, multiverse, christmas, festive, holiday",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-alter-egos-series-12-spider-tree",
+   "name": "Alter Egos Series 12: Spider Tree",
+   "merchantDescription": "Spiders! They can be anywhere! In your house, in your car, under your toilet seat, running for student council, giving a PowerPoint on quarterly earnings, officiating a wedding, winning a hot dog eating contest, literally anywhere! Like this holiday tree! alte",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-mini-squishable-holiday-plague-doctor-nurse-set",
+   "name": "Mini Squishable 2024 Holiday Plague Doctor & Nurse Set",
+   "merchantDescription": "You're walking down a lamplit street on a crisp winter's evening. A scarf is snug around your neck, frost nipping at your fingertips and nose. Is that the smell of warm fireplaces and snow? No, it's these Holiday Plagues, who come strolling around the corner, ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 70
+  },
+  {
+   "id": "squishable-snacker-cat-bee",
+   "name": "Snacker Cat Bee",
+   "merchantDescription": "It's a cat. It's a bee. It's a CAT BEE! It's also a snack. IT'S A CAT BEE SNACK....er....cat bee snacker.... hybrid, synthisquish, garden, bug, bee, honey, pollen, flower kitty, kitten, cats ,brown,yellow",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-snacker-baby-platypus",
+   "name": "Snacker Baby Platypus",
+   "merchantDescription": "Having to search ' what does a platypus do' in order to write this description is something I didn't expect to be doing today!! Apparently the platypus spends most of it's day eating things it finds at the bottom of freshwater areas!!...Honestly same my man. p",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 18
+  },
+  {
+   "id": "squishable-snacker-deaths-head-hawkmoth",
+   "name": "Snacker Death's-head Hawkmoth",
+   "merchantDescription": "If you're wishing to live out your cannibal movie dreams via plush form, look no further! This palm sized moth can will bring you so much joy, you won't even realize you're being followed in the dark, or are trapped down a well! moth, dead, silence, lambs, sil",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 23
+  },
+  {
+   "id": "squishable-snacker-phlox",
+   "name": "Snacker Phlox",
+   "merchantDescription": "Too many people are allergic to cats in my opinion, and that's simply too sad for me to comprehend! I'm so sorry you don't get to experience a purring little ball in your lap!! This cat can fit in your lap, or hand, and you won't even have to take medicine aft",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-baby-kitsune",
+   "name": "Snacker Baby Kitsune",
+   "merchantDescription": "A staple to Japanese folklore, the kitsune is prone to changing shapes quite frequently! In this case though, the kitsune has simple changed sizes and can now sit comfortably in the palm of your hand! red, dragon, cat, white, magic, kawaii, kitten, kitty, cats",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "Trending"
+   ],
+   "price": 20
+  },
+  {
+   "id": "squishable-mini-squishable-ghost-of-christmas-past",
+   "name": "Mini Squishable Ghost of Christmas Past",
+   "merchantDescription": "Whooo! I am the Ghost of Christmas Past! Gaze upon me and tremble as we travel back to a childhood of youthful nostalgia and half-remembered wintery holidays! You're going to understand the heck out of the true meaning of the season by the time I'm done with y",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-festive-donkey",
+   "name": "Mini Squishable Festive Donkey",
+   "merchantDescription": "Personal story. One year my mom and I sat down to watch Christmas movies and we found one about a little donkey going on a journey, and it was THE biggest bummer of a film I have ever watched I'm not even kidding. This Festive donkey is my revenge! The happies",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-festive-drum",
+   "name": "Mini Squishable Festive Drum",
+   "merchantDescription": "Why do we rum-pum-pum-pum? This little guy might know, but he's not talking. In fact, he's not saying anything at all! Presenting, the first drum with no sound! Defying the laws of percussion and common sense, he won’t keep time, but he will keep you company a",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-festive-bumblebee",
+   "name": "Mini Squishable Festive Bumblebee",
+   "merchantDescription": "Bzz bzz! That's bee speak for 'Happy Holidays!\" Bzz bzz bzz!! That's bee speak for \"...and have a happy new year!\" Bzzzzz! That means \"You're standing on you foot!\" Bzz? I don't know what that means, you're on your own for that one. holiday, christmas, festive",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-festive-corgi",
+   "name": "Mini Squishable Festive Corgi",
+   "merchantDescription": "As a kid, all I want for the holidays was a puppy. Any puppy. This puppy. That puppy. Your puppy. My puppy. A puppy in the window. Now that I'm a grownup, I HAVE a puppy. Being a grownup is pretty great. holiday, christmas, festive, xmas, golden, puppy, pup, d",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-squishable-christmas-wreath",
+   "name": "Squishable Christmas Wreath",
+   "merchantDescription": "Deck the halls, hug the wreath. This plush Christmas wreath is festive, fluffy, and a lot more huggable than the pine needle version. Hang it on your wall! Hang it on your door! Hang it on your friend, he won't mind! green, tree, cool, christmas, xmas, festive",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 55
+  },
+  {
+   "id": "squishable-mini-squishable-festive-rocking-horse",
+   "name": "Mini Squishable Festive Rocking Horse",
+   "merchantDescription": "Rocking Horse! It just screams classic holiday gift! Here's a version with all the vintage charm and half the splinters! ornament, holiday, christmas, festive, xmas, red, white, green",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-candy-cane-caterpillar",
+   "name": "Mini Squishable Candy Cane Caterpillar",
+   "merchantDescription": "This little caterpillar has a minty secret: he's made of candy canes! Is it a blessing or curse? Either way, I need to know where to sign up. bug,insect,little guy,tube,colorful,peppermint, mint, sweets, red, white, festive, holiday",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-squishable-mimic-tree",
+   "name": "Squishable Mimic Tree",
+   "merchantDescription": "Being a tree-hugger has its drawbacks. You might get covered in pine needles. You might get sap on your fancy new holiday outfit. You might get eaten. All of these things would be a new experience for sure. green, tree, cool, christmas, xmas, festive, holiday,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 58
+  },
+  {
+   "id": "squishable-mini-squishable-candy-tree",
+   "name": "Mini Squishable Candy Tree",
+   "merchantDescription": "Why stop at decking the halls when you can sugarcoat them, and then EAT THEM. Show those halls who's really boss here! Take that, halls! pink, bink, sweet, sweets, candy, candies, tree, cool, christmas, xmas, festive, holiday",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-undercover-snacker-corgi-in-octopus",
+   "name": "Undercover Snacker Corgi in Octopus",
+   "merchantDescription": "Would a corgi octopus technically have 12 legs?? Or does it still have 8 because the extra 4 are inside the octopus? Are the legs still there?! Best not to think about it. Unlike standard sized Undercovers, snacker sized Undercover disguises are not removable.",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-undercover-snacker-kitty-in-dragon",
+   "name": "Undercover Snacker Kitty in Dragon",
+   "merchantDescription": "Look out kinights, this is how it's done! The kitten slays the dragon. The kitten eats the dragon. The the kitten wears the dragon's pelt as a warning to all future agressive reptiles. Just kidding guys, nothing violent happened here at all, definitely. Unlike",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-undercover-snacker-corgi-in-unicorn",
+   "name": "Undercover Snacker Corgi in Unicorn",
+   "merchantDescription": "There's a bit of magic in all of us, but there's especially some magic in this corgi! Or rather, the corgi is in the magic. Or maybe it was...eaten by the magic? I'll let you figure it out. Unlike standard sized Undercovers, snacker sized Undercover disguises ",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-undercover-snacker-corgi-in-frog",
+   "name": "Undercover Snacker Corgi in Frog",
+   "merchantDescription": "This corgi got confused on the way to the park, and ended up in a swamp. Fashion crisis! Luckily he always carries around a frog outfit for just this type of occasion! Unlike standard sized Undercovers, snacker sized Undercover disguises are not removable. The",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-mini-squishable-mori-the-plague-rat",
+   "name": "Mini Squishable Mori the Plague Rat",
+   "merchantDescription": "Every hidden science lab needs someone to mop up the experiments. Someone to recapture the ghouls and put away the drippy candles. Someone to hide the evidence. This is that someone! Mori the Plague Rat - The Mysterious Doctor Plague's butler/sidekick/accompli",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-hippocampus",
+   "name": "Mini Squishable Hippocampus",
+   "merchantDescription": "Bear with me here; this is a sea-horse. But it's not a sea horse. It's a horse's front half, and sea creature back half. The name hippo is in there too, but there's no hippo parts here. Just sea and horse. Got it? sea, horse, seahorse, mythology, fish, animal,",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-comfort-food-party-cupcake",
+   "name": "Mini Comfort Food Party Cupcake",
+   "merchantDescription": "All parties need a cupcake! Birthday parties! Tea parties! Political parties! Search parties! Guilty parties! All the parties. No party is complete without one. cake, cup, sweet, treat, birthday, party, fun, celebrate, celebration, sprinkle, candle, pink, whit",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-comfort-food-goth-donut",
+   "name": "Mini Comfort Food Goth Donut",
+   "merchantDescription": "This donut isn't like other donuts. This donut listens to hardcore music. This donut has piercings. This donut will turn your mouth black with its intense icing situation. This is an intense donut. donut, dough, doughnut, black, emo, spike, purple, punk, rock,",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 28
+  },
+  {
+   "id": "squishable-comfort-food-cinnamon-raisin-toast",
+   "name": "Comfort Food Cinnamon Raisin Toast",
+   "merchantDescription": "The most important meal of the day? Breakfast. The most important part of that meal? Toast. The most important type of toast? Cinnamon raisin toast! This is that very important toast. toast, bread, cinnamon, crunch, cereal, breakfast, sweets, comfort, food, br",
+   "vendor": "Squishable",
+   "productType": "Big",
+   "merchantTags": [],
+   "price": 52
+  },
+  {
+   "id": "squishable-party-snacker-pink-reaper",
+   "name": "Party Snacker Pink Reaper",
+   "merchantDescription": "The personification of Death takes many forms. For some, it's an ageless god walking throughout space and time. For some it's a humorous cartoon character on a Saturday morning TV show. And for some, it's a bubblegum pink partier. This is that last one. spooky",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 21
+  },
+  {
+   "id": "squishable-party-snacker-black-cherries",
+   "name": "Party Snacker Black Cherries",
+   "merchantDescription": "Black cherries are better than maraschino, and I will fight you if you believe otherwise. They taste more like awesomeness, and less like childhood cherry medicine! These are the former, not the latter. sweet, fruit, cherry, cherries, red, green, small",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-party-snacker-pastel-rainbow",
+   "name": "Party Snacker Pastel Rainbow",
+   "merchantDescription": "What's at the end of a pastel rainbow?! A pastel pot of pastel gold! Also a pastel leprechaun who is surprisingly angsty and dark. But still pastel-colored! bow, rain, rainbow, pink, yellow, blue, purple, pastel, pastal, cloud, sky, pride",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-party-snacker-white-strawberry",
+   "name": "Party Snacker White Strawberry",
+   "merchantDescription": "Is a white strawberry just a red strawberry with the absence of strawberry essence?? Would then a black strawberry be the mix of ALL strawberry essences combined?!?! Or maybe it's just a rare edition strawberry we're still only discovering grows among us.... f",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 19
+  },
+  {
+   "id": "squishable-squee-only-micro-caterpillar",
+   "name": "SQUEE-ONLY Micro Caterpillar Keychain",
+   "merchantDescription": "Someone put this caterpillar in the Pastel-inator! It has become aggressively pastel! Note, it wasn't put in a Pasta-nator, which would have turned it into a long thin tube of pasta. Wait... squee, only, tie, dye, pastel, tube, pillar, cater, butterfly, worm",
+   "vendor": "Squishable",
+   "productType": "Micro",
+   "merchantTags": [
+    "squee-only"
+   ],
+   "price": 15
+  },
+  {
+   "id": "squishable-snacker-king-raven",
+   "name": "Snacker King Raven",
+   "merchantDescription": "If birds like to do one thing, it's perch! This guy is the perfect perching size for a car dashboard, headboard, bookshelf, or your head! Now, if birds like to do two things, it's eat cupcakes. Not really sure how that relates, but I'm going with it. king, rav",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-snacker-rosy-maple-moth",
+   "name": "Snacker Rosy Maple Moth",
+   "merchantDescription": "What is a Rosy Maple Moth's favorite breakfast food? WAFFLES! Get it? Maple? Like syrup? No one ever gets it. rosy maple moth,rosy maple,moth,pink,yellow",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 22
+  },
+  {
+   "id": "squishable-mini-squishable-stingray",
+   "name": "Mini Squishable Stingray",
+   "merchantDescription": "Did you know that stingrays were just a type of fish...who looks really cool, and stings? That sounds made up, to be honest. Sting rays look like big flapping frisbees. There is literally no way they're just a fish. ocean, beach, sea, aquatic, water, Irwin, se",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 29
+  },
+  {
+   "id": "squishable-mini-squishable-tortoise",
+   "name": "Mini Squishable Tortoise",
+   "merchantDescription": "You don't want to challenge this little guy to a race. First of all, racing is dangerous in non-controlled conditions, and second, you just know that it's going to trigger some kind of moral-appropriate metaphorical situation where he wins through luck or skil",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-snacker-evil-candy-cane",
+   "name": "Snacker Evil Candy Cane",
+   "merchantDescription": "Do you crunch your candy cane? Do you lick off all the red parts? Do you crumble it over ice cream or brownies for a sweet treat? Or do you use it to stab your enemies, reveling in their pleas for mercy? If so, this is the candy cane for you. candy, peppermint",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-snacker-candy-cane",
+   "name": "Snacker Candy Cane",
+   "merchantDescription": "This candy cane isn’t here to hang on a tree or sweeten your cocoa! No! It’s here to live its best life, man! Stripes? Immaculate. Shape? Perfectly curvy. Purpose? Unknown, but it radiates pure main character energy. Bold. Minty. Iconic. candy, peppermint, min",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [],
+   "price": 16
+  },
+  {
+   "id": "squishable-mini-squishable-festive-reaper",
+   "name": "Mini Squishable Festive Reaper",
+   "merchantDescription": "He sees you when you're sleeping! He knows when you're awake! He knows when your time on this mortal coil is done! In terms of ensuring good behavior, that feels a lot more effective to me than putting coal in your stocking, just saying. reaper, death, grim, h",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-squish-manor-mini-manor-pumpkin-scarecrow",
+   "name": "Squish Manor: Mini Manor Pumpkin Scarecrow",
+   "merchantDescription": "Think of all the things in your life you'd like to scare away. Stress! Worry! Your neighbor who keeps leaving his leaves in your yard! I won't promise this scarecrow will do those things, but I also won't NOT promise it! This Squish is one of the very final it",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 32
+  },
+  {
+   "id": "squishable-squish-manor-mini-manor-plague-doctor",
+   "name": "Squish Manor: Mini Manor Plague Doctor",
+   "merchantDescription": "Remember when doctors used to make house calls? Well, this one still does. Only to this house though. The one where they already live. This Squish is one of the very final items from the Fall 2024 in-stores-only Squish Manor capsule collection, making a rare t",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 35
+  },
+  {
+   "id": "squishable-squish-manor-squishable-black-widow",
+   "name": "Squish Manor: Squishable Black Widow",
+   "merchantDescription": "We don't clean up webs at Squish Manor. They're delicate works of art, but moreover, they were probably made by this guy! Whoops, accidentally swept a web away? Don't worry, they'll make sure you never do it again! This Squish is one of the very final items fr",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 49
+  },
+  {
+   "id": "squishable-squish-manor-mini-manor-ghost",
+   "name": "Squish Manor: Mini Manor Ghost",
+   "merchantDescription": "This Squish is one of the very final items from the Fall 2024 in-stores-only Squish Manor capsule collection, making a rare temporary online appearance! We'll ship it to you directly from the store, and once it's gone, it's gone for good! fall, 24, stores, man",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 29
+  },
+  {
+   "id": "squishable-squish-manor-mini-lord-owl",
+   "name": "Squish Manor: Mini Lord Owl",
+   "merchantDescription": "He's the Lord of the manor, and he knows it! Actually, he knows lots of interesting stuff! Like the difference between a mansion and a manor! I don't know that, do you? He does! This Squish is one of the very final items from the Fall 2024 in-stores-only Squis",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 32
+  },
+  {
+   "id": "squishable-squish-manor-mini-manor-mushroom",
+   "name": "Squish Manor: Mini Manor Mushroom",
+   "merchantDescription": "Mushrooms come and go, but this fall-festive mushroom is eternal! Or rather, not biodegradable, which isn't really the same thing at all, but serves the same narrative purpose for this description! This Squish is one of the very final items from the Fall 2024 ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 32
+  },
+  {
+   "id": "squishable-squish-manor-snackers-manor-mouse",
+   "name": "Squish Manor: Snackers Manor Mouse",
+   "merchantDescription": "It's the middle of the night. There's a faint creaking of floorboards. Then you hear it: the pitter patter of fluffy feet!! No need to call the exterminator, it's just the Manor's mousy groundskeeper, doing what he does best. Which is to say, waking you up in ",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "squishable-squish-manor-snackers-haunted-chamberstick",
+   "name": "Squish Manor: Snackers Haunted Chamberstick",
+   "merchantDescription": "Let there be light! Spoooooky light, barely illuminating the gloomy walls of your room! And what will the light of this haunted chamber stick show you? Me! Hey, what's up. This Squish is one of the very final items from the Fall 2024 in-stores-only Squish Mano",
+   "vendor": "Squishable",
+   "productType": "Snacker",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "squishable-squish-manor-enamel-pin-set",
+   "name": "Squish Manor: Enamel Pin Set",
+   "merchantDescription": "This pins set is one of the very final items from the Fall 2024 in-stores-only Squish Manor capsule collection, making a rare temporary online appearance! We'll ship it to you directly from the store, and once it's gone, it's gone for good! fall, 24, stores, m",
+   "vendor": "Squishable",
+   "productType": "Enamel Pin",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 25
+  },
+  {
+   "id": "squishable-mini-squishable-crab-roll",
+   "name": "Mini Squishable Crab Roll",
+   "merchantDescription": "Rainbow rolls aren't usually made of rainbows. California rolls aren't usually thousands of miles long and covered in redwoods. However, crab rolls are in fact made of crab! Or in this case, they ARE a crab! That's truth in advertising right there. crab, sushi",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-cat-musubi",
+   "name": "Mini Squishable Cat Musubi",
+   "merchantDescription": "There's lots of types of meat that can go on top of musubi. You can top if with fish, you can top it with beef. Sometimes there's veggies and eggs! Other times, there's cats. This is one of those times. sushi, fish, musubi, cat, kitten, kitty, cats, kitties, w",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 35
+  },
+  {
+   "id": "squishable-mini-squishable-kittypillar",
+   "name": "Mini Squishable Kittypillar",
+   "merchantDescription": "Very little is better than a kitty. Except for maybe MORE of that kitty! By hybridizing a kitty and a caterpillar, we succeed in a longer, fuzzier kitty, with MORE PAWS. And an insatiable urge to eat leaves. cat, kitten, kitty, cats, caterpillar, butterfly, wo",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 34
+  },
+  {
+   "id": "squishable-mini-squishable-corgi-bubble-tea",
+   "name": "Mini Squishable Corgi Bubble Tea",
+   "merchantDescription": "I'm 99.99% sure they don't carry this particular boba flavor at your local tea shop! Of course, that does leave a 0.01% chance that they DO carry this bubble beverage that barks back, but the odds are kinda against it. dog, doggie, pup, puppy, corgi, boba, tap",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-mini-squishable-tomatoad",
+   "name": "Mini Squishable Tomatoad",
+   "merchantDescription": "Tomato frogs! They're actually a real thing that exist! But the word 'Tomato Frog' is a bit of a mouthful, so for linguistic reasons, this is now a Tomatoad! If you've been looking for a sweet and ripe amphibian to snuggle... that also reminds you to eat your ",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [],
+   "price": 32
+  },
+  {
+   "id": "squishable-squish-park-mini-plague-nurse",
+   "name": "Squish Park: Mini Plague Nurse",
+   "merchantDescription": "Smile for this Nurse! Or don't - they can't tell you what to do! But if you DO smile for this nurse, the picture they're about to take of you on this ferris wheel will be adorable! And yes, yes, you're adorable either way. Sheesh. amusement, park, popcorn, the",
+   "vendor": "Squishable",
+   "productType": "Mini",
+   "merchantTags": [
+    "retired"
+   ],
+   "price": 35
+  },
+  {
+   "id": "squishable-alter-egos-series-1-skelecado",
+   "name": "Alter Egos Series 1: Skelecado",
+   "merchantDescription": "It's always tragic when a good Avocado goes bad. First he develops a weird white waxy sheen. Next thing, he's got brown spots and kind of collapses in on himself. Before you know it he's holding up the local saloon and leaping onto his horse with the gold! Oh ",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  },
+  {
+   "id": "squishable-alter-egos-series-7-skeleton-penguin",
+   "name": "Alter Egos Series 7: Skeleton Penguin",
+   "merchantDescription": "We are all filled with bones. Except for this penguin - they're filled with a lot of opinions about your life choices. They wear their bones on the outside because there's no room for anything else in there. peng,bird,skull,spooky,bones,black,white",
+   "vendor": "Squishable",
+   "productType": null,
+   "merchantTags": [],
+   "price": 20
+  }
+ ]
+}

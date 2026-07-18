@@ -1,0 +1,15 @@
+# SuperMegaCute
+
+> Discovery platform for cute things: gifts, collectibles, home décor, desk
+> accessories and aesthetic finds, matched by mood, aesthetic, recipient,
+> occasion and budget.
+
+The catalog is a structured product knowledge graph. Machine-readable data:
+
+- /data/taxonomy.json — controlled vocabulary (pillars, facets, brands)
+- /data/products.json — product records with facet metadata
+- /data/collections.json — curated collections as saved graph queries
+- /data/releases.json — collectibles release calendar
+
+Explore URLs encode queries, e.g. /explore?aesthetics=kawaii&priceBand=under-25
+(OR within a facet, AND across facets).

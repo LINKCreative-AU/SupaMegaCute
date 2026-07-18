@@ -1,0 +1,24 @@
+{
+  "version": "0.1.0",
+  "note": "Curated Amazon track (interim until PA-API access). Records here are researched editorially: ASIN + our own copy + a price BAND (never a scraped live price), no Amazon imagery. import-amazon-watchlist.mjs converts entries to graph products with merchant 'amazon'. When PA-API lands, the sync job replaces priceBand with live price and adds official images by ASIN — records need no other change.",
+  "entries": [
+    {
+      "asin": "EXAMPLE0001",
+      "status": "draft",
+      "name": "Example: Sonny Angel Hippers 12-box case",
+      "blurb": "Write our own editorial blurb here.",
+      "brand": "sonny-angel",
+      "priceBand": "50-100",
+      "pillars": ["collectibles"],
+      "aesthetics": ["kawaii"],
+      "moods": ["playful"],
+      "recipients": ["self-treat"],
+      "occasions": ["just-because"],
+      "rooms": [],
+      "colours": [],
+      "themes": ["characters"],
+      "tags": ["blind-box", "case"],
+      "art": { "emoji": "👼", "bg": "peach" }
+    }
+  ]
+}

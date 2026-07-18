@@ -47,79 +47,328 @@
   ],
   "facets": {
     "aesthetic": [
-      { "slug": "kawaii", "name": "Kawaii" },
-      { "slug": "cottagecore", "name": "Cottagecore" },
-      { "slug": "pastel-minimal", "name": "Pastel Minimal" },
-      { "slug": "danish-pastel", "name": "Danish Pastel" },
-      { "slug": "y2k", "name": "Y2K" },
-      { "slug": "coquette", "name": "Coquette" },
-      { "slug": "retro-cute", "name": "Retro Cute" },
-      { "slug": "dreamy-cloud", "name": "Dreamy Cloud" }
+      {
+        "slug": "kawaii",
+        "name": "Kawaii"
+      },
+      {
+        "slug": "cottagecore",
+        "name": "Cottagecore"
+      },
+      {
+        "slug": "pastel-minimal",
+        "name": "Pastel Minimal"
+      },
+      {
+        "slug": "danish-pastel",
+        "name": "Danish Pastel"
+      },
+      {
+        "slug": "y2k",
+        "name": "Y2K"
+      },
+      {
+        "slug": "coquette",
+        "name": "Coquette"
+      },
+      {
+        "slug": "retro-cute",
+        "name": "Retro Cute"
+      },
+      {
+        "slug": "dreamy-cloud",
+        "name": "Dreamy Cloud"
+      }
     ],
     "mood": [
-      { "slug": "cozy", "name": "Cozy" },
-      { "slug": "playful", "name": "Playful" },
-      { "slug": "calming", "name": "Calming" },
-      { "slug": "whimsical", "name": "Whimsical" },
-      { "slug": "romantic", "name": "Romantic" },
-      { "slug": "energising", "name": "Energising" }
+      {
+        "slug": "cozy",
+        "name": "Cozy"
+      },
+      {
+        "slug": "playful",
+        "name": "Playful"
+      },
+      {
+        "slug": "calming",
+        "name": "Calming"
+      },
+      {
+        "slug": "whimsical",
+        "name": "Whimsical"
+      },
+      {
+        "slug": "romantic",
+        "name": "Romantic"
+      },
+      {
+        "slug": "energising",
+        "name": "Energising"
+      }
     ],
     "recipient": [
-      { "slug": "for-her", "name": "For Her" },
-      { "slug": "for-him", "name": "For Him" },
-      { "slug": "best-friend", "name": "Best Friend" },
-      { "slug": "coworker", "name": "Coworker" },
-      { "slug": "kids", "name": "Kids" },
-      { "slug": "teens", "name": "Teens" },
-      { "slug": "self-treat", "name": "Treat Yourself" }
+      {
+        "slug": "for-her",
+        "name": "For Her"
+      },
+      {
+        "slug": "for-him",
+        "name": "For Him"
+      },
+      {
+        "slug": "best-friend",
+        "name": "Best Friend"
+      },
+      {
+        "slug": "coworker",
+        "name": "Coworker"
+      },
+      {
+        "slug": "kids",
+        "name": "Kids"
+      },
+      {
+        "slug": "teens",
+        "name": "Teens"
+      },
+      {
+        "slug": "self-treat",
+        "name": "Treat Yourself"
+      }
     ],
     "occasion": [
-      { "slug": "birthday", "name": "Birthday" },
-      { "slug": "christmas", "name": "Christmas" },
-      { "slug": "valentines", "name": "Valentine's" },
-      { "slug": "housewarming", "name": "Housewarming" },
-      { "slug": "new-job", "name": "New Job" },
-      { "slug": "just-because", "name": "Just Because" }
+      {
+        "slug": "birthday",
+        "name": "Birthday"
+      },
+      {
+        "slug": "christmas",
+        "name": "Christmas"
+      },
+      {
+        "slug": "valentines",
+        "name": "Valentine's"
+      },
+      {
+        "slug": "housewarming",
+        "name": "Housewarming"
+      },
+      {
+        "slug": "new-job",
+        "name": "New Job"
+      },
+      {
+        "slug": "just-because",
+        "name": "Just Because"
+      }
     ],
     "room": [
-      { "slug": "bedroom", "name": "Bedroom" },
-      { "slug": "living-room", "name": "Living Room" },
-      { "slug": "home-office", "name": "Home Office" },
-      { "slug": "kitchen", "name": "Kitchen" },
-      { "slug": "bathroom", "name": "Bathroom" }
+      {
+        "slug": "bedroom",
+        "name": "Bedroom"
+      },
+      {
+        "slug": "living-room",
+        "name": "Living Room"
+      },
+      {
+        "slug": "home-office",
+        "name": "Home Office"
+      },
+      {
+        "slug": "kitchen",
+        "name": "Kitchen"
+      },
+      {
+        "slug": "bathroom",
+        "name": "Bathroom"
+      }
     ],
     "colour": [
-      { "slug": "blush-pink", "name": "Blush Pink", "hex": "#FFC7D6" },
-      { "slug": "lilac", "name": "Lilac", "hex": "#DCC7F7" },
-      { "slug": "mint", "name": "Mint", "hex": "#BDEAD7" },
-      { "slug": "peach", "name": "Peach", "hex": "#FFDCC2" },
-      { "slug": "cream", "name": "Cream", "hex": "#FFF6EC" },
-      { "slug": "white", "name": "White", "hex": "#FFFFFF" },
-      { "slug": "gold", "name": "Gold", "hex": "#F3C86B" },
-      { "slug": "multi", "name": "Rainbow / Multi", "hex": null }
+      {
+        "slug": "blush-pink",
+        "name": "Blush Pink",
+        "hex": "#FFC7D6"
+      },
+      {
+        "slug": "lilac",
+        "name": "Lilac",
+        "hex": "#DCC7F7"
+      },
+      {
+        "slug": "mint",
+        "name": "Mint",
+        "hex": "#BDEAD7"
+      },
+      {
+        "slug": "peach",
+        "name": "Peach",
+        "hex": "#FFDCC2"
+      },
+      {
+        "slug": "cream",
+        "name": "Cream",
+        "hex": "#FFF6EC"
+      },
+      {
+        "slug": "white",
+        "name": "White",
+        "hex": "#FFFFFF"
+      },
+      {
+        "slug": "gold",
+        "name": "Gold",
+        "hex": "#F3C86B"
+      },
+      {
+        "slug": "multi",
+        "name": "Rainbow / Multi",
+        "hex": null
+      }
     ],
     "priceBand": [
-      { "slug": "under-25", "name": "Under $25", "min": 0, "max": 25 },
-      { "slug": "25-50", "name": "$25–$50", "min": 25, "max": 50 },
-      { "slug": "50-100", "name": "$50–$100", "min": 50, "max": 100 },
-      { "slug": "over-100", "name": "$100+", "min": 100, "max": null }
+      {
+        "slug": "under-25",
+        "name": "Under $25",
+        "min": 0,
+        "max": 25
+      },
+      {
+        "slug": "25-50",
+        "name": "$25–$50",
+        "min": 25,
+        "max": 50
+      },
+      {
+        "slug": "50-100",
+        "name": "$50–$100",
+        "min": 50,
+        "max": 100
+      },
+      {
+        "slug": "over-100",
+        "name": "$100+",
+        "min": 100,
+        "max": null
+      }
     ],
     "theme": [
-      { "slug": "animals", "name": "Animals" },
-      { "slug": "food-drink", "name": "Food & Drink" },
-      { "slug": "florals", "name": "Florals" },
-      { "slug": "celestial", "name": "Celestial" },
-      { "slug": "characters", "name": "Characters" },
-      { "slug": "hearts", "name": "Hearts" }
+      {
+        "slug": "animals",
+        "name": "Animals"
+      },
+      {
+        "slug": "food-drink",
+        "name": "Food & Drink"
+      },
+      {
+        "slug": "florals",
+        "name": "Florals"
+      },
+      {
+        "slug": "celestial",
+        "name": "Celestial"
+      },
+      {
+        "slug": "characters",
+        "name": "Characters"
+      },
+      {
+        "slug": "hearts",
+        "name": "Hearts"
+      }
     ]
   },
   "brands": [
-    { "slug": "sanrio", "name": "Sanrio", "collectible": true },
-    { "slug": "pop-mart", "name": "POP MART", "collectible": true },
-    { "slug": "smoko", "name": "Smoko", "collectible": false },
-    { "slug": "jellycat", "name": "Jellycat", "collectible": true },
-    { "slug": "sonny-angel", "name": "Sonny Angel", "collectible": true },
-    { "slug": "miffy", "name": "Miffy", "collectible": true },
-    { "slug": "generic", "name": "Independent makers", "collectible": false }
+    {
+      "slug": "sanrio",
+      "name": "Sanrio",
+      "collectible": true
+    },
+    {
+      "slug": "pop-mart",
+      "name": "POP MART",
+      "collectible": true
+    },
+    {
+      "slug": "smoko",
+      "name": "Smoko",
+      "collectible": false
+    },
+    {
+      "slug": "jellycat",
+      "name": "Jellycat",
+      "collectible": true
+    },
+    {
+      "slug": "sonny-angel",
+      "name": "Sonny Angel",
+      "collectible": true
+    },
+    {
+      "slug": "miffy",
+      "name": "Miffy",
+      "collectible": true
+    },
+    {
+      "slug": "pokemon",
+      "name": "Pokémon",
+      "collectible": true
+    },
+    {
+      "slug": "studio-ghibli",
+      "name": "Studio Ghibli",
+      "collectible": true
+    },
+    {
+      "slug": "san-x",
+      "name": "San-X (Rilakkuma & Sumikko Gurashi)",
+      "collectible": true
+    },
+    {
+      "slug": "mofusand",
+      "name": "Mofusand",
+      "collectible": true
+    },
+    {
+      "slug": "chiikawa",
+      "name": "Chiikawa",
+      "collectible": true
+    },
+    {
+      "slug": "peanuts",
+      "name": "Peanuts (Snoopy)",
+      "collectible": true
+    },
+    {
+      "slug": "re-ment",
+      "name": "Re-Ment",
+      "collectible": true
+    },
+    {
+      "slug": "smiski",
+      "name": "Smiski",
+      "collectible": true
+    },
+    {
+      "slug": "bellzi",
+      "name": "Bellzi",
+      "collectible": false
+    },
+    {
+      "slug": "squishable",
+      "name": "Squishable",
+      "collectible": true
+    },
+    {
+      "slug": "disney",
+      "name": "Disney",
+      "collectible": true
+    },
+    {
+      "slug": "generic",
+      "name": "Independent makers",
+      "collectible": false
+    }
   ]
 }

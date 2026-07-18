@@ -1,0 +1,41 @@
+name: Refresh catalog
+
+# Weekly price/availability sync for feed-sourced products.
+# Crawls the verified Shopify sources, updates promoted records in
+# data/products.json, validates the graph, and commits the diff.
+
+on:
+  schedule:
+    - cron: "0 18 * * 1" # Mondays 18:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Crawl verified sources
+        run: node ingest/crawl-shopify.mjs
+
+      - name: Refresh promoted products
+        run: node ingest/refresh.mjs
+
+      - name: Validate knowledge graph
+        run: node ingest/validate.mjs
+
+      - name: Commit changes
+        run: |
+          git config user.name "smc-refresh-bot"
+          git config user.email "bots@supermegacute.com"
+          git add data/products.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Catalog refresh: price/availability sync ($(date -u +%F))"
+          git push

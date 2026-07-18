@@ -1,0 +1,750 @@
+{
+ "source": "uwumarket",
+ "batch": 1,
+ "items": [
+  {
+   "id": "uwumarket-mizuki-akemi-standee",
+   "name": "Mizuki Akemi Standee",
+   "merchantDescription": "Mizuki Akemi x UwU Collab Mizuki Akemi Standee Designed By: genkibunko",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-mizuki-akemi-sticker",
+   "name": "Mizuki Akemi Sticker",
+   "merchantDescription": "Mizuki Akemi x UwU Collab Mizuki Akemi Sticker Designed By: genkibunko",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-mizuki-akemi-keychain",
+   "name": "Mizuki Akemi Keychain",
+   "merchantDescription": "Mizuki Akemi x UwU Collab Mizuki Akemi Keychain Designed By: genkibunko",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "PLEDGE",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-mochi-slippers",
+   "name": "Renn Mochi Slippers",
+   "merchantDescription": "Renn x UwU Collab LIMITED TIME ONLY! Pre-Orders close on 8 /16/26 - 8:00pm CST! Single Size L/XL: Women 9–12 / Men 8–11 / EU 40–44 (28-29 CM length) Renn Mochi Slippers Designed By: SamusArting",
+   "vendor": "UwU Market",
+   "productType": "SLP01",
+   "merchantTags": [
+    "anime merch",
+    "anime plushie",
+    "PLEDGE",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "vtuber merch",
+    "vtuber plushie"
+   ],
+   "price": 40
+  },
+  {
+   "id": "uwumarket-renn-sticker-pack",
+   "name": "Renn Sticker Pack",
+   "merchantDescription": "Renn x UwU Collab Renn Sticker Pack Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "NSS01",
+   "merchantTags": [
+    "anime sticker",
+    "vtuber",
+    "vtuber sticker"
+   ],
+   "price": 30.95
+  },
+  {
+   "id": "uwumarket-renn-holo-sticker-pack-add-on",
+   "name": "Renn Holo Sticker Pack Add On",
+   "merchantDescription": "Renn x UwU Collab Renn Holo Sticker Pack Add On Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "HGJ01",
+   "merchantTags": [
+    "anime sticker",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber sticker"
+   ],
+   "price": 14.99
+  },
+  {
+   "id": "uwumarket-renn-mochi-heart-paws-keychain",
+   "name": "Renn Mochi Heart Paws Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Mochi Heart Paws Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-saved-the-blue-one-keychain",
+   "name": "Renn Saved the Blue One Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Saved the Blue One Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-ahhhh-keychain",
+   "name": "Renn AHHHH Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn AHHHH Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-cupcake-keychain",
+   "name": "Renn Cupcake Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Cupcake Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-kiss-keychain",
+   "name": "Renn Kiss Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Kiss Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-knife-keychain",
+   "name": "Renn Knife Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Knife Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-poop-keychain",
+   "name": "Renn Poop Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Poop Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-mochi-life-keychain",
+   "name": "Renn Mochi Life Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Mochi Life Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-smile-keychain",
+   "name": "Renn Smile Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Smile Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-i-guess-keychain",
+   "name": "Renn I Guess Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn I Guess Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-suck-at-art-keychain",
+   "name": "Renn Suck at Art Keychain",
+   "merchantDescription": "Renn x UwU Collab Renn Suck at Art Keychain Designed By: emil",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-renn-alpha-male-t-shirt",
+   "name": "Renn Alpha Male T-shirt",
+   "merchantDescription": "Renn x UwU Collab Renn Alpha Male T-shirt Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-nightlyvt-cozy-sticker",
+   "name": "NightlyVT Cozy Sticker",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Cozy Sticker Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-nightlyvt-winking-sticker",
+   "name": "NightlyVT Winking Sticker",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Winking Sticker Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-nightlyvt-cozy-keychain",
+   "name": "NightlyVT Cozy Keychain",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Cozy Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-nightlyvt-winking-keychain",
+   "name": "NightlyVT Winking Keychain",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Winking Keychain Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-nightlyvt-standee",
+   "name": "NightlyVT  Standee",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Standee Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-nightlyvt-red-3d-mousepad",
+   "name": "NightlyVT Red 3D Mousepad",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Red 3D Mousepad Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-nightlyvt-3d-mousepad",
+   "name": "NightlyVT 3D Mousepad",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT 3D Mousepad Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-nightlyvt-dakimakura-keychain",
+   "name": "NightlyVT Dakimakura Keychain",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Dakimakura Keychain Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "DKC01",
+   "merchantTags": [
+    "Anime Keychain",
+    "anime merch",
+    "daki",
+    "daki keychain",
+    "dakimakura",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-nightlyvt-dakimakura",
+   "name": "NightlyVT Dakimakura",
+   "merchantDescription": "NightlyVT x UwU Collab NightlyVT Dakimakura Designed By: NekoDama",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "vtuber",
+    "vtuber body pillow",
+    "vtuber daki",
+    "vtuber merch"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-masamiva-photocard-debut-set",
+   "name": "MasamiVA Debut Mystery Photocard",
+   "merchantDescription": "Each order will receive one of six randomized card from the set. Each card is approx. 5.8 x 8.9cm",
+   "vendor": "UwU Market",
+   "productType": "pcc",
+   "merchantTags": [
+    "PLEDGE",
+    "PLEDGEPOP"
+   ],
+   "price": 6.95
+  },
+  {
+   "id": "uwumarket-cyberpup-plushie-campaign",
+   "name": "Cyberpup Plushie Campaign",
+   "merchantDescription": "Ceru Foxhound x UwU Collab LIMITED TIME ONLY! Pre Orders close on 08/16/26 Bring the Cyberpup plushie to life! Size: Approximately 8\" (20cm). Material: Premium Plush Fabrics.",
+   "vendor": "UwU Market",
+   "productType": "PLSH1",
+   "merchantTags": [
+    "anime merch",
+    "anime plushie",
+    "PLEDGE",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "vtuber merch",
+    "vtuber plushie"
+   ],
+   "price": 34.98
+  },
+  {
+   "id": "uwumarket-mewreci-picture-perfect-wall-scroll",
+   "name": "Mewreci \"Picture Perfect\" Wall Scroll",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci \"Picture Perfect\" Wall Scroll Designed By: daniratyan",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-roguekarmavt-standee",
+   "name": "RogueKarmaVT Standee",
+   "merchantDescription": "RogueKarmaVT x UwU Collab RogueKarmaVT Standee Designed By: mydarlingmayvt",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-roguekarmavt-keychain",
+   "name": "RogueKarmaVT Keychain",
+   "merchantDescription": "RogueKarmaVT x UwU Collab RogueKarmaVT Keychain Designed By: mydarlingmayvt",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-roguekarmavt-t-shirt",
+   "name": "RogueKarmaVT T-Shirt",
+   "merchantDescription": "RogueKarmaVT x UwU Collab RogueKarmaVT T-Shirt Designed By: mydarlingmayvt",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "PLEDGE",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-mewreci-daki-keychain",
+   "name": "Mewreci Daki Keychain",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci Daki Keychain Designed By: graapee",
+   "vendor": "UwU Market",
+   "productType": "DKC01",
+   "merchantTags": [
+    "Anime Keychain",
+    "anime merch",
+    "daki",
+    "daki keychain",
+    "dakimakura",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 19.95
+  },
+  {
+   "id": "uwumarket-mewreci-dakimakura",
+   "name": "Mewreci Dakimakura",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci Dakimakura Designed By: graapee",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "vtuber",
+    "vtuber body pillow",
+    "vtuber daki",
+    "vtuber merch"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-mewreci-mewreci-core-sticker-pack",
+   "name": "Mewreci \"Mewreci Core\" Sticker Pack",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci \"Mewreci Core\" Sticker Pack Designed By: dog",
+   "vendor": "UwU Market",
+   "productType": "FSP01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 17.99
+  },
+  {
+   "id": "uwumarket-mewreci-smol-keychain-s",
+   "name": "Mewreci Smol Keychain",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci Smol Keychain Designed By: khoi_ist",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-mewreci-bleh-phone-case",
+   "name": "Mewreci \"Bleh\" Phone Case",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci \"Bleh\" Phone Case Designed By: riia_arts",
+   "vendor": "UwU Market",
+   "productType": "PHC01",
+   "merchantTags": [
+    "anime iphone case",
+    "anime merch",
+    "anime phone case",
+    "vtuber",
+    "vtuber iphone case",
+    "vtuber merch",
+    "vtuber phone case"
+   ],
+   "price": 25
+  },
+  {
+   "id": "uwumarket-mewreci-3d-mousepad",
+   "name": "Mewreci 3D Mousepad",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci 3D Mousepad Designed By: Okanyadia",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-mewreci-smother-xxl-mousepad",
+   "name": "Mewreci \"Smother\" XXL Mousepad",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci \"Smother\" XXL Mousepad Designed By: pyxelf",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-mewreci-bleh-jet-tag",
+   "name": "Mewreci \"Bleh\" Jet Tag",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci \"Bleh\" Jet Tag Designed By: riia_arts",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-mewreci-keychain-bundle",
+   "name": "Mewreci Keychain Bundle",
+   "merchantDescription": "Mewreci x UwU Collab Official Mewcreci Keychain Bundle: x1 Mewreci Hearts Keychain x1 Mewreci Prance Keychain x1 Mewreci Typing Keychain Mewreci Keychain Bundle Designed By: dog Made-to-Order products are produced in house and will take around 40 business days",
+   "vendor": "UwU Market",
+   "productType": null,
+   "merchantTags": [],
+   "price": 50.85
+  },
+  {
+   "id": "uwumarket-freyamoon-t-shirt",
+   "name": "FreyaMoon T-Shirt",
+   "merchantDescription": "FreyaMoon x UwU Collab FreyaMoon T-Shirt Designed By: Unknown Artist",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "PLEDGE",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-lilyofthevalleyvt-chibi-sticker",
+   "name": "LilyOfTheValley Chibi Sticker",
+   "merchantDescription": "LilyOfTheValley x UwU Collab LilyOfTheValley Chibi Sticker Designed By: Team UwU",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-lilyofthevalleyvt-mascot-sticker",
+   "name": "LilyOfTheValley Mascot Sticker",
+   "merchantDescription": "LilyOfTheValley x UwU Collab LilyOfTheValley Mascot Sticker Designed By: Rojen",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-lilyofthevalleyvt-sticker",
+   "name": "LilyOfTheValley Sticker",
+   "merchantDescription": "LilyOfTheValley x UwU Collab LilyOfTheValley Sticker Designed By: Rojen",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-lilyofthevalleyvt-standee",
+   "name": "LilyOfTheValley Standee",
+   "merchantDescription": "LilyOfTheValley x UwU Collab LilyOfTheValley Standee Designed By: Toska",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-feralune-plushie-petition",
+   "name": "FeraLune Plushie Petition",
+   "merchantDescription": "FeraLune x UwU Collab FeraLune Plushie Petition Designed By: Grompz LIMITED TIME ONLY! Pre Orders close on 04/10/26 - 1:00pm CST! Bring the FeraLune plushie to life! Size: Approximately 8\" (20cm). Material: Premium Plush Fabrics. Final product may vary some fr",
+   "vendor": "UwU Market",
+   "productType": "PLSH1",
+   "merchantTags": [
+    "anime merch",
+    "anime plushie",
+    "PLEDGE",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "vtuber merch",
+    "vtuber plushie"
+   ],
+   "price": 34.98
+  },
+  {
+   "id": "uwumarket-feraluna-plushie-keychain",
+   "name": "FeraLune Plushie Keychain",
+   "merchantDescription": "FeraLune x UwU Collab FeraLune Plushie Keychain Designed By: Grompz",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-feraluna-plushie-sticker",
+   "name": "FeraLuna Plushie Sticker",
+   "merchantDescription": "FeraLune x UwU Collab FeraLuna Plushie Sticker Designed By: Grompz",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  }
+ ]
+}

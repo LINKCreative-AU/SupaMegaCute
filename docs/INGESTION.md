@@ -27,7 +27,22 @@ normalize.mjs     → ingest/inbox/<source>.json        (draft graph records, st
 tag.mjs           → same file, status: tagged|rejected (facets + editorial blurb)
    (review)       → status: approved                   (human or agent editorial pass)
 promote.mjs       → data/products.json                 (dedup merge; status: promoted)
+validate.mjs      → integrity gate                     (exit non-zero on any violation)
+refresh.mjs       → price/availability sync            (run after a re-crawl; flags gone products)
 ```
+
+## Bot fan-out (classification at scale)
+
+For bulk classification, the review step runs as a fleet of agents instead of `tag.mjs`:
+
+```
+prep-queue.mjs '{"sanrio":200,...}' 50   → ingest/review-queue/<source>-<n>.json (50-draft work units)
+  <classification bots>                  → ingest/review/<source>-<n>.json      (classifications + editorial blurbs)
+apply-review.mjs                         → merges reviews into inbox (validates every facet slug; invalid slugs dropped, not written)
+promote.mjs && validate.mjs              → graph updated, then integrity-checked
+```
+
+Each bot gets one work unit and must emit, per product: pillars, brand, aesthetics, moods, recipients, occasions, rooms, colours, themes plus 2–5 kebab-case discovery tags (product type first, then franchise, then attributes) — the tag conventions the Explore engine sorts on. Two independent guards keep bot output safe: `apply-review.mjs` drops any slug not in the taxonomy at merge time, and `validate.mjs` fails the pipeline if anything invalid reaches the graph.
 
 Run it:
 

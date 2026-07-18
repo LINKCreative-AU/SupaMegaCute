@@ -1,0 +1,906 @@
+{
+ "source": "sanrio",
+ "batch": 2,
+ "items": [
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-lunch-bag-floral",
+   "name": "Hello Kitty and Friends x Vera Bradley Lunch Bag (Floral)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Introducing our Lunch Bag, the perfect companion for keeping your meals fresh and styli",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026",
+    "Character:Cinnamoroll"
+   ],
+   "price": 55
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-bancroft-backpack-flo",
+   "name": "Hello Kitty and Friends x Vera Bradley Bancroft Backpack (Floral)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Elevate your daily commute or travel experience with our versatile Bancroft Backpack. D",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026"
+   ],
+   "price": 165
+  },
+  {
+   "id": "sanrio-hello-kitty-x-vera-bradley-small-banbury-backpack-pink",
+   "name": "Hello Kitty x Vera Bradley Small Banbury Backpack (Pink)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Meet our Small Banbury Backpack, the perfect blend of style and convenience for your on-the-go life",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026"
+   ],
+   "price": 125
+  },
+  {
+   "id": "sanrio-hello-kitty-x-vera-bradley-large-original-duffel-pink",
+   "name": "Hello Kitty x Vera Bradley Large Original Duffel (Pink)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Embrace the spirit of adventure with our Large Original Duffel. Designed for the modern explorer, t",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 170
+  },
+  {
+   "id": "sanrio-hello-kitty-x-vera-bradley-kimmel-sling-crossbody-pink",
+   "name": "Hello Kitty x Vera Bradley Kimmel Sling Crossbody (Pink)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Streamlined and effortless. Its gentle crescent shape and smart zip pocket make carrying your essen",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 85
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-small-hathaway-tote-h",
+   "name": "Hello Kitty and Friends x Vera Bradley Small Hathaway Tote (Hydrangeas)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Step out in style and stay organized on the go with the Small Hathaway Tote. Whether yo",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026",
+    "Character:Cinnamoroll"
+   ],
+   "price": 120
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-bag-charm-hydrangeas",
+   "name": "Hello Kitty and Friends x Vera Bradley Bag Charm (Hydrangeas)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Add a touch of flair to your bag or backpack with our stylish Bag Charm. Designed to el",
+   "vendor": "Vera Bradley",
+   "productType": "Accessory",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Vera Bradley",
+    "BTS-2026"
+   ],
+   "price": 25
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-hanging-organizer-hyd",
+   "name": "Hello Kitty and Friends x Vera Bradley Hanging Organizer (Hydrangeas)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Stay organized and travel in style with our Hanging Travel Organizer. Designed to keep ",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley",
+    "BTS-2026",
+    "Character:Cinnamoroll"
+   ],
+   "price": 100
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-vera-bradley-dual-pouch-wide-wrist",
+   "name": "Hello Kitty and Friends x Vera Bradley Dual Pouch Wide Wristlet (Hydrangeas)",
+   "merchantDescription": "This exclusive collaboration combines Hello Kitty and Friends's fun-loving spirit with Vera Bradley's bright, inviting patterns to make a collection full of fun and smiles. Two pouches, twice the ease. This dual-pouch wristlet keeps your essentials beautifully",
+   "vendor": "Vera Bradley",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026VERABRADLEY",
+    "26051101",
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Vera Bradley"
+   ],
+   "price": 60
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-f1-academy-12-plush-pink",
+   "name": "Hello Kitty and Friends x F1 ACADEMY 12\" Plush (Pink)",
+   "merchantDescription": "In honor of the Formula 1 Las Vegas Grand Prix 2025, F1 ACADEMY and Hello Kitty have teamed up to bring fans of both universes an exclusive merchandise collection, featuring your favorite friends while they speed through our hearts in the name of racing! Grab ",
+   "vendor": "Insomniac Holdings LLC",
+   "productType": "Plush",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Insomniac Holdings Llc",
+    "Character:Hello Kitty",
+    "NA-121925",
+    "New",
+    "Plush",
+    "PO:L474"
+   ],
+   "price": 60
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-f1-academy-12-plush-violet",
+   "name": "Hello Kitty and Friends x F1 ACADEMY 12\" Plush (Violet)",
+   "merchantDescription": "In honor of the Formula 1 Las Vegas Grand Prix 2025, F1 ACADEMY and Hello Kitty have teamed up to bring fans of both universes an exclusive merchandise collection, featuring your favorite friends while they speed through our hearts in the name of racing! Grab ",
+   "vendor": "Insomniac Holdings LLC",
+   "productType": "Plush",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Insomniac Holdings Llc",
+    "Character:Hello Kitty",
+    "NA-121925",
+    "New",
+    "Plush",
+    "PO:L474"
+   ],
+   "price": 60
+  },
+  {
+   "id": "sanrio-anti-social-social-club-x-hello-kitty-ethereal-dad-cap-black",
+   "name": "Anti Social Social Club x Hello Kitty Ethereal Dad Cap (Black)",
+   "merchantDescription": "Anti Social Social Club is teaming up once again with Hello Kitty for their newest collaboration yet. This exclusive drop features limited edition hoodies, tees, and accessories that fuse the iconic charm of Hello Kitty with ASSC’s signature streetwear edge. T",
+   "vendor": "Anti Social Social Club",
+   "productType": "Accessory",
+   "merchantTags": [
+    "2026ASSC",
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Baseball Caps",
+    "Brand:Anti Social Social Club",
+    "Character:Hello Kitty"
+   ],
+   "price": 45
+  },
+  {
+   "id": "sanrio-my-melody-plush-mascot-bag-charm-strawberry-whip-series",
+   "name": "My Melody Plush Mascot Bag Charm (Strawberry Whip Series)",
+   "merchantDescription": "A delicately sweet strawberry series that’s a pure delight, featuring your favorite Sanrio Characters! Topped with “whipped” accents, these bag charms, mascots, and pouches feel decadent, whimsical, and a treat for all to see! ♡ Hand-painted cheeks ♡ Gold chai",
+   "vendor": "Japan Original",
+   "productType": "Plush",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:My Melody",
+    "Keychains"
+   ],
+   "price": 26
+  },
+  {
+   "id": "sanrio-hello-kitty-x-one-today-figurine-heart-black-series",
+   "name": "Hello Kitty x ONE TODAY Figurine (Heart - Black Series)",
+   "merchantDescription": "The release of the art figure \"Hello Kitty Black Series\" has been decided, and it features a design form that combines the cuteness of Hello Kitty with a stylishness for adults, based on the concept of \"a cute and stylish Hello Kitty that adults will want.\" Th",
+   "vendor": "12DO Corp",
+   "productType": "Toys&Games",
+   "merchantTags": [
+    "Brand:12Do Corp",
+    "Character:Hello Kitty",
+    "Collectibles",
+    "Home Decor",
+    "Home Goods",
+    "NA-041726",
+    "One Today",
+    "PO:L478"
+   ],
+   "price": 170
+  },
+  {
+   "id": "sanrio-hello-kitty-x-lola-the-boys-adult-gem-love-hoodie-pink",
+   "name": "Hello Kitty x Lola + The Boys Adult Gem Love Hoodie (Pink)",
+   "merchantDescription": "Celebrate your individuality with the Hello Kitty x Lola and The Boys collection! Inspired by vibrant colors, beloved characters, and fearless creativity, this fun collaboration brings together charming character details that celebrate your one-of-a-kind style",
+   "vendor": "Lola and The Boys NYC INC",
+   "productType": "Apparel",
+   "merchantTags": [
+    "app:new",
+    "Apparel",
+    "Badge:BrandNew",
+    "Brand:Lola And The Boys Nyc Inc",
+    "Character:Hello Kitty",
+    "Hoodies",
+    "NA-020226",
+    "NA-021226"
+   ],
+   "price": 72
+  },
+  {
+   "id": "sanrio-converse-x-hello-kitty-and-friends-chuck-taylor-all-star-hi-",
+   "name": "Converse x Hello Kitty and Friends Chuck Taylor All Star Hi-Top Sneaker (Adult - Black)",
+   "merchantDescription": "Add some playfulness into your day and a dose of kawaii into your step! Sanrio and Converse have joined forces to bring you Converse x Hello Kitty, a playful collection of footwear, sportswear, and accessories made for fans of all ages! The Converse x Hello Ki",
+   "vendor": "CONVERSE",
+   "productType": "Shoes",
+   "merchantTags": [
+    "2026CONVERSE",
+    "app:new",
+    "Badge:BrandNew",
+    "Best Seller",
+    "Brand:CONVERSE",
+    "Character:Badtz-maru",
+    "Character:Chococat",
+    "Character:Cinnamoroll"
+   ],
+   "price": 80
+  },
+  {
+   "id": "sanrio-anti-social-social-club-x-badtz-maru-classic-tee-black",
+   "name": "Anti Social Social Club x Badtz-maru Classic Tee (Black)",
+   "merchantDescription": "Celebrating its milestone 10-year anniversary, Anti Social Social Club is teaming up once again with Hello Kitty for their highly anticipated second collaboration. This exclusive drop features limited edition hoodies and tees that fuse the iconic charm of Hell",
+   "vendor": "Anti Social Social Club",
+   "productType": "Apparel",
+   "merchantTags": [
+    "app:new",
+    "Apparel",
+    "Brand:Anti Social Social Club",
+    "Brand:Assc",
+    "Character:Badtz-maru",
+    "NA-050325",
+    "PO:L458",
+    "prodavail"
+   ],
+   "price": 55
+  },
+  {
+   "id": "sanrio-anti-social-social-club-x-cinnamoroll-classic-hoodie-black",
+   "name": "Anti Social Social Club x Cinnamoroll Classic Hoodie (Black)",
+   "merchantDescription": "Celebrating its milestone 10-year anniversary, Anti Social Social Club is teaming up once again with Hello Kitty for their highly anticipated second collaboration. This exclusive drop features limited edition hoodies and tees that fuse the iconic charm of Hell",
+   "vendor": "Anti Social Social Club",
+   "productType": "Apparel",
+   "merchantTags": [
+    "app:new",
+    "Apparel",
+    "Brand:Anti Social Social Club",
+    "Brand:Assc",
+    "Character:Cinnamoroll",
+    "Hoodies",
+    "MAY25-jump",
+    "MAY25-mid"
+   ],
+   "price": 99
+  },
+  {
+   "id": "sanrio-anti-social-social-club-x-hello-kitty-spring-sakura-hoodie-b",
+   "name": "Anti Social Social Club x Hello Kitty Spring Sakura Hoodie (Blue Tie-Dye)",
+   "merchantDescription": "Celebrating its milestone 10-year anniversary, Anti Social Social Club is teaming up once again with Hello Kitty for their highly anticipated second collaboration. This exclusive drop features limited edition hoodies and tees that fuse the iconic charm of Hell",
+   "vendor": "Anti Social Social Club",
+   "productType": "Apparel",
+   "merchantTags": [
+    "app:new",
+    "Apparel",
+    "Brand:Anti Social Social Club",
+    "Brand:Assc",
+    "Character:Hello Kitty",
+    "Hoodies",
+    "NA-050325",
+    "outerwear"
+   ],
+   "price": 99
+  },
+  {
+   "id": "sanrio-hello-kitty-halloween-ornament-white-ghost",
+   "name": "Hello Kitty Halloween Ornament (White Ghost)",
+   "merchantDescription": "Hovering and gliding through the air, Halloween wouldn’t be complete without a scary-cute ghost featuring Hello Kitty! These pint-sized hanging ornaments are highly giftable and ready to make your holiday decor spookier! ♡ Halloween character accents ♡ White g",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Seasonal",
+   "merchantTags": [
+    "2025HALLOWEEN",
+    "app:new",
+    "BFCM25-10",
+    "Brand:Nakajima Corporation",
+    "Character:Hello Kitty",
+    "Halloween",
+    "Holiday Ornaments",
+    "Home Decor"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "sanrio-anti-social-social-club-x-hello-kitty-metal-tee-black",
+   "name": "Anti Social Social Club x Hello Kitty Metal Tee (Black)",
+   "merchantDescription": "Anti Social Social Club is teaming up once again with Hello Kitty for their newest collaboration yet. This exclusive drop features limited edition hoodies, tees, and accessories that fuse the iconic charm of Hello Kitty with ASSC’s signature streetwear edge. T",
+   "vendor": "Anti Social Social Club",
+   "productType": "Apparel",
+   "merchantTags": [
+    "2026ASSC",
+    "app:new",
+    "Apparel",
+    "Badge:BrandNew",
+    "Brand:Anti Social Social Club",
+    "Character:Hello Kitty",
+    "Els PW 28708",
+    "Hello Kitty"
+   ],
+   "price": 55
+  },
+  {
+   "id": "sanrio-hello-kitty-x-baggu-embroidered-nylon-crescent-bag-classic-a",
+   "name": "Hello Kitty x Baggu Embroidered Nylon Crescent Bag (Classic Apple)",
+   "merchantDescription": "Practical doesn’t have to be boring. This Medium Nylon Crescent Bag is effortlessly casual and large enough to carry more than just the essentials. Wear it slung over your shoulder or crossbody for a hands-free experience. Complete with two interior pockets th",
+   "vendor": "Baggu Corporation",
+   "productType": "Bags",
+   "merchantTags": [
+    "1125DS",
+    "Accessories",
+    "Accessory",
+    "Bags",
+    "Bestsellers EM",
+    "BFDONE",
+    "Brand:Baggu",
+    "Brand:Baggu Corporation"
+   ],
+   "price": 56
+  },
+  {
+   "id": "sanrio-cinnamoroll-8-plush-gingham-cap-series",
+   "name": "Cinnamoroll 8\" Plush (Gingham Cap Series)",
+   "merchantDescription": "Adventuring and exploring is always more fun with a friend! Your favorite Sanrio Characters take their trusty sun cap for a day of non-stop exploring. Dressed in a matching gingham fit and accented with their tag-along pal, these plushies make a great addition",
+   "vendor": "NAKAJIMA CORPORATION",
+   "productType": "Plush",
+   "merchantTags": [
+    "1125DS",
+    "BFCM24-40",
+    "BFCM25-40",
+    "Brand:Nakajima Corporation",
+    "Character:Cinnamoroll",
+    "MAY25-jump",
+    "NA-092724",
+    "Plush"
+   ],
+   "price": 9.99
+  },
+  {
+   "id": "sanrio-hello-kitty-tiny-chum-plush-besties-3d-display-frame",
+   "name": "Hello Kitty & Tiny Chum Plush Besties 3D Display Frame",
+   "merchantDescription": "Step into the Sanrio gallery! Forget ordinary plush, this is a masterpiece. Introducing the Hello Kitty Tiny Chum Plush Display Frame a 3D art piece designed to bring a touch of sophistication to your space. Featuring an intricate, plastic frame adorned with a",
+   "vendor": "Jazwares",
+   "productType": "Plush",
+   "merchantTags": [
+    "app:new",
+    "Besties",
+    "Brand:Jazwares",
+    "Character:Hello Kitty",
+    "Character:Hello Kitty & Friends",
+    "Character:Tiny Chum",
+    "Collectibles",
+    "Dolls"
+   ],
+   "price": 59.99
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-pencil-case-hawaii-kawaii",
+   "name": "Hello Kitty x Aloha Collection Keep It Light Pencil Case (Hawaii Kawaii)",
+   "merchantDescription": "Write it up with Hello Kitty! Designed to keep your pencils, pens, and other essentials in one place, this sleek case has you covered from classroom to café. Made with water-resistant fabric and a zipper closure, it's the perfect sidekick for every school comm",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-lunch-bag-hawaii-kawaii",
+   "name": "Hello Kitty x Aloha Collection Keep It Light Lunch Bag (Hawaii Kawaii)",
+   "merchantDescription": "A lunch date with Hello Kitty! For every student, from grade school to grad school, or workers on the go, this lunchbox is made to keep snacks fresh and ready. With water-resistant insulation, it holds a bento box, drink, and has a mesh pocket for snacks or an",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 50
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-backpack-black-white-icons",
+   "name": "Hello Kitty x Aloha Collection Keep It Light Backpack (Black & White Icons)",
+   "merchantDescription": "Go everywhere with Hello Kitty! This sleek, lightweight, and durable backpack, crafted from ripstop nylon, seamlessly blends style with functionality. Become a carry-on pro with the built-in trolley sleeve that lets you secure your bag to your luggage for effo",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026"
+   ],
+   "price": 70
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-lunch-bag-black-white-icons",
+   "name": "Hello Kitty x Aloha Collection Keep It Light Lunch Bag (Black & White Icons)",
+   "merchantDescription": "A lunch date with Hello Kitty! For every student, from grade school to grad school, or workers on the go, this lunchbox is made to keep snacks fresh and ready. With water-resistant insulation, it holds a bento box, drink, and has a mesh pocket for snacks or an",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 50
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-pencil-case-black-and-white-i",
+   "name": "Hello Kitty x Aloha Collection Keep It Light Pencil Case (Black & White Icons)",
+   "merchantDescription": "Write it up with Hello Kitty! Designed to keep your pencils, pens, and other essentials in one place, this sleek case has you covered from classroom to café. Made with water-resistant fabric and a zipper closure, it's the perfect sidekick for every school comm",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 32
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-13-laptop-case-black-white-ic",
+   "name": "Hello Kitty x Aloha Collection Keep It Light 13\" Laptop Case (Black & White Icons)",
+   "merchantDescription": "Dress your tech with Hello Kitty! Designed to keep your tech protected and essentials in one place, this laptop case has you covered from classroom to café. Made with water-resistant fabric and light padding, it's built to fit up to a 13” laptop. With pockets ",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-13-laptop-case-hawaii-kawaii",
+   "name": "Hello Kitty x Aloha Collection Keep It Light 13\" Laptop Case (Hawaii Kawaii)",
+   "merchantDescription": "Dress your tech with Hello Kitty! Designed to keep your tech protected and essentials in one place, this laptop case has you covered from classroom to café. Made with water-resistant fabric and light padding, it's built to fit up to a 13” laptop. With pockets ",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 46
+  },
+  {
+   "id": "sanrio-hello-kitty-x-aloha-collection-keep-it-light-backpack-hawaii",
+   "name": "Hello Kitty x Aloha Collection Keep It Light Backpack (Hawaii Kawaii)",
+   "merchantDescription": "Go everywhere with Hello Kitty! This sleek, lightweight, and durable backpack, crafted from ripstop nylon, seamlessly blends style with functionality. Become a carry-on pro with the built-in trolley sleeve that lets you secure your bag to your luggage for effo",
+   "vendor": "Aloha Collection Inc",
+   "productType": "Bags",
+   "merchantTags": [
+    "2026ALOHACOLLECTION",
+    "app:new",
+    "Backpacks",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Aloha Collection",
+    "Brand:Aloha Collection Inc",
+    "BTS-2026"
+   ],
+   "price": 70
+  },
+  {
+   "id": "sanrio-hangyodon-petit-wash-towel-strike-a-pose-series",
+   "name": "Hangyodon Petit Wash Towel (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bath",
+    "Bath & Body",
+    "Bathroom",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Hangyodon"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-slim-pencil-pouch-strike-a-pose-series",
+   "name": "Cinnamoroll Slim Pencil Pouch (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Cinnamoroll",
+    "NA-070226"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-pompompurin-slim-pencil-pouch-strike-a-pose-series",
+   "name": "Pompompurin Slim Pencil Pouch (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Pompompurin",
+    "NA-070226"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-pompompurin-slim-double-spiral-notebook-strike-a-pose-series",
+   "name": "Pompompurin Slim Double Spiral Notebook (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! This compact notebook fits nicely in your tote or backpack and is great for note-taking or making lists, while the mini gr",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Pompompurin",
+    "NA-070226",
+    "New"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-hangyodon-tote-bag-strike-a-pose-series",
+   "name": "Hangyodon Tote Bag (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A tote that holds the most with a place to hang charms and mascots, while the big graphic shows the cutest expression of y",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hangyodon",
+    "NA-070226"
+   ],
+   "price": 22
+  },
+  {
+   "id": "sanrio-hello-kitty-tote-bag-strike-a-pose-series",
+   "name": "Hello Kitty Tote Bag (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A tote that holds the most with a place to hang charms and mascots, while the big graphic shows the cutest expression of y",
+   "vendor": "Japan Original",
+   "productType": "Bags",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hello Kitty",
+    "NA-070226"
+   ],
+   "price": 22
+  },
+  {
+   "id": "sanrio-my-melody-petit-wash-towel-strike-a-pose-series",
+   "name": "My Melody Petit Wash Towel (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bath",
+    "Bath & Body",
+    "Bathroom",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:My Melody"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-kuromi-slim-pencil-pouch-strike-a-pose-series",
+   "name": "Kuromi Slim Pencil Pouch (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Kuromi",
+    "NA-070226"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-my-melody-slim-pencil-pouch-strike-a-pose-series",
+   "name": "My Melody Slim Pencil Pouch (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:My Melody",
+    "NA-070226"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-hello-kitty-slim-pencil-pouch-strike-a-pose-series",
+   "name": "Hello Kitty Slim Pencil Pouch (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! A pencil pouch that keeps your pens and pencils organized, while the big graphic shows the cutest expression of your Sanri",
+   "vendor": "Japan Original",
+   "productType": "Stationery",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bags",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hello Kitty",
+    "NA-070226"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-kuromi-3d-eyewear-case-duo-strike-a-pose-series",
+   "name": "Kuromi 3D Eyewear Case Duo (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Keep your stylish shades or reading glasses protected and safe with this hard 3D eyeglasses case. Equipped with a matching",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Kuromi"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-hello-kitty-3d-eyewear-case-duo-strike-a-pose-series",
+   "name": "Hello Kitty 3D Eyewear Case Duo (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Keep your stylish shades or reading glasses protected and safe with this hard 3D eyeglasses case. Equipped with a matching",
+   "vendor": "Japan Original",
+   "productType": "Accessory",
+   "merchantTags": [
+    "Accessories",
+    "Accessory",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "BTS-2026",
+    "Character:Hello Kitty"
+   ],
+   "price": 11.99
+  },
+  {
+   "id": "sanrio-cinnamoroll-petit-wash-towel-strike-a-pose-series",
+   "name": "Cinnamoroll Petit Wash Towel (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bath",
+    "Bath & Body",
+    "Bathroom",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Cinnamoroll"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-kuromi-petit-wash-towel-strike-a-pose-series",
+   "name": "Kuromi Petit Wash Towel (Strike A Pose Series)",
+   "merchantDescription": "Strike a pose with your favorite Sanrio Characters in this colorful collection of small bags, accessories, and fun stationery must-haves! Crafted from breathable, soft material, it's gentle on skin and incredibly easy to maintain. Whether you're washing up or ",
+   "vendor": "Japan Original",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "app:new",
+    "Badge:BrandNew",
+    "Bath",
+    "Bath & Body",
+    "Bathroom",
+    "Brand:Japan Original",
+    "Brand:Sanrio",
+    "Character:Kuromi"
+   ],
+   "price": 5.99
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-pentel-energel-rtx-liquid-gel-pen--2",
+   "name": "Hello Kitty and Friends x Pentel EnerGel RTX Liquid Gel Pen (Mix 1 - 5-Pk)",
+   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. ♡ Key features: Limited-Edition ",
+   "vendor": "Pentel Of America Ltd",
+   "productType": "Stationery",
+   "merchantTags": [
+    "2026PENTEL",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Pentel Of America Ltd",
+    "BTS-2026",
+    "Character:Chococat",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty"
+   ],
+   "price": 19.1
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-pentel-rsvp-ballpoint-pen-pack-mix",
+   "name": "Hello Kitty and Friends x Pentel RSVP Ballpoint Pen Pack (Mix 1 - 5-Pk)",
+   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. ♡ Key features: Limited-Edition ",
+   "vendor": "Pentel Of America Ltd",
+   "productType": "Stationery",
+   "merchantTags": [
+    "2026PENTEL",
+    "app:new",
+    "Badge:BrandNew",
+    "Ballpoint Pens",
+    "Brand:Pentel Of America Ltd",
+    "BTS-2026",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty"
+   ],
+   "price": 6.4
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-pentel-energize-mechanical-pencil-",
+   "name": "Hello Kitty and Friends x Pentel EnerGize Mechanical Pencil (2-Pk)",
+   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. This Pentel EnerGize mechanical ",
+   "vendor": "Pentel Of America Ltd",
+   "productType": "Stationery",
+   "merchantTags": [
+    "2026PENTEL",
+    "app:new",
+    "Badge:BrandNew",
+    "Brand:Pentel Of America Ltd",
+    "BTS-2026",
+    "Character:Chococat",
+    "Character:Cinnamoroll",
+    "Character:Hello Kitty"
+   ],
+   "price": 9.98
+  },
+  {
+   "id": "sanrio-hello-kitty-and-friends-x-pentel-rsvp-ballpoint-pen-pack-mix-2",
+   "name": "Hello Kitty and Friends x Pentel RSVP Ballpoint Pen Pack (Mix 2 - 5-Pk)",
+   "merchantDescription": "Your favorite characters, your favorite pens. Pentel has teamed up with Hello Kitty and Friends to bring you a limited-edition collection of premium writing instruments designed for fans, collectors, and everyday writers alike. ♡ Key features: Limited-Edition ",
+   "vendor": "Pentel Of America Ltd",
+   "productType": "Stationery",
+   "merchantTags": [
+    "2026PENTEL",
+    "app:new",
+    "Badge:BrandNew",
+    "Ballpoint Pens",
+    "Brand:Pentel Of America Ltd",
+    "BTS-2026",
+    "Character:Chococat",
+    "Character:Hello Kitty"
+   ],
+   "price": 6.4
+  }
+ ]
+}

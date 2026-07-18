@@ -1,0 +1,657 @@
+{
+ "source": "blippo",
+ "batch": 3,
+ "items": [
+  {
+   "id": "blippo-amenomori-fumika-angel-blue-memo-pad",
+   "name": "Amenomori Fumika Angel Blue Memo Pad",
+   "merchantDescription": "This kawaii notepad features Amenomori Fumika's \"Angel Blue\" illustration! The cute and dreamy design includes a fluffy cat with a kawaii teddy bear and other sweet-looking things. Use this to write down short messages! Total of 100 sheets with 4 designs",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Notepads",
+   "merchantTags": [
+    "Notepads"
+   ],
+   "price": 9.9
+  },
+  {
+   "id": "blippo-kirbys-dream-land-matte-2b-pencil",
+   "name": "Kirby's Dream Land Matte 2B Pencil",
+   "merchantDescription": "Use this super cute 2B pencil to sketch your favorite characters! It showcases prints of Kirby and his friends.",
+   "vendor": "JP / Brai Enterprise",
+   "productType": "Pencils",
+   "merchantTags": [
+    "On Sale",
+    "Pencils"
+   ],
+   "price": 1.52
+  },
+  {
+   "id": "blippo-cinnamoroll-bunny-onesie-2b-pencil",
+   "name": "CInnamoroll Bunny Onesie 2B Pencil",
+   "merchantDescription": "Use this super cute 2B pencil to practice your sketches! It features a cute illustration of Cinnamoroll wearing a fluffy rabbit onesie.",
+   "vendor": "JP / LIG",
+   "productType": "Pencils",
+   "merchantTags": [
+    "On Sale",
+    "Pencils"
+   ],
+   "price": 1.52
+  },
+  {
+   "id": "blippo-nico-dango-play-sumikko-gurashi-game",
+   "name": "Nico Dango Play Sumikko Gurashi Game",
+   "merchantDescription": "Enjoy playing this super cute game set with your friends! It features the Sumikko Gurashi characters as dango ball toys with skewers. You can use these for five different games like balancing dango towers, fastest skewer making, and more. The toy kit also come",
+   "vendor": "JP / Eye Up",
+   "productType": "Games & Toys",
+   "merchantTags": [
+    "Games & Toys",
+    "On Sale"
+   ],
+   "price": 34.93
+  },
+  {
+   "id": "blippo-demon-slayer-monochrome-mug-giyu",
+   "name": "Demon Slayer Monochrome Mug - Giyu",
+   "merchantDescription": "Enjoy your cup of coffee using this durable mug featuring a monochrome print of Giyu from the popular manga series, Demon Slayer: Kimetsu no Yaiba! This porcelain mug is safe to use in microwaves and dishwashers including dish dryers. A kawaii mug featuring Gi",
+   "vendor": "JP / Tamura Toki",
+   "productType": "Drinkware",
+   "merchantTags": [
+    "Drinkware",
+    "On Sale"
+   ],
+   "price": 16.03
+  },
+  {
+   "id": "blippo-baby-cat-cafe-rooibos-tea",
+   "name": "Baby Cat Cafe Rooibos Tea",
+   "merchantDescription": "This pack of teabags helps you make delicious rooibos tea! Each teabag has a hook showcasing a sweet kitten that you can use to hang at the edge of your cup! A pack of rooibos teabags with hooks illustrated with kittens Total of 3 teabags inside the pack Made ",
+   "vendor": "JP / Japan Green Tea",
+   "productType": "Coffee & Tea",
+   "merchantTags": [
+    "Coffee & Tea"
+   ],
+   "price": 8.5
+  },
+  {
+   "id": "blippo-glico-karuedamame-stick-snacks-edamame",
+   "name": "Glico Karuedamame Stick Snacks - Edamame",
+   "merchantDescription": "Munch on these light and crispy vegetable-inspired snacks! They are non-fried hollow potato sticks with a delicious edamame or green soybean flavor that both kids and adults can enjoy.",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "On Sale",
+    "Savory Snacks"
+   ],
+   "price": 3.43
+  },
+  {
+   "id": "blippo-glico-cratz-pretzels-pepper-corn",
+   "name": "Glico Cratz Pretzels - Pepper & Corn",
+   "merchantDescription": "Enjoy munching on this rich-tasting snack with your favorite cold drink! Made with spicy pepper and savory bacon flavors, these bite-sized pretzels have a crips texture and enhance the flavor of your drink.",
+   "vendor": "JP / Niki no Kashi",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "On Sale",
+    "Savory Snacks"
+   ],
+   "price": 3.12
+  },
+  {
+   "id": "blippo-pine-acorn-gummy-hard-candy-mix",
+   "name": "Pine Acorn Gummy Hard Candy Mix",
+   "merchantDescription": "These hard candies have a gum center! Enjoy the cola,cider, and grape flavor of this pack of yummy treats. A pack of hard candy with a center made of gum Flavors: cola, cider, and grape Made by Pine",
+   "vendor": "JP / Daiso",
+   "productType": "Hard Candy",
+   "merchantTags": [
+    "Hard Candy",
+    "On Sale"
+   ],
+   "price": 3.12
+  },
+  {
+   "id": "blippo-tohato-amijaga-potato-chips-umashi-taste",
+   "name": "Tohato Amijaga Potato Chips - Umashi Taste",
+   "merchantDescription": "Savor the combination of rich beef flavor and AlpenSalz or pure alpine salt as you munch on these chips! Each piece comes in a thick, round waffle shape which has an interesting texture! A pack of round waffle-shaped thick potato chips flavored with beef and a",
+   "vendor": "JP / Kokubu Shutoken",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "On Sale"
+   ],
+   "price": 2.45
+  },
+  {
+   "id": "blippo-lifeguard-soda-paste-candy",
+   "name": "Lifeguard Soda Paste Candy",
+   "merchantDescription": "Japan is famous for producing oddly interesting candies just like this pack of paste candy. It's gooey that is not very runny like a very loose gummy! Each yummy paste candy is flavored with Lifeguard, a famous energy soda in Japan. A pack of Lifeguard energy ",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Kawaii Candy",
+   "merchantTags": [
+    "Kawaii Candy",
+    "On Sale"
+   ],
+   "price": 1.33
+  },
+  {
+   "id": "blippo-aerial-corn-snacks-rich-cheddar-cheese",
+   "name": "Aerial Corn Snacks - Rich Cheddar Cheese",
+   "merchantDescription": "Munch into these crunchy corn snacks that are jampacked with a cheesy flavor! Each piece has four layers filled with a combination of rich sharp cheddar and yummy cream cheese. A pack of crunchy four-layered corn snacks with a cheese flavor Made in Japan by YB",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Savory Snacks",
+   "merchantTags": [
+    "Savory Snacks"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-mameshiba-san",
+   "name": "Mameshiba San Charm",
+   "merchantDescription": "",
+   "vendor": "Tok10",
+   "productType": null,
+   "merchantTags": [
+    "On Sale"
+   ],
+   "price": 3.55
+  },
+  {
+   "id": "blippo-tohato-fried-rice-crackers-nuts-caramel-corn",
+   "name": "Tohato Fried Rice Crackers & Nuts - Caramel Corn",
+   "merchantDescription": "Enjoy snacking on this pack of rice crackers mixed with crispy peanuts! Each piece is coated in the caramel sauce of Tohato's popular corn puff snack, Caramel Corn. Share them with your buddies.",
+   "vendor": "JP / Mitsubachi Icchome",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "Sweet Snacks"
+   ],
+   "price": 6.5
+  },
+  {
+   "id": "blippo-yaokin-mochitto-mochi-daifuku-ramune",
+   "name": "Yaokin Mochitto Mochi Daifuku - Ramune",
+   "merchantDescription": "Daifuku is a popular Japanese chewy dessert thats made with mochi and is traditionally filled with sweet red bean paste! Have fun trying out this modern version that comes in mini size and is filled with jelly that tastes like ramune soda  the iconic refresh",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Mochi Candy",
+   "merchantTags": [
+    "Mochi Candy",
+    "Wagashi"
+   ],
+   "price": 1.9
+  },
+  {
+   "id": "blippo-uha-mikakuta-mochido-candy-strawberry",
+   "name": "UHA Mikakuta Mochido Candy - Strawberry",
+   "merchantDescription": "Satisfy your curious taste buds with this squishy treat! It looks like the famous mochi Pon de Ring donut thats popular in Japan with a delicious strawberry flavor. Youll enjoy the crispy outer coating and the inner chewy mochi texture.",
+   "vendor": "JP / Tajimaya",
+   "productType": "Mochi Candy",
+   "merchantTags": [
+    "Mochi Candy"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-tales-of-series-wafer-with-card",
+   "name": "Tales of Series 30th Anniversary Wafer with Metallic Card",
+   "merchantDescription": "Turn snacking into a game with the Tales of Series Wafer with Card pack! Not only do you get a tasty cocoa cream wafer, but you'll also get a collectible metallic-looking Tales of Series card. Surprise yourself with a random card design when you open the pack!",
+   "vendor": "Tok10",
+   "productType": "Anime Snacks",
+   "merchantTags": [
+    "Anime Snacks",
+    "New",
+    "Sweet Snacks"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-suzuki-shokai-night-stars-konpeito-candy-pack",
+   "name": "Suzuki Shokai Night Stars Konpeito Candy Pack",
+   "merchantDescription": "Konpeito is Japanese sugar candy that comes in a variety of colors and flavors. Treat yourself to this pack of colorful konpeito candy shaped like stars! A pack of konpeito shaped like stars Made in Japan by Suzuki Shokai",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Konpeito",
+   "merchantTags": [
+    "Konpeito"
+   ],
+   "price": 1.5
+  },
+  {
+   "id": "blippo-classic-candy-snack-cube-purse",
+   "name": "Classic Candy & Snack Cube Purse",
+   "merchantDescription": "Store your loose change inside this cute cube-shaped purse! It features a print of a classic Japanese candy or snack. Surprise yourself with a random design from a set of six when you order. This zippered purse also has a removable ball chain. A kawaii cube-sh",
+   "vendor": "JP / Toko Toko",
+   "productType": "Wallets & Purses",
+   "merchantTags": [
+    "On Sale",
+    "Wallets & Purses"
+   ],
+   "price": 2.45
+  },
+  {
+   "id": "blippo-sanrio-characters-lets-play-in-the-room-gummy-candy-kit",
+   "name": "Sanrio Characters Let's Play in the Room Gummy Candy Kit",
+   "merchantDescription": "Have fun making your own gummy candies based on your fave Sanrio characters with this DIY candy kit! Follow the instructions to make gummies shaped like My Melody, Kuromi, Pompompurin, and Hangyodon. When you're done, the kit comes with a piece of paper that y",
+   "vendor": "JP / Tajimaya",
+   "productType": "DIY Candy",
+   "merchantTags": [
+    "DIY Candy",
+    "Kawaii Candy",
+    "New",
+    "On Sale"
+   ],
+   "price": 3.92
+  },
+  {
+   "id": "blippo-pokemon-lucky-bags",
+   "name": "Pokemon Lucky Bags",
+   "merchantDescription": "Pokémon Overload! Spring 2026 Limited Edition Whether youre a long-time collector or looking for the perfect surprise gift for loved ones, friends and more, our Lucky Bags deliver the fun, mystery and adventure of the Pokémon world straight to your door. Wev",
+   "vendor": "Tok10",
+   "productType": "Lucky Bag",
+   "merchantTags": [
+    "Fukubukuro",
+    "New",
+    "Nintendo",
+    "Plushies",
+    "PokÃ©mon Lucky Bag 2026"
+   ],
+   "price": 150
+  },
+  {
+   "id": "blippo-genji-pie-halloween-snack-pack-pumpkin",
+   "name": "Genji Pie Halloween Snack Pack - Pumpkin",
+   "merchantDescription": "Serve these delicious mini pie snacks for Halloween! Each piece is made with a dough that's kneaded with pumpkin puree and baked into a crispy heart shape. Contains 14 individually wrapped pieces",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Sweet Snacks",
+   "merchantTags": [
+    "Halloween",
+    "New",
+    "On Sale",
+    "Sweet Snacks"
+   ],
+   "price": 11.13
+  },
+  {
+   "id": "blippo-yes-precure-5-gogo-sanrio-characters-pachi-pachi-charm",
+   "name": "Yes PreCure 5 GoGo! × Sanrio Characters Pachi Pachi Charm",
+   "merchantDescription": "This super cute charm features a character from Yes! PreCure 5 GoGo! posing together with a cutie from Sanrio. Add it to your kawaii collection! Have fun decorating this charm with your name by using the Japanese characters included in the box. You'll get a ra",
+   "vendor": "JP / Exicoast Internet Store",
+   "productType": "Collectibles",
+   "merchantTags": [
+    "Bandai",
+    "charms",
+    "Collectibles",
+    "On Sale",
+    "Sanrio"
+   ],
+   "price": 7.92
+  },
+  {
+   "id": "blippo-pure-gummy-ranran-cherry-soda",
+   "name": "Pure Gummy - Ranran Cherry Soda",
+   "merchantDescription": "This pack of gummy candy is the perfect addition to your stash of sweets at home. Each piece has a sweet and sour cherry soda flavor that makes you keep wanting more!",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 4.4
+  },
+  {
+   "id": "blippo-bourbon-fettuccine-gummy-fruit-tea",
+   "name": "Bourbon Fettuccine Gummy - Fruit Tea",
+   "merchantDescription": "Give yourself a sweet pick-me-up by nibbling on this pack of gummy candies! They're made with peaches, mango, strawberry, and black tea to create a refreshing taste. Add them to your candy cabinet.",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 3.92
+  },
+  {
+   "id": "blippo-uha-mikakuto-mochu-gummy-white-peach",
+   "name": "UHA Mikakuto Mochu Gummy - White Peach",
+   "merchantDescription": "Add these white peach-flavored gummy candies to your candy stash! It's made with kudzu starch from the Yoshino region of Nara Prefecture giving it the soft and chewy texture, just like mochi. Comes in a resealable pouch",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 5.5
+  },
+  {
+   "id": "blippo-puccho-chewy-candy-juicy-shine-muscat",
+   "name": "Puccho Chewy Candy - Juicy Shine Muscat",
+   "merchantDescription": "These chewy candies with gummy bits are made with shine muscat juice from Okayama Prefecture. It has a sweet and juicy taste that fills your mouth as you chew!",
+   "vendor": "JP / Poi Poi Market",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 3.92
+  },
+  {
+   "id": "blippo-koikeya-strong-potato-chips-deluxe-pizza",
+   "name": "Koikeya Strong Potato Chips - Deluxe Pizza",
+   "merchantDescription": "This pack of ridged potato chips is perfect for sharing during hang outs with friends! Each piece has the extra-rich taste of cheese, tomatoes, and fragrant basil. Combined together, these flavors recreate the taste of deluxe pizza!",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 3.12
+  },
+  {
+   "id": "blippo-chupa-chups-rainbow-sour-bite-gummy",
+   "name": "Chupa Chups Rainbow Sour Bite Gummy",
+   "merchantDescription": "This pack of rainbow-colored gummies is sweet and sour! Enjoy the tartness of these sweet gummy treats. Share them with your friends!",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Gummy Candy",
+   "merchantTags": [
+    "Gummy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-ginbis-shimi-corn-masimasi-stars-white-chocolate",
+   "name": "Ginbis Shimi Corn Masimasi Stars - White Chocolate",
+   "merchantDescription": "Enjoy biting into these tasty milk-flavored corn snacks. These star-shaped corn snacks are twice as long as regular Shimi corn! Each piece is made with whole wheat flour and calcium. Share them with your besties!",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "On Sale",
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 2.32
+  },
+  {
+   "id": "blippo-mentos-chewy-candy-peach-orange",
+   "name": "Mentos Chewy Candy - Peach Orange",
+   "merchantDescription": "Enjoy the delicious blend of juicy peach and zesty orange in every bite of this chewy candy! It's a refreshing snack that can give you a quick boost for the day.",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 3.9
+  },
+  {
+   "id": "blippo-gaburichew-dark-chewy-candy-gold-kiwi",
+   "name": "Gaburichew Dark Chewy Candy - Gold Kiwi",
+   "merchantDescription": "Enjoy the sweet and tangy taste of gold kiwi in this chewy candy! It contains mint-flavored bits that look like kiwi seeds.",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Chewy Candy",
+   "merchantTags": [
+    "Chewy Candy",
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 1.52
+  },
+  {
+   "id": "blippo-bourbon-petit-adult-pistachio-cookies",
+   "name": "Bourbon Petit Adult Pistachio Cookies",
+   "merchantDescription": "Take along this pack of bite-sized cookies with you as an emergency snack! Each piece is made with rich pistachio powder and two types of flour. They have a crispy texture that melts in your mouth with each bite!",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Japanese Cookies",
+   "merchantTags": [
+    "Japanese Cookies",
+    "On Sale",
+    "Sweet Snacks",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store",
+    "synkro-disable"
+   ],
+   "price": 3.6
+  },
+  {
+   "id": "blippo-seiki-chilled-melon-mochi-copy",
+   "name": "Seiki Sakura Mochi",
+   "merchantDescription": "Enjoy this pack of sakura mochi while having a cup of delicious green tea! Mochi is a Japanese dessert made from glutinous rice cake. This pack of pink-colored mochi is made to taste like sakura blossoms!",
+   "vendor": "JP / 3ji no oyatsu",
+   "productType": "Mochi Candy",
+   "merchantTags": [
+    "Mochi Candy",
+    "New Arrival",
+    "On Sale",
+    "Sakura",
+    "Wagashi"
+   ],
+   "price": 4.95
+  },
+  {
+   "id": "blippo-cinnamoroll-guitar-magnet-clip",
+   "name": "Cinnamoroll Guitar Magnet Clip",
+   "merchantDescription": "Keep your notes, snacks, and random papers in place while making your space instantly cuter with this magnetic clip! It features Cinnamoroll playing the guitar. The strong magnet sticks securely to your fridge, locker, or any metal surface, while the clip hold",
+   "vendor": "JP / Watts",
+   "productType": "Home Goods",
+   "merchantTags": [
+    "Home goods",
+    "New"
+   ],
+   "price": 4.9
+  },
+  {
+   "id": "blippo-my-melody-chocolate-love-glow-in-the-dark-masking-tape",
+   "name": "My Melody Chocolate Love Glow-in-the-Dark Masking Tape",
+   "merchantDescription": "Add a touch of glowing cuteness to your planner or journal using this masking tape! It features glow-in-the-dark prints of My Melody with chocolate treats. This super cute tape is the perfect addition to your stationery collection! Tape size: 15 mm x 2 meters",
+   "vendor": "JP / Watts",
+   "productType": "Tapes",
+   "merchantTags": [
+    "New",
+    "On Sale",
+    "Tapes"
+   ],
+   "price": 2.45
+  },
+  {
+   "id": "blippo-sakura-fugashi-puffed-rice-snack",
+   "name": "Sakura Fugashi Puffed Rice Snack",
+   "merchantDescription": "These sakura-inspired fugashi or puffed rice snacks are light, fluffy, and melt gently as you bite in. Each piece has a delicate sweetness with a hint of cherry blossom flavor. Have fun munching on this spring snack!",
+   "vendor": "JP / Aoi Gangu",
+   "productType": "Dagashi",
+   "merchantTags": [
+    "Dagashi",
+    "On Sale",
+    "Traditional Snacks"
+   ],
+   "price": 5.95
+  },
+  {
+   "id": "blippo-my-melody-kuromi-black-valentine-rice-ball-case",
+   "name": "My Melody & Kuromi Black Valentine Rice Ball Case",
+   "merchantDescription": "Your lunch just got way cuter with this onigiri or rice ball case! It features My Melody and Kuromi wearing super cute black ribbons. This case works as a mold to make packing rice balls quick, clean, and fun. Just add rice, close, and shake to shape a perfect",
+   "vendor": "JP / Daiso",
+   "productType": "Kitchen",
+   "merchantTags": [
+    "Kitchen",
+    "Kuromi",
+    "New",
+    "On Sale"
+   ],
+   "price": 3.85
+  },
+  {
+   "id": "blippo-kashiwado-matcha-senbei",
+   "name": "Kashiwado Matcha Senbei",
+   "merchantDescription": "Crispy. Toasty. Packed with real matcha flavor. These traditional Japanese senbei crackers bring a deep, earthy matcha taste with a light sweetness that keeps you reaching for another bite. Each piece is thin, crisp, and baked for that satisfying crunch. Pair ",
+   "vendor": "JP / Tajimaya",
+   "productType": "Senbei",
+   "merchantTags": [
+    "On Sale",
+    "Senbei",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 3.75
+  },
+  {
+   "id": "blippo-dars-premium-chocolate-mix-berry",
+   "name": "Dars Premium Chocolate - Mix Berry",
+   "merchantDescription": "Indulge in this delicious chocolate bar that melts easily and delivers layers of fruity flavor. It blends smooth chocolate with a bright, fruity berry filling for that perfect sweet-tangy balance. It’s the kind of treat you keep for yourself… or regret sharing",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "On Sale"
+   ],
+   "price": 6.65
+  },
+  {
+   "id": "blippo-morinaga-gummy-chocoball-white-peach",
+   "name": "Morinaga Gummy Chocoball - White Peach",
+   "merchantDescription": "Sweet, chewy, and coated in chocolate? Say less! This gummy version of Morinaga Chocoball combines juicy white peach gummy centers with a smooth white chocolate coating for a fun mix of textures in every bite. Enjoy munching on these unique gummies! Comes in a",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "Gummy Candy",
+    "On Sale"
+   ],
+   "price": 5.95
+  },
+  {
+   "id": "blippo-kit-kat-chocolates-strawberry-shortcake",
+   "name": "Kit Kat Chocolates - Strawberry Shortcake",
+   "merchantDescription": "Want to try Japan's famous dessert in Kit Kat form? This Strawberry Shortcake KitKat layers crispy wafers with creamy white chocolate and sweet strawberry flavor, inspired by Japan’s iconic cake. It's light, milky, and just the right amount of fruity. Share it",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "Chocolate Candy & Snacks",
+    "New"
+   ],
+   "price": 17.5
+  },
+  {
+   "id": "blippo-lotte-fusen-no-mi-miniature-charm",
+   "name": "Lotte Fusen no Mi Miniature Charm",
+   "merchantDescription": "Your favorite Japanese gum… but make it tiny and collectible! This miniature charm series is inspired by Lotte’s iconic Fusen no Mi gum, now turned into super cute keychain-sized collectibles. Each one looks like a real mini pack, and it even comes with tiny g",
+   "vendor": "JP / A-muzu",
+   "productType": "Charms",
+   "merchantTags": [
+    "charms",
+    "Collectibles",
+    "New",
+    "On Sale"
+   ],
+   "price": 6.23
+  },
+  {
+   "id": "blippo-re-ment-animal-crossing-happy-room-1",
+   "name": "Re-Ment Animal Crossing Happy Room",
+   "merchantDescription": "This Animal Crossing “Happy Room” series turns your favorite cozy interiors into real, display-worthy mini scenes! It features miniature sets with adorable villagers and tiny furniture that looks straight out of the game. Set it up on your desk, shelf, or gami",
+   "vendor": "JP / Shokugan Ohkoku",
+   "productType": "Blind Boxes",
+   "merchantTags": [
+    "Blind Boxes",
+    "New",
+    "On Sale"
+   ],
+   "price": 19.25
+  },
+  {
+   "id": "blippo-re-ment-kirby-waddle-dees-toy-factory",
+   "name": "Re-Ment Kirby Waddle Dee's Toy Factory",
+   "merchantDescription": "Warning: this might be the cutest factory you’ve ever seen. \"Waddle Dee’s Toy Factory\" brings Kirby’s world to life with pastel-packed miniature scenes! Each set shows Waddle Dees busy crafting, packing, and playing in a toy factory setting. Place one on your ",
+   "vendor": "JP / Shokugan Ohkoku",
+   "productType": "Blind Boxes",
+   "merchantTags": [
+    "Blind Boxes",
+    "New",
+    "On Sale"
+   ],
+   "price": 20.72
+  },
+  {
+   "id": "blippo-re-ment-crayon-shin-chan-snack-figure",
+   "name": "Re-Ment Crayon Shin-chan Snack Figure",
+   "merchantDescription": "Shin-chan is popping out of your favorite Japanese konbini snacks! This series features eye-catching figures with Shin-chan right in the middle of the chaos. It’s the kind of collectible that instantly makes your shelf more fun. One box is never enough, so try",
+   "vendor": "JP / Shokugan Ohkoku",
+   "productType": "Blind Boxes",
+   "merchantTags": [
+    "Blind Boxes",
+    "New",
+    "On Sale"
+   ],
+   "price": 16.4
+  },
+  {
+   "id": "blippo-jagabee-potato-snack-tarako-butter",
+   "name": "Jagabee Potato Snack - Tarako Butter",
+   "merchantDescription": "Jagabee takes real potatoes and levels them up with rich butter and bold tarako (cod roe) flavor for that deep, savory umami hit. Crunchy on the outside, soft on the inside, and seriously addictive from the first bite. This limited edition flavor is the kind y",
+   "vendor": "JP / Tajimaya",
+   "productType": "Chips",
+   "merchantTags": [
+    "Chips",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.9
+  },
+  {
+   "id": "blippo-qoo-muscat-jelly-drink",
+   "name": "Qoo Muscat Jelly Drink",
+   "merchantDescription": "This isn’t just a drink, it’s a whole texture experience! It's light, fruity, and refreshingly sweet with that juicy Japanese grape flavor. The jelly texture makes every sip fun, so it feels more like a snack you can drink. Chill it first before drinking to ma",
+   "vendor": "JP / Tajimaya",
+   "productType": "Food",
+   "merchantTags": [
+    "Food",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 14.9
+  },
+  {
+   "id": "blippo-re-ment-sumikko-gurashi-picnic",
+   "name": "Re-Ment Sumikko Gurashi Picnic",
+   "merchantDescription": "Ready for a super cute and tiny picnic scene? This miniature series features the Sumikko Gurashi enjoying a cozy outdoor picnic, with tiny food items and setups like sandwiches, desserts, and drinks. Put a set on your desk as a kawaii display, or collect all d",
+   "vendor": "JP / Shokugan Ohkoku",
+   "productType": "Blind Boxes",
+   "merchantTags": [
+    "Blind Boxes",
+    "New",
+    "On Sale"
+   ],
+   "price": 9.73
+  },
+  {
+   "id": "blippo-look-premium-chocolate-milky",
+   "name": "Look Premium Chocolate - Milky",
+   "merchantDescription": "Enjoy a piece of this Look Premium chocolate and experience the well-loved Milky flavor from Fujiya’s classic candy! The outer layer is smooth, while the center is filled with a soft cream made with Hokkaido fresh cream. Sweet, rich, and extra milky, it’s a si",
+   "vendor": "JP / Yukkun no Okashi Soko",
+   "productType": "Chocolate Candy & Snacks",
+   "merchantTags": [
+    "On Sale",
+    "synkro-clone-blippo-4553",
+    "synkro-clone-japan-candy-store"
+   ],
+   "price": 5.75
+  }
+ ]
+}

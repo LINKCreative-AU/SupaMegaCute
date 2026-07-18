@@ -7,6 +7,7 @@
 
   const FACET_GROUPS = [
     { key: "pillars", type: null, label: "Pillar" },
+    { key: "brands", type: "brand", label: "Brand" },
     { key: "aesthetics", type: "aesthetic", label: "Aesthetic" },
     { key: "moods", type: "mood", label: "Mood" },
     { key: "recipients", type: "recipient", label: "Who's it for" },
@@ -49,9 +50,12 @@
   function buildFilters() {
     const host = document.getElementById("explore-filters");
     const groups = FACET_GROUPS.map((g) => {
-      const options = g.type
-        ? SMC.taxonomy.facets[g.type]
-        : SMC.taxonomy.pillars.filter((p) => p.slug !== "explore" && p.slug !== "aesthetics");
+      const options =
+        g.key === "brands"
+          ? SMC.taxonomy.brands.filter((b) => b.slug !== "generic")
+          : g.type
+            ? SMC.taxonomy.facets[g.type]
+            : SMC.taxonomy.pillars.filter((p) => p.slug !== "explore" && p.slug !== "aesthetics");
       const chips = options.map((o) => {
         const dot = o.hex ? `<span class="colour-dot" style="background:${o.hex}"></span>` : "";
         return `<button type="button" class="chip chip-filter" data-group="${g.key}" data-value="${o.slug}" aria-pressed="false">${dot}${SMC.esc(o.name)}</button>`;

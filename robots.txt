@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /ingest/
+Sitemap: https://supermegacute.com/sitemap.xml

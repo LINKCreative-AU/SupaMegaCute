@@ -38,6 +38,46 @@
       "notes": "Kawaii lifestyle marketplace."
     },
     {
+      "id": "japanla",
+      "type": "shopify",
+      "domain": "japanla.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Kawaii boutique (LA) — Sonny Angel, Sanrio, plush."
+    },
+    {
+      "id": "bellzi",
+      "type": "shopify",
+      "domain": "bellzi.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Bellzi — cute plush brand store."
+    },
+    {
+      "id": "squishable",
+      "type": "shopify",
+      "domain": "squishable.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Squishable — plush brand store."
+    },
+    {
+      "id": "cutethingsfromjapan",
+      "type": "shopify",
+      "domain": "cutethingsfromjapan.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Japanese stationery & charms."
+    },
+    {
+      "id": "sugoimart",
+      "type": "shopify",
+      "domain": "sugoimart.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Sugoi Mart — Japan goods incl. Smiski, gachapon."
+    },
+    {
       "id": "etsy",
       "type": "api-etsy",
       "verified": false,

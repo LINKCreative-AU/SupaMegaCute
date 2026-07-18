@@ -25,8 +25,10 @@ Deploys as a static site on Vercel (`vercel.json` sets `cleanUrls`).
 | `guides/blind-box-collecting-101.html` | Sample collectibles guide with live graph-query product embeds |
 | `data/` | The knowledge graph: taxonomy, products, merchants (affiliate config), collections, releases |
 | `js/graph.js` | Graph client: loading, query engine, affiliate link builder, card rendering |
-| `js/explore.js` | Explore UI: facet chips, search, surprise-me, related collections |
+| `js/explore.js` | Explore UI: facet chips (incl. brand), search, surprise-me, related collections |
 | `assets/brand/` | Brand asset pack (logos, icons, patterns, tokens) — source of truth for styling |
+| `ingest/` | Ingestion pipeline: crawl → normalize → tag/bot-review → promote → validate → refresh — see [`docs/INGESTION.md`](docs/INGESTION.md) |
+| `.github/workflows/` | Scheduled catalog refresh (weekly price/availability sync) |
 
 ## Key ideas to review
 

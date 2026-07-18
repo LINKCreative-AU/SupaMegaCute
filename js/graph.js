@@ -101,7 +101,11 @@
   };
 
   SMC.find = function (query) {
-    return SMC.products.filter((p) => SMC.matches(p, query));
+    // Products flagged by the refresh job (out of stock / gone from feed)
+    // stay in the graph but are hidden from discovery surfaces.
+    return SMC.products.filter(
+      (p) => (!p.availability || p.availability.status === "in-stock") && SMC.matches(p, query)
+    );
   };
 
   SMC.resolveCollection = function (col) {
@@ -133,7 +137,8 @@
   SMC.esc = esc;
 
   SMC.money = function (product) {
-    return `$${product.price.toFixed(2).replace(/\.00$/, "")}`;
+    const amount = `$${product.price.toFixed(2).replace(/\.00$/, "")}`;
+    return product.priceApprox ? `~${amount}` : amount; // curated records carry band-midpoint prices until live data lands
   };
 
   SMC.productCard = function (product) {
@@ -175,12 +180,20 @@
     </a>`;
   };
 
+  // Cap DOM size on big result sets; filters narrow long before this matters.
+  SMC.GRID_CAP = 96;
+
   SMC.renderGrid = function (el, products, emptyMessage) {
     if (!products.length) {
       el.innerHTML = `<div class="empty-state"><img src="${BASE}/assets/brand/decorative/cloud-face.svg" alt="" width="90"><p>${esc(emptyMessage || "Nothing this cute yet — try loosening a filter.")}</p></div>`;
       return;
     }
-    el.innerHTML = products.map(SMC.productCard).join("");
+    const shown = products.slice(0, SMC.GRID_CAP);
+    let html = shown.map(SMC.productCard).join("");
+    if (products.length > shown.length) {
+      html += `<div class="empty-state grid-more">Showing ${shown.length} of ${products.length} — add a filter to narrow the vibe ✨</div>`;
+    }
+    el.innerHTML = html;
   };
 
   /* ---------- shared chrome ---------- */

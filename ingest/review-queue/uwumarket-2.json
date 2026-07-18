@@ -1,0 +1,813 @@
+{
+ "source": "uwumarket",
+ "batch": 2,
+ "items": [
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-dakimakura",
+   "name": "Chrysaora the Sea Nettle Siren Dakimakura",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren Dakimakura Designed By: hiroshika_art",
+   "vendor": "UwU Market",
+   "productType": "DKM01",
+   "merchantTags": [
+    "anime body pillow",
+    "anime merch",
+    "dakimakura",
+    "vtuber",
+    "vtuber body pillow",
+    "vtuber daki",
+    "vtuber merch"
+   ],
+   "price": 69.99
+  },
+  {
+   "id": "uwumarket-chrysaora-logo-sticker",
+   "name": "Chrysaora Logo Sticker",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora Logo Sticker Designed By: NemunekoStudio",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-chrysaora-mascot-sticker",
+   "name": "Chrysaora Mascot Sticker",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora Mascot Sticker Designed By: little_luly",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-led-desk-lamp",
+   "name": "Chrysaora the Sea Nettle Siren LED Desk Lamp",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren LED Desk Lamp Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "DKL01",
+   "merchantTags": [
+    "anime desk lamp",
+    "anime merch",
+    "LED Desk lamp",
+    "vtuber",
+    "vtuber desk lamp",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-xxl-mousepad",
+   "name": "Chrysaora the Sea Nettle Siren XXL Mousepad",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren XXL Mousepad Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-xl-mousepad",
+   "name": "Chrysaora the Sea Nettle Siren XL Mousepad",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren XL Mousepad Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "rgb mousepad",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-poster",
+   "name": "Chrysaora the Sea Nettle Siren Poster",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren Poster Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-sweatpants",
+   "name": "Chrysaora the Sea Nettle Siren Sweatpants",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren Sweatpants Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-shorts",
+   "name": "Chrysaora the Sea Nettle Siren Shorts",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren Shorts Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "SSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime shorts",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shorts"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-shirt",
+   "name": "Chrysaora the Sea Nettle Siren Shirt",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren Shirt Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-chrysaora-the-sea-nettle-siren-hoodie",
+   "name": "Chrysaora the Sea Nettle Siren Hoodie",
+   "merchantDescription": "Chrysaora x UwU Collab Chrysaora the Sea Nettle Siren Hoodie Designed By: PenCamp",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-mewreci-poster",
+   "name": "Mewreci Poster",
+   "merchantDescription": "Mewreci x UwU Collab Mewreci Poster Designed By: OkaNyadia",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-rikko-debut-sweatpants",
+   "name": "Rikko Debut Sweatpants",
+   "merchantDescription": "Rikko x UwU Collab Rikko Debut Sweatpants Designed By: taira",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-rikko-debut-shirt",
+   "name": "Rikko Debut Shirt",
+   "merchantDescription": "Rikko x UwU Collab Rikko Debut Shirt Designed By: taira",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-rikko-debut-crewneck",
+   "name": "Rikko Debut Crewneck",
+   "merchantDescription": "Rikko x UwU Collab Rikko Debut Crewneck Designed By: taira",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-rikko-debut-hoodie",
+   "name": "Rikko Debut Hoodie",
+   "merchantDescription": "Rikko x UwU Collab Rikko Debut Hoodie Designed By: taira",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-lyzui-sticker",
+   "name": "Lyzui Sticker",
+   "merchantDescription": "Lyzui x UwU Collab Lyzui Sticker Designed By: Lyzui",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "PLEDGEPOP_ADDON",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-lyzui-keychain",
+   "name": "Lyzui Keychain",
+   "merchantDescription": "Lyzui x UwU Collab Lyzui Keychain Designed By: Lyzui",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "PLEDGE",
+    "PLEDGEPOP",
+    "PREORDER",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-bear-the-witch-key-art-standee",
+   "name": "Bear the Witch Key Art Standee",
+   "merchantDescription": "BearTheWitch x UwU Collab Bear the Witch Key Art Standee Designed By: gremlinbon",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-duckiedolittle-3d-mousepad",
+   "name": "DuckieDolittle 3D Mousepad",
+   "merchantDescription": "DuckieDolittle x UwU Collab DuckieDolittle 3D Mousepad Designed By: Pluvhill",
+   "vendor": "UwU Market",
+   "productType": "BMP01",
+   "merchantTags": [
+    "3d mousepad",
+    "anime merch",
+    "booba mousepad",
+    "vtuber",
+    "vtuber booba mousepad",
+    "vtuber merch"
+   ],
+   "price": 39.99
+  },
+  {
+   "id": "uwumarket-chococotv-chibi-sticker",
+   "name": "ChocoCoTV Chibi Sticker",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Chibi Sticker Designed By: KimGaby",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-chococotv-chibi-keychain",
+   "name": "ChocoCoTV Chibi Keychain",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Chibi Keychain Designed By: KimGaby",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-keychain",
+   "name": "ChocoCoTV Galactic Mouse Keychain",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Keychain Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-chococotv-chibi-mini-standee",
+   "name": "ChocoCoTV Chibi Mini Standee",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Chibi Mini Standee Designed By: KimGaby",
+   "vendor": "UwU Market",
+   "productType": "MSD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 15.95
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-standee",
+   "name": "ChocoCoTV Galactic Mouse Standee",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Standee Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-jet-tag",
+   "name": "ChocoCoTV Galactic Mouse Jet Tag",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Jet Tag Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-sweatpants",
+   "name": "ChocoCoTV Galactic Mouse Sweatpants",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Sweatpants Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "SPK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sweatpants",
+    "anime sweats",
+    "sweatpants",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sweatpants"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-shirt",
+   "name": "ChocoCoTV Galactic Mouse Shirt",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Shirt Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "TSK",
+   "merchantTags": [
+    "anime merch",
+    "anime shirt",
+    "anime t-shirt",
+    "anime tshirt",
+    "vtuber",
+    "vtuber merch",
+    "vtuber shirt",
+    "vtuber t-shirt"
+   ],
+   "price": 36
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-crewneck",
+   "name": "ChocoCoTV Galactic Mouse Crewneck",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Crewneck Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "CNK01",
+   "merchantTags": [
+    "anime crewneck",
+    "anime merch",
+    "anime sweatshirt",
+    "vtuber",
+    "vtuber crewneck",
+    "vtuber merch",
+    "vtuber sweatshirt"
+   ],
+   "price": 79.99
+  },
+  {
+   "id": "uwumarket-chococotv-galactic-mouse-hoodie",
+   "name": "ChocoCoTV Galactic Mouse Hoodie",
+   "merchantDescription": "ChocoCoTV x UwU Collab ChocoCoTV Galactic Mouse Hoodie Designed By: KusoGG",
+   "vendor": "UwU Market",
+   "productType": "HDK",
+   "merchantTags": [
+    "anime hoodie",
+    "anime merch",
+    "vtuber hoodie",
+    "vtuber merch"
+   ],
+   "price": 89.99
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-sticker",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" Sticker",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" Sticker Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "STK01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 7.99
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-keychain",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" Keychain",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" Keychain Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-poster",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" Poster",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" Poster Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-tumbler",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" Tumbler",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" Tumbler Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "TMB01",
+   "merchantTags": [
+    "anime merch",
+    "anime tumbler",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber tumbler"
+   ],
+   "price": 32.99
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-xl-mousepad",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" XL Mousepad",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" XL Mousepad Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "rgb mousepad",
+    "vtuber"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-mousepad",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" Mousepad",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" Mousepad Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "MPS01",
+   "merchantTags": [
+    "anime merch",
+    "anime mouse pad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber mouse pad"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-aloravt-nebula-dreamer-awaken-jet-tag",
+   "name": "AloraVT \"Nebula Dreamer, Awaken!\" Jet Tag",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Nebula Dreamer, Awaken!\" Jet Tag Designed By: Starzeyque",
+   "vendor": "UwU Market",
+   "productType": "JTG01",
+   "merchantTags": [
+    "anime flight tag",
+    "anime jet tag",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch"
+   ],
+   "price": 15.99
+  },
+  {
+   "id": "uwumarket-aloravt-sticker-pack",
+   "name": "AloraVT Sticker Pack",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT Sticker Pack Designed By: KimHullang",
+   "vendor": "UwU Market",
+   "productType": "THS01",
+   "merchantTags": [
+    "anime merch",
+    "anime sticker",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber sticker"
+   ],
+   "price": 17.95
+  },
+  {
+   "id": "uwumarket-aloravt-keychain",
+   "name": "AloraVT Keychain",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT Keychain Designed By: luooz",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-aloravt-bunny-of-the-moon-keychain",
+   "name": "AloraVT \"Bunny of the Moon\" Keychain",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Bunny of the Moon\" Keychain Designed By: KimHullang",
+   "vendor": "UwU Market",
+   "productType": "AKC01",
+   "merchantTags": [
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "Vtuber Keychain",
+    "vtuber merch"
+   ],
+   "price": 16.95
+  },
+  {
+   "id": "uwumarket-aloravt-chibi-school-alora-acrylic-standee",
+   "name": "AloraVT \"Chibi School Alora\" Acrylic Standee",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Chibi School Alora\" Acrylic Standee Designed By: KimHullang",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-aloravt-chibi-alora-acrylic-standee",
+   "name": "AloraVT \"Chibi Alora\" Acrylic Standee",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Chibi Alora\" Acrylic Standee Designed By: KimHullang",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-aloravt-chibi-gyaru-alora-acrylic-standee",
+   "name": "AloraVT \"Chibi Gyaru Alora\" Acrylic Standee",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Chibi Gyaru Alora\" Acrylic Standee Designed By: KimHullang",
+   "vendor": "UwU Market",
+   "productType": "ASD01",
+   "merchantTags": [
+    "anime merch",
+    "anime standee",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber standee"
+   ],
+   "price": 22.95
+  },
+  {
+   "id": "uwumarket-aloravt-field-of-stars-xxl-mousepad",
+   "name": "AloraVT \"Field of Stars\" XXL Mousepad",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Field of Stars\" XXL Mousepad Designed By: neopawlitans",
+   "vendor": "UwU Market",
+   "productType": "XXM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime rgb mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber deskmat",
+    "vtuber merch",
+    "vtuber xl mousepad"
+   ],
+   "price": 54.99
+  },
+  {
+   "id": "uwumarket-aloravt-field-of-stars-xl-mousepad",
+   "name": "AloraVT \"Field of Stars\" XL Mousepad",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Field of Stars\" XL Mousepad Designed By: neopawlitans",
+   "vendor": "UwU Market",
+   "productType": "XLM01",
+   "merchantTags": [
+    "anime deskmat",
+    "anime merch",
+    "anime rgb mousepad",
+    "anime xl mousepad",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "rgb mousepad",
+    "vtuber"
+   ],
+   "price": 41.99
+  },
+  {
+   "id": "uwumarket-aloravt-starlit-nebula-poster",
+   "name": "AloraVT \"Starlit Nebula\" Poster",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Starlit Nebula\" Poster Designed By: 珐琅",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-aloravt-beachside-relaxation-poster",
+   "name": "AloraVT \"Beachside Relaxation\" Poster",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Beachside Relaxation\" Poster Designed By: 珐琅",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-aloravt-field-of-stars-poster",
+   "name": "AloraVT \"Field of Stars\" Poster",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Field of Stars\" Poster Designed By: neopawlitans",
+   "vendor": "UwU Market",
+   "productType": "PSRS1",
+   "merchantTags": [
+    "anime merch",
+    "anime poster",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber poster"
+   ],
+   "price": 19.99
+  },
+  {
+   "id": "uwumarket-aloravt-starlit-nebula-wall-scroll",
+   "name": "AloraVT \"Starlit Nebula\" Wall Scroll",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Starlit Nebula\" Wall Scroll Designed By: 珐琅",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  },
+  {
+   "id": "uwumarket-aloravt-beachside-relaxation-wall-scroll",
+   "name": "AloraVT \"Beachside Relaxation\" Wall Scroll",
+   "merchantDescription": "AloraVT x UwU Collab AloraVT \"Beachside Relaxation\" Wall Scroll Designed By: 珐琅",
+   "vendor": "UwU Market",
+   "productType": "WSK01",
+   "merchantTags": [
+    "anime merch",
+    "anime wall scroll",
+    "ORDER-NOW",
+    "PLEDGEPOP",
+    "vtuber",
+    "vtuber merch",
+    "vtuber wall scroll"
+   ],
+   "price": 34.99
+  }
+ ]
+}

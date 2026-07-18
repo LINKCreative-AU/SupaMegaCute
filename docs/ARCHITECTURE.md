@@ -104,7 +104,11 @@ SuperMegaCute is deliberately built as **data + engine + skin**:
 
 The extraction test for every future feature: *could this power a third knowledge-graph site by swapping the data layer and the tokens?* SuperMegaCute is the first commerce-focused implementation and proves out the monetised-connector half of the platform.
 
-## 7. Current status & deployment
+## 7. Ingestion & the bot fleet
+
+The catalog is built by automated ingestion (see `docs/INGESTION.md` for the full pipeline and sourcing policy). The load-bearing design choice: **bots propose, the taxonomy disposes.** Classification agents fan out over crawled drafts and emit facets + discovery tags + original editorial blurbs, but their output passes through two validation layers (`apply-review.mjs` slug filtering at merge time, `validate.mjs` as a hard gate after promotion) so no bot can write vocabulary the Explore engine doesn't understand. Tag conventions are explicit — product type first, then franchise, then attributes — which is what keeps agent-driven sorting effective as the catalog grows. A weekly CI job re-crawls sources and syncs price/availability; flagged products stay in the graph but are hidden from discovery surfaces.
+
+## 8. Current status & deployment
 
 - Standalone repo (`LINKCreative-AU/supermegacute`), deploying as its own Vercel project on supermegacute.com (same static + serverless + Supabase stack the team already runs).
 - Target market for v1 is **US / USD** (amazon.com, US-shipping Etsy sellers); AU and geo-routed links (Amazon OneLink) come later.

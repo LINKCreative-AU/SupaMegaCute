@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Explore — SuperMegaCute</title>
+  <meta name="description" content="The SuperMegaCute Explore engine: filter every cute find by aesthetic, mood, recipient, occasion, room, colour and budget.">
+  <link rel="icon" type="image/svg+xml" href="assets/brand/submarks/favicon.svg">
+  <link rel="stylesheet" href="assets/smc.css">
+</head>
+<body data-page="explore">
+
+<header class="site-header" data-smc-header></header>
+
+<main class="wrap">
+  <div class="explore-layout">
+    <aside class="explore-sidebar" aria-label="Filters">
+      <div id="explore-filters"></div>
+    </aside>
+
+    <section>
+      <span class="section-kicker">AI Explore engine</span>
+      <h1 id="explore-heading" style="font-size:clamp(28px,4vw,40px)">Explore everything cute</h1>
+      <p id="explore-sub">Mix and match the vibe — every filter narrows the whole knowledge graph.</p>
+
+      <div class="explore-toolbar">
+        <input id="explore-search" class="explore-search" type="search" placeholder="Search cute things… (try “capybara” or “bow”)" aria-label="Search products">
+        <span id="explore-count" class="explore-count"></span>
+        <button id="explore-surprise" class="smc-button-primary" type="button">🎲 Surprise me</button>
+        <button id="explore-clear" class="smc-button-secondary" type="button">Clear</button>
+      </div>
+
+      <div id="explore-results" class="product-grid" aria-live="polite"></div>
+      <div id="explore-collections"></div>
+    </section>
+  </div>
+</main>
+
+<footer class="site-footer" data-smc-footer></footer>
+
+<script src="js/graph.js" data-base="."></script>
+<script src="js/explore.js"></script>
+</body>
+</html>

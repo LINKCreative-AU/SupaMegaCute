@@ -1,0 +1,48 @@
+/* Supamegacute brand tokens */
+:root {
+  --smc-blush: #FFC7D6;
+  --smc-lilac: #DCC7F7;
+  --smc-mint: #BDEAD7;
+  --smc-peach: #FFDCC2;
+  --smc-cream: #FFF6EC;
+  --smc-taupe: #E7E2DD;
+  --smc-charcoal: #2B2B2B;
+  --smc-pink-dark: #F28AAA;
+  --smc-gold: #F3C86B;
+
+  --smc-font-display: "Playfair Display", Georgia, "Times New Roman", serif;
+  --smc-font-body: "Poppins", Arial, Helvetica, sans-serif;
+
+  --smc-radius-sm: 10px;
+  --smc-radius-md: 16px;
+  --smc-radius-lg: 24px;
+  --smc-radius-pill: 999px;
+
+  --smc-shadow-soft: 0 8px 24px rgba(43,43,43,.08);
+  --smc-shadow-card: 0 12px 30px rgba(242,138,170,.12);
+}
+
+.smc-button-primary {
+  background: linear-gradient(180deg, var(--smc-blush), var(--smc-pink-dark));
+  color: white;
+  border: 0;
+  border-radius: var(--smc-radius-pill);
+  padding: 12px 22px;
+  font: 600 14px/1 var(--smc-font-body);
+}
+
+.smc-button-secondary {
+  background: white;
+  color: var(--smc-pink-dark);
+  border: 1px solid var(--smc-pink-dark);
+  border-radius: var(--smc-radius-pill);
+  padding: 12px 22px;
+  font: 600 14px/1 var(--smc-font-body);
+}
+
+.smc-card {
+  background: white;
+  border: 1px solid var(--smc-taupe);
+  border-radius: var(--smc-radius-lg);
+  box-shadow: var(--smc-shadow-card);
+}

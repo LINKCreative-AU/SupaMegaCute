@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700" fill="none">
+
+<rect width="700" height="700" fill="#FFF6EC"/>
+<g transform="translate(115 25)">
+  <path d="M175 320C110 250 92 184 120 134C151 78 219 91 246 142C265 91 334 78 365 134C393 184 375 250 310 320" stroke="#F28AAA" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M123 298C88 277 70 242 73 209" stroke="#F28AAA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M340 303C385 284 410 250 411 218" stroke="#F28AAA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M405 135C412 170 428 186 462 193C428 200 412 216 405 251C398 216 382 200 348 193C382 186 398 170 405 135Z" fill="#F28AAA"/>
+</g>
+<text x="350" y="500" text-anchor="middle" font-family="Georgia,serif" font-size="74" fill="#2B2B2B">supamega<tspan fill="#F28AAA">cute</tspan></text>
+<text x="350" y="555" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="5" fill="#2B2B2B">DISCOVER CUTE THINGS YOU LOVE</text>
+
+</svg>

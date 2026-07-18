@@ -1,0 +1,62 @@
+{
+  "version": "0.1.0",
+  "note": "Curated collections are saved queries over the knowledge graph, not hand-picked product lists. The engine resolves each collection's `query` against products.json at render time, so new products join matching collections automatically — same pattern as RenoGuide's dynamic internal-linking hubs.",
+  "collections": [
+    {
+      "slug": "desk-therapy",
+      "name": "Desk Therapy",
+      "blurb": "Small joys for the 9-to-5: things to boop, squish and stare at between meetings.",
+      "query": { "pillars": ["desk-workspace"], "moods": ["playful", "calming"] },
+      "art": { "emoji": "🧸", "bg": "peach" }
+    },
+    {
+      "slug": "coquette-starter-pack",
+      "name": "Coquette Starter Pack",
+      "blurb": "Bows, hearts and satin everything. Romance as a lifestyle choice.",
+      "query": { "aesthetics": ["coquette"] },
+      "art": { "emoji": "🎀", "bg": "blush" }
+    },
+    {
+      "slug": "blind-box-beginners",
+      "name": "Blind Box Beginners",
+      "blurb": "Start your collection with the series everyone falls for first.",
+      "query": { "pillars": ["collectibles"], "tags": ["blind-box"] },
+      "art": { "emoji": "📦", "bg": "lilac" }
+    },
+    {
+      "slug": "dreamy-bedroom-glow",
+      "name": "Dreamy Bedroom Glow",
+      "blurb": "Lamps, moons and soft light for rooms that feel like falling asleep in a cloud.",
+      "query": { "rooms": ["bedroom"], "moods": ["calming", "cozy"] },
+      "art": { "emoji": "🌙", "bg": "lilac" }
+    },
+    {
+      "slug": "gifts-under-25",
+      "name": "Great Gifts Under $25",
+      "blurb": "Maximum delight, minimum spend. Zero chance they already have it.",
+      "query": { "pillars": ["gifts"], "priceBand": "under-25" },
+      "art": { "emoji": "💝", "bg": "blush" }
+    },
+    {
+      "slug": "cottagecore-corner",
+      "name": "Cottagecore Corner",
+      "blurb": "Mushrooms, daisies and wicker — the soft life, indoors.",
+      "query": { "aesthetics": ["cottagecore"] },
+      "art": { "emoji": "🍄", "bg": "mint" }
+    },
+    {
+      "slug": "coworker-approved",
+      "name": "Coworker-Approved",
+      "blurb": "Office-safe cuteness for new jobs, farewells and Friday morale.",
+      "query": { "recipients": ["coworker"] },
+      "art": { "emoji": "☕", "bg": "peach" }
+    },
+    {
+      "slug": "display-your-collection",
+      "name": "Display Your Collection",
+      "blurb": "Shelves, dioramas and lighting that turn a pile of figures into a museum.",
+      "query": { "tags": ["display", "shelf", "diorama", "collection-display"] },
+      "art": { "emoji": "🗼", "bg": "mint" }
+    }
+  ]
+}

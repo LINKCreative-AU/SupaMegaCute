@@ -1,0 +1,44 @@
+{
+  "version": "0.2.0",
+  "note": "Merchant connector registry. Affiliate IDs live here (config), never in product records or page markup. graph.js builds outbound links from a product's {merchant, merchantRef} plus this config: when affiliateId is set, the affiliate linkTemplate is used with rel=sponsored; while it is null, the plain directTemplate is used instead. Flipping a merchant to monetised is a one-line config change — no product or page edits.",
+  "defaults": {
+    "relAffiliate": "sponsored nofollow noopener",
+    "relDirect": "nofollow noopener",
+    "target": "_blank",
+    "utm": { "utm_source": "supermegacute", "utm_medium": "referral" }
+  },
+  "merchants": {
+    "amazon": {
+      "name": "Amazon",
+      "network": "amazon-associates",
+      "affiliateId": null,
+      "linkTemplate": "https://www.amazon.com/dp/{ref}?tag={affiliateId}",
+      "directTemplate": "https://www.amazon.com/dp/{ref}",
+      "notes": "ref = ASIN. affiliateId pending Associates approval (needs 3 qualifying sales). Use OneLink for geo-routing later."
+    },
+    "etsy": {
+      "name": "Etsy",
+      "network": "awin",
+      "affiliateId": null,
+      "linkTemplate": "https://www.awin1.com/cread.php?awinmid=6220&awinaffid={affiliateId}&ued=https%3A%2F%2Fwww.etsy.com%2Flisting%2F{ref}",
+      "directTemplate": "https://www.etsy.com/listing/{ref}",
+      "notes": "ref = Etsy listing ID. Awin application pending; direct listing links until then."
+    },
+    "ebay": {
+      "name": "eBay",
+      "network": "ebay-partner-network",
+      "affiliateId": null,
+      "linkTemplate": "https://www.ebay.com/itm/{ref}?mkcid=1&mkrid=711-53200-19255-0&campid={affiliateId}&toolid=10001",
+      "directTemplate": "https://www.ebay.com/itm/{ref}",
+      "notes": "ref = eBay item ID. Good fit for rare/retired collectibles."
+    },
+    "shopify-partner": {
+      "name": "Boutique partners",
+      "network": "direct",
+      "affiliateId": null,
+      "linkTemplate": "https://{ref}?ref={affiliateId}",
+      "directTemplate": "https://{ref}",
+      "notes": "ref = full partner product path (domain + path). Direct rev-share partnerships with indie cute-goods stores."
+    }
+  }
+}

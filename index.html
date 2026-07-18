@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SuperMegaCute — Discover Cute Things You Love</title>
+  <meta name="description" content="The discovery platform for cute things: gifts, collectibles, home décor, desk upgrades and aesthetic finds, matched to your vibe by our Explore engine.">
+  <link rel="icon" type="image/svg+xml" href="assets/brand/submarks/favicon.svg">
+  <link rel="stylesheet" href="assets/smc.css">
+  <meta property="og:title" content="SuperMegaCute — Discover Cute Things You Love">
+  <meta property="og:description" content="We help you discover cute things that make you smile.">
+</head>
+<body data-page="home">
+
+<header class="site-header" data-smc-header></header>
+
+<main>
+  <section class="hero">
+    <img class="hero-deco bow" src="assets/brand/decorative/bow.svg" alt="">
+    <img class="hero-deco daisy" src="assets/brand/decorative/daisy.svg" alt="">
+    <img class="hero-deco cloud" src="assets/brand/decorative/cloud-face.svg" alt="">
+    <div class="wrap">
+      <span class="section-kicker">Discover cute things you love</span>
+      <h1>Find the thing that<br>makes you go <span class="accent">“oh no, I need it”</span></h1>
+      <p class="lede">SuperMegaCute is a discovery engine for adorable objects — browse by mood, aesthetic, person or occasion, and we'll match you with finds from across the internet's cutest shops.</p>
+      <div class="hero-actions">
+        <a class="smc-button-primary" href="explore">✨ Start exploring</a>
+        <a class="smc-button-secondary" href="gifts">Find a gift</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <nav class="pillar-rail" aria-label="Browse by pillar">
+      <a class="pillar-tile" href="gifts"><img src="assets/brand/icons/gift.svg" alt=""><strong>Gifts</strong></a>
+      <a class="pillar-tile" href="collectibles"><img src="assets/brand/icons/collectibles-bear.svg" alt=""><strong>Collectibles</strong></a>
+      <a class="pillar-tile" href="home-decor"><img src="assets/brand/icons/home.svg" alt=""><strong>Home &amp; Décor</strong></a>
+      <a class="pillar-tile" href="desk-workspace"><img src="assets/brand/icons/desk-lamp.svg" alt=""><strong>Desk &amp; Workspace</strong></a>
+      <a class="pillar-tile" href="aesthetics"><img src="assets/brand/icons/sparkles.svg" alt=""><strong>Aesthetics</strong></a>
+      <a class="pillar-tile" href="explore"><img src="assets/brand/icons/explore.svg" alt=""><strong>AI Explore</strong></a>
+    </nav>
+  </div>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="section-kicker">Fresh finds</span>
+        <h2 class="section-title">Trending in the cuteverse</h2>
+      </div>
+      <div class="product-grid" data-smc-grid='{}' data-limit="8"></div>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="section-kicker">Curated for a vibe</span>
+        <h2 class="section-title">Collections to fall into</h2>
+        <p>Collections are living queries over our product knowledge graph — they grow as we add new finds.</p>
+      </div>
+      <div class="collection-rail" data-smc-collection-rail data-limit="4"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <div class="section-head">
+        <span class="section-kicker">Collector's corner</span>
+        <h2 class="section-title">Upcoming releases</h2>
+        <p>Blind boxes, anniversary figures and seasonal drops worth setting an alarm for. <a href="collectibles">See the full calendar →</a></p>
+      </div>
+      <div class="release-list" data-smc-releases></div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer" data-smc-footer></footer>
+
+<script src="js/graph.js" data-base="."></script>
+</body>
+</html>

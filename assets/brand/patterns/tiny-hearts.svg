@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+
+<defs><pattern id="p" width="90" height="90" patternUnits="userSpaceOnUse">
+<rect width="90" height="90" fill="#FFF6EC"/>
+<path d="M45 37C39 29 25 34 25 45C25 58 45 69 45 69C45 69 65 58 65 45C65 34 51 29 45 37Z" fill="#FFC7D6"/>
+</pattern></defs><rect width="512" height="512" fill="url(#p)"/>
+
+</svg>

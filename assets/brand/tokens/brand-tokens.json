@@ -1,0 +1,47 @@
+{
+  "brand": "supamegacute",
+  "tagline": "DISCOVER CUTE THINGS YOU LOVE",
+  "mission": "We help you discover cute things that make you smile.",
+  "colors": {
+    "blush": "#FFC7D6",
+    "lilac": "#DCC7F7",
+    "mint": "#BDEAD7",
+    "peach": "#FFDCC2",
+    "cream": "#FFF6EC",
+    "taupe": "#E7E2DD",
+    "charcoal": "#2B2B2B",
+    "white": "#FFFFFF",
+    "pink_dark": "#F28AAA",
+    "gold": "#F3C86B"
+  },
+  "typography": {
+    "display": {
+      "preferred": "Playfair Display",
+      "fallback": "Georgia, 'Times New Roman', serif",
+      "usage": "Headings, editorial accents, elegant statements"
+    },
+    "body": {
+      "preferred": "Poppins",
+      "fallback": "Arial, Helvetica, sans-serif",
+      "usage": "Body copy, navigation, buttons and UI"
+    }
+  },
+  "radius": {
+    "small": "10px",
+    "medium": "16px",
+    "large": "24px",
+    "pill": "999px"
+  },
+  "shadow": {
+    "soft": "0 8px 24px rgba(43,43,43,.08)",
+    "card": "0 12px 30px rgba(242,138,170,.12)"
+  },
+  "spacing": {
+    "xs": "4px",
+    "sm": "8px",
+    "md": "16px",
+    "lg": "24px",
+    "xl": "40px",
+    "2xl": "64px"
+  }
+}

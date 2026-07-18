@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+
+<defs><pattern id="p" width="80" height="80" patternUnits="userSpaceOnUse">
+<rect width="80" height="80" fill="#FFF6EC"/>
+<rect width="40" height="80" fill="#DCC7F7" opacity=".58"/>
+<rect width="80" height="40" fill="#DCC7F7" opacity=".58"/>
+<rect width="40" height="40" fill="#DCC7F7" opacity=".9"/>
+</pattern></defs><rect width="512" height="512" fill="url(#p)"/>
+
+</svg>

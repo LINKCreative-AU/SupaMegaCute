@@ -1,0 +1,66 @@
+{
+  "version": "0.1.0",
+  "note": "Collectibles release calendar — the evergreen SEO surface for the collectibles pillar. Entries are structured entities (brand, series, date, format, rarity) so the AI pipeline can generate/refresh calendar pages and 'what's coming' articles from data.",
+  "releases": [
+    {
+      "id": "2026-08-sonny-angel-marine",
+      "brand": "sonny-angel",
+      "series": "Marine Series 2026 Re-release",
+      "date": "2026-08-07",
+      "format": "blind-box",
+      "figures": 12,
+      "rrp": 13.5,
+      "currency": "USD",
+      "rarity": { "secret": true, "secretOdds": "1:288" },
+      "notes": "Re-release of the fan-favourite ocean lineup; expect fast sellouts at official stockists."
+    },
+    {
+      "id": "2026-08-popmart-hirono-city",
+      "brand": "pop-mart",
+      "series": "Hirono — City of Mist",
+      "date": "2026-08-21",
+      "format": "blind-box",
+      "figures": 13,
+      "rrp": 16.99,
+      "currency": "USD",
+      "rarity": { "secret": true, "secretOdds": "1:144" },
+      "notes": "New mainline Hirono drop; previous series doubled on resale within 6 months."
+    },
+    {
+      "id": "2026-09-sanrio-autumn-figures",
+      "brand": "sanrio",
+      "series": "Sanrio Characters Autumn Café Figures",
+      "date": "2026-09-12",
+      "format": "trading-figure",
+      "figures": 8,
+      "rrp": 11.0,
+      "currency": "USD",
+      "rarity": { "secret": false },
+      "notes": "Seasonal café-themed set — historically the autumn sets retire and are not reprinted."
+    },
+    {
+      "id": "2026-09-jellycat-halloween",
+      "brand": "jellycat",
+      "series": "Jellycat Halloween Amuseables",
+      "date": "2026-09-25",
+      "format": "plush",
+      "figures": 6,
+      "rrp": 30.0,
+      "currency": "USD",
+      "rarity": { "secret": false, "retiredRisk": "high" },
+      "notes": "Seasonal Amuseables retire in January; retired pieces routinely trade 2–3× RRP."
+    },
+    {
+      "id": "2026-10-miffy-70th",
+      "brand": "miffy",
+      "series": "Miffy 70th Anniversary Collection",
+      "date": "2026-10-16",
+      "format": "figure",
+      "figures": 5,
+      "rrp": 49.0,
+      "currency": "USD",
+      "rarity": { "secret": false, "limited": true },
+      "notes": "Numbered anniversary run — the 65th anniversary equivalents sold out in pre-order."
+    }
+  ]
+}

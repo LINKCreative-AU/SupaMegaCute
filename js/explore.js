@@ -18,12 +18,14 @@
 
   const state = { text: "", priceBand: null, collection: null };
   FACET_GROUPS.forEach((g) => (state[g.key] = new Set()));
+  state.tags = new Set(); // no chip UI, but tag deep-links (?tags=blind-box) are honored
 
   function readURL() {
     const params = new URLSearchParams(location.search);
     FACET_GROUPS.forEach((g) => {
       (params.get(g.key) || "").split(",").filter(Boolean).forEach((v) => state[g.key].add(v));
     });
+    (params.get("tags") || "").split(",").filter(Boolean).forEach((v) => state.tags.add(v));
     state.text = params.get("q") || "";
     state.priceBand = params.get("priceBand") || null;
     state.collection = params.get("collection") || null;
@@ -34,6 +36,7 @@
     FACET_GROUPS.forEach((g) => {
       if (state[g.key].size) params.set(g.key, [...state[g.key]].join(","));
     });
+    if (state.tags.size) params.set("tags", [...state.tags].join(","));
     if (state.text) params.set("q", state.text);
     if (state.priceBand) params.set("priceBand", state.priceBand);
     if (state.collection) params.set("collection", state.collection);
@@ -44,6 +47,7 @@
   function currentQuery() {
     const q = { text: state.text || undefined, priceBand: state.priceBand || undefined };
     FACET_GROUPS.forEach((g) => (q[g.key] = [...state[g.key]]));
+    q.tags = [...state.tags];
     return q;
   }
 
@@ -162,6 +166,7 @@
 
     document.getElementById("explore-clear").addEventListener("click", () => {
       FACET_GROUPS.forEach((g) => state[g.key].clear());
+      state.tags.clear();
       state.text = ""; state.priceBand = null; state.collection = null;
       search.value = "";
       render();

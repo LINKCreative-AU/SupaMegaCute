@@ -366,6 +366,16 @@
       "collectible": true
     },
     {
+      "slug": "tokidoki",
+      "name": "tokidoki",
+      "collectible": true
+    },
+    {
+      "slug": "monchhichi",
+      "name": "Monchhichi",
+      "collectible": true
+    },
+    {
       "slug": "generic",
       "name": "Independent makers",
       "collectible": false

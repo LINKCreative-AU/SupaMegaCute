@@ -275,6 +275,25 @@ for (const f of guideFiles) {
   await writeFile(join(DIST, "guides", f), html);
 }
 
+/* ---------- 4d. 404 page ---------- */
+
+await writeFile(join(DIST, "404.html"), pageShell({
+  title: "Page not found | SuperMegaCute",
+  description: "That page wandered off. Explore the catalog instead.",
+  canonical: `${SITE}/404`,
+  robots: "noindex",
+  body: `
+<header class="site-header">${chromeHeader(g)}</header>
+<main class="wrap" style="text-align:center;padding:80px 20px">
+  <img src="/assets/brand/decorative/cloud-face.svg" alt="" width="120">
+  <h1>404 — this page floated away</h1>
+  <p>Whatever was here is gone, but ${g.visible.length} cute things are not.</p>
+  <p style="margin-top:24px"><a class="smc-button-primary" href="/explore">✨ Explore the catalog</a>
+  <a class="smc-button-secondary" href="/">Back home</a></p>
+</main>
+<footer class="site-footer">${chromeFooter(g)}</footer>`,
+}));
+
 /* ---------- 5. sitemaps + robots ---------- */
 
 const url = (loc, priority, lastmod) =>

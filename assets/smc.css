@@ -118,8 +118,9 @@ h2 { font-size: clamp(24px, 3.2vw, 34px); }
 .product-card { overflow: hidden; display: flex; flex-direction: column; }
 .product-art {
   display: flex; align-items: center; justify-content: center;
-  height: 150px; font-size: 64px;
+  height: 150px; font-size: 64px; overflow: hidden;
 }
+.product-art img { width: 100%; height: 100%; object-fit: cover; }
 .product-body { padding: 16px 18px 18px; display: flex; flex-direction: column; flex: 1; }
 .product-brand {
   margin: 0; font: 600 11px/1 var(--smc-font-body);

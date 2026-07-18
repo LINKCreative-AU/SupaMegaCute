@@ -1,0 +1,17 @@
+{
+  "name": "supermegacute",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SuperMegaCute.com — discovery platform for cute things",
+  "type": "module",
+  "scripts": {
+    "serve": "npx serve .",
+    "crawl": "node ingest/crawl-shopify.mjs",
+    "normalize": "node ingest/normalize.mjs",
+    "tag": "node ingest/tag.mjs",
+    "promote": "node ingest/promote.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.70.0"
+  }
+}

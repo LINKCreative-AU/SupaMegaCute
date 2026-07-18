@@ -7,504 +7,2179 @@
       "name": "Strawberry Cow Plush",
       "blurb": "A milkshake-pink cow with a strawberry hood. The internet's favourite emotional support bovine.",
       "brand": "generic",
-      "pillars": ["gifts", "collectibles"],
+      "pillars": [
+        "gifts",
+        "collectibles"
+      ],
       "price": 24.95,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCPLUSH1",
-      "aesthetics": ["kawaii", "retro-cute"],
-      "moods": ["cozy", "whimsical"],
-      "recipients": ["best-friend", "teens", "self-treat"],
-      "occasions": ["birthday", "just-because"],
-      "rooms": ["bedroom"],
-      "colours": ["blush-pink", "cream"],
-      "themes": ["animals", "food-drink"],
-      "tags": ["plush", "soft-toy", "strawberry"],
-      "art": { "emoji": "🐮", "bg": "blush" }
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "cozy",
+        "whimsical"
+      ],
+      "recipients": [
+        "best-friend",
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "blush-pink",
+        "cream"
+      ],
+      "themes": [
+        "animals",
+        "food-drink"
+      ],
+      "tags": [
+        "plush",
+        "soft-toy",
+        "strawberry"
+      ],
+      "art": {
+        "emoji": "🐮",
+        "bg": "blush"
+      }
     },
     {
       "id": "hirono-little-mischief-blindbox",
       "name": "Hirono Little Mischief Blind Box",
       "blurb": "POP MART's moody little art toy. One box, thirteen possible figures, one secret chase.",
       "brand": "pop-mart",
-      "pillars": ["collectibles"],
+      "pillars": [
+        "collectibles"
+      ],
       "price": 16.99,
       "currency": "USD",
       "merchant": "ebay",
       "merchantRef": "1358800001",
-      "aesthetics": ["kawaii"],
-      "moods": ["playful", "whimsical"],
-      "recipients": ["self-treat", "teens", "coworker"],
-      "occasions": ["just-because", "birthday"],
-      "rooms": ["home-office", "bedroom"],
-      "colours": ["multi"],
-      "themes": ["characters"],
-      "tags": ["blind-box", "designer-toy", "chase-figure"],
-      "collectible": { "series": "Little Mischief", "figures": 13, "secretOdds": "1:144" },
-      "art": { "emoji": "🎁", "bg": "lilac" }
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens",
+        "coworker"
+      ],
+      "occasions": [
+        "just-because",
+        "birthday"
+      ],
+      "rooms": [
+        "home-office",
+        "bedroom"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "designer-toy",
+        "chase-figure"
+      ],
+      "collectible": {
+        "series": "Little Mischief",
+        "figures": 13,
+        "secretOdds": "1:144"
+      },
+      "art": {
+        "emoji": "🎁",
+        "bg": "lilac"
+      }
     },
     {
       "id": "sonny-angel-hippers",
       "name": "Sonny Angel Hippers Series",
       "blurb": "The tiny cherub that clings to your phone, monitor and heart. Blind-box format, big feelings.",
       "brand": "sonny-angel",
-      "pillars": ["collectibles", "desk-workspace"],
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
       "price": 13.5,
       "currency": "USD",
       "merchant": "ebay",
       "merchantRef": "1358800002",
-      "aesthetics": ["kawaii", "coquette"],
-      "moods": ["playful", "romantic"],
-      "recipients": ["best-friend", "self-treat"],
-      "occasions": ["just-because", "valentines"],
-      "rooms": ["home-office"],
-      "colours": ["cream", "blush-pink"],
-      "themes": ["characters"],
-      "tags": ["blind-box", "hippers", "phone-buddy"],
-      "collectible": { "series": "Hippers", "figures": 12, "secretOdds": "1:288" },
-      "art": { "emoji": "👼", "bg": "peach" }
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "playful",
+        "romantic"
+      ],
+      "recipients": [
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because",
+        "valentines"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "cream",
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "hippers",
+        "phone-buddy"
+      ],
+      "collectible": {
+        "series": "Hippers",
+        "figures": 12,
+        "secretOdds": "1:288"
+      },
+      "art": {
+        "emoji": "👼",
+        "bg": "peach"
+      }
     },
     {
       "id": "jellycat-bartholomew-bear",
       "name": "Jellycat Bartholomew Bear",
       "blurb": "Impossibly soft, quietly smug. The gateway Jellycat that starts a whole shelf.",
       "brand": "jellycat",
-      "pillars": ["gifts", "collectibles"],
+      "pillars": [
+        "gifts",
+        "collectibles"
+      ],
       "price": 37.5,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCJELLY1",
-      "aesthetics": ["cottagecore", "dreamy-cloud"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["kids", "best-friend", "for-her"],
-      "occasions": ["birthday", "christmas"],
-      "rooms": ["bedroom"],
-      "colours": ["cream"],
-      "themes": ["animals"],
-      "tags": ["plush", "jellycat", "heirloom-soft-toy"],
-      "collectible": { "series": "Bartholomew", "retiredRisk": "medium" },
-      "art": { "emoji": "🧸", "bg": "peach" }
+      "aesthetics": [
+        "cottagecore",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "kids",
+        "best-friend",
+        "for-her"
+      ],
+      "occasions": [
+        "birthday",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "jellycat",
+        "heirloom-soft-toy"
+      ],
+      "collectible": {
+        "series": "Bartholomew",
+        "retiredRisk": "medium"
+      },
+      "art": {
+        "emoji": "🧸",
+        "bg": "peach"
+      }
     },
     {
       "id": "miffy-first-light-lamp",
       "name": "Miffy First Light Lamp",
       "blurb": "A rechargeable, dimmable Miffy that glows like a tiny moon. Nursery-grade cute, design-museum pedigree.",
       "brand": "miffy",
-      "pillars": ["home-decor", "collectibles"],
-      "price": 129.0,
+      "pillars": [
+        "home-decor",
+        "collectibles"
+      ],
+      "price": 129,
       "currency": "USD",
       "merchant": "shopify-partner",
       "merchantRef": "shop.cutepartner.example/products/miffy-first-light",
-      "aesthetics": ["pastel-minimal", "danish-pastel"],
-      "moods": ["calming", "cozy"],
-      "recipients": ["for-her", "kids", "self-treat"],
-      "occasions": ["housewarming", "christmas"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["white"],
-      "themes": ["characters", "animals"],
-      "tags": ["lamp", "night-light", "miffy"],
-      "art": { "emoji": "🐰", "bg": "mint" }
+      "aesthetics": [
+        "pastel-minimal",
+        "danish-pastel"
+      ],
+      "moods": [
+        "calming",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "kids",
+        "self-treat"
+      ],
+      "occasions": [
+        "housewarming",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "white"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "lamp",
+        "night-light",
+        "miffy"
+      ],
+      "art": {
+        "emoji": "🐰",
+        "bg": "mint"
+      }
     },
     {
       "id": "cloud-shelf-set",
       "name": "Floating Cloud Shelf Set",
       "blurb": "Three chunky cloud shelves for displaying blind boxes, plushies and other small treasures.",
       "brand": "generic",
-      "pillars": ["home-decor", "collectibles"],
-      "price": 42.0,
+      "pillars": [
+        "home-decor",
+        "collectibles"
+      ],
+      "price": 42,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000001",
-      "aesthetics": ["dreamy-cloud", "pastel-minimal"],
-      "moods": ["calming", "whimsical"],
-      "recipients": ["self-treat", "teens"],
-      "occasions": ["housewarming"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["white", "cream"],
-      "themes": ["celestial"],
-      "tags": ["shelf", "display", "collection-display"],
-      "art": { "emoji": "☁️", "bg": "lilac" }
+      "aesthetics": [
+        "dreamy-cloud",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "housewarming"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "white",
+        "cream"
+      ],
+      "themes": [
+        "celestial"
+      ],
+      "tags": [
+        "shelf",
+        "display",
+        "collection-display"
+      ],
+      "art": {
+        "emoji": "☁️",
+        "bg": "lilac"
+      }
     },
     {
       "id": "mushroom-fairy-lamp",
       "name": "Mushroom Fairy Lamp",
       "blurb": "A hand-blown glass mushroom that glows amber at dusk. Cottagecore's favourite night light.",
       "brand": "generic",
-      "pillars": ["home-decor"],
-      "price": 58.0,
+      "pillars": [
+        "home-decor"
+      ],
+      "price": 58,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000002",
-      "aesthetics": ["cottagecore"],
-      "moods": ["cozy", "romantic"],
-      "recipients": ["for-her", "self-treat"],
-      "occasions": ["housewarming", "birthday"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["peach", "gold"],
-      "themes": ["florals"],
-      "tags": ["lamp", "mushroom", "handmade"],
-      "art": { "emoji": "🍄", "bg": "peach" }
+      "aesthetics": [
+        "cottagecore"
+      ],
+      "moods": [
+        "cozy",
+        "romantic"
+      ],
+      "recipients": [
+        "for-her",
+        "self-treat"
+      ],
+      "occasions": [
+        "housewarming",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "peach",
+        "gold"
+      ],
+      "themes": [
+        "florals"
+      ],
+      "tags": [
+        "lamp",
+        "mushroom",
+        "handmade"
+      ],
+      "art": {
+        "emoji": "🍄",
+        "bg": "peach"
+      }
     },
     {
       "id": "checkered-daisy-rug",
       "name": "Checkered Daisy Rug",
       "blurb": "Danish pastel checkerboard with a daisy in the corner. Instantly softens any floor.",
       "brand": "generic",
-      "pillars": ["home-decor"],
-      "price": 89.0,
+      "pillars": [
+        "home-decor"
+      ],
+      "price": 89,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCRUG001",
-      "aesthetics": ["danish-pastel", "y2k"],
-      "moods": ["playful", "energising"],
-      "recipients": ["teens", "self-treat"],
-      "occasions": ["housewarming"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["mint", "cream"],
-      "themes": ["florals"],
-      "tags": ["rug", "checkerboard", "daisy"],
-      "art": { "emoji": "🌼", "bg": "mint" }
+      "aesthetics": [
+        "danish-pastel",
+        "y2k"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "housewarming"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "mint",
+        "cream"
+      ],
+      "themes": [
+        "florals"
+      ],
+      "tags": [
+        "rug",
+        "checkerboard",
+        "daisy"
+      ],
+      "art": {
+        "emoji": "🌼",
+        "bg": "mint"
+      }
     },
     {
       "id": "wavy-mirror-pink",
       "name": "Wavy Squiggle Mirror",
       "blurb": "The Instagram-famous wiggle mirror in blush. Makes every selfie 20% dreamier.",
       "brand": "generic",
-      "pillars": ["home-decor", "aesthetics"],
-      "price": 74.0,
+      "pillars": [
+        "home-decor",
+        "aesthetics"
+      ],
+      "price": 74,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCMIRR01",
-      "aesthetics": ["danish-pastel", "y2k"],
-      "moods": ["playful", "romantic"],
-      "recipients": ["for-her", "teens"],
-      "occasions": ["birthday", "housewarming"],
-      "rooms": ["bedroom", "bathroom"],
-      "colours": ["blush-pink"],
-      "themes": ["hearts"],
-      "tags": ["mirror", "wavy", "wall-decor"],
-      "art": { "emoji": "🪞", "bg": "blush" }
+      "aesthetics": [
+        "danish-pastel",
+        "y2k"
+      ],
+      "moods": [
+        "playful",
+        "romantic"
+      ],
+      "recipients": [
+        "for-her",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "housewarming"
+      ],
+      "rooms": [
+        "bedroom",
+        "bathroom"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "hearts"
+      ],
+      "tags": [
+        "mirror",
+        "wavy",
+        "wall-decor"
+      ],
+      "art": {
+        "emoji": "🪞",
+        "bg": "blush"
+      }
     },
     {
       "id": "smoko-toast-light",
       "name": "Smoko Tayto Toast Ambient Light",
       "blurb": "A squishy piece of toast that lights up when you boop it. Desk morale, solved.",
       "brand": "smoko",
-      "pillars": ["desk-workspace", "gifts"],
-      "price": 32.0,
+      "pillars": [
+        "desk-workspace",
+        "gifts"
+      ],
+      "price": 32,
       "currency": "USD",
       "merchant": "shopify-partner",
       "merchantRef": "shop.cutepartner.example/products/tayto-toast-light",
-      "aesthetics": ["kawaii"],
-      "moods": ["playful", "cozy"],
-      "recipients": ["coworker", "teens", "self-treat"],
-      "occasions": ["new-job", "just-because"],
-      "rooms": ["home-office"],
-      "colours": ["peach", "cream"],
-      "themes": ["food-drink"],
-      "tags": ["desk-light", "squishy", "toast"],
-      "art": { "emoji": "🍞", "bg": "peach" }
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "cozy"
+      ],
+      "recipients": [
+        "coworker",
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "peach",
+        "cream"
+      ],
+      "themes": [
+        "food-drink"
+      ],
+      "tags": [
+        "desk-light",
+        "squishy",
+        "toast"
+      ],
+      "art": {
+        "emoji": "🍞",
+        "bg": "peach"
+      }
     },
     {
       "id": "capybara-desk-organiser",
       "name": "Capybara Desk Organiser",
       "blurb": "A chill capybara holds your pens, clips and emotional stability in its ceramic hot spring.",
       "brand": "generic",
-      "pillars": ["desk-workspace", "gifts"],
+      "pillars": [
+        "desk-workspace",
+        "gifts"
+      ],
       "price": 27.5,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000003",
-      "aesthetics": ["kawaii", "retro-cute"],
-      "moods": ["calming", "whimsical"],
-      "recipients": ["coworker", "for-him", "self-treat"],
-      "occasions": ["new-job", "birthday"],
-      "rooms": ["home-office"],
-      "colours": ["peach", "mint"],
-      "themes": ["animals"],
-      "tags": ["desk-organiser", "capybara", "ceramic"],
-      "art": { "emoji": "🦫", "bg": "mint" }
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "coworker",
+        "for-him",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "birthday"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "peach",
+        "mint"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "desk-organiser",
+        "capybara",
+        "ceramic"
+      ],
+      "art": {
+        "emoji": "🦫",
+        "bg": "mint"
+      }
     },
     {
       "id": "kirby-mechanical-keyboard",
       "name": "Pink Cloud 65% Mechanical Keyboard",
       "blurb": "Thocky switches, pudding keycaps, blush-and-cream colourway. Cute enough for the desk tour.",
       "brand": "generic",
-      "pillars": ["desk-workspace", "aesthetics"],
-      "price": 96.0,
+      "pillars": [
+        "desk-workspace",
+        "aesthetics"
+      ],
+      "price": 96,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCKEYB01",
-      "aesthetics": ["pastel-minimal", "y2k"],
-      "moods": ["energising", "playful"],
-      "recipients": ["self-treat", "teens", "for-him"],
-      "occasions": ["new-job", "christmas"],
-      "rooms": ["home-office"],
-      "colours": ["blush-pink", "white"],
-      "themes": ["celestial"],
-      "tags": ["keyboard", "mechanical", "desk-setup"],
-      "art": { "emoji": "⌨️", "bg": "blush" }
+      "aesthetics": [
+        "pastel-minimal",
+        "y2k"
+      ],
+      "moods": [
+        "energising",
+        "playful"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens",
+        "for-him"
+      ],
+      "occasions": [
+        "new-job",
+        "christmas"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink",
+        "white"
+      ],
+      "themes": [
+        "celestial"
+      ],
+      "tags": [
+        "keyboard",
+        "mechanical",
+        "desk-setup"
+      ],
+      "art": {
+        "emoji": "⌨️",
+        "bg": "blush"
+      }
     },
     {
       "id": "bunny-page-flags",
       "name": "Bunny Ears Sticky Page Flags",
       "blurb": "600 pastel page flags with tiny ears. Turns any planner into a small meadow.",
       "brand": "generic",
-      "pillars": ["desk-workspace"],
+      "pillars": [
+        "desk-workspace"
+      ],
       "price": 8.99,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCFLAG01",
-      "aesthetics": ["kawaii", "pastel-minimal"],
-      "moods": ["playful"],
-      "recipients": ["coworker", "teens", "kids"],
-      "occasions": ["just-because", "new-job"],
-      "rooms": ["home-office"],
-      "colours": ["multi"],
-      "themes": ["animals"],
-      "tags": ["stationery", "sticky-notes", "planner"],
-      "art": { "emoji": "🐇", "bg": "lilac" }
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "coworker",
+        "teens",
+        "kids"
+      ],
+      "occasions": [
+        "just-because",
+        "new-job"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "stationery",
+        "sticky-notes",
+        "planner"
+      ],
+      "art": {
+        "emoji": "🐇",
+        "bg": "lilac"
+      }
     },
     {
       "id": "hello-kitty-50th-figure",
       "name": "Hello Kitty 50th Anniversary Figure",
       "blurb": "Sanrio's golden-bow anniversary figure. The one collectors will wish they'd bought at retail.",
       "brand": "sanrio",
-      "pillars": ["collectibles"],
-      "price": 45.0,
+      "pillars": [
+        "collectibles"
+      ],
+      "price": 45,
       "currency": "USD",
       "merchant": "ebay",
       "merchantRef": "1358800003",
-      "aesthetics": ["kawaii", "retro-cute"],
-      "moods": ["playful", "romantic"],
-      "recipients": ["self-treat", "for-her"],
-      "occasions": ["birthday", "christmas"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["blush-pink", "gold"],
-      "themes": ["characters", "hearts"],
-      "tags": ["sanrio", "anniversary", "figure"],
-      "collectible": { "series": "50th Anniversary", "limited": true, "retiredRisk": "high" },
-      "art": { "emoji": "🎀", "bg": "blush" }
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful",
+        "romantic"
+      ],
+      "recipients": [
+        "self-treat",
+        "for-her"
+      ],
+      "occasions": [
+        "birthday",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "blush-pink",
+        "gold"
+      ],
+      "themes": [
+        "characters",
+        "hearts"
+      ],
+      "tags": [
+        "sanrio",
+        "anniversary",
+        "figure"
+      ],
+      "collectible": {
+        "series": "50th Anniversary",
+        "limited": true,
+        "retiredRisk": "high"
+      },
+      "art": {
+        "emoji": "🎀",
+        "bg": "blush"
+      }
     },
     {
       "id": "cinnamoroll-cafe-diorama",
       "name": "Cinnamoroll Café Diorama Kit",
       "blurb": "Build a miniature pastel café for your figures, one tiny croissant at a time.",
       "brand": "sanrio",
-      "pillars": ["collectibles", "home-decor"],
-      "price": 38.0,
+      "pillars": [
+        "collectibles",
+        "home-decor"
+      ],
+      "price": 38,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCDIOR01",
-      "aesthetics": ["kawaii", "dreamy-cloud"],
-      "moods": ["cozy", "whimsical"],
-      "recipients": ["teens", "self-treat"],
-      "occasions": ["christmas", "birthday"],
-      "rooms": ["bedroom"],
-      "colours": ["white", "blush-pink"],
-      "themes": ["characters", "food-drink"],
-      "tags": ["diorama", "display", "miniatures"],
-      "art": { "emoji": "☕", "bg": "mint" }
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "cozy",
+        "whimsical"
+      ],
+      "recipients": [
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "christmas",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "white",
+        "blush-pink"
+      ],
+      "themes": [
+        "characters",
+        "food-drink"
+      ],
+      "tags": [
+        "diorama",
+        "display",
+        "miniatures"
+      ],
+      "art": {
+        "emoji": "☕",
+        "bg": "mint"
+      }
     },
     {
       "id": "heart-shaped-mug-set",
       "name": "Heart Handle Mug Duo",
       "blurb": "Two stoneware mugs with chunky heart handles. Morning coffee, but make it romantic.",
       "brand": "generic",
-      "pillars": ["gifts", "home-decor"],
-      "price": 34.0,
+      "pillars": [
+        "gifts",
+        "home-decor"
+      ],
+      "price": 34,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000004",
-      "aesthetics": ["coquette", "cottagecore"],
-      "moods": ["romantic", "cozy"],
-      "recipients": ["for-her", "best-friend"],
-      "occasions": ["valentines", "housewarming"],
-      "rooms": ["kitchen"],
-      "colours": ["cream", "blush-pink"],
-      "themes": ["hearts", "food-drink"],
-      "tags": ["mug", "couples-gift", "stoneware"],
-      "art": { "emoji": "💕", "bg": "blush" }
+      "aesthetics": [
+        "coquette",
+        "cottagecore"
+      ],
+      "moods": [
+        "romantic",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "valentines",
+        "housewarming"
+      ],
+      "rooms": [
+        "kitchen"
+      ],
+      "colours": [
+        "cream",
+        "blush-pink"
+      ],
+      "themes": [
+        "hearts",
+        "food-drink"
+      ],
+      "tags": [
+        "mug",
+        "couples-gift",
+        "stoneware"
+      ],
+      "art": {
+        "emoji": "💕",
+        "bg": "blush"
+      }
     },
     {
       "id": "ribbon-hair-claw-set",
       "name": "Satin Ribbon Hair Claw Set",
       "blurb": "Four oversized claws wrapped in satin bows. Coquette's easiest entry point.",
       "brand": "generic",
-      "pillars": ["aesthetics", "gifts"],
-      "price": 18.0,
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "price": 18,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000005",
-      "aesthetics": ["coquette"],
-      "moods": ["romantic", "playful"],
-      "recipients": ["for-her", "best-friend", "teens"],
-      "occasions": ["valentines", "just-because", "birthday"],
+      "aesthetics": [
+        "coquette"
+      ],
+      "moods": [
+        "romantic",
+        "playful"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend",
+        "teens"
+      ],
+      "occasions": [
+        "valentines",
+        "just-because",
+        "birthday"
+      ],
       "rooms": [],
-      "colours": ["blush-pink", "cream"],
-      "themes": ["hearts"],
-      "tags": ["hair-accessory", "bow", "ribbon"],
-      "art": { "emoji": "🎀", "bg": "peach" }
+      "colours": [
+        "blush-pink",
+        "cream"
+      ],
+      "themes": [
+        "hearts"
+      ],
+      "tags": [
+        "hair-accessory",
+        "bow",
+        "ribbon"
+      ],
+      "art": {
+        "emoji": "🎀",
+        "bg": "peach"
+      }
     },
     {
       "id": "duck-string-lights",
       "name": "Rubber Duck String Lights",
       "blurb": "Twenty tiny glowing ducks on a string. Absurd. Essential.",
       "brand": "generic",
-      "pillars": ["home-decor", "gifts"],
-      "price": 21.0,
+      "pillars": [
+        "home-decor",
+        "gifts"
+      ],
+      "price": 21,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCDUCK01",
-      "aesthetics": ["kawaii", "retro-cute"],
-      "moods": ["whimsical", "playful"],
-      "recipients": ["teens", "kids", "coworker"],
-      "occasions": ["just-because", "christmas"],
-      "rooms": ["bedroom", "bathroom"],
-      "colours": ["gold", "white"],
-      "themes": ["animals"],
-      "tags": ["string-lights", "duck", "fairy-lights"],
-      "art": { "emoji": "🦆", "bg": "mint" }
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "whimsical",
+        "playful"
+      ],
+      "recipients": [
+        "teens",
+        "kids",
+        "coworker"
+      ],
+      "occasions": [
+        "just-because",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom",
+        "bathroom"
+      ],
+      "colours": [
+        "gold",
+        "white"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "string-lights",
+        "duck",
+        "fairy-lights"
+      ],
+      "art": {
+        "emoji": "🦆",
+        "bg": "mint"
+      }
     },
     {
       "id": "moon-phase-wall-hanging",
       "name": "Pastel Moon Phase Wall Hanging",
       "blurb": "Five ceramic moons fading from blush to lilac on a golden thread.",
       "brand": "generic",
-      "pillars": ["home-decor", "aesthetics"],
-      "price": 29.0,
+      "pillars": [
+        "home-decor",
+        "aesthetics"
+      ],
+      "price": 29,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000006",
-      "aesthetics": ["dreamy-cloud", "pastel-minimal"],
-      "moods": ["calming", "romantic"],
-      "recipients": ["for-her", "self-treat"],
-      "occasions": ["housewarming", "birthday"],
-      "rooms": ["bedroom"],
-      "colours": ["lilac", "blush-pink", "gold"],
-      "themes": ["celestial"],
-      "tags": ["wall-decor", "moon", "ceramic"],
-      "art": { "emoji": "🌙", "bg": "lilac" }
+      "aesthetics": [
+        "dreamy-cloud",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "romantic"
+      ],
+      "recipients": [
+        "for-her",
+        "self-treat"
+      ],
+      "occasions": [
+        "housewarming",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "lilac",
+        "blush-pink",
+        "gold"
+      ],
+      "themes": [
+        "celestial"
+      ],
+      "tags": [
+        "wall-decor",
+        "moon",
+        "ceramic"
+      ],
+      "art": {
+        "emoji": "🌙",
+        "bg": "lilac"
+      }
     },
     {
       "id": "picnic-basket-bag",
       "name": "Wicker Heart Picnic Basket Bag",
       "blurb": "A heart-shaped wicker bag that works for picnics, farmers markets and main-character walks.",
       "brand": "generic",
-      "pillars": ["aesthetics", "gifts"],
-      "price": 52.0,
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "price": 52,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000007",
-      "aesthetics": ["cottagecore", "coquette"],
-      "moods": ["romantic", "energising"],
-      "recipients": ["for-her", "best-friend"],
-      "occasions": ["birthday", "valentines"],
+      "aesthetics": [
+        "cottagecore",
+        "coquette"
+      ],
+      "moods": [
+        "romantic",
+        "energising"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "valentines"
+      ],
       "rooms": [],
-      "colours": ["cream", "gold"],
-      "themes": ["hearts", "florals"],
-      "tags": ["bag", "wicker", "picnic"],
-      "art": { "emoji": "🧺", "bg": "peach" }
+      "colours": [
+        "cream",
+        "gold"
+      ],
+      "themes": [
+        "hearts",
+        "florals"
+      ],
+      "tags": [
+        "bag",
+        "wicker",
+        "picnic"
+      ],
+      "art": {
+        "emoji": "🧺",
+        "bg": "peach"
+      }
     },
     {
       "id": "dino-tea-infuser",
       "name": "Loch Ness Dino Tea Infuser",
       "blurb": "A tiny mint dinosaur periscopes out of your mug while your tea steeps.",
       "brand": "generic",
-      "pillars": ["gifts", "desk-workspace"],
+      "pillars": [
+        "gifts",
+        "desk-workspace"
+      ],
       "price": 12.5,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCDINO01",
-      "aesthetics": ["kawaii", "retro-cute"],
-      "moods": ["whimsical", "playful"],
-      "recipients": ["coworker", "for-him", "kids"],
-      "occasions": ["just-because", "new-job", "christmas"],
-      "rooms": ["kitchen", "home-office"],
-      "colours": ["mint"],
-      "themes": ["animals", "food-drink"],
-      "tags": ["tea", "infuser", "kitchen-gadget"],
-      "art": { "emoji": "🦕", "bg": "mint" }
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "whimsical",
+        "playful"
+      ],
+      "recipients": [
+        "coworker",
+        "for-him",
+        "kids"
+      ],
+      "occasions": [
+        "just-because",
+        "new-job",
+        "christmas"
+      ],
+      "rooms": [
+        "kitchen",
+        "home-office"
+      ],
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "animals",
+        "food-drink"
+      ],
+      "tags": [
+        "tea",
+        "infuser",
+        "kitchen-gadget"
+      ],
+      "art": {
+        "emoji": "🦕",
+        "bg": "mint"
+      }
     },
     {
       "id": "y2k-flip-phone-mirror",
       "name": "Y2K Flip Phone Compact Mirror",
       "blurb": "A pink flip-phone that opens to a mirror. Serving 2003 from your handbag.",
       "brand": "generic",
-      "pillars": ["aesthetics", "gifts"],
-      "price": 15.0,
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "price": 15,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCY2K001",
-      "aesthetics": ["y2k"],
-      "moods": ["playful", "energising"],
-      "recipients": ["teens", "best-friend"],
-      "occasions": ["birthday", "just-because"],
+      "aesthetics": [
+        "y2k"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["blush-pink"],
-      "themes": ["hearts"],
-      "tags": ["mirror", "y2k", "accessory"],
-      "art": { "emoji": "📱", "bg": "blush" }
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "hearts"
+      ],
+      "tags": [
+        "mirror",
+        "y2k",
+        "accessory"
+      ],
+      "art": {
+        "emoji": "📱",
+        "bg": "blush"
+      }
     },
     {
       "id": "bow-desk-mat",
       "name": "Coquette Bow Desk Mat",
       "blurb": "An extra-large cream desk mat scattered with hand-drawn pink bows.",
       "brand": "generic",
-      "pillars": ["desk-workspace", "aesthetics"],
-      "price": 23.0,
+      "pillars": [
+        "desk-workspace",
+        "aesthetics"
+      ],
+      "price": 23,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000008",
-      "aesthetics": ["coquette", "pastel-minimal"],
-      "moods": ["calming", "romantic"],
-      "recipients": ["for-her", "self-treat", "coworker"],
-      "occasions": ["new-job", "just-because"],
-      "rooms": ["home-office"],
-      "colours": ["cream", "blush-pink"],
-      "themes": ["hearts"],
-      "tags": ["desk-mat", "bow", "workspace"],
-      "art": { "emoji": "🖱️", "bg": "blush" }
+      "aesthetics": [
+        "coquette",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "romantic"
+      ],
+      "recipients": [
+        "for-her",
+        "self-treat",
+        "coworker"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "cream",
+        "blush-pink"
+      ],
+      "themes": [
+        "hearts"
+      ],
+      "tags": [
+        "desk-mat",
+        "bow",
+        "workspace"
+      ],
+      "art": {
+        "emoji": "🖱️",
+        "bg": "blush"
+      }
     },
     {
       "id": "cloud-humidifier",
       "name": "Raincloud Desk Humidifier",
       "blurb": "A little cloud that drips glowing rain into a pool while it humidifies your desk air.",
       "brand": "generic",
-      "pillars": ["desk-workspace", "home-decor"],
-      "price": 48.0,
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "price": 48,
       "currency": "USD",
       "merchant": "amazon",
       "merchantRef": "B0SMCCLOUD1",
-      "aesthetics": ["dreamy-cloud", "pastel-minimal"],
-      "moods": ["calming", "cozy"],
-      "recipients": ["coworker", "self-treat", "for-her"],
-      "occasions": ["new-job", "christmas"],
-      "rooms": ["home-office", "bedroom"],
-      "colours": ["white", "lilac"],
-      "themes": ["celestial"],
-      "tags": ["humidifier", "cloud", "desk-gadget"],
-      "art": { "emoji": "🌧️", "bg": "lilac" }
+      "aesthetics": [
+        "dreamy-cloud",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "cozy"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat",
+        "for-her"
+      ],
+      "occasions": [
+        "new-job",
+        "christmas"
+      ],
+      "rooms": [
+        "home-office",
+        "bedroom"
+      ],
+      "colours": [
+        "white",
+        "lilac"
+      ],
+      "themes": [
+        "celestial"
+      ],
+      "tags": [
+        "humidifier",
+        "cloud",
+        "desk-gadget"
+      ],
+      "art": {
+        "emoji": "🌧️",
+        "bg": "lilac"
+      }
     },
     {
       "id": "kawaii-crochet-kit",
       "name": "Beginner Kawaii Crochet Kit",
       "blurb": "Everything to crochet your first tiny whale, including the courage. No experience needed.",
       "brand": "generic",
-      "pillars": ["gifts"],
-      "price": 26.0,
+      "pillars": [
+        "gifts"
+      ],
+      "price": 26,
       "currency": "USD",
       "merchant": "etsy",
       "merchantRef": "1200000009",
-      "aesthetics": ["cottagecore", "kawaii"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["for-her", "best-friend", "teens"],
-      "occasions": ["christmas", "birthday", "just-because"],
+      "aesthetics": [
+        "cottagecore",
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend",
+        "teens"
+      ],
+      "occasions": [
+        "christmas",
+        "birthday",
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["multi"],
-      "themes": ["animals"],
-      "tags": ["craft-kit", "crochet", "diy"],
-      "art": { "emoji": "🧶", "bg": "mint" }
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "craft-kit",
+        "crochet",
+        "diy"
+      ],
+      "art": {
+        "emoji": "🧶",
+        "bg": "mint"
+      }
+    },
+    {
+      "id": "blippo-sparkly-strawberry-hair-ties",
+      "name": "Sparkly Strawberry Hair Ties",
+      "blurb": "Glitter-filled strawberry hair ties — four dollars of pure main-character energy.",
+      "brand": "generic",
+      "pillars": [
+        "aesthetics"
+      ],
+      "price": 3.9,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "blippo.com/products/sparkly-strawberry-hair-ties",
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "teens",
+        "best-friend",
+        "kids"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "food-drink"
+      ],
+      "tags": [
+        "hair-accessory",
+        "strawberry"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0683/0194/7201/files/49144.jpg?v=1784257630",
+        "source": "blippo",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🍓",
+        "bg": "peach"
+      },
+      "provenance": {
+        "source": "blippo",
+        "sourceUrl": "https://blippo.com/products/sparkly-strawberry-hair-ties",
+        "fetchedAt": "2026-07-18T09:06:20.030Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "blippo-a6-travel-neko-notebook",
+      "name": "A6 Travel Neko Notebook",
+      "blurb": "A pocket notebook starring a travelling cat — for lists, doodles and tiny adventures.",
+      "brand": "generic",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "price": 6.4,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "blippo.com/products/a6-travel-neko-notebook",
+      "aesthetics": [
+        "retro-cute"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "notebook",
+        "stationery",
+        "cat"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0683/0194/7201/files/491452.webp?v=1784194408",
+        "source": "blippo",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🐱",
+        "bg": "mint"
+      },
+      "provenance": {
+        "source": "blippo",
+        "sourceUrl": "https://blippo.com/products/a6-travel-neko-notebook",
+        "fetchedAt": "2026-07-18T09:06:20.030Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "blippo-japanese-summer-stickers-happy-rabbits",
+      "name": "Japanese Summer Stickers - Happy Rabbits",
+      "blurb": "Happy rabbits enjoying Japanese summer — sticker-sheet serotonin for planners and laptops.",
+      "brand": "generic",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "price": 3.9,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "blippo.com/products/japanese-summer-stickers-happy-rabbits",
+      "aesthetics": [
+        "kawaii",
+        "cottagecore"
+      ],
+      "moods": [
+        "calming",
+        "playful"
+      ],
+      "recipients": [
+        "teens",
+        "kids",
+        "coworker"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "animals",
+        "florals"
+      ],
+      "tags": [
+        "stickers",
+        "planner",
+        "rabbit"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0683/0194/7201/files/49141.jpg?v=1784188620",
+        "source": "blippo",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🐇",
+        "bg": "mint"
+      },
+      "provenance": {
+        "source": "blippo",
+        "sourceUrl": "https://blippo.com/products/japanese-summer-stickers-happy-rabbits",
+        "fetchedAt": "2026-07-18T09:06:20.030Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "blippo-chiikawa-sushi-diy-candy-kit",
+      "name": "Chiikawa Sushi  DIY Candy Kit",
+      "blurb": "Build your own candy sushi with Chiikawa — dinner and a craft project, both edible.",
+      "brand": "generic",
+      "pillars": [
+        "gifts"
+      ],
+      "price": 6.9,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "blippo.com/products/chiikawa-sushi-diy-candy-kit",
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "kids",
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "just-because",
+        "birthday"
+      ],
+      "rooms": [],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "food-drink",
+        "characters"
+      ],
+      "tags": [
+        "candy-kit",
+        "diy",
+        "chiikawa"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0683/0194/7201/files/49133.jpg?v=1784186682",
+        "source": "blippo",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🍣",
+        "bg": "mint"
+      },
+      "provenance": {
+        "source": "blippo",
+        "sourceUrl": "https://blippo.com/products/chiikawa-sushi-diy-candy-kit",
+        "fetchedAt": "2026-07-18T09:06:20.030Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "blippo-re-ment-kirby-of-the-star-adventure-on-desk",
+      "name": "PRE-ORDER | Re-ment Kirby of the Star - Adventure on Desk",
+      "blurb": "Re-Ment's Kirby desk-adventure miniatures — blind-box format, maximum desk delight.",
+      "brand": "generic",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "price": 21.9,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "blippo.com/products/re-ment-kirby-of-the-star-adventure-on-desk",
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens",
+        "coworker"
+      ],
+      "occasions": [
+        "just-because",
+        "birthday"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "re-ment",
+        "kirby",
+        "miniatures"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0683/0194/7201/files/PRE-49148-image1.png?v=1783916200",
+        "source": "blippo",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "⭐",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "blippo",
+        "sourceUrl": "https://blippo.com/products/re-ment-kirby-of-the-star-adventure-on-desk",
+        "fetchedAt": "2026-07-18T09:06:20.030Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "kawaiipenshop-mofusand-kitty-ribbon-memo-pad",
+      "name": "Mofusand Kitty Ribbon Memo Pad - Limited Spring Edition",
+      "blurb": "Mofusand kittens in ribbons on a limited spring memo pad — notes too cute to throw away.",
+      "brand": "generic",
+      "pillars": [
+        "desk-workspace",
+        "collectibles"
+      ],
+      "price": 14.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "kawaiipenshop.com/products/mofusand-kitty-ribbon-memo-pad",
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "playful",
+        "cozy"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals",
+        "hearts"
+      ],
+      "tags": [
+        "memo-pad",
+        "stationery",
+        "mofusand",
+        "limited-edition"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/1403/8979/files/Mofusand-Kitty-Ribbon-Memo-Pad-Notepad-Cat-Kitten-Kitty-Stationery-Japan-Stationery-High-Quality-Themed-Paper-Limited-Edition-1.png?v=1770257812",
+        "source": "kawaiipenshop",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🐱",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "kawaiipenshop",
+        "sourceUrl": "https://kawaiipenshop.com/products/mofusand-kitty-ribbon-memo-pad",
+        "fetchedAt": "2026-07-18T09:06:32.609Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "kawaiipenshop-sanrio-character-chopstick-rest",
+      "name": "Sanrio Character Chopstick Rest",
+      "blurb": "Tiny Sanrio characters holding your chopsticks between bites — dinner-table cuteness, solved.",
+      "brand": "sanrio",
+      "pillars": [
+        "home-decor",
+        "gifts"
+      ],
+      "price": 8.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "kawaiipenshop.com/products/sanrio-character-chopstick-rest",
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "whimsical",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "kitchen"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "kitchen",
+        "chopstick-rest",
+        "sanrio"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/1403/8979/files/Sanrio-Character-Chopstick-Rests-Hello-Kitty-My-Melody-Pompompurin-Cinnamoroll-Ceramic-Chopstick-Holder-Japanese-Chopstick-Rest-Kawaii-Cute-Kitchen-Tableware-Mini-1.png?v=1782887486",
+        "source": "kawaiipenshop",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🥢",
+        "bg": "peach"
+      },
+      "provenance": {
+        "source": "kawaiipenshop",
+        "sourceUrl": "https://kawaiipenshop.com/products/sanrio-character-chopstick-rest",
+        "fetchedAt": "2026-07-18T09:06:32.609Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "kawaiipenshop-hello-kitty-petite-tumbler-cup",
+      "name": "Hello Kitty Petite Tumbler Cup",
+      "blurb": "A petite Hello Kitty tumbler for desk hydration with maximum charm per millilitre.",
+      "brand": "sanrio",
+      "pillars": [
+        "gifts",
+        "home-decor"
+      ],
+      "price": 37.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "kawaiipenshop.com/products/hello-kitty-petite-tumbler-cup",
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "coworker"
+      ],
+      "occasions": [
+        "birthday",
+        "new-job"
+      ],
+      "rooms": [
+        "kitchen",
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink",
+        "white"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "tumbler",
+        "drinkware",
+        "hello-kitty"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/1403/8979/files/Hello-Kitty-Petite-Tumbler-Cup-250ml-Sanrio-Ceramic-Stainless-Steel-Tumbler-Japanese-Kawaii-Cute-Mini-Portable-Travel-Cup-Drinks-2_82de200d-862a-4cb5-a91e-4e001c154dfd.png?v=1783423872",
+        "source": "kawaiipenshop",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🥤",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "kawaiipenshop",
+        "sourceUrl": "https://kawaiipenshop.com/products/hello-kitty-petite-tumbler-cup",
+        "fetchedAt": "2026-07-18T09:06:32.609Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "kawaiipenshop-rilakkuma-clear-file-case-pink",
+      "name": "Rilakkuma Clear File Case - Pink",
+      "blurb": "Rilakkuma keeping your papers together in pink — bureaucracy has never been this relaxed.",
+      "brand": "generic",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "price": 16.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "kawaiipenshop.com/products/rilakkuma-clear-file-case-pink",
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals",
+        "characters"
+      ],
+      "tags": [
+        "file-case",
+        "stationery",
+        "rilakkuma"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/1403/8979/files/Rilakkuma-Clear-File-Case-Pink-Bear-PET-PVC-Transparent-Folder-Pocket-School-Supplies-Japan-Stationery-San-x-Stationery-High-Quality-1_4a3e92e9-758d-478b-a882-75c224e322a4.png?v=1782778876",
+        "source": "kawaiipenshop",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🐻",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "kawaiipenshop",
+        "sourceUrl": "https://kawaiipenshop.com/products/rilakkuma-clear-file-case-pink",
+        "fetchedAt": "2026-07-18T09:06:32.609Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "kawaiipenshop-studio-ghibli-pocket-bell-charm-my-neighbor-totoro-catbus",
+      "name": "Studio Ghibli Pocket Bell Charm - My Neighbor Totoro - Catbus",
+      "blurb": "A Catbus bell charm that jingles from your bag — a tiny piece of Ghibli to carry around.",
+      "brand": "generic",
+      "pillars": [
+        "collectibles",
+        "aesthetics"
+      ],
+      "price": 15.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "kawaiipenshop.com/products/studio-ghibli-pocket-bell-charm-my-neighbor-totoro-catbus",
+      "aesthetics": [
+        "retro-cute"
+      ],
+      "moods": [
+        "whimsical",
+        "cozy"
+      ],
+      "recipients": [
+        "best-friend",
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [],
+      "colours": [
+        "gold"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "charm",
+        "ghibli",
+        "totoro"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/1403/8979/files/Studio-Ghibli-Pocket-Bell-Charm-My-Neighbor-Totoro-Catbus-Keychain-7.png?v=1769208987",
+        "source": "kawaiipenshop",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🚌",
+        "bg": "peach"
+      },
+      "provenance": {
+        "source": "kawaiipenshop",
+        "sourceUrl": "https://kawaiipenshop.com/products/studio-ghibli-pocket-bell-charm-my-neighbor-totoro-catbus",
+        "fetchedAt": "2026-07-18T09:06:32.609Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "sanrio-hello-kitty-and-friends-2027-retro-deluxe-compact-flexi-plan",
+      "name": "Hello Kitty and Friends 2027 Retro Deluxe Compact Flexi Planner",
+      "blurb": "A 2027 planner in Sanrio's dreamiest retro art — suddenly you're the organised friend.",
+      "brand": "sanrio",
+      "pillars": [
+        "desk-workspace",
+        "gifts"
+      ],
+      "price": 19.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "sanrio.com/products/hello-kitty-and-friends-2027-retro-deluxe-compact-flexi-planner",
+      "aesthetics": [
+        "retro-cute",
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "for-her",
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "christmas"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "planner",
+        "stationery",
+        "hello-kitty"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/27465_1_4448226d-29bf-40fa-8aa1-c902c1d2ceec.jpg?v=1784049114",
+        "source": "sanrio",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "📔",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "sanrio",
+        "sourceUrl": "https://sanrio.com/products/hello-kitty-and-friends-2027-retro-deluxe-compact-flexi-planner",
+        "fetchedAt": "2026-07-18T09:06:09.713Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "sanrio-hello-kitty-and-friends-x-pentel-energel-rtx-liquid-gel-pen-",
+      "name": "Hello Kitty and Friends x Pentel EnerGel RTX Liquid Gel Pen (Mix 2 - 5-Pk)",
+      "blurb": "Pentel EnerGel smoothness wearing Hello Kitty and friends — meeting notes, but joyful.",
+      "brand": "sanrio",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "price": 19.1,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "sanrio.com/products/hello-kitty-and-friends-x-pentel-energel-rtx-liquid-gel-pen-mix-2-5-pk",
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "energising",
+        "playful"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "pen",
+        "stationery",
+        "gel-pen"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/BL77BP5M1-HK_PackFront.jpg?v=1782516878",
+        "source": "sanrio",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🖊️",
+        "bg": "peach"
+      },
+      "provenance": {
+        "source": "sanrio",
+        "sourceUrl": "https://sanrio.com/products/hello-kitty-and-friends-x-pentel-energel-rtx-liquid-gel-pen-mix-2-5-pk",
+        "fetchedAt": "2026-07-18T09:06:09.713Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "sanrio-my-melody-x-strawberry-shortcake-cosmetic-bag",
+      "name": "My Melody x Strawberry Shortcake Cosmetic Bag",
+      "blurb": "My Melody meets Strawberry Shortcake on one cosmetic bag — a crossover for the girlies.",
+      "brand": "sanrio",
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "price": 22,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "sanrio.com/products/my-melody-x-strawberry-shortcake-cosmetic-bag",
+      "aesthetics": [
+        "retro-cute",
+        "coquette"
+      ],
+      "moods": [
+        "romantic",
+        "playful"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "valentines"
+      ],
+      "rooms": [],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters",
+        "food-drink"
+      ],
+      "tags": [
+        "cosmetic-bag",
+        "crossover",
+        "my-melody"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/0046588_my-melody-strawberry-shortcake-travel-cosmetic-bag_1170.jpg?v=1740443498",
+        "source": "sanrio",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🍓",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "sanrio",
+        "sourceUrl": "https://sanrio.com/products/my-melody-x-strawberry-shortcake-cosmetic-bag",
+        "fetchedAt": "2026-07-18T09:06:09.713Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "sanrio-pitatto-friends-plush-kuromi-french-maid-outfit-medium",
+      "name": "Pitatto Friends Plush Kuromi French Maid Outfit (Medium)",
+      "blurb": "Kuromi in a French maid outfit, ready to perch on your shelf and judge your décor.",
+      "brand": "sanrio",
+      "pillars": [
+        "collectibles"
+      ],
+      "price": 14.99,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "sanrio.com/products/pitatto-friends-plush-kuromi-french-maid-outfit-medium",
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "white"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "plush",
+        "kuromi",
+        "pitatto"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/zz-2506124435_KU_--2.jpg?v=1749006734",
+        "source": "sanrio",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "😈",
+        "bg": "lilac"
+      },
+      "provenance": {
+        "source": "sanrio",
+        "sourceUrl": "https://sanrio.com/products/pitatto-friends-plush-kuromi-french-maid-outfit-medium",
+        "fetchedAt": "2026-07-18T09:06:09.713Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "sanrio-my-melody-winter-mascot-plush",
+      "name": "My Melody Winter Mascot Plush",
+      "blurb": "My Melody bundled up for winter — a seasonal mascot plush that retires when the snow does.",
+      "brand": "sanrio",
+      "pillars": [
+        "collectibles",
+        "gifts"
+      ],
+      "price": 25,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "sanrio.com/products/my-melody-winter-mascot-plush",
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "whimsical"
+      ],
+      "recipients": [
+        "best-friend",
+        "teens",
+        "kids"
+      ],
+      "occasions": [
+        "christmas",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "blush-pink",
+        "white"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "seasonal",
+        "my-melody"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0416/8083/0620/files/623580-Zoom.1.jpg?v=1735506755",
+        "source": "sanrio",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🐰",
+        "bg": "blush"
+      },
+      "provenance": {
+        "source": "sanrio",
+        "sourceUrl": "https://sanrio.com/products/my-melody-winter-mascot-plush",
+        "fetchedAt": "2026-07-18T09:06:09.713Z",
+        "tagMethod": "editorial-review"
+      }
+    },
+    {
+      "id": "uwumarket-renn-mochi-slippers",
+      "name": "Renn Mochi Slippers",
+      "blurb": "Mochi-soft slippers that turn your floor into a cloud and your feet into an aesthetic.",
+      "brand": "generic",
+      "pillars": [
+        "home-decor",
+        "aesthetics"
+      ],
+      "price": 40,
+      "currency": "USD",
+      "merchant": "shopify-partner",
+      "merchantRef": "uwumarket.us/products/renn-mochi-slippers",
+      "aesthetics": [
+        "dreamy-cloud",
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "self-treat",
+        "for-her"
+      ],
+      "occasions": [
+        "christmas",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "slippers",
+        "loungewear",
+        "cozy"
+      ],
+      "image": {
+        "src": "https://cdn.shopify.com/s/files/1/0482/8463/1205/files/rennslipperfront.jpg?v=1784300217",
+        "source": "uwumarket",
+        "license": "merchant-feed"
+      },
+      "art": {
+        "emoji": "🥿",
+        "bg": "cream"
+      },
+      "provenance": {
+        "source": "uwumarket",
+        "sourceUrl": "https://uwumarket.us/products/renn-mochi-slippers",
+        "fetchedAt": "2026-07-18T09:06:43.324Z",
+        "tagMethod": "editorial-review"
+      }
     }
   ]
 }

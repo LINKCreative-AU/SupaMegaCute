@@ -1,0 +1,59 @@
+{
+  "version": "0.1.0",
+  "note": "Ingestion source registry. Only sources whose product data is published for programmatic access (Shopify's public products.json feed) or accessed via official APIs. No HTML scraping of Amazon/Etsy/eBay — see docs/INGESTION.md for policy.",
+  "userAgent": "SuperMegaCuteBot/0.1 (+https://supermegacute.com; product discovery indexing)",
+  "rateLimitMs": 1500,
+  "maxPagesPerStore": 4,
+  "sources": [
+    {
+      "id": "sanrio",
+      "type": "shopify",
+      "domain": "sanrio.com",
+      "brandHint": "sanrio",
+      "verified": true,
+      "notes": "Official Sanrio US store."
+    },
+    {
+      "id": "blippo",
+      "type": "shopify",
+      "domain": "blippo.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Kawaii shop, broad cute assortment."
+    },
+    {
+      "id": "kawaiipenshop",
+      "type": "shopify",
+      "domain": "kawaiipenshop.com",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Stationery-heavy — good for the Desk & Workspace pillar."
+    },
+    {
+      "id": "uwumarket",
+      "type": "shopify",
+      "domain": "uwumarket.us",
+      "brandHint": "generic",
+      "verified": true,
+      "notes": "Kawaii lifestyle marketplace."
+    },
+    {
+      "id": "etsy",
+      "type": "api-etsy",
+      "verified": false,
+      "notes": "Pending Etsy Open API v3 key. Free developer application."
+    },
+    {
+      "id": "ebay",
+      "type": "api-ebay",
+      "verified": false,
+      "notes": "Pending eBay Browse API signup (free). Best source for retired collectibles."
+    },
+    {
+      "id": "amazon",
+      "type": "api-amazon-paapi",
+      "verified": false,
+      "notes": "Requires Associates approval + 3 qualifying sales. Until then Amazon products are curated manually (ASIN + our own editorial content, price band only, no images)."
+    }
+  ]
+}

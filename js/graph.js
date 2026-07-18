@@ -139,12 +139,15 @@
   SMC.productCard = function (product) {
     const link = SMC.affiliateLink(product);
     const bg = BG[product.art.bg] || BG.cream;
+    const art = product.image && product.image.src
+      ? `<img src="${esc(product.image.src)}" alt="${esc(product.name)}" loading="lazy">`
+      : `<span aria-hidden="true">${product.art.emoji}</span>`;
     const chips = (product.aesthetics || []).slice(0, 2)
       .map((a) => `<span class="chip chip-soft">${esc(SMC.facet("aesthetic", a).name)}</span>`)
       .join("");
     return `
     <article class="product-card smc-card" data-id="${esc(product.id)}">
-      <div class="product-art" style="background:${bg}"><span aria-hidden="true">${product.art.emoji}</span></div>
+      <div class="product-art" style="background:${bg}">${art}</div>
       <div class="product-body">
         <p class="product-brand">${esc(SMC.brand(product.brand).name)}</p>
         <h3 class="product-name">${esc(product.name)}</h3>
@@ -220,6 +223,7 @@
     document.querySelectorAll("[data-smc-grid]").forEach((el) => {
       const query = JSON.parse(el.dataset.smcGrid || "{}");
       let items = SMC.find(query);
+      if (el.dataset.order === "newest") items = items.slice().reverse(); // file order = insertion order
       if (el.dataset.limit) items = items.slice(0, parseInt(el.dataset.limit, 10));
       SMC.renderGrid(el, items);
     });

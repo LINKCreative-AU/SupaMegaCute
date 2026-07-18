@@ -28,7 +28,7 @@ await mkdir(DIST, { recursive: true });
 
 await cp(join(ROOT, "assets"), join(DIST, "assets"), { recursive: true });
 await cp(join(ROOT, "js"), join(DIST, "js"), { recursive: true });
-await cp(join(ROOT, "guides"), join(DIST, "guides"), { recursive: true });
+await mkdir(join(DIST, "guides"), { recursive: true });
 await mkdir(join(DIST, "data"));
 for (const f of await readdir(join(ROOT, "data"))) {
   const json = JSON.parse(await readFile(join(ROOT, "data", f), "utf8"));
@@ -119,12 +119,12 @@ for (const p of g.visible) {
   const pillar = g.pillar(p.pillars[0]);
   const title = p.brand === "generic" ? `${p.name} | SuperMegaCute` : `${p.name} — ${brandName} | SuperMegaCute`;
   const facts = [
-    ["Brand", brandName],
-    ["Pillar", p.pillars.map((s) => g.pillar(s)?.name).filter(Boolean).join(", ")],
-    p.aesthetics?.length && ["Aesthetic", p.aesthetics.map((s) => g.facet("aesthetic", s).name).join(", ")],
-    p.moods?.length && ["Mood", p.moods.map((s) => g.facet("mood", s).name).join(", ")],
-    p.recipients?.length && ["Great for", p.recipients.map((s) => g.facet("recipient", s).name).join(", ")],
-    p.occasions?.length && ["Occasions", p.occasions.map((s) => g.facet("occasion", s).name).join(", ")],
+    ["Brand", p.brand === "generic" ? esc(brandName) : `<a href="/b/${esc(p.brand)}">${esc(brandName)}</a>`],
+    ["Pillar", esc(p.pillars.map((s) => g.pillar(s)?.name).filter(Boolean).join(", "))],
+    p.aesthetics?.length && ["Aesthetic", esc(p.aesthetics.map((s) => g.facet("aesthetic", s).name).join(", "))],
+    p.moods?.length && ["Mood", esc(p.moods.map((s) => g.facet("mood", s).name).join(", "))],
+    p.recipients?.length && ["Great for", esc(p.recipients.map((s) => g.facet("recipient", s).name).join(", "))],
+    p.occasions?.length && ["Occasions", esc(p.occasions.map((s) => g.facet("occasion", s).name).join(", "))],
   ].filter(Boolean);
 
   const productLd = {
@@ -158,7 +158,7 @@ for (const p of g.visible) {
       <p class="pdp-blurb">${esc(p.blurb)}</p>
       <p class="pdp-price">${money(p)} <span class="pdp-currency">${esc(p.currency)}</span></p>
       ${link ? `<a class="smc-button-primary pdp-cta" href="${esc(link.url)}" rel="${esc(link.rel)}" target="_blank">View at ${esc(link.merchantName)} →</a>` : ""}
-      <dl class="pdp-facts">${facts.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join("")}</dl>
+      <dl class="pdp-facts">${facts.map(([k, v]) => `<div><dt>${esc(k)}</dt><dd>${v}</dd></div>`).join("")}</dl>
       <div class="product-chips">${(p.tags || []).map((t) => `<span class="chip chip-soft">${esc(t.replace(/-/g, " "))}</span>`).join("")}</div>
     </div>
   </div>
@@ -220,6 +220,61 @@ for (const c of g.collections) {
   await writeFile(join(DIST, "c", c.slug, "index.html"), html);
 }
 
+/* ---------- 4b. brand landing pages ---------- */
+
+const brandPages = [];
+for (const b of g.taxonomy.brands) {
+  if (b.slug === "generic") continue;
+  const items = g.visible.filter((p) => p.brand === b.slug);
+  if (items.length < 4) continue;
+  const listLd = {
+    "@context": "https://schema.org", "@type": "ItemList",
+    name: `${b.name} at SuperMegaCute`, numberOfItems: items.length,
+    itemListElement: items.slice(0, 50).map((p, i) => ({ "@type": "ListItem", position: i + 1, url: `${SITE}/p/${p.id}` })),
+  };
+  const body = `
+<header class="site-header">${chromeHeader(g)}</header>
+<main>
+  <section class="pillar-hero">
+    <div class="wrap">
+      <span class="section-kicker">Brand</span>
+      <h1>${esc(b.name)}</h1>
+      <p>${esc(b.blurb || `The cutest ${b.name} finds, hand-tagged for discovery.`)} <strong>${items.length} finds</strong> in the catalog.</p>
+    </div>
+  </section>
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <div class="product-grid">${items.slice(0, 96).map((p) => productCard(g, p)).join("")}</div>
+      ${items.length > 96 ? `<p class="empty-state">Browse all ${items.length} in <a href="/explore?brands=${esc(b.slug)}">Explore →</a></p>` : ""}
+    </div>
+  </section>
+</main>
+<footer class="site-footer">${chromeFooter(g)}</footer>`;
+  const html = pageShell({
+    title: `${b.name} — cute finds & collectibles | SuperMegaCute`,
+    description: `${b.blurb || b.name} Browse ${items.length} hand-tagged ${b.name} finds.`.slice(0, 158),
+    canonical: `${SITE}/b/${b.slug}`,
+    jsonLd: [listLd, breadcrumbLd([["Home", "/"], [b.name, `/b/${b.slug}`]])],
+    body,
+  });
+  await mkdir(join(DIST, "b", b.slug), { recursive: true });
+  await writeFile(join(DIST, "b", b.slug, "index.html"), html);
+  brandPages.push(b.slug);
+}
+
+/* ---------- 4c. guides (prerendered) ---------- */
+
+const guideFiles = (await readdir(join(ROOT, "guides"))).filter((f) => f.endsWith(".html"));
+for (const f of guideFiles) {
+  let html = await readFile(join(ROOT, "guides", f), "utf8");
+  // guides reference ../ paths; normalise to absolute for the built site
+  html = html.replaceAll('href="../', 'href="/').replaceAll('src="../', 'src="/');
+  html = prerender(html, "collectibles");
+  const slug = f.replace(/\.html$/, "");
+  html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/guides/${slug}">\n</head>`);
+  await writeFile(join(DIST, "guides", f), html);
+}
+
 /* ---------- 5. sitemaps + robots ---------- */
 
 const url = (loc, priority, lastmod) =>
@@ -230,8 +285,9 @@ const wrapUrls = (urls) =>
 const staticUrls = [
   url(`${SITE}/`, "1.0"),
   ...Object.values(ROOT_PAGES).filter((s) => !["home", "explore"].includes(s)).map((s) => url(`${SITE}/${s}`, "0.8")),
-  url(`${SITE}/guides/blind-box-collecting-101`, "0.7"),
+  ...guideFiles.map((f) => url(`${SITE}/guides/${f.replace(/\.html$/, "")}`, "0.7")),
   ...g.collections.map((c) => url(`${SITE}/c/${c.slug}`, "0.8")),
+  ...brandPages.map((b) => url(`${SITE}/b/${b}`, "0.8")),
 ];
 await writeFile(join(DIST, "sitemap-pages.xml"), wrapUrls(staticUrls));
 
@@ -250,4 +306,4 @@ await writeFile(join(DIST, "sitemap.xml"),
 await writeFile(join(DIST, "robots.txt"), `User-agent: *\nAllow: /\nDisallow: /explore\nSitemap: ${SITE}/sitemap.xml\n`);
 await writeFile(join(DIST, "llms.txt"), await readFile(join(ROOT, "llms.txt"), "utf8"));
 
-console.log(`Built dist/: ${productPages} product pages, ${g.collections.length} collection pages, ${productSitemaps.length + 1} sitemaps.`);
+console.log(`Built dist/: ${productPages} product pages, ${g.collections.length} collection pages, ${brandPages.length} brand pages, ${guideFiles.length} guides, ${productSitemaps.length + 1} sitemaps.`);

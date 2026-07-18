@@ -133,11 +133,14 @@ export function chromeHeader(g, activeSlug = "") {
 export function chromeFooter(g) {
   const collections = g.collections
     .map((c) => `<a href="/c/${esc(c.slug)}">${esc(c.name)}</a>`).join(" · ");
+  const brands = g.taxonomy.brands.filter((b) => b.slug !== "generic")
+    .map((b) => `<a href="/b/${esc(b.slug)}">${esc(b.name)}</a>`).join(" · ");
   return `
       <div class="footer-inner">
         <img src="/assets/brand/submarks/smc-monogram-circle.svg" alt="" width="64" height="64">
         <p class="footer-mission">We help you discover cute things that make you smile.</p>
         <p class="footer-collections">${collections}</p>
+        <p class="footer-collections">${brands}</p>
         <p class="footer-disclosure">SuperMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
         <p class="footer-copy">© 2026 SuperMegaCute.com</p>
       </div>`;

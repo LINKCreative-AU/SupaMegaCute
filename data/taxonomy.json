@@ -283,97 +283,116 @@
     {
       "slug": "sanrio",
       "name": "Sanrio",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Home of Hello Kitty, My Melody, Kuromi, Cinnamoroll and friends — the original architects of cute since 1960."
     },
     {
       "slug": "pop-mart",
       "name": "POP MART",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Blind-box art toys with cult followings — Hirono, Labubu, Skullpanda and the thrill of the pull."
     },
     {
       "slug": "smoko",
       "name": "Smoko",
-      "collectible": false
+      "collectible": false,
+      "blurb": "Squishy ambient lights and desk companions shaped like toast, dumplings and other soft carbohydrates."
     },
     {
       "slug": "jellycat",
       "name": "Jellycat",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Impossibly soft London plush with personalities — the heirloom soft toys of the cute world."
     },
     {
       "slug": "sonny-angel",
       "name": "Sonny Angel",
-      "collectible": true
+      "collectible": true,
+      "blurb": "The tiny cherub in animal hats that clings to shelves, monitors and hearts. Blind-box format, big feelings."
     },
     {
       "slug": "miffy",
       "name": "Miffy",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Dick Bruna's minimalist bunny — Dutch design icon, nursery royalty, collector favourite."
     },
     {
       "slug": "pokemon",
       "name": "Pokémon",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Pocket monsters on pens, plush and planners — the franchise that made collecting a lifestyle."
     },
     {
       "slug": "studio-ghibli",
       "name": "Studio Ghibli",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Totoro, Jiji and friends — soft merchandise from the films that raised a generation."
     },
     {
       "slug": "san-x",
       "name": "San-X (Rilakkuma & Sumikko Gurashi)",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Rilakkuma and Sumikko Gurashi — Japan's masters of relatable, low-energy cuteness."
     },
     {
       "slug": "mofusand",
       "name": "Mofusand",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Juno's watercolour kittens in shark hats and bunny suits — stationery's softest takeover."
     },
     {
       "slug": "chiikawa",
       "name": "Chiikawa",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Nagano's small, brave, perpetually overwhelmed creatures — Japan's biggest cute phenomenon."
     },
     {
       "slug": "peanuts",
       "name": "Peanuts (Snoopy)",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Snoopy and the gang, seventy years young and still effortlessly giftable."
     },
     {
       "slug": "re-ment",
       "name": "Re-Ment",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Miniature blind-box dioramas of desks, kitchens and cafés — tiny worlds, obsessive detail."
     },
     {
       "slug": "smiski",
       "name": "Smiski",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Glow-in-the-dark figures caught doing quietly weird things in corners. You will want them all."
     },
     {
       "slug": "bellzi",
       "name": "Bellzi",
-      "collectible": false
+      "collectible": false,
+      "blurb": "Plush animals with signature round faces — from capybaras to axolotls, all impossibly huggable."
     },
     {
       "slug": "squishable",
       "name": "Squishable",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Giant huggable spheres of everything from corgis to comfort food."
     },
     {
       "slug": "disney",
       "name": "Disney",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Mickey to Pixar — the classics, in their cutest forms."
     },
     {
       "slug": "tokidoki",
       "name": "tokidoki",
-      "collectible": true
+      "collectible": true,
+      "blurb": "Simone Legno's Unicorno, Donutella and friends — Italian pop art meets Japanese kawaii."
     },
     {
       "slug": "monchhichi",
       "name": "Monchhichi",
-      "collectible": true
+      "collectible": true,
+      "blurb": "The cheeky monkey plush charming pockets since 1974 — retro cute, fully back."
     },
     {
       "slug": "generic",

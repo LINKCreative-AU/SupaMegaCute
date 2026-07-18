@@ -219,11 +219,15 @@
       const collectionLinks = SMC.collections
         .map((c) => `<a href="${BASE}/c/${esc(c.slug)}">${esc(c.name)}</a>`)
         .join(" · ");
+      const brandLinks = SMC.taxonomy.brands.filter((b) => b.slug !== "generic")
+        .map((b) => `<a href="${BASE}/b/${esc(b.slug)}">${esc(b.name)}</a>`)
+        .join(" · ");
       footer.innerHTML = `
       <div class="footer-inner">
         <img src="${BASE}/assets/brand/submarks/smc-monogram-circle.svg" alt="" width="64" height="64">
         <p class="footer-mission">We help you discover cute things that make you smile.</p>
         <p class="footer-collections">${collectionLinks}</p>
+        <p class="footer-collections">${brandLinks}</p>
         <p class="footer-disclosure">SuperMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
         <p class="footer-copy">© 2026 SuperMegaCute.com</p>
       </div>`;

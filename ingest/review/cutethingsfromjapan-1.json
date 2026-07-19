@@ -1,55 +1,3350 @@
 {
  "source": "cutethingsfromjapan",
  "items": [
-  {"id": "cutethingsfromjapan-retro-japan-flake-stickers", "relevant": true, "blurb": "Twenty washi-paper sticker flakes with vintage Japan charm, ready to sprinkle nostalgia over every journal spread.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": [], "tags": ["stickers", "washi-paper", "retro", "journaling"], "emoji": "🏮", "bg": "cream"},
-  {"id": "cutethingsfromjapan-summer-limited-planner-stickers-summer-holiday", "relevant": true, "blurb": "Sun-soaked, limited-run stickers that turn any planner page into a tiny summer holiday. Blink and they are gone.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["kawaii"], "moods": ["playful", "energising"], "recipients": ["self-treat", "teens"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": [], "tags": ["stickers", "planner", "seasonal", "limited-edition"], "emoji": "🌻", "bg": "peach"},
-  {"id": "cutethingsfromjapan-retro-japan-flake-stickers-1", "relevant": true, "blurb": "A second helping of retro Japan flakes on soft Mino washi — old-school charm for letters, journals, and craft nights.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": [], "tags": ["stickers", "washi-paper", "retro", "journaling"], "emoji": "🎌", "bg": "cream"},
-  {"id": "cutethingsfromjapan-peppoko-washi-tape-my-happy-days", "relevant": true, "blurb": "Peppoko's soft little bears march down this washi tape, wrapping happy days around your planner one strip at a time.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["kawaii"], "moods": ["cozy", "playful"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals"], "tags": ["washi-tape", "peppoko", "bear", "journaling"], "emoji": "🐻", "bg": "blush"},
-  {"id": "cutethingsfromjapan-peppoko-mini-rubber-stamp-meow", "relevant": true, "blurb": "A thumbnail-sized cat stamp by Peppoko for marking tired days with maximum softness and minimum effort.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["rubber-stamp", "peppoko", "cat", "mini", "planner"], "emoji": "🐱", "bg": "mint"},
-  {"id": "cutethingsfromjapan-hankodori-rubber-stamp-black-cat-with-bird", "relevant": true, "blurb": "A hand-carved black cat and its bird friend, pressed into stamp form by Hankodori for quietly charming journal pages.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute", "cottagecore"], "moods": ["whimsical", "calming"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["rubber-stamp", "hankodori", "cat", "handmade"], "emoji": "🐈‍⬛", "bg": "cream"},
-  {"id": "cutethingsfromjapan-hankodori-rubber-stamp-22", "relevant": true, "blurb": "Stamp a tiny Japanese lunch onto anything paper — Hankodori's hand-carved bento energy, no chopsticks required.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["food-drink"], "tags": ["rubber-stamp", "hankodori", "food", "handmade"], "emoji": "🍱", "bg": "peach"},
-  {"id": "cutethingsfromjapan-hankodori-mini-rubber-stamp-2", "relevant": true, "blurb": "A mini daruma stamp for wish-making on paper: ink one in when you set the goal, another when you crush it.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "energising"], "recipients": ["self-treat", "coworker"], "occasions": ["new-job", "just-because"], "rooms": ["home-office"], "colours": [], "themes": [], "tags": ["rubber-stamp", "hankodori", "daruma", "mini", "handmade"], "emoji": "🎯", "bg": "cream"},
-  {"id": "cutethingsfromjapan-hankodori-mini-rubber-stamp-1", "relevant": true, "blurb": "Hand-carved sushi in stamp form — the most calorie-free way to add a little nigiri to your notes.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute", "kawaii"], "moods": ["playful", "whimsical"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["food-drink"], "tags": ["rubber-stamp", "hankodori", "sushi", "mini", "handmade"], "emoji": "🍣", "bg": "mint"},
-  {"id": "cutethingsfromjapan-hankodori-rubber-stamp-4", "relevant": true, "blurb": "An olive branch, hand-carved by Hankodori — botanical calm for letters, labels, and gentle journal margins.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "pastel-minimal"], "moods": ["calming", "cozy"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["florals"], "tags": ["rubber-stamp", "hankodori", "botanical", "handmade"], "emoji": "🫒", "bg": "mint"},
-  {"id": "cutethingsfromjapan-shoichiro-tobimatsu-flake-stickers-sweets", "relevant": true, "blurb": "Cats and cakes, together at last: a limited flake sticker set by Shoichiro Tobimatsu in two dangerously usable sizes.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["kawaii", "retro-cute"], "moods": ["playful", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals", "food-drink"], "tags": ["stickers", "cat", "sweets", "limited-edition"], "emoji": "🍰", "bg": "blush"},
-  {"id": "cutethingsfromjapan-obi1-shiny-die-cut-postcard-1", "relevant": true, "blurb": "Obi1's caramel-sweet retro postcard, hot-stamped so it glints when the light catches it. Almost too cute to mail.", "brand": "generic", "pillars": ["aesthetics", "gifts"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "cozy"], "recipients": ["best-friend", "self-treat"], "occasions": ["just-because"], "rooms": [], "colours": ["gold"], "themes": ["food-drink"], "tags": ["postcard", "obi1", "retro", "foil"], "emoji": "🍬", "bg": "peach"},
-  {"id": "cutethingsfromjapan-obi1-acrylic-stand-pre-inked-stamp-retro-post", "relevant": true, "blurb": "A pre-inked retro post stamp on its own acrylic stand — Obi1 makes even mail-art admin look adorable on your desk.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "playful"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": [], "tags": ["rubber-stamp", "obi1", "retro", "mail-art"], "emoji": "📮", "bg": "cream"},
-  {"id": "cutethingsfromjapan-obi1-a5-slim-notebook-have-a-nice-trip", "relevant": true, "blurb": "A letterpressed slim notebook starring Obi1's traveling bear — the perfect co-pilot for lists, plans, and daydream trips.", "brand": "generic", "pillars": ["desk-workspace", "gifts"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because", "new-job"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["notebook", "obi1", "bear", "travel"], "emoji": "🧳", "bg": "cream"},
-  {"id": "cutethingsfromjapan-obi1-postcard-bar-bon-bori", "relevant": true, "blurb": "A lantern-lit little bar rendered in Obi1's vintage style — festival nostalgia you can pin above your desk or post.", "brand": "generic", "pillars": ["aesthetics"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["best-friend", "self-treat"], "occasions": ["just-because"], "rooms": [], "colours": [], "themes": [], "tags": ["postcard", "obi1", "retro", "japan"], "emoji": "🏮", "bg": "peach"},
-  {"id": "cutethingsfromjapan-obi1-postcard-amaoto-soda", "relevant": true, "blurb": "Amaoto Soda: Obi1 bottles rainy-day fizz into a vintage postcard that begs to be framed, sent, or hoarded.", "brand": "generic", "pillars": ["aesthetics"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "calming"], "recipients": ["best-friend", "self-treat"], "occasions": ["just-because"], "rooms": [], "colours": [], "themes": ["food-drink"], "tags": ["postcard", "obi1", "retro", "soda"], "emoji": "🥤", "bg": "mint"},
-  {"id": "cutethingsfromjapan-obi1-wrapping-paper-set-have-a-nice-trip-a5-size", "relevant": true, "blurb": "Ten sheets of traveling-bear wrapping paper by Obi1 — small gifts suddenly become the best-dressed thing in the room.", "brand": "generic", "pillars": ["gifts", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "cozy"], "recipients": ["best-friend", "self-treat"], "occasions": ["birthday", "just-because"], "rooms": [], "colours": [], "themes": ["animals"], "tags": ["wrapping-paper", "obi1", "bear", "gift-wrap"], "emoji": "🎁", "bg": "cream"},
-  {"id": "cutethingsfromjapan-necktie-foil-stamped-washi-tape-floating-through-the-sky", "relevant": true, "blurb": "Necktie's dreamy sky-drift washi tape with whispers of gold foil — a strip of calm for journals and love letters.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["dreamy-cloud", "pastel-minimal"], "moods": ["calming", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": ["celestial"], "tags": ["washi-tape", "necktie", "foil", "sky"], "emoji": "☁️", "bg": "lilac"},
-  {"id": "cutethingsfromjapan-traveling-cat-postcard-autumn-2", "relevant": true, "blurb": "A traveling cat waves see-you from an autumn scene — Toshinori Mori's Tabi Neko postcards make wanderlust adorable.", "brand": "generic", "pillars": ["aesthetics", "gifts"], "aesthetics": ["retro-cute", "cottagecore"], "moods": ["cozy", "whimsical"], "recipients": ["best-friend", "self-treat"], "occasions": ["just-because"], "rooms": [], "colours": [], "themes": ["animals"], "tags": ["postcard", "cat", "seasonal", "travel"], "emoji": "🍂", "bg": "peach"},
-  {"id": "cutethingsfromjapan-eric-pocket-notebook-2-designs", "relevant": true, "blurb": "eric's pocket notebook pairs whimsical cover art with famously silky planner paper — small enough to go everywhere.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because", "new-job"], "rooms": ["home-office"], "colours": [], "themes": [], "tags": ["notebook", "eric", "pocket-size", "journaling"], "emoji": "📓", "bg": "cream"},
-  {"id": "cutethingsfromjapan-limited-edition-sarasa-clip-pen-moomin", "relevant": true, "blurb": "Moomin hitchhikes onto Zebra's beloved Sarasa Clip — buttery gel ink with a limited-edition Moominvalley twist.", "brand": "generic", "pillars": ["desk-workspace", "collectibles"], "aesthetics": ["retro-cute", "kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["white"], "themes": ["characters"], "tags": ["pen", "moomin", "limited-edition", "gel-pen"], "emoji": "🖊️", "bg": "cream"},
-  {"id": "cutethingsfromjapan-eric-washi-tape-writing-tools", "relevant": true, "blurb": "Tiny illustrated pens and pencils shimmer with hot-stamped foil on eric's washi tape — stationery about stationery.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": [], "tags": ["washi-tape", "eric", "foil", "journaling"], "emoji": "✏️", "bg": "cream"},
-  {"id": "cutethingsfromjapan-eric-washi-tape-my-favorite-things", "relevant": true, "blurb": "eric sketches her favorite places onto foil-kissed washi tape — a wander-filled border for planners and letters.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": [], "tags": ["washi-tape", "eric", "foil", "journaling"], "emoji": "🏡", "bg": "cream"},
-  {"id": "cutethingsfromjapan-mind-wave-stickers-happy-people", "relevant": true, "blurb": "A cheerful crowd of little illustrated people ready to celebrate every planner entry, big or extremely small.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "energising"], "recipients": ["self-treat", "teens"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": [], "tags": ["stickers", "planner", "mind-wave"], "emoji": "🎉", "bg": "peach"},
-  {"id": "cutethingsfromjapan-mind-wave-stickers-happy-panda", "relevant": true, "blurb": "Round, delighted pandas doing their best on a sticker sheet — instant morale boost for any planner page.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "teens", "kids"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals"], "tags": ["stickers", "panda", "planner", "mind-wave"], "emoji": "🐼", "bg": "mint"},
-  {"id": "cutethingsfromjapan-mind-wave-stickers-happy-dog", "relevant": true, "blurb": "A sheet of very good dogs having very good days — tail-wag energy for journals, notes, and gift tags.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "teens", "kids"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals"], "tags": ["stickers", "dog", "planner", "mind-wave"], "emoji": "🐶", "bg": "peach"},
-  {"id": "cutethingsfromjapan-mind-wave-stickers-happy-cat", "relevant": true, "blurb": "Smug, happy cats in sticker form, prepared to supervise your planner with maximum charm and minimum effort.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "teens", "kids"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals"], "tags": ["stickers", "cat", "planner", "mind-wave"], "emoji": "😺", "bg": "blush"},
-  {"id": "cutethingsfromjapan-mind-wave-stickers-happy-bunny", "relevant": true, "blurb": "Bouncy little bunnies hop across this sticker sheet, softening deadlines and to-do lists on contact.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "teens", "kids"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals"], "tags": ["stickers", "bunny", "planner", "mind-wave"], "emoji": "🐰", "bg": "blush"},
-  {"id": "cutethingsfromjapan-mind-wave-stickers-happy-bears", "relevant": true, "blurb": "A parade of pleased bears in sticker form — gentle, huggable chaos for planners, cards, and snail mail.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["kawaii"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "teens", "kids"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["multi"], "themes": ["animals"], "tags": ["stickers", "bear", "planner", "mind-wave"], "emoji": "🧸", "bg": "peach"},
-  {"id": "cutethingsfromjapan-limited-edition-eric-memo-paper-set", "relevant": true, "blurb": "One hundred mini memo sheets in a letterpress box, made by eric for her exhibition — a collector's excuse to write notes.", "brand": "generic", "pillars": ["desk-workspace", "collectibles"], "aesthetics": ["retro-cute"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because", "birthday"], "rooms": ["home-office"], "colours": [], "themes": [], "tags": ["memo-pad", "eric", "limited-edition", "boxed-set"], "emoji": "📝", "bg": "cream"},
-  {"id": "cutethingsfromjapan-the-superior-labor-all-leather-engineer-key-case-3-colors", "relevant": false, "blurb": "A handsome handcrafted leather key case — lovely, but more heritage workshop than cute-things territory.", "brand": "generic", "pillars": [], "aesthetics": [], "moods": [], "recipients": [], "occasions": [], "rooms": [], "colours": [], "themes": [], "tags": ["leather", "key-case"], "emoji": "🔑", "bg": "cream"},
-  {"id": "cutethingsfromjapan-the-superior-labor-all-leather-engineer-pouch-3-colors", "relevant": false, "blurb": "A plump artisan leather pouch with serious craftsmanship — beautiful, but not quite our brand of cute.", "brand": "generic", "pillars": [], "aesthetics": [], "moods": [], "recipients": [], "occasions": [], "rooms": [], "colours": [], "themes": [], "tags": ["leather", "pouch"], "emoji": "👜", "bg": "cream"},
-  {"id": "cutethingsfromjapan-yuki-itoi-sticky-notes-c-is-for-cat-the-good-dogs", "relevant": true, "blurb": "Reiko Tada's beloved cats and very good dogs shrunk into palm-sized sticky note booklets — twice the fluff per note.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute", "cottagecore"], "moods": ["cozy", "playful"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["sticky-notes", "cat", "dog", "cozyca"], "emoji": "🐾", "bg": "cream"},
-  {"id": "cutethingsfromjapan-yuki-itoi-sticky-notes-usagi-neko", "relevant": true, "blurb": "Yuki Itoi's rabbit and cat duo, miniaturized into two sweet sticky note booklets for gentler reminders.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "retro-cute"], "moods": ["calming", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["sticky-notes", "bunny", "cat", "cozyca"], "emoji": "🐇", "bg": "lilac"},
-  {"id": "cutethingsfromjapan-sayuri-fujimaki-sticky-notes-journey-life", "relevant": true, "blurb": "Sayuri Fujimaki's dreamy Journey and Life illustrations, folded into pocket-sized sticky note booklets.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "pastel-minimal"], "moods": ["calming", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": [], "tags": ["sticky-notes", "cozyca", "illustration"], "emoji": "🧭", "bg": "mint"},
-  {"id": "cutethingsfromjapan-masao-takahata-sticky-notes-bear-beckoning-cat", "relevant": true, "blurb": "A bear and a lucky beckoning cat share sticky-note duty in Masao Takahata's charming palm-sized set.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["whimsical", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because", "new-job"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["sticky-notes", "bear", "cat", "cozyca"], "emoji": "🐻", "bg": "cream"},
-  {"id": "cutethingsfromjapan-mariko-fukuoka-sticky-notes-seasonal-jar-hoshikuma", "relevant": true, "blurb": "Seasons in jars and a star-bear named Hoshikuma — Mariko Fukuoka's sticky notes are small doses of storybook.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "dreamy-cloud"], "moods": ["whimsical", "calming"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals", "celestial"], "tags": ["sticky-notes", "bear", "cozyca", "seasonal"], "emoji": "⭐", "bg": "lilac"},
-  {"id": "cutethingsfromjapan-necktie-sticky-notes-flowers", "relevant": true, "blurb": "Necktie's delicate florals bloom across two mini sticky note booklets — reminders never looked so gently romantic.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "coquette"], "moods": ["calming", "romantic"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["florals"], "tags": ["sticky-notes", "florals", "necktie", "cozyca"], "emoji": "🌸", "bg": "blush"},
-  {"id": "cutethingsfromjapan-midori-asano-sticky-notes-my-favorite-mugs-three-oclock", "relevant": true, "blurb": "Favorite mugs and three o'clock treats by Midori Asano — sticky notes that feel like a scheduled tea break.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "retro-cute"], "moods": ["cozy", "calming"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office", "kitchen"], "colours": [], "themes": ["food-drink"], "tags": ["sticky-notes", "mugs", "cozyca", "tea-time"], "emoji": "☕", "bg": "cream"},
-  {"id": "cutethingsfromjapan-aiko-fukawa-sticky-notes-jardin-happiness", "relevant": true, "blurb": "Aiko Fukawa's Jardin and Happiness prints turn sticky notes into little garden parties for your desk.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["cottagecore", "coquette"], "moods": ["romantic", "calming"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["florals"], "tags": ["sticky-notes", "florals", "cozyca", "garden"], "emoji": "🌷", "bg": "blush"},
-  {"id": "cutethingsfromjapan-tadashi-nishiwaki-square-memo-pad-sleepy", "relevant": true, "blurb": "A thick, bleed-proof memo pad of sleepy little characters by Tadashi Nishiwaki — soft notes for soft moods.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute", "pastel-minimal"], "moods": ["calming", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": [], "tags": ["memo-pad", "cozyca", "sleepy"], "emoji": "😴", "bg": "lilac"},
-  {"id": "cutethingsfromjapan-tadashi-nishiwaki-square-memo-pad-bread", "relevant": true, "blurb": "One hundred and twenty sheets of illustrated bread — Tadashi Nishiwaki's memo pad is a carb lover's stationery dream.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["cozy", "playful"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office", "kitchen"], "colours": [], "themes": ["food-drink"], "tags": ["memo-pad", "bread", "cozyca", "food"], "emoji": "🥐", "bg": "peach"},
-  {"id": "cutethingsfromjapan-reiko-tada-square-memo-pad-dog-year", "relevant": true, "blurb": "Reiko Tada declares it the Dog Year with a chunky memo pad of pups in four designs — every note gets a wag.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["memo-pad", "dog", "cozyca"], "emoji": "🐕", "bg": "cream"},
-  {"id": "cutethingsfromjapan-reiko-tada-square-memo-pad-cats-life", "relevant": true, "blurb": "Cat's Life: Reiko Tada documents feline daily routines across a 120-sheet memo pad. Naps feature prominently.", "brand": "generic", "pillars": ["desk-workspace"], "aesthetics": ["retro-cute"], "moods": ["cozy", "playful"], "recipients": ["self-treat", "coworker"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": [], "themes": ["animals"], "tags": ["memo-pad", "cat", "cozyca"], "emoji": "🐈", "bg": "cream"},
-  {"id": "cutethingsfromjapan-reiko-tada-foil-stamped-washi-tape-doggie-parade", "relevant": true, "blurb": "A gold-foiled doggie parade marches down Reiko Tada's washi tape, ready to escort your journal entries in style.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["playful", "cozy"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": ["animals"], "tags": ["washi-tape", "dog", "foil", "cozyca"], "emoji": "🐕", "bg": "peach"},
-  {"id": "cutethingsfromjapan-reiko-tada-foil-stamped-washi-tape-cat-walk", "relevant": true, "blurb": "Cats strut a gold-flecked catwalk on Reiko Tada's washi tape — runway glamour, five metres at a time.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["playful", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": ["animals"], "tags": ["washi-tape", "cat", "foil", "cozyca"], "emoji": "🐈", "bg": "blush"},
-  {"id": "cutethingsfromjapan-heisuke-kitazawa-foil-stamped-washi-tape-fruits", "relevant": true, "blurb": "Heisuke Kitazawa's fruit medley gets a gold-foil gleam — a juicy little border for journals and gift wrap.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute"], "moods": ["playful", "energising"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold", "multi"], "themes": ["food-drink"], "tags": ["washi-tape", "fruit", "foil", "cozyca"], "emoji": "🍊", "bg": "peach"},
-  {"id": "cutethingsfromjapan-heisuke-kitazawa-foil-stamped-washi-tape-spring-wind", "relevant": true, "blurb": "Spring Wind in tape form: Heisuke Kitazawa's breezy illustrations with sparks of gold foil drifting through.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["pastel-minimal", "cottagecore"], "moods": ["calming", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": ["florals"], "tags": ["washi-tape", "foil", "cozyca", "spring"], "emoji": "🍃", "bg": "mint"},
-  {"id": "cutethingsfromjapan-kuroneko-design-foil-stamped-washi-tape-my-little-teo-friend", "relevant": true, "blurb": "Kuroneko Design's little cat Teo and friends tumble along gold-foiled washi tape — companionship by the metre.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["kawaii", "retro-cute"], "moods": ["cozy", "playful"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": ["animals"], "tags": ["washi-tape", "cat", "foil", "cozyca"], "emoji": "🐈‍⬛", "bg": "lilac"},
-  {"id": "cutethingsfromjapan-kuroneko-design-foil-stamped-washi-tape-robins-bookstore", "relevant": true, "blurb": "Robin's Bookstore opens on a strip of gold-foiled washi — cats among bookshelves, courtesy of Kuroneko Design.", "brand": "generic", "pillars": ["desk-workspace", "aesthetics"], "aesthetics": ["retro-cute", "cottagecore"], "moods": ["cozy", "whimsical"], "recipients": ["self-treat", "best-friend"], "occasions": ["just-because"], "rooms": ["home-office"], "colours": ["gold"], "themes": ["animals"], "tags": ["washi-tape", "cat", "foil", "cozyca", "books"], "emoji": "📚", "bg": "cream"}
+  {
+   "id": "cutethingsfromjapan-lcn-flake-stickers-copy",
+   "relevant": true,
+   "blurb": "Fifty-four scraps of old-world charm by Lin Chia Ning, ready to make your journal look like a treasured attic find.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "retro-cute"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "stickers",
+    "flake-stickers",
+    "journaling",
+    "vintage"
+   ],
+   "emoji": "📜",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-nature",
+   "relevant": true,
+   "blurb": "Brooch-style nature stickers with glinting gold foil — like pinning a tiny botanical garden onto your planner pages.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "gold",
+    "multi"
+   ],
+   "themes": [
+    "florals"
+   ],
+   "tags": [
+    "stickers",
+    "journaling",
+    "gold-foil",
+    "florals"
+   ],
+   "emoji": "🌿",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-flower",
+   "relevant": true,
+   "blurb": "Gold-kissed floral drops that turn any journal spread into a little bouquet. Handmade-brooch energy, zero sewing required.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "gold",
+    "multi"
+   ],
+   "themes": [
+    "florals"
+   ],
+   "tags": [
+    "stickers",
+    "journaling",
+    "gold-foil",
+    "florals"
+   ],
+   "emoji": "🌸",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-coffee",
+   "relevant": true,
+   "blurb": "Cafe-core in sticker form: foil-trimmed lattes and beans for anyone whose planner runs on caffeine too.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "gold",
+    "cream"
+   ],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "journaling",
+    "gold-foil",
+    "cafe"
+   ],
+   "emoji": "☕",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-life",
+   "relevant": true,
+   "blurb": "Everyday objects, elevated — these foil-accented drop stickers make the mundane look museum-worthy in your journal.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "gold",
+    "multi"
+   ],
+   "themes": [],
+   "tags": [
+    "stickers",
+    "journaling",
+    "gold-foil"
+   ],
+   "emoji": "✨",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-drop-stickers-sweets",
+   "relevant": true,
+   "blurb": "Dessert-cart stickers with a gold foil shimmer. All the pastry-shop delight, none of the crumbs on your planner.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "gold",
+    "peach"
+   ],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "journaling",
+    "gold-foil",
+    "dessert"
+   ],
+   "emoji": "🧁",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-kiwi",
+   "relevant": true,
+   "blurb": "A snoozing kiwi bird to nap on your to-do list — die-cut sticky notes so soft-looking your reminders feel tucked in.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "kiwi-bird",
+    "desk-accessory"
+   ],
+   "emoji": "🥝",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-shiba",
+   "relevant": true,
+   "blurb": "A dozing shiba curled on your desk in sticky-note form, plus a dreamy companion sheet for longer messages.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "peach",
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "shiba",
+    "desk-accessory"
+   ],
+   "emoji": "🐕",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-cat-1",
+   "relevant": true,
+   "blurb": "A cat asleep on the job, as nature intended — these die-cut sticky notes make forgetting things almost worth it.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "cat",
+    "desk-accessory"
+   ],
+   "emoji": "🐱",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-dog",
+   "relevant": true,
+   "blurb": "A sleepy pup for your paperwork: a small dog-shaped note for reminders and a dreamier one for proper messages.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "dog",
+    "desk-accessory"
+   ],
+   "emoji": "🐶",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-polar-bear",
+   "relevant": true,
+   "blurb": "A polar bear mid-hibernation on your memos — the coolest, calmest way to leave yourself a note.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "white"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "polar-bear",
+    "desk-accessory"
+   ],
+   "emoji": "🐻‍❄️",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-cat",
+   "relevant": true,
+   "blurb": "Another napping kitty for your desk rotation — die-cut sticky notes that treat every reminder like a bedtime story.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "cat",
+    "desk-accessory"
+   ],
+   "emoji": "😺",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-set-long-tailed-tit",
+   "relevant": true,
+   "blurb": "The internet's favourite fluffball bird, fast asleep on a sticky note. Reminders rarely come this round and cosy.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "white",
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "long-tailed-tit",
+    "desk-accessory"
+   ],
+   "emoji": "🐦",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-sleepy-animal-sticky-note-panda",
+   "relevant": true,
+   "blurb": "A panda snoring gently across your desk notes — proof that even your to-do list deserves a soft landing.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "white"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "sticky-notes",
+    "stationery",
+    "panda",
+    "desk-accessory"
+   ],
+   "emoji": "🐼",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-heisuke-kitazawa-sarasa-nano-pen-set-color-b",
+   "relevant": true,
+   "blurb": "An ultra-fine 0.38mm gel pen wearing Heisuke Kitazawa art — the cushioned tip moves with you, so notes glide as smoothly as it looks.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "retro-cute"
+   ],
+   "moods": [
+    "playful",
+    "energising"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [],
+   "tags": [
+    "pen",
+    "gel-pen",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🖊️",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-heisuke-kitazawa-sarasa-grand-my-little-joy",
+   "relevant": true,
+   "blurb": "A weighty vintage-body gel pen dressed in Heisuke Kitazawa's art — the kind of pen that makes writing a grocery list feel ceremonial.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday",
+    "new-job"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [],
+   "tags": [
+    "pen",
+    "gel-pen",
+    "limited-edition",
+    "giftable"
+   ],
+   "emoji": "🖋️",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-the-hattifatteners-cookie",
+   "relevant": true,
+   "blurb": "A cookie-shaped Hattifatteners clip that holds your papers together while looking entirely snackable. Moomin Valley, but make it desk organisation.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "paper-clip",
+    "moomin",
+    "limited-edition",
+    "desk-accessory"
+   ],
+   "emoji": "👻",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-snufkin-cookie",
+   "relevant": true,
+   "blurb": "A cookie-shaped Snufkin clip that holds your papers together while looking entirely snackable. Moomin Valley, but make it desk organisation.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "paper-clip",
+    "moomin",
+    "limited-edition",
+    "desk-accessory"
+   ],
+   "emoji": "🎩",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-little-my-cookie",
+   "relevant": true,
+   "blurb": "A cookie-shaped Little My clip that holds your papers together while looking entirely snackable. Moomin Valley, but make it desk organisation.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "paper-clip",
+    "moomin",
+    "limited-edition",
+    "desk-accessory"
+   ],
+   "emoji": "🎀",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-paper-clip-moomin-cookie",
+   "relevant": true,
+   "blurb": "A cookie-shaped Moomin clip that holds your papers together while looking entirely snackable. Moomin Valley, but make it desk organisation.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "paper-clip",
+    "moomin",
+    "limited-edition",
+    "desk-accessory"
+   ],
+   "emoji": "🦛",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-little-my-puffy-stickers",
+   "relevant": true,
+   "blurb": "Puffy Little My stickers with all her signature attitude in squishy 3D — Moomin Valley's fiercest tiny resident, now on your journal.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute",
+    "kawaii"
+   ],
+   "moods": [
+    "playful"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "stickers",
+    "puffy-stickers",
+    "moomin",
+    "limited-edition"
+   ],
+   "emoji": "🎀",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-moomin-memo-pad",
+   "relevant": true,
+   "blurb": "Eighty square sheets of Moomin across four designs — your reminders were never going to settle for a plain yellow pad again.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "multi"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "memo-pad",
+    "moomin",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🦛",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-hello",
+   "relevant": true,
+   "blurb": "A cat hugging its plush best friend, carved into a stamp — one press adds instant softness to any card or journal page.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "cozy"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "aiko-fukawa"
+   ],
+   "emoji": "🐱",
+   "bg": "blush"
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-thank-you",
+   "relevant": true,
+   "blurb": "Two bears in matching outfits holding up your gratitude for you. Thank-you notes basically write themselves now.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "cozy"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "aiko-fukawa"
+   ],
+   "emoji": "🐻",
+   "bg": "blush"
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-happy",
+   "relevant": true,
+   "blurb": "Party-hat cats clutching hearts — stamp it on the good days and watch your diary cheer along with you.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "cozy"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals",
+    "hearts"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "aiko-fukawa"
+   ],
+   "emoji": "🎉",
+   "bg": "blush"
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-rubber-stamp-miracle",
+   "relevant": true,
+   "blurb": "A rabbit fairy floating in on a balloon, ready to sprinkle a little wonder over your letters and lists.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "whimsical",
+    "cozy"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "aiko-fukawa"
+   ],
+   "emoji": "🐰",
+   "bg": "blush"
+  },
+  {
+   "id": "cutethingsfromjapan-aiko-fukawa-a6-stamp-notebook-collect-your-joy",
+   "relevant": true,
+   "blurb": "A pocket-sized notebook of dapper little animals in outfits, with paper made to take stamps beautifully. Joy collection starts here.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "notebook",
+    "stamp-book",
+    "aiko-fukawa",
+    "journaling"
+   ],
+   "emoji": "📔",
+   "bg": "blush"
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-signboard",
+   "relevant": true,
+   "blurb": "A tiny illustrated signboard stamp by Midori Asano — perfect for flagging the important bits of your planner with quiet charm.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "midori-asano"
+   ],
+   "emoji": "🪧",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-what-time",
+   "relevant": true,
+   "blurb": "Midori Asano's answer to scheduling: a sweet little stamp that asks the time so your planner doesn't have to nag.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "midori-asano"
+   ],
+   "emoji": "🕐",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-meow",
+   "relevant": true,
+   "blurb": "One small press, one soft meow. Midori Asano's cat stamp gives every page a feline sign-off.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "midori-asano"
+   ],
+   "emoji": "🐈",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-midori-asano-rubber-stamp-hello",
+   "relevant": true,
+   "blurb": "A friendly hand-drawn hello by Midori Asano, ready to open every letter and journal entry on a warm note.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "midori-asano"
+   ],
+   "emoji": "👋",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-chill",
+   "relevant": true,
+   "blurb": "Subikiawa's laid-back little scene in stamp form — press it wherever your week needs permission to slow down.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "subikiawa"
+   ],
+   "emoji": "🛋️",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-birdplane",
+   "relevant": true,
+   "blurb": "A bird that thinks it's a plane, by Subikiawa. Stamp it on anything that needs a dose of deadpan whimsy.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "subikiawa"
+   ],
+   "emoji": "🐦",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-float",
+   "relevant": true,
+   "blurb": "A serene floating penguin from Subikiawa — the patron saint of doing absolutely nothing, now available for your planner.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "subikiawa"
+   ],
+   "emoji": "🐧",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-rubber-stamp-bring",
+   "relevant": true,
+   "blurb": "A busy little penguin hauling its cargo, Subikiawa-style. For the days your to-do list needs a mascot.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "whimsical",
+    "playful"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "subikiawa"
+   ],
+   "emoji": "📦",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-subikiawa-a6-stamp-notebook-life-objects",
+   "relevant": true,
+   "blurb": "Vegetables, animals and delightfully random household objects parade across this pocket notebook — Subikiawa's pop world in A6.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "playful",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "notebook",
+    "stamp-book",
+    "subikiawa",
+    "journaling"
+   ],
+   "emoji": "🥕",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-tree",
+   "relevant": true,
+   "blurb": "Shuku Nishi's tree stamp brings a still, storybook forest to your pages — one press and the woods move in.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "nishi-shuku"
+   ],
+   "emoji": "🌳",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-squirrel",
+   "relevant": true,
+   "blurb": "A quietly noble squirrel by Shuku Nishi, rendered like a woodblock print. Autumn forest vibes for your planner, year-round.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "nishi-shuku"
+   ],
+   "emoji": "🐿️",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-apple",
+   "relevant": true,
+   "blurb": "A girl balancing an apple on her head, drawn by Shuku Nishi — equal parts fairytale and quiet mischief in stamp form.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "nishi-shuku"
+   ],
+   "emoji": "🍎",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-rubber-stamp-swan",
+   "relevant": true,
+   "blurb": "Shuku Nishi's swan glides on like shadow art — an elegant silhouette stamp for letters that deserve a little grace.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "nishi-shuku"
+   ],
+   "emoji": "🦢",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-nishi-shuku-a6-stamp-notebook-swan-forest",
+   "relevant": true,
+   "blurb": "Swans drifting through a starlit forest on the cover, stamp-friendly paper inside — Shuku Nishi's dreamiest little notebook.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "dreamy-cloud"
+   ],
+   "moods": [
+    "calming",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals",
+    "celestial"
+   ],
+   "tags": [
+    "notebook",
+    "stamp-book",
+    "nishi-shuku",
+    "journaling"
+   ],
+   "emoji": "🦢",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-good",
+   "relevant": true,
+   "blurb": "A pencil-behind-the-ear bear giving an emphatic GOOD! — the stamp of approval your journal (and your friends) deserve.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "mariko-fukuoka"
+   ],
+   "emoji": "🐻",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-ska-vi-fika",
+   "relevant": true,
+   "blurb": "A round little seal asking, in Swedish, if you'd like a tea break. The politest fika invitation your planner will ever get.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "mariko-fukuoka"
+   ],
+   "emoji": "🦭",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-take-a-walk",
+   "relevant": true,
+   "blurb": "A small dog with a small bag on a big adventure — Mariko Fukuoka's gentle nudge to step outside, in stamp form.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "mariko-fukuoka"
+   ],
+   "emoji": "🐕",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-rubber-stamp-hmm",
+   "relevant": true,
+   "blurb": "A bear lost deep in a book, stamped mid-ponder. For the readers, the thinkers, and the professionally distracted.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "mariko-fukuoka"
+   ],
+   "emoji": "📖",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-a6-stamp-notebook-tiny-note",
+   "relevant": true,
+   "blurb": "Tiny motifs scattered across an A6 cover, stamp-ready paper within — Mariko Fukuoka's pocket companion for travel stamps and stray thoughts.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "notebook",
+    "stamp-book",
+    "mariko-fukuoka",
+    "journaling"
+   ],
+   "emoji": "📒",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-nap-time",
+   "relevant": true,
+   "blurb": "Robin-chan the black cat, fast asleep in a rose teacup — a stamp so cosy it might tuck your planner in at night.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "coquette"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "kuroneko-design",
+    "black-cat"
+   ],
+   "emoji": "😴",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-my-little-robin",
+   "relevant": true,
+   "blurb": "Robin-chan with a head-tilt and something clearly very important to say. Let her deliver your margin notes with maximum poise.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "coquette"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "kuroneko-design",
+    "black-cat"
+   ],
+   "emoji": "🐈‍⬛",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-day-out",
+   "relevant": true,
+   "blurb": "Robin-chan dressed up with her little bag, off on an outing — stamp her wherever your week has plans.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "coquette"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "kuroneko-design",
+    "black-cat"
+   ],
+   "emoji": "👜",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-rubber-stamp-rolling",
+   "relevant": true,
+   "blurb": "Robin-chan caught mid-roll in a perfect loaf of momentum. The stamp equivalent of a cat video, for your notebook.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "coquette"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "rubber-stamp",
+    "journaling",
+    "kuroneko-design",
+    "black-cat"
+   ],
+   "emoji": "🌀",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-kuroneko-design-a6-stamp-notebook-kuroneko-notebook",
+   "relevant": true,
+   "blurb": "Robin-chan and her dip pen grace this A6 notebook — part stamp album, part ticket keeper, entirely a black-cat lover's dream.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "coquette"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "notebook",
+    "stamp-book",
+    "kuroneko-design",
+    "black-cat"
+   ],
+   "emoji": "🐈‍⬛",
+   "bg": "lilac"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-memo-pad-sweets",
+   "relevant": true,
+   "blurb": "Mariko Fukuoka's dessert doodles on soft Mino washi — one-stroke writing paper sized exactly for a sweet little message.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "washi-paper",
+    "stationery"
+   ],
+   "emoji": "🍰",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-mariko-fukuoka-memo-pad-cozy-time",
+   "relevant": true,
+   "blurb": "Washi note slips illustrated by Mariko Fukuoka, made for the notes that only need one warm line and a lot of heart.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "memo-pad",
+    "washi-paper",
+    "stationery"
+   ],
+   "emoji": "☕",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-tadashi-nishiwaki-memo-pad-bread",
+   "relevant": true,
+   "blurb": "A bakery's worth of illustrated loaves on velvety washi slips — leave someone a note that smells (almost) of fresh bread.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "washi-paper",
+    "stationery"
+   ],
+   "emoji": "🥐",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-tadashi-nishiwaki-memo-pad-cozy-time-with-my-dog",
+   "relevant": true,
+   "blurb": "Tadashi Nishiwaki's gentle dog-and-human moments on washi note paper — for messages as warm as a lap-nap.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "memo-pad",
+    "washi-paper",
+    "stationery"
+   ],
+   "emoji": "🐶",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-reiko-tada-memo-pad-c-is-for-cat",
+   "relevant": true,
+   "blurb": "C is for cat, and for cute correspondence — Reiko Tada's feline washi slips make every quick note purr.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "memo-pad",
+    "washi-paper",
+    "stationery"
+   ],
+   "emoji": "🐱",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-reiko-tada-memo-pad-the-good-dogs",
+   "relevant": true,
+   "blurb": "A lineup of certified good dogs on fine washi paper, waiting to hand-deliver your one-line notes with tails wagging.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat",
+    "coworker",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "memo-pad",
+    "washi-paper",
+    "stationery"
+   ],
+   "emoji": "🐕",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-shoichiro-tobimatsu-petit-origami-memo-pad-s",
+   "relevant": true,
+   "blurb": "Cats, lemon sweets and 100 sheets of washi that folds into origami — Shoichiro Tobimatsu makes note-taking foldably cute.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "origami",
+    "washi-paper",
+    "limited-edition",
+    "cats"
+   ],
+   "emoji": "🍋",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-shoichiro-tobimatsu-petit-origami-memo-pad-s-2",
+   "relevant": true,
+   "blurb": "One hundred washi sheets of cats and macarons that moonlight as origami paper — notes now come with a folding hobby attached.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "origami",
+    "washi-paper",
+    "limited-edition",
+    "cats"
+   ],
+   "emoji": "🍬",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-limited-edition-shoichiro-tobimatsu-origami-memo-pad-sweets",
+   "relevant": true,
+   "blurb": "Tobimatsu's cats and confections on a washi memo pad that doubles as origami stock — ten designs, endless tiny cranes.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "origami",
+    "washi-paper",
+    "limited-edition",
+    "cats"
+   ],
+   "emoji": "🍮",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-stickers-lemon-sweets",
+   "relevant": true,
+   "blurb": "Foil-stamped washi stickers of lemon confections by Shoichiro Tobimatsu — patisserie-counter prettiness for your planner pages.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "washi-paper",
+    "limited-edition",
+    "gold-foil"
+   ],
+   "emoji": "🍋",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-stickers-macaron",
+   "relevant": true,
+   "blurb": "Foil-stamped washi stickers of macarons by Shoichiro Tobimatsu — patisserie-counter prettiness for your planner pages.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "washi-paper",
+    "limited-edition",
+    "gold-foil"
+   ],
+   "emoji": "🍬",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-stickers-sweets",
+   "relevant": true,
+   "blurb": "Foil-stamped washi stickers of assorted pastries by Shoichiro Tobimatsu — patisserie-counter prettiness for your planner pages.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "washi-paper",
+    "limited-edition",
+    "gold-foil"
+   ],
+   "emoji": "🧁",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-memo-pad-lemon-sweets",
+   "relevant": true,
+   "blurb": "A hundred sheets of cats politely posing beside lemon sweets — Shoichiro Tobimatsu's memo pad turns errands into little dessert dates.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "cats",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🍋",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-memo-pad-macaron",
+   "relevant": true,
+   "blurb": "A hundred sheets of cats politely posing beside macarons — Shoichiro Tobimatsu's memo pad turns errands into little dessert dates.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "cats",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🍪",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-memo-pad-sweets",
+   "relevant": true,
+   "blurb": "A hundred sheets of cats politely posing beside sweets — Shoichiro Tobimatsu's memo pad turns errands into little dessert dates.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "cats",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🍰",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-flake-stickers-lemon-sweets",
+   "relevant": true,
+   "blurb": "Fourteen flake stickers of cats and lemon-sweet treats in two handy sizes — Tobimatsu's dessert shop, scattered across your journal.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "flake-stickers",
+    "limited-edition",
+    "cats"
+   ],
+   "emoji": "🍋",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-flake-stickers-macaron",
+   "relevant": true,
+   "blurb": "Fourteen flake stickers of cats and macaron treats in two handy sizes — Tobimatsu's dessert shop, scattered across your journal.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "stickers",
+    "flake-stickers",
+    "limited-edition",
+    "cats"
+   ],
+   "emoji": "🍬",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-sticky-notes-lemon-sweets",
+   "relevant": true,
+   "blurb": "Double sticky-note sheets pairing Tobimatsu's cats with lemon-sweet treats — reminders have never looked this dessert-forward.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "sticky-notes",
+    "cats",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🍋",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-sticky-notes-macaron",
+   "relevant": true,
+   "blurb": "Double sticky-note sheets pairing Tobimatsu's cats with macaron treats — reminders have never looked this dessert-forward.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "sticky-notes",
+    "cats",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🍬",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-sticky-notes-strawberry-sweets",
+   "relevant": true,
+   "blurb": "Double sticky-note sheets pairing Tobimatsu's cats with strawberry treats — reminders have never looked this dessert-forward.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "cottagecore"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "sticky-notes",
+    "cats",
+    "limited-edition",
+    "stationery"
+   ],
+   "emoji": "🍓",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-letter-set-lemon-sweets",
+   "relevant": true,
+   "blurb": "A letter set on delicate rakusui washi, decorated with Tobimatsu's lemon sweets — the kind of paper that makes people keep your letters.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "romantic"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday",
+    "valentines"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "letter-set",
+    "washi-paper",
+    "limited-edition",
+    "snail-mail"
+   ],
+   "emoji": "🍋",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-letter-set-macaron",
+   "relevant": true,
+   "blurb": "A letter set on delicate rakusui washi, decorated with Tobimatsu's macarons — the kind of paper that makes people keep your letters.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "romantic"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday",
+    "valentines"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "letter-set",
+    "washi-paper",
+    "limited-edition",
+    "snail-mail"
+   ],
+   "emoji": "💌",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-shoichiro-tobimatsu-letter-set-strawberry-sweets",
+   "relevant": true,
+   "blurb": "A letter set on delicate rakusui washi, decorated with Tobimatsu's strawberry treats — the kind of paper that makes people keep your letters.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "kawaii"
+   ],
+   "moods": [
+    "cozy",
+    "romantic"
+   ],
+   "recipients": [
+    "self-treat",
+    "best-friend"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday",
+    "valentines"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "cream",
+    "peach"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "letter-set",
+    "washi-paper",
+    "limited-edition",
+    "snail-mail"
+   ],
+   "emoji": "🍓",
+   "bg": "peach"
+  },
+  {
+   "id": "cutethingsfromjapan-greetng-card-for-you",
+   "relevant": true,
+   "blurb": "A Rei Kurahashi greeting card with a hidden second illustration inside — a small surprise waiting the moment they open it.",
+   "brand": "generic",
+   "pillars": [
+    "gifts",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "retro-cute"
+   ],
+   "moods": [
+    "romantic",
+    "whimsical"
+   ],
+   "recipients": [
+    "best-friend",
+    "for-her"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday"
+   ],
+   "rooms": [],
+   "colours": [
+    "cream"
+   ],
+   "themes": [],
+   "tags": [
+    "greeting-card",
+    "snail-mail",
+    "rei-kurahashi",
+    "giftable"
+   ],
+   "emoji": "💌",
+   "bg": "blush"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-slim-clear-tape-hello-cat",
+   "relevant": true,
+   "blurb": "A whisper-thin roll of clear tape covered in pop-art cats — five metres of feline sparkle for planner margins everywhere.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "y2k"
+   ],
+   "moods": [
+    "playful",
+    "energising"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "deco-tape",
+    "cats",
+    "journaling",
+    "stationery"
+   ],
+   "emoji": "🐱",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-mind-wave-slim-clear-tape-colorful-cat",
+   "relevant": true,
+   "blurb": "Rainbow cats on a slim clear tape running five metres long — enough technicolour kitties to decorate a year of journal spreads.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "y2k"
+   ],
+   "moods": [
+    "playful",
+    "energising"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [
+    "animals"
+   ],
+   "tags": [
+    "deco-tape",
+    "cats",
+    "journaling",
+    "stationery"
+   ],
+   "emoji": "🌈",
+   "bg": "mint"
+  },
+  {
+   "id": "cutethingsfromjapan-kano-hirabayashi-square-memo-pad-kitchen-tool",
+   "relevant": true,
+   "blurb": "Kitchen tools drawn in soft coloured pencil across 120 memo sheets — Kano Hirabayashi makes even the whisk look huggable.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office",
+    "kitchen"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "stationery",
+    "kitchen",
+    "kano-hirabayashi"
+   ],
+   "emoji": "🥄",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-kano-hirabayashi-square-memo-pad-japanese-food",
+   "relevant": true,
+   "blurb": "Everyday Japanese dishes rendered in gentle coloured pencil — a 120-sheet memo pad that makes your notes look delicious.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "cottagecore",
+    "pastel-minimal"
+   ],
+   "moods": [
+    "cozy",
+    "calming"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office",
+    "kitchen"
+   ],
+   "colours": [
+    "cream"
+   ],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "memo-pad",
+    "stationery",
+    "japanese-food",
+    "kano-hirabayashi"
+   ],
+   "emoji": "🍙",
+   "bg": "cream"
+  },
+  {
+   "id": "cutethingsfromjapan-narumi-suzuki-stickers-in-town-a5-size",
+   "relevant": true,
+   "blurb": "An entire bustling town from a bird's-eye view, sliced into an A5 sticker sheet — build Narumi Suzuki's tiny city across your journal.",
+   "brand": "generic",
+   "pillars": [
+    "desk-workspace",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "playful",
+    "whimsical"
+   ],
+   "recipients": [
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [
+    "home-office"
+   ],
+   "colours": [
+    "multi"
+   ],
+   "themes": [],
+   "tags": [
+    "stickers",
+    "journaling",
+    "narumi-suzuki",
+    "city"
+   ],
+   "emoji": "🏘️",
+   "bg": "mint"
+  }
  ]
 }

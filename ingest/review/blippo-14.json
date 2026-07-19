@@ -1,0 +1,1860 @@
+{
+ "source": "blippo",
+ "items": [
+  {
+   "id": "blippo-hitorijime-sweets-apple-chocolate",
+   "relevant": false,
+   "blurb": "Honeyed apple pieces wrapped in chocolate - a solo-snacking indulgence, but not a cute find.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chocolate"
+   ],
+   "emoji": "🍎",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-morinaga-angel-pie-tea-time-pack-vanilla",
+   "relevant": false,
+   "blurb": "Marshmallow biscuit sandwiches in chocolate - tasty tea-time fare, just not our kind of cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chocolate"
+   ],
+   "emoji": "🍪",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-yaokin-soba-meshi-noodle-snack",
+   "relevant": false,
+   "blurb": "Yakisoba-flavoured puffed snack channeling street-stall vibes - plain dagashi, no cute angle.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "dagashi"
+   ],
+   "emoji": "🍜",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kasugai-x-lipton-tea-candy-milk-tea-lemon-tea",
+   "relevant": false,
+   "blurb": "Sugar-free tea candies in two flavours - a nice sip in candy form, but plain packaging.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "tea"
+   ],
+   "emoji": "🍵",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-mikakuto-local-premium-gummy-furano-melon",
+   "relevant": false,
+   "blurb": "Premium Hokkaido melon gummies - delicious regional treat, not a kawaii pick.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍈",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kororo-fruit-juice-gummy-peach",
+   "relevant": false,
+   "blurb": "Peach gummies made with real fruit juice - yum, but plain snack territory.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍑",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-mikakuto-ninja-meshi-steel-gummy-white-soda",
+   "relevant": false,
+   "blurb": "Ring-shaped ninja-mask soda gummies - fun to stretch and chew, still just candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🥷",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-koikeya-karamucho-potato-sticks-meat-and-wasabi",
+   "relevant": false,
+   "blurb": "Meat-and-wasabi potato sticks with a kick - savory snack, no cute factor.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chips"
+   ],
+   "emoji": "🥔",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-tohato-nagewa-potato-ring-snacks-4-cheese",
+   "relevant": false,
+   "blurb": "Four-cheese potato rings for binge nights - plain savoury snack.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chips"
+   ],
+   "emoji": "🧀",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-koikeya-suppa-mucho-potato-sticks-slim-bag-refreshing-plum",
+   "relevant": false,
+   "blurb": "Tangy plum potato sticks - intriguingly sour, but not gift-shelf material.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chips"
+   ],
+   "emoji": "🥔",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-fits-gum-refreshing-citrus",
+   "relevant": false,
+   "blurb": "Citrus gum with tangy flavour chips - everyday refreshment, not a cute find.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "candy"
+   ],
+   "emoji": "🍋",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-pigeon-tooth-care-tablet-u-candy-apple",
+   "relevant": false,
+   "blurb": "Tooth-friendly apple tablets for kids - functional candy, not decor-worthy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "functional"
+   ],
+   "emoji": "🍏",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-asahi-mintia-witch-apple-mints",
+   "relevant": false,
+   "blurb": "Apple mints in a Halloween witch case - fun tin, but still just mints.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "mints",
+    "seasonal"
+   ],
+   "emoji": "🧙",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bourbon-omochi-no-hitotoki-dark-matcha-mochi",
+   "relevant": false,
+   "blurb": "Chewy mochi with an Uji matcha cream heart - lovely, but a plain sweet.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "mochi",
+    "matcha"
+   ],
+   "emoji": "🍵",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-ninja-meshi-gummy-plum-katsuo",
+   "relevant": false,
+   "blurb": "Plum-and-bonito gummies with a crisp shell - adventurous, not adorable.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🥷",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-fusen-no-mi-orange-peach-bubble-gum",
+   "relevant": false,
+   "blurb": "Fruit gumballs you can blend into brand-new flavours - playful but plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "candy"
+   ],
+   "emoji": "🍊",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-chiikawa-friends-mini-acrylic-charm",
+   "relevant": true,
+   "blurb": "A blind-pick acrylic charm starring Chiikawa and pals, ready to dangle from your bag on its little ball chain. Tiny price, huge serotonin.",
+   "brand": "chiikawa",
+   "pillars": [
+    "collectibles",
+    "gifts"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "playful",
+    "whimsical"
+   ],
+   "recipients": [
+    "best-friend",
+    "self-treat",
+    "teens"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday"
+   ],
+   "rooms": [],
+   "colours": [
+    "multi"
+   ],
+   "themes": [
+    "characters"
+   ],
+   "tags": [
+    "charm",
+    "chiikawa",
+    "blind-box",
+    "mini"
+   ],
+   "emoji": "🐹",
+   "bg": "blush"
+  },
+  {
+   "id": "blippo-megumi-gummy-candy-grape",
+   "relevant": false,
+   "blurb": "Grape gummies with big juicy flavour - straightforward candy, no cute hook.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍇",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-nobel-super-sour-cola-candy-package",
+   "relevant": false,
+   "blurb": "Extra-sour cola candies with fizzy centres - pucker-up fun, not kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "sour"
+   ],
+   "emoji": "🥤",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-xylitol-gum-black-mint",
+   "relevant": false,
+   "blurb": "Strong peppermint xylitol gum - practical breath care, nothing cute here.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "mints"
+   ],
+   "emoji": "🌿",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-meiji-almond-chocolate-okinawa-salt-milk",
+   "relevant": false,
+   "blurb": "Milk-chocolate almonds kissed with Okinawan sea salt - grown-up snacking, plain box.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "chocolate",
+    "snacks"
+   ],
+   "emoji": "🍫",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bourbon-winter-melting-almond-truffle-chocolate",
+   "relevant": false,
+   "blurb": "Winter-only almond truffles that vanish on the tongue - seasonal treat, not a cute one.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "chocolate",
+    "seasonal"
+   ],
+   "emoji": "🍫",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-atrion-yogurt-fruit-gummy-strawberry",
+   "relevant": false,
+   "blurb": "Strawberry-yogurt gummies with added calcium - wholesome, but just candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍓",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-chip-star-potato-chips-mild-salt",
+   "relevant": false,
+   "blurb": "Stacked salt chips in a resealable tube - handy snack, zero kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chips"
+   ],
+   "emoji": "🥔",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-marukawa-sour-lemon-gum",
+   "relevant": false,
+   "blurb": "Face-scrunchingly sour lemon gum - a dare in a bag, not a cute find.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "sour"
+   ],
+   "emoji": "🍋",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bourbon-mini-lumonde-crepe-cookies-chocolate-cocoa-cream",
+   "relevant": false,
+   "blurb": "Mini rolled crepe biscuits in two chocolatey flavours - elegant nibbles, plain snack.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "cookies"
+   ],
+   "emoji": "🍪",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bourbon-fettuccine-gummy-italian-grape",
+   "relevant": false,
+   "blurb": "Pasta-shaped grape gummies with a sour dusting - quirky candy, not kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍇",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-mikakuto-ice-gummy-cola",
+   "relevant": false,
+   "blurb": "Sugar-frosted cola gummies with an icy crunch - refreshing, but plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🥤",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bourbon-mini-balm-roll-snacks-first-pick-matcha",
+   "relevant": false,
+   "blurb": "Mini roll cakes filled with master-picked Uji matcha cream - fancy, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "matcha"
+   ],
+   "emoji": "🍵",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-yaokin-galitto-politto-pretzels-salad",
+   "relevant": false,
+   "blurb": "Salad-flavoured baked pretzels - a classic dagashi nibble, no cute angle.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "pretzels"
+   ],
+   "emoji": "🥨",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-tohato-beano-rich-pack-umashi-snacks",
+   "relevant": false,
+   "blurb": "Puffed pea sticks with big bean flavour - savoury and simple.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks"
+   ],
+   "emoji": "🫛",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-morinaga-dear-galette-sandwich-beard-papa-cream-puff",
+   "relevant": false,
+   "blurb": "Galette cookies filled with cream-puff custard - dessert-shop collab, plain snack.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "cookies",
+    "limited-edition"
+   ],
+   "emoji": "🍮",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kasugai-mochira-gummy-lemon",
+   "relevant": false,
+   "blurb": "Lemon gummies that shapeshift from crunchy to mochi-soft - clever, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍋",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-calbee-kata-age-potato-chips-grilled-seaweed",
+   "relevant": false,
+   "blurb": "Thick-cut chips with grilled seaweed umami - crunchy, but no kawaii here.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "chips"
+   ],
+   "emoji": "🥔",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-fujiya-home-pie-snack-pack",
+   "relevant": false,
+   "blurb": "A big pack of flaky pie biscuits made with Mt. Fuji water - homey, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "cookies"
+   ],
+   "emoji": "🥧",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-guminchu-okinawa-gummy-candy-mango",
+   "relevant": false,
+   "blurb": "Chewy cubes of Okinawa mango goodness - tropical candy, plain packaging.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🥭",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-hi-chew-candy-pineapple",
+   "relevant": false,
+   "blurb": "Japan's iconic chewy candy in juicy pineapple - beloved, but not a cute find.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "chewy"
+   ],
+   "emoji": "🍍",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-nippon-ale-gummy-niigata-le-lecteir",
+   "relevant": false,
+   "blurb": "Gummies made with rare Niigata pear juice - farm-supporting treat, plain candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍐",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-fusen-no-mi-orange-apple-bubble-gum",
+   "relevant": false,
+   "blurb": "Fruity gumballs that mix into a surprise soda flavour - fun, not kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "candy"
+   ],
+   "emoji": "🍎",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-morinaga-hokkaido-milk-candy",
+   "relevant": false,
+   "blurb": "Soft candies rich with Hokkaido milk - creamy comfort, plain treat.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "chewy"
+   ],
+   "emoji": "🥛",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-asahi-dark-mango-candy",
+   "relevant": false,
+   "blurb": "Vitamin-boosted mango candies with Alfonso richness - tasty, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy"
+   ],
+   "emoji": "🥭",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kororo-fruit-juice-gummy-grape",
+   "relevant": false,
+   "blurb": "Grape gummies that pop like real fruit - juicy candy, no cute hook.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍇",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-shoei-revechi-berry-crunch-chocolate",
+   "relevant": false,
+   "blurb": "Berry-studded white chocolate crunch bites - coffee-break treat, plain snack.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "chocolate",
+    "snacks"
+   ],
+   "emoji": "🍓",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-yaokin-porickey-pretzel-snack-sticks-corn",
+   "relevant": false,
+   "blurb": "Corn-potage pretzel sticks - soup in snack form, no kawaii angle.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "pretzels"
+   ],
+   "emoji": "🌽",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-doshisha-wasabi-almonds",
+   "relevant": false,
+   "blurb": "Wasabi-dusted almonds with a spicy finish - trail-mix fuel, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "nuts"
+   ],
+   "emoji": "🥜",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kogumi-premium-fruit-juice-gummy-fruity-trio",
+   "relevant": false,
+   "blurb": "A trio of regional fruit gummies from famous prefectures - premium, but plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍒",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bonchi-ponsuke-rice-crackers-sweet-soy-sauce-seaweed",
+   "relevant": false,
+   "blurb": "Bite-size rice crackers glazed in sweet soy and seaweed - classic, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "crackers"
+   ],
+   "emoji": "🍘",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-daimaru-ippo-ice-zato-sugar-candy",
+   "relevant": false,
+   "blurb": "Rock sugar candies that look like chipped ice - simple old-school sweets.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy"
+   ],
+   "emoji": "🧊",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kabaya-tough-gummy-candy-vivid-pineapple",
+   "relevant": false,
+   "blurb": "Extra-firm pineapple gummies with a sour dusting - a workout for the jaw.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍍",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-suguru-ham-cutlet-snack",
+   "relevant": false,
+   "blurb": "Breaded fishcake snack with ham seasoning - retro dagashi, no cute factor.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "dagashi"
+   ],
+   "emoji": "🍖",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-tokuno-8-2-special-concentrated-milk-candy-cafe-au-lait",
+   "relevant": false,
+   "blurb": "Cafe-au-lait milk candies with calming GABA - functional, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "functional"
+   ],
+   "emoji": "☕",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-muji-white-chocolate-coated-strawberry",
+   "relevant": false,
+   "blurb": "Freeze-dried strawberries dipped in white chocolate from MUJI - chic, but plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "chocolate",
+    "snacks"
+   ],
+   "emoji": "🍓",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kasugai-kishiri-crystal-candy-vacance-assort",
+   "relevant": false,
+   "blurb": "Triple-layered tropical hard candies with a cool xylitol core - clever, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy"
+   ],
+   "emoji": "🍬",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-tanbaya-honpo-ramune-konpeito-set-dogs",
+   "relevant": true,
+   "blurb": "Puppy-faced ramune candies paired with starry rainbow konpeito - a candy set so charming you may forget it's edible.",
+   "brand": "generic",
+   "pillars": [
+    "gifts"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "retro-cute"
+   ],
+   "moods": [
+    "playful",
+    "whimsical"
+   ],
+   "recipients": [
+    "best-friend",
+    "kids",
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday"
+   ],
+   "rooms": [],
+   "colours": [
+    "multi"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "ramune",
+    "konpeito",
+    "dogs",
+    "giftable"
+   ],
+   "emoji": "🐶",
+   "bg": "peach"
+  },
+  {
+   "id": "blippo-morinaga-milk-caramel-candy-matcha-tea",
+   "relevant": true,
+   "blurb": "Matcha-and-milk caramels tucked in a box paraded by illustrated cats - the snack that doubles as desk decor until you eat it.",
+   "brand": "generic",
+   "pillars": [
+    "gifts"
+   ],
+   "aesthetics": [
+    "retro-cute"
+   ],
+   "moods": [
+    "cozy",
+    "playful"
+   ],
+   "recipients": [
+    "coworker",
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [],
+   "colours": [
+    "mint",
+    "cream"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "caramel",
+    "matcha",
+    "cats"
+   ],
+   "emoji": "🐱",
+   "bg": "mint"
+  },
+  {
+   "id": "blippo-meiji-boost-bites-mega-spark-gummies",
+   "relevant": false,
+   "blurb": "Spicy, extra-hard gummies built to keep you alert - energy snack, no cute angle.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "functional"
+   ],
+   "emoji": "⚡",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kuraku-lifeguard-plus-tablet-candy-salt",
+   "relevant": false,
+   "blurb": "Salt-boosted energy soda tablets for hot days - practical, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "functional"
+   ],
+   "emoji": "🥤",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-fit-s-gum-refreshing-frozen-orange",
+   "relevant": false,
+   "blurb": "Frozen-orange gum with an icy aftertaste - refreshing basic, no kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "candy"
+   ],
+   "emoji": "🍊",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-malang-cow-soft-candy-milk",
+   "relevant": true,
+   "blurb": "Pillowy bean-shaped milk candies in a dreamy cow-and-clouds pouch - as soft to look at as they are to chew.",
+   "brand": "generic",
+   "pillars": [
+    "gifts"
+   ],
+   "aesthetics": [
+    "kawaii",
+    "dreamy-cloud"
+   ],
+   "moods": [
+    "cozy",
+    "whimsical"
+   ],
+   "recipients": [
+    "best-friend",
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because"
+   ],
+   "rooms": [],
+   "colours": [
+    "white",
+    "cream"
+   ],
+   "themes": [
+    "animals",
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "chewy",
+    "cow",
+    "cloud"
+   ],
+   "emoji": "🐮",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-mikakuto-cream-filled-strawberry-candy",
+   "relevant": false,
+   "blurb": "Strawberry hard candies with a creamy middle - sweet classic, plain treat.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy"
+   ],
+   "emoji": "🍓",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-nippon-ale-gummy-gamagori-mikan",
+   "relevant": false,
+   "blurb": "Mandarin gummies celebrating Aichi's famous mikan - regional candy, plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍊",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-combi-teteo-oral-balance-tablet-candy-grape",
+   "relevant": false,
+   "blurb": "Sugar-free grape tablets that fight plaque - dental care, not decor.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "functional"
+   ],
+   "emoji": "🍇",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-combi-teteo-oral-balance-tablet-candy-apple",
+   "relevant": false,
+   "blurb": "Apple tablets that look after your teeth while you snack - functional candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "functional"
+   ],
+   "emoji": "🍏",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-uha-shigekix-sour-gummy-drops-grape",
+   "relevant": false,
+   "blurb": "Fiercely sour grape gummy drops - a tangy thrill, not a cute one.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "sour"
+   ],
+   "emoji": "🍇",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-bourbon-elise-wafer-sticks-divine-banana",
+   "relevant": false,
+   "blurb": "Hollow wafer sticks bursting with banana sweetness - tea-time snack, plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "snacks",
+    "wafers"
+   ],
+   "emoji": "🍌",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kanro-ramune-marble-candy-pineapple-cool-ramune",
+   "relevant": false,
+   "blurb": "Marble-patterned ramune candies in summery flavours - pretty swirls, still plain candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "ramune"
+   ],
+   "emoji": "🍬",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-nobel-sours-gummies-jewel-soda-28214",
+   "relevant": false,
+   "blurb": "Soda gummies rolled in sour powder and candy shards - fizzy fun, not kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "sour"
+   ],
+   "emoji": "💎",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-lotte-fusen-no-mi-blueberry-bubble-gum",
+   "relevant": false,
+   "blurb": "Blueberry gumballs with mystery centres - a tiny surprise, but plain candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "candy"
+   ],
+   "emoji": "🫐",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-kakudai-ramune-candy-ramune-grape",
+   "relevant": false,
+   "blurb": "Pocket case of ramune and grape hard candies - handy, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "ramune"
+   ],
+   "emoji": "🍇",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-hangyodon-eva-sandals-large",
+   "relevant": true,
+   "blurb": "Squishy indoor sandals covered in Hangyodon, complete with dangling fish cake and octopus charms. Your feet have never been this funny.",
+   "brand": "sanrio",
+   "pillars": [
+    "gifts",
+    "aesthetics"
+   ],
+   "aesthetics": [
+    "kawaii"
+   ],
+   "moods": [
+    "playful",
+    "cozy"
+   ],
+   "recipients": [
+    "for-her",
+    "self-treat"
+   ],
+   "occasions": [
+    "just-because",
+    "birthday"
+   ],
+   "rooms": [
+    "bedroom",
+    "bathroom"
+   ],
+   "colours": [
+    "mint",
+    "multi"
+   ],
+   "themes": [
+    "characters",
+    "animals"
+   ],
+   "tags": [
+    "slippers",
+    "hangyodon",
+    "sanrio",
+    "home"
+   ],
+   "emoji": "🐟",
+   "bg": "mint"
+  },
+  {
+   "id": "blippo-kororo-premium-gummy-craft-cola",
+   "relevant": false,
+   "blurb": "Craft-cola gummies riding Japan's artisan soda wave - trendy, but plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🥤",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-clorets-xp-gum-energy-drink-mint",
+   "relevant": false,
+   "blurb": "Energy-drink-meets-mint gum for a double jolt - functional, no cute factor.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "mints"
+   ],
+   "emoji": "⚡",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-clorets-xp-gum-orange-mint",
+   "relevant": false,
+   "blurb": "Orange gum with a cool mint finish - everyday freshness, nothing cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gum",
+    "mints"
+   ],
+   "emoji": "🍊",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-atrion-yogurt-fruit-gummy-pear",
+   "relevant": false,
+   "blurb": "Pear-yogurt gummies with a calcium bonus - wholesome candy, plain pack.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍐",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-nippon-ale-gummy-kumamoto-watermelon",
+   "relevant": false,
+   "blurb": "Watermelon gummies made from Kumamoto-grown fruit - regional treat, plain candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍉",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-heisei-strawberry-frappe-gummy",
+   "relevant": false,
+   "blurb": "Gummies that mimic a fluffy strawberry frappe, fizz and all - novel, not kawaii.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🍓",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-frisk-neo-sugarless-ramune-tablets",
+   "relevant": false,
+   "blurb": "Sugar-free ramune tablets with vitamin C - breath-mint territory, not cute.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "mints",
+    "ramune"
+   ],
+   "emoji": "🥤",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-sanko-seika-yasashii-lemon-ramune-set-5-pcs",
+   "relevant": false,
+   "blurb": "Five mini packs of gentle lemon ramune candies - shareable, but plain.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "candy",
+    "ramune"
+   ],
+   "emoji": "🍋",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-heisei-junkissa-drink-gummy",
+   "relevant": false,
+   "blurb": "Gummies inspired by retro Japanese cafe drinks - nostalgic flavours, plain candy.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "gummy",
+    "candy"
+   ],
+   "emoji": "🥤",
+   "bg": "cream"
+  },
+  {
+   "id": "blippo-dars-chocolate-alphonso-mango",
+   "relevant": false,
+   "blurb": "Two-layer mango milk chocolates from Dars - tropical twist, plain box.",
+   "brand": "generic",
+   "pillars": [],
+   "aesthetics": [],
+   "moods": [],
+   "recipients": [],
+   "occasions": [],
+   "rooms": [],
+   "colours": [],
+   "themes": [
+    "food-drink"
+   ],
+   "tags": [
+    "chocolate",
+    "candy"
+   ],
+   "emoji": "🥭",
+   "bg": "cream"
+  }
+ ]
+}

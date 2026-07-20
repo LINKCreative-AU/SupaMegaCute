@@ -6,7 +6,7 @@
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
-export const SITE = "https://supermegacute.com";
+export const SITE = "https://supamegacute.com";
 export const BG = { blush: "#FFC7D6", lilac: "#DCC7F7", mint: "#BDEAD7", peach: "#FFDCC2", cream: "#FFF6EC" };
 
 export const esc = (s) =>

@@ -14,7 +14,7 @@ import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   SITE, BG, esc, loadGraph, find, related, affiliateLink, money,
-  productCard, chromeHeader, chromeFooter, pageShell,
+  productCard, chromeHeader, chromeFooter, pageShell, HEAD_SCRIPTS,
 } from "./render.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
@@ -95,6 +95,7 @@ const ROOT_PAGES = { "index.html": "home", "explore.html": "explore", "gifts.htm
 for (const [file, slug] of Object.entries(ROOT_PAGES)) {
   let html = await readFile(join(ROOT, file), "utf8");
   html = prerender(html, slug);
+  html = html.replace("</head>", `${HEAD_SCRIPTS}\n</head>`);
   if (file === "index.html") {
     const website = { "@context": "https://schema.org", "@type": "WebSite", name: "SuperMegaCute", url: SITE,
       potentialAction: { "@type": "SearchAction", target: `${SITE}/explore?q={search_term_string}`, "query-input": "required name=search_term_string" } };
@@ -271,7 +272,7 @@ for (const f of guideFiles) {
   html = html.replaceAll('href="../', 'href="/').replaceAll('src="../', 'src="/');
   html = prerender(html, "collectibles");
   const slug = f.replace(/\.html$/, "");
-  html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/guides/${slug}">\n</head>`);
+  html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/guides/${slug}">${HEAD_SCRIPTS}\n</head>`);
   await writeFile(join(DIST, "guides", f), html);
 }
 

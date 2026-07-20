@@ -175,6 +175,13 @@ export const FONT_LINKS = `
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">`;
 
+// Skimlinks auto-monetisation. Rewrites outbound merchant links to affiliate
+// links at click-time across ~48.5k merchants; keeps clean direct links in the
+// HTML (SEO-safe) and covers every store — including those with no direct
+// programme — plus future ones. Loaded async so it never blocks render.
+export const HEAD_SCRIPTS = `
+  <script async src="https://s.skimresources.com/js/306502X1794748.skimlinks.js"></script>`;
+
 export function pageShell({ title, description, canonical, body, jsonLd = [], og = {}, robots = null }) {
   const ld = jsonLd.map((o) => `<script type="application/ld+json">${JSON.stringify(o)}</script>`).join("\n  ");
   const ogTags = Object.entries({ "og:title": title, "og:description": description, ...og })
@@ -189,7 +196,7 @@ export function pageShell({ title, description, canonical, body, jsonLd = [], og
   ${robots ? `<meta name="robots" content="${robots}">` : ""}
   <link rel="canonical" href="${esc(canonical)}">
   <link rel="icon" type="image/svg+xml" href="/assets/brand/submarks/favicon.svg">${FONT_LINKS}
-  <link rel="stylesheet" href="/assets/smc.css">
+  <link rel="stylesheet" href="/assets/smc.css">${HEAD_SCRIPTS}
   ${ogTags}
   ${ld}
 </head>

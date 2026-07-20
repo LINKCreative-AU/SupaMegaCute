@@ -8,10 +8,12 @@
     "utm": { "utm_source": "supamegacute", "utm_medium": "referral" },
     "aggregator": {
       "network": "skimlinks",
+      "account": "306502X1794748",
+      "method": "javascript",
       "publisherId": null,
       "wrapTemplate": "https://go.skimresources.com/?id={publisherId}&xs=1&url={url}",
       "excludeMerchants": ["bellzi", "blippo", "uwumarket"],
-      "notes": "Umbrella auto-monetisation. When publisherId is set, every store link is wrapped EXCEPT merchants that have their own direct affiliateId (listed in excludeMerchants so their better direct rate wins). Skimlinks format shown; Sovrn Commerce alternative: https://redirect.viglink.com/?format=go&key={publisherId}&u={url} — swap wrapTemplate + network to switch."
+      "notes": "LIVE via Skimlinks JS snippet (account 306502X1794748) injected into every page head (build/render.mjs HEAD_SCRIPTS) — rewrites outbound links to affiliate at click-time across ~48.5k merchants, keeping clean direct links in the HTML. publisherId is intentionally null so the SERVER-side wrap stays OFF (the JS handles it; setting both would double-wrap). If a store gets its own direct programme (Bellzi/Blippo/uwu), also exclude that domain in the Skimlinks dashboard so it isn't double-counted. Sovrn alternative wrap: https://redirect.viglink.com/?format=go&key={publisherId}&u={url}."
     }
   },
   "merchants": {

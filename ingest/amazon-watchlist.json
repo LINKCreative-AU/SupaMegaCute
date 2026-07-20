@@ -9,16 +9,40 @@
       "blurb": "Glow-in-the-dark little weirdos caught mid-chore. Crack the blind box, meet your Smiski, then hunt for the rest of the shelf-dwellers.",
       "brand": "smiski",
       "priceBand": "under-25",
-      "pillars": ["collectibles"],
-      "aesthetics": ["kawaii"],
-      "moods": ["playful", "whimsical"],
-      "recipients": ["self-treat", "teens"],
-      "occasions": ["just-because"],
+      "pillars": [
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["mint"],
-      "themes": ["characters"],
-      "tags": ["blind-box", "smiski", "glow-in-the-dark", "figure"],
-      "art": { "emoji": "👻", "bg": "mint" }
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "smiski",
+        "glow-in-the-dark",
+        "figure"
+      ],
+      "art": {
+        "emoji": "👻",
+        "bg": "mint"
+      }
     },
     {
       "asin": "B08X1K13ZL",
@@ -27,16 +51,40 @@
       "blurb": "Three sealed blind boxes across three series — the fastest way to build a glowing Smiski colony in your corners overnight.",
       "brand": "smiski",
       "priceBand": "25-50",
-      "pillars": ["collectibles"],
-      "aesthetics": ["kawaii"],
-      "moods": ["playful", "whimsical"],
-      "recipients": ["self-treat", "best-friend"],
-      "occasions": ["just-because"],
+      "pillars": [
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "best-friend"
+      ],
+      "occasions": [
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["mint"],
-      "themes": ["characters"],
-      "tags": ["blind-box", "smiski", "glow-in-the-dark", "set"],
-      "art": { "emoji": "👻", "bg": "mint" }
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "smiski",
+        "glow-in-the-dark",
+        "set"
+      ],
+      "art": {
+        "emoji": "👻",
+        "bg": "mint"
+      }
     },
     {
       "asin": "B09XFDFX35",
@@ -45,16 +93,39 @@
       "blurb": "A tiny cherub in an animal hat, chosen by fate. The internet's favourite desk companion — and yes, there's a secret one.",
       "brand": "sonny-angel",
       "priceBand": "under-25",
-      "pillars": ["collectibles"],
-      "aesthetics": ["kawaii"],
-      "moods": ["playful"],
-      "recipients": ["self-treat", "best-friend"],
-      "occasions": ["just-because"],
+      "pillars": [
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "self-treat",
+        "best-friend"
+      ],
+      "occasions": [
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["blush-pink"],
-      "themes": ["characters", "animals"],
-      "tags": ["blind-box", "sonny-angel", "figure"],
-      "art": { "emoji": "👼", "bg": "peach" }
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "blind-box",
+        "sonny-angel",
+        "figure"
+      ],
+      "art": {
+        "emoji": "👼",
+        "bg": "peach"
+      }
     },
     {
       "asin": "B09MD6H8FH",
@@ -63,16 +134,40 @@
       "blurb": "The lying-down cherub that clings to your phone, monitor or plant pot. Small pose, enormous serotonin.",
       "brand": "sonny-angel",
       "priceBand": "under-25",
-      "pillars": ["collectibles"],
-      "aesthetics": ["kawaii", "coquette"],
-      "moods": ["playful", "calming"],
-      "recipients": ["self-treat"],
-      "occasions": ["just-because"],
+      "pillars": [
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "playful",
+        "calming"
+      ],
+      "recipients": [
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["blush-pink"],
-      "themes": ["characters"],
-      "tags": ["blind-box", "sonny-angel", "hippers", "figure"],
-      "art": { "emoji": "👼", "bg": "blush" }
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "sonny-angel",
+        "hippers",
+        "figure"
+      ],
+      "art": {
+        "emoji": "👼",
+        "bg": "blush"
+      }
     },
     {
       "asin": "B083FM5BDK",
@@ -81,16 +176,42 @@
       "blurb": "The chubby grey tabby of the internet, in squishable bean-plush form. Pocket-sized napping energy for your desk.",
       "brand": "pusheen",
       "priceBand": "under-25",
-      "pillars": ["aesthetics", "gifts"],
-      "aesthetics": ["kawaii"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["self-treat", "best-friend"],
-      "occasions": ["just-because"],
-      "rooms": ["bedroom"],
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "self-treat",
+        "best-friend"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
       "colours": [],
-      "themes": ["characters", "animals"],
-      "tags": ["plush", "pusheen", "cat", "squishy"],
-      "art": { "emoji": "🐱", "bg": "lilac" }
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "pusheen",
+        "cat",
+        "squishy"
+      ],
+      "art": {
+        "emoji": "🐱",
+        "bg": "lilac"
+      }
     },
     {
       "asin": "B0B5V9N3WD",
@@ -99,16 +220,46 @@
       "blurb": "Pusheen toasted into a marshmallow-soft s'more. A huggable 12 inches of snack-cat comfort.",
       "brand": "pusheen",
       "priceBand": "25-50",
-      "pillars": ["aesthetics", "gifts"],
-      "aesthetics": ["kawaii"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["best-friend", "self-treat"],
-      "occasions": ["birthday", "just-because"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["cream"],
-      "themes": ["characters", "food-drink"],
-      "tags": ["plush", "pusheen", "cat", "large"],
-      "art": { "emoji": "🐱", "bg": "peach" }
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "characters",
+        "food-drink"
+      ],
+      "tags": [
+        "plush",
+        "pusheen",
+        "cat",
+        "large"
+      ],
+      "art": {
+        "emoji": "🐱",
+        "bg": "peach"
+      }
     },
     {
       "asin": "B09QH7BBL7",
@@ -117,16 +268,42 @@
       "blurb": "Two cute-icons in one: Pusheen dressed as Hello Kitty. A crossover plush built to be gifted.",
       "brand": "pusheen",
       "priceBand": "25-50",
-      "pillars": ["gifts", "collectibles"],
-      "aesthetics": ["kawaii"],
-      "moods": ["playful", "cozy"],
-      "recipients": ["best-friend", "teens"],
-      "occasions": ["birthday", "just-because"],
+      "pillars": [
+        "gifts",
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "cozy"
+      ],
+      "recipients": [
+        "best-friend",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
       "rooms": [],
-      "colours": ["blush-pink"],
-      "themes": ["characters"],
-      "tags": ["plush", "pusheen", "hello-kitty", "crossover"],
-      "art": { "emoji": "🎀", "bg": "blush" }
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "plush",
+        "pusheen",
+        "hello-kitty",
+        "crossover"
+      ],
+      "art": {
+        "emoji": "🎀",
+        "bg": "blush"
+      }
     },
     {
       "asin": "B0BCJ5HZF7",
@@ -135,16 +312,45 @@
       "blurb": "Sixteen inches of marshmallow-soft cow. The kind of plush that gets adopted the second it enters a room.",
       "brand": "squishmallow",
       "priceBand": "25-50",
-      "pillars": ["aesthetics", "gifts"],
-      "aesthetics": ["kawaii"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["best-friend", "kids", "self-treat"],
-      "occasions": ["birthday", "just-because"],
-      "rooms": ["bedroom"],
-      "colours": ["cream"],
-      "themes": ["animals"],
-      "tags": ["plush", "squishmallow", "cow", "large"],
-      "art": { "emoji": "🐮", "bg": "cream" }
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "best-friend",
+        "kids",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "squishmallow",
+        "cow",
+        "large"
+      ],
+      "art": {
+        "emoji": "🐮",
+        "bg": "cream"
+      }
     },
     {
       "asin": "B091Q5P1W5",
@@ -153,16 +359,44 @@
       "blurb": "A giant huggable grey cat with a permanently content face. Peak sofa-companion energy.",
       "brand": "squishmallow",
       "priceBand": "25-50",
-      "pillars": ["aesthetics", "gifts"],
-      "aesthetics": ["kawaii"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["best-friend", "kids", "self-treat"],
-      "occasions": ["birthday", "just-because"],
-      "rooms": ["bedroom", "living-room"],
+      "pillars": [
+        "aesthetics",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "best-friend",
+        "kids",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
       "colours": [],
-      "themes": ["animals"],
-      "tags": ["plush", "squishmallow", "cat", "large"],
-      "art": { "emoji": "🐱", "bg": "lilac" }
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "squishmallow",
+        "cat",
+        "large"
+      ],
+      "art": {
+        "emoji": "🐱",
+        "bg": "lilac"
+      }
     },
     {
       "asin": "B00B5FEBEA",
@@ -171,16 +405,44 @@
       "blurb": "Impossibly soft, quietly smug. The Jellycat bear that starts a whole shelf of them — heirloom-grade cuddle.",
       "brand": "jellycat",
       "priceBand": "25-50",
-      "pillars": ["gifts"],
-      "aesthetics": ["kawaii"],
-      "moods": ["cozy", "calming"],
-      "recipients": ["best-friend", "kids"],
-      "occasions": ["birthday", "housewarming", "just-because"],
-      "rooms": ["bedroom"],
-      "colours": ["cream"],
-      "themes": ["animals"],
-      "tags": ["plush", "jellycat", "bear", "gift"],
-      "art": { "emoji": "🧸", "bg": "peach" }
+      "pillars": [
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "best-friend",
+        "kids"
+      ],
+      "occasions": [
+        "birthday",
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "jellycat",
+        "bear",
+        "gift"
+      ],
+      "art": {
+        "emoji": "🧸",
+        "bg": "peach"
+      }
     },
     {
       "asin": "B0077KQ30C",
@@ -189,16 +451,45 @@
       "blurb": "The iconic Dick Bruna bunny as a big, soft glowing lamp. Turns any corner into a calm, cute night-light nook.",
       "brand": "miffy",
       "priceBand": "over-100",
-      "pillars": ["home-decor"],
-      "aesthetics": ["kawaii", "pastel-minimal"],
-      "moods": ["calming", "cozy"],
-      "recipients": ["self-treat", "best-friend"],
-      "occasions": ["housewarming", "just-because"],
-      "rooms": ["bedroom", "living-room"],
-      "colours": ["white"],
-      "themes": ["characters"],
-      "tags": ["lamp", "miffy", "lighting", "night-light"],
-      "art": { "emoji": "🐰", "bg": "cream" }
+      "pillars": [
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "cozy"
+      ],
+      "recipients": [
+        "self-treat",
+        "best-friend"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "white"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "lamp",
+        "miffy",
+        "lighting",
+        "night-light"
+      ],
+      "art": {
+        "emoji": "🐰",
+        "bg": "cream"
+      }
     },
     {
       "asin": "B078HTR1FG",
@@ -207,16 +498,44 @@
       "blurb": "A softly glowing Miffy for the bedside — the favourite bunny as a gentle, dimmable night-light.",
       "brand": "miffy",
       "priceBand": "25-50",
-      "pillars": ["home-decor"],
-      "aesthetics": ["kawaii", "pastel-minimal"],
-      "moods": ["calming", "cozy"],
-      "recipients": ["self-treat", "kids"],
-      "occasions": ["housewarming", "just-because"],
-      "rooms": ["bedroom"],
-      "colours": ["peach"],
-      "themes": ["characters"],
-      "tags": ["lamp", "miffy", "lighting", "night-light"],
-      "art": { "emoji": "🐰", "bg": "peach" }
+      "pillars": [
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "cozy"
+      ],
+      "recipients": [
+        "self-treat",
+        "kids"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "peach"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "lamp",
+        "miffy",
+        "lighting",
+        "night-light"
+      ],
+      "art": {
+        "emoji": "🐰",
+        "bg": "peach"
+      }
     },
     {
       "asin": "B0BTY3RZJX",
@@ -225,16 +544,43 @@
       "blurb": "A five-piece pen-holder set of tiny cats mid-boogie. Emotional support stationery for the 9-to-5.",
       "brand": "generic",
       "priceBand": "under-25",
-      "pillars": ["desk-workspace", "gifts"],
-      "aesthetics": ["kawaii"],
-      "moods": ["playful"],
-      "recipients": ["coworker", "self-treat"],
-      "occasions": ["new-job", "just-because"],
-      "rooms": ["home-office"],
-      "colours": ["multi"],
-      "themes": ["animals"],
-      "tags": ["desk-accessory", "pen-holder", "cat", "set"],
-      "art": { "emoji": "🐈", "bg": "lilac" }
+      "pillars": [
+        "desk-workspace",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "desk-accessory",
+        "pen-holder",
+        "cat",
+        "set"
+      ],
+      "art": {
+        "emoji": "🐈",
+        "bg": "lilac"
+      }
     },
     {
       "asin": "B07TNYXXKL",
@@ -243,16 +589,45 @@
       "blurb": "The original icon in soft, squeezable form. A Hello Kitty plush that works as a gift for basically anyone.",
       "brand": "sanrio",
       "priceBand": "under-25",
-      "pillars": ["gifts"],
-      "aesthetics": ["kawaii", "coquette"],
-      "moods": ["cozy", "playful"],
-      "recipients": ["best-friend", "kids", "teens"],
-      "occasions": ["birthday", "just-because"],
-      "rooms": ["bedroom"],
-      "colours": ["blush-pink"],
-      "themes": ["characters"],
-      "tags": ["plush", "hello-kitty", "sanrio", "gift"],
-      "art": { "emoji": "🎀", "bg": "blush" }
+      "pillars": [
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "cozy",
+        "playful"
+      ],
+      "recipients": [
+        "best-friend",
+        "kids",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "plush",
+        "hello-kitty",
+        "sanrio",
+        "gift"
+      ],
+      "art": {
+        "emoji": "🎀",
+        "bg": "blush"
+      }
     },
     {
       "asin": "B083FML29C",
@@ -261,16 +636,2419 @@
       "blurb": "Sanrio's pink-hooded sweetheart in soft plush form. Coquette-core comfort with a permanent gentle smile.",
       "brand": "sanrio",
       "priceBand": "under-25",
-      "pillars": ["gifts"],
-      "aesthetics": ["kawaii", "coquette"],
-      "moods": ["cozy", "romantic"],
-      "recipients": ["best-friend", "teens"],
-      "occasions": ["birthday", "valentines", "just-because"],
-      "rooms": ["bedroom"],
-      "colours": ["blush-pink"],
-      "themes": ["characters", "hearts"],
-      "tags": ["plush", "my-melody", "sanrio", "gift"],
-      "art": { "emoji": "🌸", "bg": "blush" }
+      "pillars": [
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "coquette"
+      ],
+      "moods": [
+        "cozy",
+        "romantic"
+      ],
+      "recipients": [
+        "best-friend",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "valentines",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "characters",
+        "hearts"
+      ],
+      "tags": [
+        "plush",
+        "my-melody",
+        "sanrio",
+        "gift"
+      ],
+      "art": {
+        "emoji": "🌸",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0B5GNTNZN",
+      "name": "GUND Sanrio Kuromi Plush 9.5\"",
+      "blurb": "The self-proclaimed troublemaker in huggable form: nine and a half inches of jester-hatted mischief who is secretly a total softie once you squeeze her.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "gifts",
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "y2k",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "lilac",
+        "white"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "plush",
+        "kuromi",
+        "gund"
+      ],
+      "art": {
+        "emoji": "😈",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0B786L7K4",
+      "name": "GUND Sanrio Cinnamoroll Plush 6\"",
+      "blurb": "A cloud-white puppy with ears big enough to fly and cheeks pink enough to melt you. Pocket-sized proof that soft things fix hard days.",
+      "brand": "sanrio",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "white",
+        "blush-pink"
+      ],
+      "themes": [
+        "characters",
+        "celestial"
+      ],
+      "tags": [
+        "plush",
+        "cinnamoroll",
+        "gund"
+      ],
+      "art": {
+        "emoji": "☁️",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0C82YVCK2",
+      "name": "Squishmallows Sanrio Cinnamoroll 14\"",
+      "blurb": "Fourteen inches of marshmallow-soft Cinnamoroll in a cozy argyle sweater, built for face-plant naps and starring roles in your bed's pillow pile.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "gifts",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "for-her",
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "christmas",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "white",
+        "cream"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "plush",
+        "cinnamoroll",
+        "squishmallow"
+      ],
+      "art": {
+        "emoji": "☁️",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CSYLLRTH",
+      "name": "GUND Sanrio Pompompurin Ice Cream Plush 6\"",
+      "blurb": "A golden pudding pup dressed head-to-toe as a sundae, waffle-cone pants and all. Zero calories, maximum cheer, permanently in a good mood.",
+      "brand": "sanrio",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "retro-cute",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "kids",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "gold",
+        "cream"
+      ],
+      "themes": [
+        "characters",
+        "food-drink"
+      ],
+      "tags": [
+        "plush",
+        "pompompurin",
+        "gund"
+      ],
+      "art": {
+        "emoji": "🍮",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0DV9TDSPH",
+      "name": "Sanrio My Melody Sakura Plush",
+      "blurb": "My Melody swaps her classic hood for cherry-blossom season, all petal-pink and impossibly sweet. Springtime you can keep on the shelf year-round.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "gifts",
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "cottagecore",
+        "coquette"
+      ],
+      "moods": [
+        "romantic",
+        "calming"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "valentines",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "blush-pink",
+        "white"
+      ],
+      "themes": [
+        "characters",
+        "florals"
+      ],
+      "tags": [
+        "plush",
+        "my-melody",
+        "sanrio"
+      ],
+      "art": {
+        "emoji": "🌸",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B083FMQ1BX",
+      "name": "GUND Sanrio Keroppi Plush 6\"",
+      "blurb": "The cheeriest frog on the pond, striped shirt pressed and one hand raised for a permanent hello. Big eyes, bigger optimism.",
+      "brand": "sanrio",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "retro-cute",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "for-her",
+        "kids",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "mint",
+        "white"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "keroppi",
+        "gund"
+      ],
+      "art": {
+        "emoji": "🐸",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0DBLR4PXT",
+      "name": "GUND Sanrio Bad Badtz-Maru Plush 6\"",
+      "blurb": "A spiky-haired penguin with a permanent side-eye and zero patience for small talk. The grumpy little icon your desk has been missing.",
+      "brand": "sanrio",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "y2k",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "for-him",
+        "teens",
+        "coworker"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because",
+        "new-job"
+      ],
+      "rooms": [
+        "home-office",
+        "bedroom"
+      ],
+      "colours": [
+        "white",
+        "gold"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "plush",
+        "badtz-maru",
+        "gund"
+      ],
+      "art": {
+        "emoji": "🐧",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B073YLF9Z8",
+      "name": "GUND Gudetama The Lazy Egg Plush 17\"",
+      "blurb": "Seventeen inches of the world's most relatable egg, sprawled out and completely done with today. A mood, a mascot, and a very good pillow.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "gifts",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "for-him",
+        "teens",
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "gold",
+        "cream"
+      ],
+      "themes": [
+        "characters",
+        "food-drink"
+      ],
+      "tags": [
+        "plush",
+        "gudetama",
+        "gund"
+      ],
+      "art": {
+        "emoji": "🥚",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CW9Z66JN",
+      "name": "Ukonic Sanrio Hello Kitty Glitter Motion Mood Light",
+      "blurb": "A foot-tall lamp where Hello Kitty floats in a swirl of drifting glitter, casting soft light and softer vibes across your nightstand.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor",
+        "desk-workspace",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "y2k",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "for-her",
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "housewarming",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink",
+        "white"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "lamp",
+        "mood-light",
+        "hello-kitty"
+      ],
+      "art": {
+        "emoji": "✨",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CYDNSCXJ",
+      "name": "Silver Buffalo Sanrio Kuromi Neon LED Lamp",
+      "blurb": "Kuromi glows up in retro neon, throwing moody pink light for late-night scrolling and main-character energy. Batteries in, attitude on.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor",
+        "desk-workspace",
+        "gifts"
+      ],
+      "aesthetics": [
+        "y2k",
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "teens",
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "lilac",
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "lamp",
+        "neon-light",
+        "kuromi"
+      ],
+      "art": {
+        "emoji": "💡",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CT6LKL2H",
+      "name": "Hello Kitty and Friends Mystery Blind Box (Series 1)",
+      "blurb": "Twelve two-inch friends to collect and exactly one surprise per box. Kuromi, Cinnamoroll, Keroppi and the whole gang, sealed until you rip in.",
+      "brand": "sanrio",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "gifts",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "kids",
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because",
+        "christmas"
+      ],
+      "rooms": [
+        "home-office",
+        "bedroom"
+      ],
+      "colours": [
+        "multi",
+        "blush-pink"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "figure",
+        "hello-kitty"
+      ],
+      "art": {
+        "emoji": "🎁",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FVGGGNMJ",
+      "name": "Northwest Sanrio Badtz-Maru Cloud Pillow 12\"",
+      "blurb": "Badtz-Maru's deadpan face embroidered on a velvety black cloud, ready to judge your couch quietly and comfortably. Grumpy never looked so plush.",
+      "brand": "sanrio",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "y2k",
+        "retro-cute"
+      ],
+      "moods": [
+        "cozy",
+        "playful"
+      ],
+      "recipients": [
+        "for-him",
+        "teens",
+        "coworker"
+      ],
+      "occasions": [
+        "housewarming",
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "white",
+        "gold"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "pillow",
+        "badtz-maru",
+        "home"
+      ],
+      "art": {
+        "emoji": "🐧",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CNDHMJKK",
+      "name": "Sanrio Hello Kitty Unicorn Figural Mood Light 6\"",
+      "blurb": "Hello Kitty dressed as a pastel unicorn, glowing softly and portable enough to follow you room to room. Pure bedside whimsy on a cord-free budget.",
+      "brand": "sanrio",
+      "priceBand": "under-25",
+      "pillars": [
+        "home-decor",
+        "gifts",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "kids",
+        "teens",
+        "for-her"
+      ],
+      "occasions": [
+        "birthday",
+        "christmas",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink",
+        "lilac"
+      ],
+      "themes": [
+        "characters",
+        "celestial"
+      ],
+      "tags": [
+        "lamp",
+        "night-light",
+        "hello-kitty"
+      ],
+      "art": {
+        "emoji": "🦄",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0F8HPG6YG",
+      "name": "POP MART The Monsters Wacky Mart Series Blind Box",
+      "blurb": "A tiny convenience-store world where The Monsters run the aisles, and each sealed box hides one mischievous mini figure, so you never know which shelf-stocking oddball you'll unbox.",
+      "brand": "pop-mart",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🛒",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FGXWJML3",
+      "name": "POP MART Nyota I Am The Seasons Series Blind Box",
+      "blurb": "Nyota drifts through spring, summer, autumn and winter in this surprise series, so crack a box and let the seasons decide which dreamy little figure lands on your shelf.",
+      "brand": "pop-mart",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "whimsical"
+      ],
+      "recipients": [
+        "for-her",
+        "teens"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters",
+        "celestial"
+      ],
+      "tags": [
+        "blind-box",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🌸",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0DQTV46LB",
+      "name": "POP MART Peach Riot Rush Hour Series Blind Box",
+      "blurb": "Rebel-girl energy in miniature: the Peach Riot crew comes packed with attitude, and every blind box drops one random rush-hour heroine ready to riot on your desk.",
+      "brand": "pop-mart",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "y2k",
+        "retro-cute"
+      ],
+      "moods": [
+        "energising"
+      ],
+      "recipients": [
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "figure"
+      ],
+      "art": {
+        "emoji": "✊",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0DT44TSM2",
+      "name": "POP MART Labubu The Monsters Big Into Energy Plush Pendant Blind Box",
+      "blurb": "The internet's favorite snaggle-toothed gremlin, shrunk into a tie-dye plush pendant that clips to any bag, with one random Labubu per box and a secret to chase.",
+      "brand": "pop-mart",
+      "priceBand": "25-50",
+      "pillars": [
+        "collectibles",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "y2k"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday"
+      ],
+      "rooms": [],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "bag-charm",
+        "plush"
+      ],
+      "art": {
+        "emoji": "🧌",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0F7QV3FVP",
+      "name": "POP MART Care Bears Colorful Hugs Series (Whole Set)",
+      "blurb": "The whole rainbow of Colorful Hugs in one set: Pop Mart reimagines the classic cuddly bears as glossy collectible minis made for group hugs across your shelf.",
+      "brand": "pop-mart",
+      "priceBand": "50-100",
+      "pillars": [
+        "collectibles",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "retro-cute",
+        "kawaii"
+      ],
+      "moods": [
+        "cozy"
+      ],
+      "recipients": [
+        "best-friend",
+        "for-her"
+      ],
+      "occasions": [
+        "birthday"
+      ],
+      "rooms": [
+        "living-room"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters",
+        "hearts"
+      ],
+      "tags": [
+        "figure",
+        "whole-set"
+      ],
+      "art": {
+        "emoji": "🧸",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CSZ75KSS",
+      "name": "Smiski Moving Series Glow-in-the-Dark Blind Box",
+      "blurb": "Shy little glow-in-the-dark creatures caught mid-stretch and mid-shuffle: tuck one on a shelf and watch it quietly light up your room after dark.",
+      "brand": "smiski",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming"
+      ],
+      "recipients": [
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "glow-in-the-dark",
+        "figure"
+      ],
+      "art": {
+        "emoji": "👻",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FRSZB73F",
+      "name": "Smiski Birthday Series Glow-in-the-Dark Blind Box",
+      "blurb": "The bashful glow-in-the-dark Smiski throw themselves a party, and each blind box hides one cake-toting, party-hat-wearing figure to celebrate on your desk.",
+      "brand": "smiski",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "birthday"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "glow-in-the-dark",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🎂",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CLVKCW84",
+      "name": "Smiski Museum Series Glow-in-the-Dark Blind Box",
+      "blurb": "Smiski go highbrow, posing as tiny gallery-goers and art pieces: a quietly witty glow-in-the-dark surprise for anyone who loves a little museum-day whimsy.",
+      "brand": "smiski",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "glow-in-the-dark",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🖼️",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FJRRXPRM",
+      "name": "Sonny Angel Snack Series Blind Box",
+      "blurb": "Diner-food cravings in cherub form: each sealed box hides one Sonny Angel crowned with a burger, fries or milkshake, ready to guard your desk and make you smile.",
+      "brand": "sonny-angel",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "peach"
+      ],
+      "themes": [
+        "food-drink",
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🍔",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FBT8RP6L",
+      "name": "Sonny Angel I Love Rainy Day Series Blind Box",
+      "blurb": "Cozy grey-sky charm in a box: the I Love Rainy Day Sonny Angels come bundled in raincoats and umbrellas, a soft little pick-me-up for gloomy afternoons.",
+      "brand": "sonny-angel",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles"
+      ],
+      "aesthetics": [
+        "dreamy-cloud",
+        "kawaii"
+      ],
+      "moods": [
+        "calming"
+      ],
+      "recipients": [
+        "for-her",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "lilac"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🌧️",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0D4QWBLMG",
+      "name": "Sonny Angel HIPPERS Looking Back Series Blind Box",
+      "blurb": "The lounging Hippers Sonny Angels perch on shelf edges glancing back over one shoulder, with one random reclining cherub per box to peer down at you all day.",
+      "brand": "sonny-angel",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "coworker"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "blind-box",
+        "shelf-sitter",
+        "figure"
+      ],
+      "art": {
+        "emoji": "😌",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FX31CGGZ",
+      "name": "MINISO Disney Zootopia Soft Vinyl Plush Blind Box",
+      "blurb": "Judy, Nick and the Zootopia crew reborn as soft-vinyl plush surprises: pop a box and meet one random citizen of the animal city, half toy and half display piece.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "retro-cute"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "kids",
+        "teens"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters",
+        "animals"
+      ],
+      "tags": [
+        "blind-box",
+        "plush"
+      ],
+      "art": {
+        "emoji": "🦊",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0G1LTGCXB",
+      "name": "MINISO Care Bears Healing Planet Series Blind Box",
+      "blurb": "Care Bears go cosmic in glossy soft vinyl, and each mystery box hides one comforting bear from the Healing Planet, a pastel dose of calm for your desk.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "retro-cute",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "cozy"
+      ],
+      "recipients": [
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters",
+        "hearts"
+      ],
+      "tags": [
+        "blind-box",
+        "figure"
+      ],
+      "art": {
+        "emoji": "🌈",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0G6G2T9MZ",
+      "name": "Care Bears Blind Box Figures 8 Pack Deluxe",
+      "blurb": "A deluxe box of eight mini Care Bears with two rare hidden bears tucked inside: a nostalgic rainbow of Funshine, Grumpy and friends across 26 collectible styles.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "collectibles",
+        "gifts"
+      ],
+      "aesthetics": [
+        "retro-cute",
+        "kawaii"
+      ],
+      "moods": [
+        "playful"
+      ],
+      "recipients": [
+        "kids",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters",
+        "hearts"
+      ],
+      "tags": [
+        "blind-box",
+        "figure",
+        "multipack"
+      ],
+      "art": {
+        "emoji": "🧸",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CD7P1WFL",
+      "name": "SOONHUA Cute Anime Character LED Night Light",
+      "blurb": "A palm-sized anime buddy that glows soft and warm on your nightstand, rechargeable so there are no cords to hide and no batteries to swap.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "home-decor",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "calming",
+        "cozy"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "just-because",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "lighting",
+        "night-light",
+        "rechargeable"
+      ],
+      "art": {
+        "emoji": "🌙",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0C4X51R7D",
+      "name": "L LOHAS Squishy Duck LED Night Light",
+      "blurb": "A squishable silicone duckling that shifts through 16 colors by remote, equal parts desk toy and dimmable bedtime glow.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "calming"
+      ],
+      "recipients": [
+        "self-treat",
+        "kids"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "lighting",
+        "night-light",
+        "color-changing"
+      ],
+      "art": {
+        "emoji": "🦆",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CYY5MDYF",
+      "name": "cozifycasa Tomato Bedside Table Lamp",
+      "blurb": "A plump little tomato that doubles as a lamp, bringing funky retro-kitchen charm to a shelf, desk, or bedside without trying too hard.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor"
+      ],
+      "aesthetics": [
+        "retro-cute",
+        "cottagecore"
+      ],
+      "moods": [
+        "cozy",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "for-her"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "food-drink"
+      ],
+      "tags": [
+        "lighting",
+        "table-lamp",
+        "fruit"
+      ],
+      "art": {
+        "emoji": "🍅",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B08NJD3PZH",
+      "name": "Onemore Mushroom Fairy String Lights",
+      "blurb": "Thirty tiny glowing mushrooms on a slim wire, USB or battery, for draping over a headboard and turning a plain wall into cottagecore twinkle.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "home-decor",
+        "aesthetics"
+      ],
+      "aesthetics": [
+        "cottagecore",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "cozy",
+        "whimsical"
+      ],
+      "recipients": [
+        "self-treat",
+        "teens"
+      ],
+      "occasions": [
+        "housewarming",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "florals"
+      ],
+      "tags": [
+        "lighting",
+        "string-lights",
+        "fairy-lights"
+      ],
+      "art": {
+        "emoji": "🍄",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FHGT2KTB",
+      "name": "Kawaii Cats Throw Pillow Covers, Set of 2",
+      "blurb": "A pair of cartoon-cat covers that swap onto your existing pillows in seconds, an easy way to sprinkle some feline cuteness across a sofa or bed.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "teens",
+        "kids"
+      ],
+      "occasions": [
+        "just-because",
+        "housewarming"
+      ],
+      "rooms": [
+        "living-room",
+        "bedroom"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "textiles",
+        "pillow-cover",
+        "cushion"
+      ],
+      "art": {
+        "emoji": "🐱",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0F63PV99N",
+      "name": "Kawaii Cat Kitten Pillow Covers, 22 inch Set of 2",
+      "blurb": "Big 22-inch double-sided kitty cushion covers in soft blue, roomy enough to actually lean on while making the whole couch read a little sweeter.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "cozy",
+        "playful"
+      ],
+      "recipients": [
+        "for-her",
+        "best-friend"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "living-room",
+        "bedroom"
+      ],
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "textiles",
+        "pillow-cover",
+        "cushion"
+      ],
+      "art": {
+        "emoji": "🐈",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B08C73C5RS",
+      "name": "Light Pink Fluffy Shag Area Rug, 4x6",
+      "blurb": "A cloud-soft blush shag underfoot that instantly warms up a bedroom or reading nook, the kind of plush you want bare toes on every morning.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor"
+      ],
+      "aesthetics": [
+        "pastel-minimal",
+        "coquette"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "for-her",
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "living-room"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "florals"
+      ],
+      "tags": [
+        "textiles",
+        "rug",
+        "shag"
+      ],
+      "art": {
+        "emoji": "🩷",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B09V6FK36L",
+      "name": "Cute Cat Ceramic Mug with Cat-Shaped Lid",
+      "blurb": "A round-cheeked cat mug topped with a matching kitty lid that keeps your tea warm, a quietly charming upgrade to the morning coffee routine.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "home-decor",
+        "gifts"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "playful"
+      ],
+      "recipients": [
+        "best-friend",
+        "coworker",
+        "for-her"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "kitchen"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "kitchen",
+        "mug",
+        "ceramic"
+      ],
+      "art": {
+        "emoji": "🐾",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B09S2RQWHF",
+      "name": "Yalucky 3D Duck Ceramic Mug with Spoon & Lid",
+      "blurb": "A cheerful yellow duck sculpted right onto the cup, arriving with a matching spoon and lid to make even instant coffee feel like a treat.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "best-friend",
+        "coworker",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "christmas"
+      ],
+      "rooms": [
+        "kitchen"
+      ],
+      "colours": [
+        "gold"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "kitchen",
+        "mug",
+        "ceramic"
+      ],
+      "art": {
+        "emoji": "🐤",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0B9R835K6",
+      "name": "GENSTEUO Danish Pastel Wall Art, Set of 9",
+      "blurb": "Nine printed pastel posters plus sticky dots, a low-commitment way to build a squishy, colorful gallery wall over a bed or desk.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "home-decor",
+        "aesthetics"
+      ],
+      "aesthetics": [
+        "danish-pastel",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful",
+        "calming"
+      ],
+      "recipients": [
+        "teens",
+        "for-her",
+        "self-treat"
+      ],
+      "occasions": [
+        "housewarming",
+        "just-because"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "lilac"
+      ],
+      "themes": [
+        "florals",
+        "hearts"
+      ],
+      "tags": [
+        "wall-art",
+        "posters",
+        "collage"
+      ],
+      "art": {
+        "emoji": "🖼️",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0FCC1D5F8",
+      "name": "HLEYL Meditation Mushroom Resin Figurine",
+      "blurb": "A tiny mushroom caught mid-yoga-pose, a hand-painted little zen character to perch on a shelf or monitor stand and make you smile mid-scroll.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "collectibles",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "cottagecore",
+        "kawaii"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "coworker",
+        "best-friend",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office",
+        "living-room"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "florals"
+      ],
+      "tags": [
+        "figurine",
+        "shelf-decor",
+        "resin"
+      ],
+      "art": {
+        "emoji": "🍄",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B092LPD9BC",
+      "name": "POPRUN Pink Kawaii Spinning Pen & Pencil Organizer Caddy",
+      "blurb": "A 360-spinning pink carousel that keeps every pen, marker and highlighter within a lazy flick of the wrist. Peak desk-goblin efficiency, zero reaching.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful",
+        "energising"
+      ],
+      "recipients": [
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [],
+      "tags": [
+        "pen-holder",
+        "organizer",
+        "stationery"
+      ],
+      "art": {
+        "emoji": "✏️",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0C14VBRM6",
+      "name": "Koiswim Kawaii Stationery Gift Set",
+      "blurb": "Gel pens, a journal, stickers, badges and sticky notes bundled into one impossibly cute care package. The stationery starter pack of somebody's dreams.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "teens",
+        "best-friend"
+      ],
+      "occasions": [
+        "birthday",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "characters"
+      ],
+      "tags": [
+        "stationery",
+        "gift-set",
+        "pens"
+      ],
+      "art": {
+        "emoji": "🖊️",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0B63ZMJ73",
+      "name": "Kawaii PU Journal & Washi Tape Pen Set",
+      "blurb": "A soft faux-leather journal that arrives with washi tape and a pen already in tow, so the only excuse left is actually writing something in it.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "gifts",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "cottagecore"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "teens",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because",
+        "birthday"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "florals"
+      ],
+      "tags": [
+        "notebook",
+        "journal",
+        "washi-tape"
+      ],
+      "art": {
+        "emoji": "📓",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0C42QST57",
+      "name": "Pink Kawaii Cat Keyboard & Mouse Wrist Rest Set (2 Pc)",
+      "blurb": "A matching pink cat duo that cushions both keyboard and mouse hand, turning the daily grind into something your wrists actually forgive you for.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "playful"
+      ],
+      "recipients": [
+        "for-her",
+        "coworker"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "wrist-rest",
+        "mouse-pad",
+        "cat"
+      ],
+      "art": {
+        "emoji": "🐱",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0DKP2M2T9",
+      "name": "Cat Paw Pink Gel Mouse Wrist Rest",
+      "blurb": "A squishy translucent jelly paw that props up your mouse hand all day. Equal parts ergonomic support and desktop serotonin.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "calming"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "wrist-rest",
+        "cat",
+        "gel"
+      ],
+      "art": {
+        "emoji": "🐾",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0BKP3LFLC",
+      "name": "Pink Cat XXL Kawaii Desk Mat",
+      "blurb": "A 35-inch pink cat runway for your keyboard, mouse and snack of choice. Instantly makes the whole setup look intentional.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "calming",
+        "playful"
+      ],
+      "recipients": [
+        "for-her",
+        "teens"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "desk-mat",
+        "mouse-pad",
+        "cat"
+      ],
+      "art": {
+        "emoji": "🐈",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0DCNG57LT",
+      "name": "Kawaii Cloud XL Gaming Mouse Pad",
+      "blurb": "Pink, purple and gold clouds stretched across an XL mat, so every scroll feels like floating through a very aesthetic sky.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "dreamy-cloud",
+        "kawaii"
+      ],
+      "moods": [
+        "calming",
+        "whimsical"
+      ],
+      "recipients": [
+        "for-her",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "lilac"
+      ],
+      "themes": [
+        "celestial"
+      ],
+      "tags": [
+        "mouse-pad",
+        "desk-mat",
+        "clouds"
+      ],
+      "art": {
+        "emoji": "☁️",
+        "bg": "lilac"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B09QJ46BWL",
+      "name": "JHTPSLR Rabbit Foldable Kawaii Desk Lamp",
+      "blurb": "A gradient-glowing bunny with bendy ears that folds flat and recharges over USB. Bedside night-light energy that moonlights as a reading lamp.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "kids",
+        "teens"
+      ],
+      "occasions": [
+        "birthday",
+        "christmas"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "lamp",
+        "night-light",
+        "rabbit"
+      ],
+      "art": {
+        "emoji": "🐰",
+        "bg": "peach"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0B6GD2ZYR",
+      "name": "Cartoon Cat Foldable Kawaii Desk Lamp",
+      "blurb": "A rechargeable kitty lamp that folds up small and lights up the homework grind. More vibes than lumens, and honestly that's the point.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "cozy",
+        "calming"
+      ],
+      "recipients": [
+        "teens",
+        "kids"
+      ],
+      "occasions": [
+        "new-job",
+        "birthday"
+      ],
+      "rooms": [
+        "home-office",
+        "bedroom"
+      ],
+      "colours": [
+        "blush-pink"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "lamp",
+        "cat",
+        "rechargeable"
+      ],
+      "art": {
+        "emoji": "🐱",
+        "bg": "blush"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B0CKXTMQ5Y",
+      "name": "Myratts Squishy Bunny LED Lamp",
+      "blurb": "A super-squishy silicone bunny that glows, holds your phone and runs on a timer. The desk companion you'll want to poke between emails.",
+      "brand": "generic",
+      "priceBand": "25-50",
+      "pillars": [
+        "home-decor",
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "dreamy-cloud"
+      ],
+      "moods": [
+        "calming",
+        "cozy"
+      ],
+      "recipients": [
+        "for-her",
+        "kids"
+      ],
+      "occasions": [
+        "christmas",
+        "birthday"
+      ],
+      "rooms": [
+        "bedroom",
+        "home-office"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "lamp",
+        "night-light",
+        "bunny"
+      ],
+      "art": {
+        "emoji": "🐰",
+        "bg": "cream"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B085HB3WQ3",
+      "name": "Viaky Bunny Silicone Cable Clips (12 Pk)",
+      "blurb": "Twelve tiny rabbits that grip your stray charging cords and never let a cable slither behind the desk again. Cute cable custody, essentially.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii"
+      ],
+      "moods": [
+        "playful",
+        "calming"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "multi"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "cable-organizer",
+        "cord-clip",
+        "bunny"
+      ],
+      "art": {
+        "emoji": "🐇",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B09ZGYWP38",
+      "name": "COOCAT Pea Pod Cable Clips (3 Pk)",
+      "blurb": "Little green pea pods that snap onto your desk edge and hold cables hostage in the most wholesome way. Vegetables have never been this useful.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace"
+      ],
+      "aesthetics": [
+        "kawaii",
+        "pastel-minimal"
+      ],
+      "moods": [
+        "playful",
+        "whimsical"
+      ],
+      "recipients": [
+        "coworker",
+        "self-treat"
+      ],
+      "occasions": [
+        "just-because",
+        "new-job"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "mint"
+      ],
+      "themes": [
+        "food-drink"
+      ],
+      "tags": [
+        "cable-organizer",
+        "cord-holder",
+        "pea"
+      ],
+      "art": {
+        "emoji": "🫛",
+        "bg": "mint"
+      }
+    },
+    {
+      "status": "ready",
+      "asin": "B08ZMZ117B",
+      "name": "Vintage Wooden Cat Tape Dispenser",
+      "blurb": "A little wooden kitty that guards your tape roll like it's treasure. Retro-cute desk decor that happens to do an actual job.",
+      "brand": "generic",
+      "priceBand": "under-25",
+      "pillars": [
+        "desk-workspace",
+        "home-decor"
+      ],
+      "aesthetics": [
+        "retro-cute",
+        "kawaii"
+      ],
+      "moods": [
+        "whimsical",
+        "playful"
+      ],
+      "recipients": [
+        "coworker",
+        "best-friend"
+      ],
+      "occasions": [
+        "new-job",
+        "just-because"
+      ],
+      "rooms": [
+        "home-office"
+      ],
+      "colours": [
+        "cream"
+      ],
+      "themes": [
+        "animals"
+      ],
+      "tags": [
+        "tape-dispenser",
+        "cat",
+        "wooden"
+      ],
+      "art": {
+        "emoji": "🐈",
+        "bg": "cream"
+      }
     }
   ]
 }

@@ -398,6 +398,18 @@
       "slug": "generic",
       "name": "Independent makers",
       "collectible": false
+    },
+    {
+      "slug": "pusheen",
+      "name": "Pusheen",
+      "collectible": false,
+      "blurb": "The chubby grey tabby of the internet — snacks, naps and endless soft merch."
+    },
+    {
+      "slug": "squishmallow",
+      "name": "Squishmallow",
+      "collectible": true,
+      "blurb": "Marshmallow-soft plush in every character imaginable — collectible, squishy, impossible to own just one."
     }
   ]
 }

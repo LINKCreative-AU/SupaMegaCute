@@ -5,13 +5,13 @@
     "relAffiliate": "sponsored nofollow noopener",
     "relDirect": "nofollow noopener",
     "target": "_blank",
-    "utm": { "utm_source": "supermegacute", "utm_medium": "referral" }
+    "utm": { "utm_source": "supamegacute", "utm_medium": "referral" }
   },
   "merchants": {
     "amazon": {
       "name": "Amazon",
       "network": "amazon-associates",
-      "affiliateId": null,
+      "affiliateId": "supamegacute-20",
       "linkTemplate": "https://www.amazon.com/dp/{ref}?tag={affiliateId}",
       "directTemplate": "https://www.amazon.com/dp/{ref}",
       "notes": "ref = ASIN. affiliateId pending Associates approval (needs 3 qualifying sales). Use OneLink for geo-routing later."

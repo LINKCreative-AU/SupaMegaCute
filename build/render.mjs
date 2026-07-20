@@ -70,23 +70,47 @@ export function related(g, product, limit = 4) {
     .map((x) => x.p);
 }
 
+const addParams = (url, pairs) => {
+  const qs = pairs.filter(Boolean).join("&");
+  if (!qs) return url;
+  return url + (url.includes("?") ? "&" : "?") + qs;
+};
+
+// Resolve a product's outbound link. Priority: (1) the merchant's own direct
+// affiliate program if its affiliateId is set; (2) the aggregator wrap if a
+// publisherId is set and the merchant isn't excluded; (3) a plain direct link.
+// Marketplace merchants (amazon/etsy/ebay) carry a full linkTemplate and are
+// handled separately from the boutique-store merchants.
 export function affiliateLink(g, product) {
   const m = g.merchants.merchants[product.merchant];
   if (!m) return null;
-  const affiliate = Boolean(m.affiliateId);
-  let url = (affiliate ? m.linkTemplate : m.directTemplate)
-    .replace("{ref}", product.merchantRef)
-    .replace("{affiliateId}", m.affiliateId);
-  const utm = g.merchants.defaults.utm;
-  if (utm && !url.includes("awin1.com")) {
-    const qs = Object.entries(utm).map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join("&");
-    url += (url.includes("?") ? "&" : "?") + qs;
+  const d = g.merchants.defaults;
+  const agg = d.aggregator || {};
+  const utmPairs = Object.entries(d.utm || {}).map(([k, v]) => `${k}=${encodeURIComponent(v)}`);
+
+  // Marketplace merchants: full-template model.
+  if (m.linkTemplate) {
+    const affiliate = Boolean(m.affiliateId);
+    const url = (affiliate ? m.linkTemplate : m.directTemplate)
+      .replace("{ref}", product.merchantRef)
+      .replace("{affiliateId}", m.affiliateId || "");
+    return { url, merchantName: m.name, rel: affiliate ? d.relAffiliate : d.relDirect };
   }
-  return {
-    url,
-    merchantName: m.name,
-    rel: affiliate ? g.merchants.defaults.relAffiliate : g.merchants.defaults.relDirect,
-  };
+
+  // Boutique-store merchants: direct URL + utm, then direct-program / aggregator / plain.
+  const dest = addParams(m.directTemplate.replace("{ref}", product.merchantRef), utmPairs);
+
+  if (m.affiliateId && m.affiliateParam) {
+    const url = addParams(dest, [m.affiliateParam.replace("{affiliateId}", m.affiliateId)]);
+    return { url, merchantName: m.name, rel: d.relAffiliate };
+  }
+  if (agg.publisherId && !(agg.excludeMerchants || []).includes(product.merchant)) {
+    const url = agg.wrapTemplate
+      .replace("{publisherId}", agg.publisherId)
+      .replace("{url}", encodeURIComponent(dest));
+    return { url, merchantName: m.name, rel: d.relAffiliate };
+  }
+  return { url: dest, merchantName: m.name, rel: d.relDirect };
 }
 
 export const money = (p) => (p.priceApprox ? "~" : "") + `$${p.price.toFixed(2).replace(/\.00$/, "")}`;

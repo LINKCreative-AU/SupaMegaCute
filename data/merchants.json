@@ -1,20 +1,102 @@
 {
-  "version": "0.2.0",
-  "note": "Merchant connector registry. Affiliate IDs live here (config), never in product records or page markup. graph.js builds outbound links from a product's {merchant, merchantRef} plus this config: when affiliateId is set, the affiliate linkTemplate is used with rel=sponsored; while it is null, the plain directTemplate is used instead. Flipping a merchant to monetised is a one-line config change — no product or page edits.",
+  "version": "0.3.0",
+  "note": "Merchant connector registry. Affiliate IDs live here (config), never in product records or page markup. The link builder resolves a product's outbound URL from {merchant, merchantRef} plus this config, in priority order: (1) the merchant's own direct affiliate program if its affiliateId is set; (2) the content-monetisation aggregator wrap if defaults.aggregator.publisherId is set and the merchant is not in excludeMerchants; (3) a plain direct link. Turning on monetisation is a one-line change — set a merchant's affiliateId, or set the aggregator publisherId to cover everything at once.",
   "defaults": {
     "relAffiliate": "sponsored nofollow noopener",
     "relDirect": "nofollow noopener",
     "target": "_blank",
-    "utm": { "utm_source": "supamegacute", "utm_medium": "referral" }
+    "utm": { "utm_source": "supamegacute", "utm_medium": "referral" },
+    "aggregator": {
+      "network": "skimlinks",
+      "publisherId": null,
+      "wrapTemplate": "https://go.skimresources.com/?id={publisherId}&xs=1&url={url}",
+      "excludeMerchants": ["bellzi", "blippo", "uwumarket"],
+      "notes": "Umbrella auto-monetisation. When publisherId is set, every store link is wrapped EXCEPT merchants that have their own direct affiliateId (listed in excludeMerchants so their better direct rate wins). Skimlinks format shown; Sovrn Commerce alternative: https://redirect.viglink.com/?format=go&key={publisherId}&u={url} — swap wrapTemplate + network to switch."
+    }
   },
   "merchants": {
+    "bellzi": {
+      "name": "Bellzi",
+      "network": "in-house",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "affiliateParam": "ref={affiliateId}",
+      "signup": "https://bellzi.com/pages/affiliate-program",
+      "notes": "Direct in-house, 5% flat. Requires public socials + monthly tagged posts. Confirm exact link/param format on approval; affiliateParam is the common Shopify default."
+    },
+    "blippo": {
+      "name": "Blippo",
+      "network": "in-house",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "affiliateParam": "ref={affiliateId}",
+      "signup": "https://www.blippo.com/pages/affiliate",
+      "notes": "Direct in-house program; rate disclosed on approval. Confirm exact link format when accepted."
+    },
+    "uwumarket": {
+      "name": "uwu Market",
+      "network": "goaffpro",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "affiliateParam": "ref={affiliateId}",
+      "signup": "https://uwumarket.goaffpro.com/create-account",
+      "notes": "GoAffPro self-serve portal. GoAffPro uses ?ref= tracking; confirm on signup."
+    },
+    "sugoimart": {
+      "name": "Sugoi Mart",
+      "network": "sovrn",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "signup": "https://commerce.sovrn.com/merchants/228534/sugoi-mart-affiliate-program",
+      "notes": "Monetised via the Sovrn Commerce aggregator (merchant #228534), not a direct on-store program. Covered automatically by the aggregator layer when using Sovrn as the wrap network; left OUT of excludeMerchants so the wrapper handles it."
+    },
+    "sanrio": {
+      "name": "Sanrio",
+      "network": "aggregator-only",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "signup": null,
+      "notes": "No confirmed direct publisher program on sanrio.com. Monetise via the aggregator layer only. Aggregator-supplied ~4% / 14-day figures are unverified."
+    },
+    "squishable": {
+      "name": "Squishable",
+      "network": "aggregator-only",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "signup": null,
+      "notes": "No direct program found (affiliate paths 404, no network listing). Monetise via the aggregator layer only."
+    },
+    "japanla": {
+      "name": "JapanLA",
+      "network": "aggregator-only",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "signup": null,
+      "notes": "No direct program found. Monetise via the aggregator layer only."
+    },
+    "kawaiipenshop": {
+      "name": "Kawaii Pen Shop",
+      "network": "aggregator-only",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "signup": "https://kawaiipenshop.com/pages/affiliate-program",
+      "notes": "Their 'affiliate program' is product-review/seeding (gifting for creators), not commission-per-sale. Contact info@kawaiipenshop.com if pursuing gifting. Commission monetisation via aggregator layer only."
+    },
+    "cutethingsfromjapan": {
+      "name": "Cute Things From Japan",
+      "network": "aggregator-only",
+      "affiliateId": null,
+      "directTemplate": "https://{ref}",
+      "signup": null,
+      "notes": "No direct program found. Monetise via the aggregator layer only."
+    },
     "amazon": {
       "name": "Amazon",
       "network": "amazon-associates",
       "affiliateId": "supamegacute-20",
       "linkTemplate": "https://www.amazon.com/dp/{ref}?tag={affiliateId}",
       "directTemplate": "https://www.amazon.com/dp/{ref}",
-      "notes": "ref = ASIN. affiliateId pending Associates approval (needs 3 qualifying sales). Use OneLink for geo-routing later."
+      "notes": "ref = ASIN. Tag live; earns once Amazon products are ingested and the account clears 3 qualifying sales. Use OneLink for geo-routing later. No products use this merchant yet."
     },
     "etsy": {
       "name": "Etsy",
@@ -22,7 +104,7 @@
       "affiliateId": null,
       "linkTemplate": "https://www.awin1.com/cread.php?awinmid=6220&awinaffid={affiliateId}&ued=https%3A%2F%2Fwww.etsy.com%2Flisting%2F{ref}",
       "directTemplate": "https://www.etsy.com/listing/{ref}",
-      "notes": "ref = Etsy listing ID. Awin application pending; direct listing links until then."
+      "notes": "ref = Etsy listing ID. Awin application pending. No products use this merchant yet."
     },
     "ebay": {
       "name": "eBay",
@@ -30,15 +112,7 @@
       "affiliateId": null,
       "linkTemplate": "https://www.ebay.com/itm/{ref}?mkcid=1&mkrid=711-53200-19255-0&campid={affiliateId}&toolid=10001",
       "directTemplate": "https://www.ebay.com/itm/{ref}",
-      "notes": "ref = eBay item ID. Good fit for rare/retired collectibles."
-    },
-    "shopify-partner": {
-      "name": "Boutique partners",
-      "network": "direct",
-      "affiliateId": null,
-      "linkTemplate": "https://{ref}?ref={affiliateId}",
-      "directTemplate": "https://{ref}",
-      "notes": "ref = full partner product path (domain + path). Direct rev-share partnerships with indie cute-goods stores."
+      "notes": "ref = eBay item ID. Good for rare/retired collectibles. No products use this merchant yet."
     }
   }
 }

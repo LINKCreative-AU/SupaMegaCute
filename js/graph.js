@@ -53,22 +53,44 @@
 
   /* ---------- merchant connectors ---------- */
 
+  function addParams(url, pairs) {
+    const qs = pairs.filter(Boolean).join("&");
+    if (!qs) return url;
+    return url + (url.includes("?") ? "&" : "?") + qs;
+  }
+
+  // Mirrors build/render.mjs affiliateLink. Priority: (1) the merchant's own
+  // direct affiliate program when its affiliateId is set; (2) the aggregator
+  // wrap when a publisherId is set and the merchant isn't excluded; (3) a plain
+  // direct link. Marketplace merchants (amazon/etsy/ebay) use the full template.
   SMC.affiliateLink = function (product) {
     const m = SMC.merchants.merchants[product.merchant];
     if (!m) return null;
-    // Monetised link when the network has approved us; plain direct link until then.
-    const affiliate = Boolean(m.affiliateId);
-    const template = affiliate ? m.linkTemplate : m.directTemplate;
-    let url = template
-      .replace("{ref}", product.merchantRef)
-      .replace("{affiliateId}", m.affiliateId);
-    const utm = SMC.merchants.defaults.utm;
-    if (utm && !url.includes("awin1.com")) {
-      const qs = Object.entries(utm).map(([k, v]) => `${k}=${encodeURIComponent(v)}`).join("&");
-      url += (url.includes("?") ? "&" : "?") + qs;
+    const d = SMC.merchants.defaults;
+    const agg = d.aggregator || {};
+    const utmPairs = Object.entries(d.utm || {}).map(([k, v]) => `${k}=${encodeURIComponent(v)}`);
+
+    if (m.linkTemplate) {
+      const affiliate = Boolean(m.affiliateId);
+      const url = (affiliate ? m.linkTemplate : m.directTemplate)
+        .replace("{ref}", product.merchantRef)
+        .replace("{affiliateId}", m.affiliateId || "");
+      return { url, merchantName: m.name, rel: affiliate ? d.relAffiliate : d.relDirect, target: d.target };
     }
-    const rel = affiliate ? SMC.merchants.defaults.relAffiliate : SMC.merchants.defaults.relDirect;
-    return { url, merchantName: m.name, rel, target: SMC.merchants.defaults.target };
+
+    const dest = addParams(m.directTemplate.replace("{ref}", product.merchantRef), utmPairs);
+
+    if (m.affiliateId && m.affiliateParam) {
+      const url = addParams(dest, [m.affiliateParam.replace("{affiliateId}", m.affiliateId)]);
+      return { url, merchantName: m.name, rel: d.relAffiliate, target: d.target };
+    }
+    if (agg.publisherId && !(agg.excludeMerchants || []).includes(product.merchant)) {
+      const url = agg.wrapTemplate
+        .replace("{publisherId}", agg.publisherId)
+        .replace("{url}", encodeURIComponent(dest));
+      return { url, merchantName: m.name, rel: d.relAffiliate, target: d.target };
+    }
+    return { url: dest, merchantName: m.name, rel: d.relDirect, target: d.target };
   };
 
   /* ---------- query engine ---------- */

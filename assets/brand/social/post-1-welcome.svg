@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080" fill="none">
+  <rect width="1080" height="1080" fill="#FFF6EC"/>
+  <circle cx="150" cy="180" r="14" fill="#FFC7D6"/>
+  <circle cx="930" cy="240" r="10" fill="#DCC7F7"/>
+  <circle cx="880" cy="820" r="16" fill="#BDEAD7"/>
+  <circle cx="200" cy="880" r="12" fill="#FFDCC2"/>
+  <g transform="translate(190 60) scale(1.4)">
+    <path d="M350 340 C350 340 250 276 250 208 C250 164 285 139 319 149 C338 155 346 168 350 183 C354 168 362 155 381 149 C415 139 450 164 450 208 C450 276 350 340 350 340 Z" fill="none" stroke="#E75A70" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="540" y="640" text-anchor="middle" font-family="Georgia,serif" font-size="70" fill="#232326">Welcome to</text>
+  <text x="540" y="720" text-anchor="middle" font-family="Georgia,serif" font-size="88" fill="#E75A70">supamegacute</text>
+  <text x="540" y="820" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="34" fill="#6b5b6e">the cutest corner of the internet ✨</text>
+  <text x="540" y="960" text-anchor="middle" font-family="Poppins,Arial,sans-serif" font-size="28" font-weight="bold" letter-spacing="4" fill="#E75A70">DISCOVER. SMILE. SHOP.</text>
+</svg>

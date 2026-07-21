@@ -13,9 +13,15 @@ import { readFile, writeFile, mkdir, rm, cp, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import {
-  SITE, BG, esc, loadGraph, find, related, affiliateLink, money,
+  SITE, SITE_NAME, OG_IMAGE, BG, esc, loadGraph, find, related, affiliateLink, money,
   productCard, chromeHeader, chromeFooter, pageShell, HEAD_SCRIPTS,
 } from "./render.mjs";
+
+// Truncate text to a word boundary within `max` chars (no mid-word cuts).
+function clip(text, max) {
+  if (text.length <= max) return text;
+  return text.slice(0, max).replace(/\s+\S*$/, "").replace(/[\s,;:—–-]+$/, "") + "…";
+}
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DIST = join(ROOT, "dist");
@@ -96,12 +102,29 @@ for (const [file, slug] of Object.entries(ROOT_PAGES)) {
   let html = await readFile(join(ROOT, file), "utf8");
   html = prerender(html, slug);
   html = html.replace("</head>", `${HEAD_SCRIPTS}\n</head>`);
+  // Shared social + brand meta for the hand-authored root pages (pageShell
+  // covers the generated pages). Only add tags the page doesn't already have.
+  const canonicalUrl = file === "index.html" ? `${SITE}/` : `${SITE}/${slug}`;
+  const socialMeta = [
+    `<link rel="canonical" href="${canonicalUrl}">`,
+    !html.includes('property="og:site_name"') && `<meta property="og:site_name" content="${SITE_NAME}">`,
+    !html.includes('property="og:url"') && `<meta property="og:url" content="${canonicalUrl}">`,
+    !html.includes('property="og:image"') && `<meta property="og:image" content="${OG_IMAGE}">`,
+    !html.includes('name="twitter:card"') && `<meta name="twitter:card" content="summary_large_image">`,
+    !html.includes('name="twitter:image"') && `<meta name="twitter:image" content="${OG_IMAGE}">`,
+  ].filter(Boolean).join("\n  ");
   if (file === "index.html") {
-    const website = { "@context": "https://schema.org", "@type": "WebSite", name: "SuperMegaCute", url: SITE,
+    const website = { "@context": "https://schema.org", "@type": "WebSite", name: SITE_NAME, url: SITE,
       potentialAction: { "@type": "SearchAction", target: `${SITE}/explore?q={search_term_string}`, "query-input": "required name=search_term_string" } };
-    html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/">\n  <script type="application/ld+json">${JSON.stringify(website)}</script>\n</head>`);
+    const org = { "@context": "https://schema.org", "@type": "Organization", name: SITE_NAME, url: SITE,
+      logo: `${SITE}/assets/brand/logos/primary-logo-horizontal.svg`, image: OG_IMAGE,
+      description: "A discovery platform for cute things — gifts, collectibles, home décor, desk upgrades and aesthetic finds." };
+    html = html.replace("</head>", `  ${socialMeta}\n  <script type="application/ld+json">${JSON.stringify(website)}</script>\n  <script type="application/ld+json">${JSON.stringify(org)}</script>\n</head>`);
   } else if (slug !== "explore") {
-    html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/${slug}">\n</head>`);
+    html = html.replace("</head>", `  ${socialMeta}\n</head>`);
+  } else {
+    // explore stays noindex; still give it a canonical + social image
+    html = html.replace("</head>", `  ${socialMeta}\n</head>`);
   }
   await writeFile(join(DIST, file), html);
 }
@@ -118,7 +141,10 @@ for (const p of g.visible) {
   const link = affiliateLink(g, p);
   const brandName = g.brand(p.brand).name;
   const pillar = g.pillar(p.pillars[0]);
-  const title = p.brand === "generic" ? `${p.name} | SuperMegaCute` : `${p.name} — ${brandName} | SuperMegaCute`;
+  const nameHasBrand = p.name.toLowerCase().includes(brandName.toLowerCase());
+  const title = (p.brand === "generic" || nameHasBrand)
+    ? `${p.name} | ${SITE_NAME}`
+    : `${p.name} — ${brandName} | ${SITE_NAME}`;
   const facts = [
     ["Brand", p.brand === "generic" ? esc(brandName) : `<a href="/b/${esc(p.brand)}">${esc(brandName)}</a>`],
     ["Pillar", esc(p.pillars.map((s) => g.pillar(s)?.name).filter(Boolean).join(", "))],
@@ -128,16 +154,21 @@ for (const p of g.visible) {
     p.occasions?.length && ["Occasions", esc(p.occasions.map((s) => g.facet("occasion", s).name).join(", "))],
   ].filter(Boolean);
 
+  // Only assert an exact price + in-stock when we have a real crawled price.
+  // Curated Amazon items carry price BAND estimates (priceApprox) and
+  // unverified stock — emitting exact figures there risks a Google
+  // merchant-listing mismatch, so we keep the Offer to the link only.
+  const offer = { "@type": "Offer", priceCurrency: p.currency, url: link ? link.url : `${SITE}/p/${p.id}` };
+  if (!p.priceApprox) {
+    offer.price = p.price;
+    offer.availability = "https://schema.org/InStock";
+  }
   const productLd = {
     "@context": "https://schema.org", "@type": "Product",
     name: p.name, description: p.blurb, sku: p.merchantRef,
     ...(p.image?.src ? { image: [p.image.src] } : {}),
     brand: { "@type": "Brand", name: brandName },
-    offers: {
-      "@type": "Offer", priceCurrency: p.currency, price: p.price,
-      availability: "https://schema.org/InStock",
-      url: link ? link.url : `${SITE}/p/${p.id}`,
-    },
+    offers: offer,
   };
 
   const relatedHtml = related(g, p, 4).map((r) => productCard(g, r)).join("");
@@ -172,7 +203,7 @@ for (const p of g.visible) {
 
   const html = pageShell({
     title,
-    description: `${p.blurb} ${money(p)} at ${link ? link.merchantName : "our partner store"}.`.slice(0, 158),
+    description: `${clip(p.blurb, 152 - ` ${money(p)} at ${link ? link.merchantName : "our partner store"}.`.length)} ${money(p)} at ${link ? link.merchantName : "our partner store"}.`,
     canonical: `${SITE}/p/${p.id}`,
     jsonLd: [productLd, breadcrumbLd([["Home", "/"], [pillar.name, `/${pillar.slug}`], [p.name, `/p/${p.id}`]])],
     og: { "og:type": "product", ...(p.image?.src ? { "og:image": p.image.src } : {}) },
@@ -211,7 +242,7 @@ for (const c of g.collections) {
 </main>
 <footer class="site-footer">${chromeFooter(g)}</footer>`;
   const html = pageShell({
-    title: `${c.name} — cute finds | SuperMegaCute`,
+    title: `${c.name} — cute finds | ${SITE_NAME}`,
     description: `${c.blurb} ${items.length} hand-tagged finds.`.slice(0, 158),
     canonical: `${SITE}/c/${c.slug}`,
     jsonLd: [listLd, breadcrumbLd([["Home", "/"], [c.name, `/c/${c.slug}`]])],
@@ -230,7 +261,7 @@ for (const b of g.taxonomy.brands) {
   if (items.length < 4) continue;
   const listLd = {
     "@context": "https://schema.org", "@type": "ItemList",
-    name: `${b.name} at SuperMegaCute`, numberOfItems: items.length,
+    name: `${b.name} at ${SITE_NAME}`, numberOfItems: items.length,
     itemListElement: items.slice(0, 50).map((p, i) => ({ "@type": "ListItem", position: i + 1, url: `${SITE}/p/${p.id}` })),
   };
   const body = `
@@ -252,7 +283,7 @@ for (const b of g.taxonomy.brands) {
 </main>
 <footer class="site-footer">${chromeFooter(g)}</footer>`;
   const html = pageShell({
-    title: `${b.name} — cute finds & collectibles | SuperMegaCute`,
+    title: `${b.name} — cute finds & collectibles | ${SITE_NAME}`,
     description: `${b.blurb || b.name} Browse ${items.length} hand-tagged ${b.name} finds.`.slice(0, 158),
     canonical: `${SITE}/b/${b.slug}`,
     jsonLd: [listLd, breadcrumbLd([["Home", "/"], [b.name, `/b/${b.slug}`]])],
@@ -279,7 +310,7 @@ for (const f of guideFiles) {
 /* ---------- 4d. 404 page ---------- */
 
 await writeFile(join(DIST, "404.html"), pageShell({
-  title: "Page not found | SuperMegaCute",
+  title: `Page not found | ${SITE_NAME}`,
   description: "That page wandered off. Explore the catalog instead.",
   canonical: `${SITE}/404`,
   robots: "noindex",

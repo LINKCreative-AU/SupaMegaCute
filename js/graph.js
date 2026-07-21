@@ -1,4 +1,4 @@
-/* SuperMegaCute knowledge-graph client.
+/* SupaMegaCute knowledge-graph client.
    Loads the structured data layer, builds affiliate links from merchant
    connector config, resolves collection queries and renders product cards.
    Discovery pages are thin shells over this module. */
@@ -232,7 +232,7 @@
         .join("");
       header.innerHTML = `
       <div class="header-inner">
-        <a class="header-logo" href="${BASE}/"><img src="${BASE}/assets/brand/logos/primary-logo-horizontal.svg" alt="SuperMegaCute — discover cute things you love" height="52"></a>
+        <a class="header-logo" href="${BASE}/"><img src="${BASE}/assets/brand/logos/primary-logo-horizontal.svg" alt="SupaMegaCute — discover cute things you love" height="52"></a>
         <nav class="header-nav" aria-label="Pillars">${nav}</nav>
         <a class="smc-button-primary header-cta" href="${BASE}/explore">✨ Explore</a>
       </div>`;
@@ -250,8 +250,8 @@
         <p class="footer-mission">We help you discover cute things that make you smile.</p>
         <p class="footer-collections">${collectionLinks}</p>
         <p class="footer-collections">${brandLinks}</p>
-        <p class="footer-disclosure">SuperMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
-        <p class="footer-copy">© 2026 SuperMegaCute.com</p>
+        <p class="footer-disclosure">SupaMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
+        <p class="footer-copy">© 2026 SupaMegaCute.com</p>
       </div>`;
     }
   };
@@ -294,6 +294,6 @@
     });
     document.dispatchEvent(new CustomEvent("smc:ready"));
   }).catch((err) => {
-    console.error("SuperMegaCute graph failed to load", err);
+    console.error("SupaMegaCute graph failed to load", err);
   });
 })();

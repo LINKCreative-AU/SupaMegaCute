@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "note": "Controlled vocabulary for the SuperMegaCute product knowledge graph. Every product references these slugs. The AI Explore engine and all category/collection pages query this structured data, never raw article text.",
+  "note": "Controlled vocabulary for the SupaMegaCute product knowledge graph. Every product references these slugs. The AI Explore engine and all category/collection pages query this structured data, never raw article text.",
   "pillars": [
     {
       "slug": "gifts",

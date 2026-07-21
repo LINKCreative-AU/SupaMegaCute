@@ -7,6 +7,8 @@ import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 export const SITE = "https://supamegacute.com";
+export const SITE_NAME = "SupaMegaCute";
+export const OG_IMAGE = `${SITE}/assets/brand/social/og-default.png`;
 export const BG = { blush: "#FFC7D6", lilac: "#DCC7F7", mint: "#BDEAD7", peach: "#FFDCC2", cream: "#FFF6EC" };
 
 export const esc = (s) =>
@@ -148,7 +150,7 @@ export function chromeHeader(g, activeSlug = "") {
     .join("");
   return `
       <div class="header-inner">
-        <a class="header-logo" href="/"><img src="/assets/brand/logos/primary-logo-horizontal.svg" alt="SuperMegaCute — discover cute things you love" height="52"></a>
+        <a class="header-logo" href="/"><img src="/assets/brand/logos/primary-logo-horizontal.svg" alt="SupaMegaCute — discover cute things you love" height="52"></a>
         <nav class="header-nav" aria-label="Pillars">${nav}</nav>
         <a class="smc-button-primary header-cta" href="/explore">✨ Explore</a>
       </div>`;
@@ -165,8 +167,8 @@ export function chromeFooter(g) {
         <p class="footer-mission">We help you discover cute things that make you smile.</p>
         <p class="footer-collections">${collections}</p>
         <p class="footer-collections">${brands}</p>
-        <p class="footer-disclosure">SuperMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
-        <p class="footer-copy">© 2026 SuperMegaCute.com</p>
+        <p class="footer-disclosure">SupaMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
+        <p class="footer-copy">© 2026 SupaMegaCute.com</p>
       </div>`;
 }
 
@@ -184,8 +186,22 @@ export const HEAD_SCRIPTS = `
 
 export function pageShell({ title, description, canonical, body, jsonLd = [], og = {}, robots = null }) {
   const ld = jsonLd.map((o) => `<script type="application/ld+json">${JSON.stringify(o)}</script>`).join("\n  ");
-  const ogTags = Object.entries({ "og:title": title, "og:description": description, ...og })
-    .map(([k, v]) => `<meta property="${k}" content="${esc(v)}">`).join("\n  ");
+  const image = og["og:image"] || OG_IMAGE;
+  const ogTags = Object.entries({
+    "og:site_name": SITE_NAME,
+    "og:title": title,
+    "og:description": description,
+    "og:url": canonical,
+    "og:image": image,
+    "og:type": "website",
+    ...og,
+  }).map(([k, v]) => `<meta property="${k}" content="${esc(v)}">`).join("\n  ");
+  const twitterTags = [
+    ["twitter:card", "summary_large_image"],
+    ["twitter:title", title],
+    ["twitter:description", description],
+    ["twitter:image", image],
+  ].map(([k, v]) => `<meta name="${k}" content="${esc(v)}">`).join("\n  ");
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -198,6 +214,7 @@ export function pageShell({ title, description, canonical, body, jsonLd = [], og
   <link rel="icon" type="image/svg+xml" href="/assets/brand/submarks/favicon.svg">${FONT_LINKS}
   <link rel="stylesheet" href="/assets/smc.css">${HEAD_SCRIPTS}
   ${ogTags}
+  ${twitterTags}
   ${ld}
 </head>
 <body>

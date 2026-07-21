@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" fill="#FFF6EC"/>
+  <circle cx="120" cy="120" r="12" fill="#FFC7D6"/>
+  <circle cx="1080" cy="150" r="10" fill="#DCC7F7"/>
+  <circle cx="1020" cy="520" r="14" fill="#BDEAD7"/>
+  <circle cx="150" cy="520" r="11" fill="#FFDCC2"/>
+  <g transform="translate(508 60) scale(0.62)">
+    <path d="M350 340 C350 340 250 276 250 208 C250 164 285 139 319 149 C338 155 346 168 350 183 C354 168 362 155 381 149 C415 139 450 164 450 208 C450 276 350 340 350 340 Z" fill="none" stroke="#E75A70" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="600" y="365" text-anchor="middle" font-family="Georgia,serif" font-size="92" fill="#232326">supamegacute</text>
+  <text x="600" y="425" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-style="italic" fill="#6b5b6e">discover the cutest things on the internet</text>
+  <text x="600" y="520" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" letter-spacing="6" fill="#E75A70">DISCOVER. SMILE. SHOP.</text>
+</svg>

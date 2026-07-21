@@ -316,3 +316,12 @@ h2 { font-size: clamp(24px, 3.2vw, 34px); }
 }
 .newsletter-form .smc-button-primary:hover { background: #000; }
 .newsletter-note { min-height: 1.2em; margin-top: 14px !important; font-size: 14px; font-weight: 600; }
+
+/* Explore loading state — soft pulse while the ~1MB product graph loads */
+.explore-loading { animation: smc-pulse 1.4s ease-in-out infinite; }
+.explore-loading img { animation: smc-bob 1.8s ease-in-out infinite; }
+@keyframes smc-pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+@keyframes smc-bob { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+@media (prefers-reduced-motion: reduce) {
+  .explore-loading, .explore-loading img { animation: none; }
+}

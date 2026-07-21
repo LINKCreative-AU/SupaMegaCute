@@ -136,6 +136,7 @@
   }
 
   function surpriseMe() {
+    if (!SMC.taxonomy) return; // engine still loading
     // Deterministic-ish serendipity: random aesthetic + mood pairing that has results.
     const aes = SMC.taxonomy.facets.aesthetic, moods = SMC.taxonomy.facets.mood;
     for (let tries = 0; tries < 20; tries++) {
@@ -152,11 +153,42 @@
     }
   }
 
-  document.addEventListener("smc:ready", () => {
+  // Immediate feedback: the product graph is a ~1MB payload, so on slower
+  // connections there's a beat before the engine is live. Show a loading state
+  // (instead of a dead-looking page) the moment this script runs.
+  function showLoading() {
+    const results = document.getElementById("explore-results");
+    const count = document.getElementById("explore-count");
+    if (count) count.textContent = "Loading…";
+    if (results) {
+      results.innerHTML =
+        '<div class="empty-state explore-loading">' +
+        '<img src="assets/brand/decorative/cloud-face.svg" alt="" width="90">' +
+        "<p>Gathering all the cute things…</p></div>";
+    }
+  }
+
+  function showError() {
+    const results = document.getElementById("explore-results");
+    const count = document.getElementById("explore-count");
+    if (count) count.textContent = "";
+    if (results) {
+      results.innerHTML =
+        '<div class="empty-state">' +
+        '<img src="assets/brand/decorative/cloud-face.svg" alt="" width="90">' +
+        "<p>Hmm, the cuteverse didn't load. Please " +
+        '<a href="explore">refresh the page</a> to try again.</p></div>';
+    }
+  }
+
+  function init() {
     readURL();
     buildFilters();
 
     const search = document.getElementById("explore-search");
+    // Honour anything the visitor typed before the engine finished loading,
+    // otherwise seed the box from the URL's ?q= state.
+    if (search.value.trim() && !state.text) state.text = search.value.trim();
     search.value = state.text;
     search.addEventListener("input", () => {
       state.text = search.value.trim();
@@ -175,5 +207,18 @@
     document.getElementById("explore-surprise").addEventListener("click", surpriseMe);
 
     render();
-  });
+  }
+
+  showLoading();
+
+  // Prefer the promise (can't be missed) but keep the event as a fallback.
+  let started = false;
+  const boot = () => { if (started) return; started = true; init(); };
+  if (window.SMC && SMC.ready && typeof SMC.ready.then === "function") {
+    SMC.ready.then(boot).catch(showError);
+  } else {
+    document.addEventListener("smc:ready", boot);
+  }
+  // Safety net: if the graph never loads, don't leave a permanently dead page.
+  setTimeout(() => { if (!started && !(window.SMC && SMC.taxonomy)) showError(); }, 20000);
 })();

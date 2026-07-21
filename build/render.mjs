@@ -159,14 +159,26 @@ export function chromeHeader(g, activeSlug = "") {
 export function chromeFooter(g) {
   const collections = g.collections
     .map((c) => `<a href="/c/${esc(c.slug)}">${esc(c.name)}</a>`).join(" · ");
-  const brands = g.taxonomy.brands.filter((b) => b.slug !== "generic")
+  const brands = g.taxonomy.brands.filter((b) => b.slug !== "generic" && (!g.brandHasPage || g.brandHasPage.has(b.slug)))
     .map((b) => `<a href="/b/${esc(b.slug)}">${esc(b.name)}</a>`).join(" · ");
+  const has = g.facetHasPage || { aesthetic: null, occasion: null, recipient: null };
+  const keep = (set, slug) => !set || set.has(slug);
+  const styles = (g.taxonomy.facets.aesthetic || []).filter((a) => keep(has.aesthetic, a.slug))
+    .map((a) => `<a href="/style/${esc(a.slug)}">${esc(a.name)}</a>`).join(" · ");
+  const occasions = (g.taxonomy.facets.occasion || []).filter((o) => keep(has.occasion, o.slug))
+    .map((o) => `<a href="/occasion/${esc(o.slug)}">${esc(o.name)} gifts</a>`).join(" · ");
+  const recipients = (g.taxonomy.facets.recipient || []).filter((r) => keep(has.recipient, r.slug))
+    .map((r) => `<a href="/for/${esc(r.slug)}">${esc(r.name)}</a>`).join(" · ");
   return `
       <div class="footer-inner">
         <img src="/assets/brand/submarks/smc-monogram-circle.svg" alt="" width="64" height="64">
         <p class="footer-mission">We help you discover cute things that make you smile.</p>
-        <p class="footer-collections">${collections}</p>
-        <p class="footer-collections">${brands}</p>
+        <nav class="footer-links" aria-label="Collections"><span class="footer-label">Collections</span>${collections}</nav>
+        <nav class="footer-links" aria-label="Brands"><span class="footer-label">Brands</span>${brands}</nav>
+        <nav class="footer-links" aria-label="Shop by aesthetic"><span class="footer-label">Aesthetics</span>${styles}</nav>
+        <nav class="footer-links" aria-label="Shop by occasion"><span class="footer-label">Occasions</span>${occasions}</nav>
+        <nav class="footer-links" aria-label="Shop by recipient"><span class="footer-label">For</span>${recipients}</nav>
+        <p class="footer-collections"><a href="/guides">Guides &amp; buying advice</a></p>
         <p class="footer-disclosure">SupaMegaCute is reader-supported. When you buy through our links we may earn an affiliate commission, at no extra cost to you.</p>
         <p class="footer-copy">© 2026 SupaMegaCute.com</p>
       </div>`;

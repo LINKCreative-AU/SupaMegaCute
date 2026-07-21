@@ -26,6 +26,28 @@ function clip(text, max) {
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DIST = join(ROOT, "dist");
 const g = await loadGraph(ROOT);
+const editorial = JSON.parse(await readFile(join(ROOT, "data", "editorial.json"), "utf8"));
+const intro = (group, slug) => editorial[group]?.[slug]
+  ? `<section class="section editorial-intro" style="padding-top:0"><div class="wrap">${editorial[group][slug]}</div></section>`
+  : "";
+
+// Which brand/facet landing pages will actually exist (≥4 products) — used to
+// avoid internal links (footer, product pages) that would 404.
+// A brand gets a page if it has ≥4 products, OR ≥1 product plus real editorial
+// copy (so intro-worthy brands like Squishmallow aren't orphaned links).
+const brandBuildable = (slug) => {
+  if (slug === "generic") return false;
+  const n = g.visible.filter((p) => p.brand === slug).length;
+  return n >= 4 || (n >= 1 && Boolean(editorial.brands?.[slug]));
+};
+const brandPageSlugs = new Set(g.taxonomy.brands.filter((b) => brandBuildable(b.slug)).map((b) => b.slug));
+g.brandHasPage = brandPageSlugs;
+g.facetHasPage = { aesthetic: new Set(), occasion: new Set(), recipient: new Set() };
+for (const [key, qk] of [["aesthetic", "aesthetics"], ["occasion", "occasions"], ["recipient", "recipients"]]) {
+  for (const f of g.taxonomy.facets[key] || []) {
+    if (find(g, { [qk]: [f.slug] }).length >= 4) g.facetHasPage[key].add(f.slug);
+  }
+}
 
 await rm(DIST, { recursive: true, force: true });
 await mkdir(DIST, { recursive: true });
@@ -126,6 +148,8 @@ for (const [file, slug] of Object.entries(ROOT_PAGES)) {
     // explore stays noindex; still give it a canonical + social image
     html = html.replace("</head>", `  ${socialMeta}\n</head>`);
   }
+  // richer editorial intro on pillar pages (content depth for SEO)
+  if (editorial.pillars?.[slug]) html = html.replace("</main>", `${intro("pillars", slug)}\n</main>`);
   await writeFile(join(DIST, file), html);
 }
 
@@ -198,6 +222,16 @@ for (const p of g.visible) {
     <h2 class="section-title">You might also melt for</h2>
     <div class="product-grid">${relatedHtml}</div>
   </section>
+  <section class="section" style="padding-top:0"><div class="wrap">
+    <h2 class="section-title">Keep exploring</h2>
+    <div class="chip-row">
+      ${p.brand !== "generic" && brandPageSlugs.has(p.brand) ? `<a class="chip chip-soft" href="/b/${esc(p.brand)}">More ${esc(brandName)}</a>` : ""}
+      ${(p.aesthetics || []).filter((a) => g.facetHasPage.aesthetic.has(a)).map((a) => `<a class="chip chip-soft" href="/style/${esc(a)}">${esc(g.facet("aesthetic", a).name)}</a>`).join("")}
+      ${(p.occasions || []).filter((o) => g.facetHasPage.occasion.has(o)).map((o) => `<a class="chip chip-soft" href="/occasion/${esc(o)}">${esc(g.facet("occasion", o).name)} gifts</a>`).join("")}
+      ${(p.recipients || []).filter((r) => g.facetHasPage.recipient.has(r)).slice(0, 2).map((r) => `<a class="chip chip-soft" href="/for/${esc(r)}">${esc(g.facet("recipient", r).name)}</a>`).join("")}
+      ${p.pillars.map((pl) => `<a class="chip chip-soft" href="/${esc(pl)}">${esc(g.pillar(pl).name)}</a>`).join("")}
+    </div>
+  </div></section>
 </main>
 <footer class="site-footer">${chromeFooter(g)}</footer>`;
 
@@ -233,6 +267,7 @@ for (const c of g.collections) {
       <p>${esc(c.blurb)} <strong>${items.length} finds</strong>, refreshed as new products join the catalog.</p>
     </div>
   </section>
+  ${intro("collections", c.slug)}
   <section class="section" style="padding-top:0">
     <div class="wrap">
       <div class="product-grid">${items.slice(0, 96).map((p) => productCard(g, p)).join("")}</div>
@@ -256,9 +291,8 @@ for (const c of g.collections) {
 
 const brandPages = [];
 for (const b of g.taxonomy.brands) {
-  if (b.slug === "generic") continue;
+  if (!brandPageSlugs.has(b.slug)) continue;
   const items = g.visible.filter((p) => p.brand === b.slug);
-  if (items.length < 4) continue;
   const listLd = {
     "@context": "https://schema.org", "@type": "ItemList",
     name: `${b.name} at ${SITE_NAME}`, numberOfItems: items.length,
@@ -274,6 +308,7 @@ for (const b of g.taxonomy.brands) {
       <p>${esc(b.blurb || `The cutest ${b.name} finds, hand-tagged for discovery.`)} <strong>${items.length} finds</strong> in the catalog.</p>
     </div>
   </section>
+  ${intro("brands", b.slug)}
   <section class="section" style="padding-top:0">
     <div class="wrap">
       <div class="product-grid">${items.slice(0, 96).map((p) => productCard(g, p)).join("")}</div>
@@ -294,17 +329,114 @@ for (const b of g.taxonomy.brands) {
   brandPages.push(b.slug);
 }
 
+/* ---------- 4d. facet landing pages (high-intent SEO) ---------- */
+
+const FACET_PAGES = [
+  { group: "aesthetics", facetKey: "aesthetic", queryKey: "aesthetics", prefix: "style", kicker: "Aesthetic",
+    title: (n) => `${n} — Cute ${n} Finds`, h1: (n) => `${n}` },
+  { group: "occasions", facetKey: "occasion", queryKey: "occasions", prefix: "occasion", kicker: "Gift guide",
+    title: (n) => `${n} Gift Ideas`, h1: (n) => `${n} Gifts` },
+  { group: "recipients", facetKey: "recipient", queryKey: "recipients", prefix: "for", kicker: "Gift guide",
+    title: (n) => `Cute Gifts ${/^For|Treat/.test(n) ? n : "for " + n}`, h1: (n) => n },
+];
+const facetLandingUrls = [];
+for (const cfg of FACET_PAGES) {
+  for (const f of g.taxonomy.facets[cfg.facetKey] || []) {
+    const items = find(g, { [cfg.queryKey]: [f.slug] });
+    if (items.length < 4) continue;
+    const listLd = {
+      "@context": "https://schema.org", "@type": "ItemList",
+      name: cfg.h1(f.name), numberOfItems: items.length,
+      itemListElement: items.slice(0, 50).map((p, i) => ({ "@type": "ListItem", position: i + 1, url: `${SITE}/p/${p.id}` })),
+    };
+    const body = `
+<header class="site-header">${chromeHeader(g)}</header>
+<main>
+  <section class="pillar-hero">
+    <div class="wrap">
+      <span class="section-kicker">${cfg.kicker}</span>
+      <h1>${esc(cfg.h1(f.name))}</h1>
+      <p><strong>${items.length} hand-tagged finds</strong>, refreshed as new products join the catalog.</p>
+    </div>
+  </section>
+  ${intro(cfg.group, f.slug)}
+  <section class="section" style="padding-top:0">
+    <div class="wrap">
+      <div class="product-grid">${items.slice(0, 96).map((p) => productCard(g, p)).join("")}</div>
+      ${items.length > 96 ? `<p class="empty-state">Browse all ${items.length} in <a href="/explore?${cfg.queryKey}=${esc(f.slug)}">Explore →</a></p>` : ""}
+    </div>
+  </section>
+</main>
+<footer class="site-footer">${chromeFooter(g)}</footer>`;
+    const path = `${cfg.prefix}/${f.slug}`;
+    const html = pageShell({
+      title: `${cfg.title(f.name)} | ${SITE_NAME}`,
+      description: `${(editorial[cfg.group]?.[f.slug] || "").replace(/<[^>]+>/g, " ").trim().slice(0, 150) || `Discover ${items.length} cute ${f.name} finds.`}`,
+      canonical: `${SITE}/${path}`,
+      jsonLd: [listLd, breadcrumbLd([["Home", "/"], [cfg.h1(f.name), `/${path}`]])],
+      body,
+    });
+    await mkdir(join(DIST, cfg.prefix, f.slug), { recursive: true });
+    await writeFile(join(DIST, cfg.prefix, f.slug, "index.html"), html);
+    facetLandingUrls.push(`${SITE}/${path}`);
+  }
+}
+
 /* ---------- 4c. guides (prerendered) ---------- */
 
 const guideFiles = (await readdir(join(ROOT, "guides"))).filter((f) => f.endsWith(".html"));
+const guideMeta = [];
 for (const f of guideFiles) {
   let html = await readFile(join(ROOT, "guides", f), "utf8");
+  const slug = f.replace(/\.html$/, "");
+  // capture metadata for the guides index before path-normalising
+  guideMeta.push({
+    slug,
+    title: (html.match(/<h1>([^<]*)<\/h1>/) || [, slug])[1],
+    lede: (html.match(/<div class="guide-hero">[\s\S]*?<p>([^<]*)<\/p>/) || [, ""])[1],
+    kicker: (html.match(/<span class="section-kicker">([^<]*)<\/span>/) || [, "Guide"])[1],
+  });
   // guides reference ../ paths; normalise to absolute for the built site
   html = html.replaceAll('href="../', 'href="/').replaceAll('src="../', 'src="/');
   html = prerender(html, "collectibles");
-  const slug = f.replace(/\.html$/, "");
-  html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/guides/${slug}">${HEAD_SCRIPTS}\n</head>`);
+  html = html.replace("</head>", `  <link rel="canonical" href="${SITE}/guides/${slug}">${HEAD_SCRIPTS}\n  <meta property="og:image" content="${OG_IMAGE}">\n  <meta property="og:site_name" content="${SITE_NAME}">\n  <meta name="twitter:card" content="summary_large_image">\n  <meta name="twitter:image" content="${OG_IMAGE}">\n</head>`);
   await writeFile(join(DIST, "guides", f), html);
+}
+
+// guides index page
+{
+  const cards = guideMeta
+    .sort((a, b) => a.title.localeCompare(b.title))
+    .map((m) => `
+      <a class="collection-card smc-card" href="/guides/${esc(m.slug)}">
+        <div class="collection-body">
+          <span class="section-kicker">${esc(m.kicker)}</span>
+          <h3>${esc(m.title)}</h3>
+          <p>${esc(m.lede)}</p>
+          <span class="collection-count">Read guide →</span>
+        </div>
+      </a>`).join("");
+  const body = `
+<header class="site-header">${chromeHeader(g)}</header>
+<main>
+  <section class="pillar-hero"><div class="wrap">
+    <span class="section-kicker">Guides</span>
+    <h1>Cute guides &amp; buying advice</h1>
+    <p>Honest, useful guides to blind boxes, plush, aesthetics and gifting — written by people who genuinely love this stuff.</p>
+  </div></section>
+  <section class="section" style="padding-top:0"><div class="wrap">
+    <div class="collection-rail">${cards}</div>
+  </div></section>
+</main>
+<footer class="site-footer">${chromeFooter(g)}</footer>`;
+  const html = pageShell({
+    title: `Cute Guides & Buying Advice | ${SITE_NAME}`,
+    description: "Honest, useful guides to blind boxes, plush, cute aesthetics and gifting — from Sonny Angel vs Smiski to building a cottagecore bedroom on a budget.",
+    canonical: `${SITE}/guides`,
+    jsonLd: [breadcrumbLd([["Home", "/"], ["Guides", "/guides"]])],
+    body,
+  });
+  await writeFile(join(DIST, "guides", "index.html"), html);
 }
 
 /* ---------- 4d. 404 page ---------- */
@@ -335,10 +467,12 @@ const wrapUrls = (urls) =>
 
 const staticUrls = [
   url(`${SITE}/`, "1.0"),
-  ...Object.values(ROOT_PAGES).filter((s) => !["home", "explore"].includes(s)).map((s) => url(`${SITE}/${s}`, "0.8")),
-  ...guideFiles.map((f) => url(`${SITE}/guides/${f.replace(/\.html$/, "")}`, "0.7")),
+  ...Object.values(ROOT_PAGES).filter((s) => !["home", "explore"].includes(s)).map((s) => url(`${SITE}/${s}`, "0.9")),
+  url(`${SITE}/guides`, "0.8"),
+  ...guideFiles.map((f) => url(`${SITE}/guides/${f.replace(/\.html$/, "")}`, "0.8")),
   ...g.collections.map((c) => url(`${SITE}/c/${c.slug}`, "0.8")),
   ...brandPages.map((b) => url(`${SITE}/b/${b}`, "0.8")),
+  ...facetLandingUrls.map((u) => url(u, "0.8")),
 ];
 await writeFile(join(DIST, "sitemap-pages.xml"), wrapUrls(staticUrls));
 

@@ -76,10 +76,26 @@
       <div class="release-list" data-smc-releases></div>
     </div>
   </section>
+
+  <section class="section newsletter" id="newsletter">
+    <div class="wrap">
+      <div class="newsletter-card">
+        <span class="section-kicker">Join the cuteness club 💌</span>
+        <h2 class="section-title">New finds, straight to your inbox</h2>
+        <p>Fresh drops, blind-box alerts and the occasional deeply necessary cute thing. No spam, just serotonin — unsubscribe anytime.</p>
+        <form class="newsletter-form" id="newsletter-form" method="post" novalidate>
+          <input type="email" name="email" id="newsletter-email" placeholder="you@example.com" aria-label="Email address" required autocomplete="email">
+          <button type="submit" class="smc-button-primary">Sign me up ✨</button>
+        </form>
+        <p class="newsletter-note" id="newsletter-note" role="status"></p>
+      </div>
+    </div>
+  </section>
 </main>
 
 <footer class="site-footer" data-smc-footer></footer>
 
 <script src="js/graph.js" data-base="."></script>
+<script src="js/newsletter.js"></script>
 </body>
 </html>
